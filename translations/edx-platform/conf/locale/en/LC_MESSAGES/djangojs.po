@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 18:19+0000\n"
-"PO-Revision-Date: 2025-09-28 00:19+0249\n"
+"POT-Creation-Date: 2025-09-27 20:20+0000\n"
+"PO-Revision-Date: 2025-09-28 02:20+6909\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -130,7 +130,7 @@ msgid "Staff"
 msgstr "স্টাফ"
 
 msgid "Admin"
-msgstr ""
+msgstr "এডমিন"
 
 msgid "Already a library team member"
 msgstr ""
@@ -361,7 +361,7 @@ msgid "Your file has been deleted."
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 msgid "Date Added"
 msgstr ""
@@ -445,7 +445,7 @@ msgid "An error has occurred. Wait a few minutes, and then try again."
 msgstr ""
 
 msgid "None"
-msgstr ""
+msgstr "কিছু নেই"
 
 msgid "Select turnaround"
 msgstr ""
@@ -466,7 +466,7 @@ msgid "Settings updated"
 msgstr ""
 
 msgid "Last updated"
-msgstr ""
+msgstr "সর্বশেষ হালনাগাদ করা হয়েছে"
 
 msgid "Required"
 msgstr "প্রয়োজনীয়"
@@ -616,7 +616,7 @@ msgid "Return to team listing"
 msgstr ""
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "আপনি কি নিশ্চিত?"
 
 msgid "Are you sure you want to restrict {email} access to “{container}”?"
 msgstr ""
@@ -682,7 +682,7 @@ msgid "Unit"
 msgstr ""
 
 msgid "Component"
-msgstr ""
+msgstr "কম্পোনেন্ট"
 
 msgid "Studio's having trouble parsing the problem component's content"
 msgstr ""
@@ -1390,13 +1390,13 @@ msgid "Add Attachment"
 msgstr ""
 
 msgid "(Optional)"
-msgstr ""
+msgstr "(ঐচ্ছিক)"
 
 msgid "Remove file"
 msgstr ""
 
 msgid "Course Name"
-msgstr ""
+msgstr "কোর্সের নাম"
 
 msgid "For inquiries regarding assignments, grades, or structure of a specific course, please post in the discussion forums for that course directly."
 msgstr ""
@@ -1474,7 +1474,7 @@ msgid "Thank you for submitting a request! We appreciate your patience while we 
 msgstr ""
 
 msgid "Cancel upload"
-msgstr ""
+msgstr "আপলোড বাতিল করুন"
 
 msgid "last activity"
 msgstr ""
@@ -1516,7 +1516,7 @@ msgid "The language that team members primarily use to communicate with each oth
 msgstr ""
 
 msgid "Country"
-msgstr ""
+msgstr "দেশ"
 
 msgid "The country that team members primarily identify with."
 msgstr ""
@@ -2551,7 +2551,7 @@ msgid "No tasks currently running."
 msgstr "আপাতত কোনো কাজ চলছে না।"
 
 msgid "File Name"
-msgstr ""
+msgstr "ফাইলের নাম"
 
 msgid "Links are generated on demand and expire within 5 minutes due to the sensitive nature of student information."
 msgstr ""
@@ -2776,7 +2776,7 @@ msgid "An error occurred."
 msgstr ""
 
 msgid "(optional)"
-msgstr ""
+msgstr "(ঐচ্ছিক)"
 
 msgid "We couldn't sign you in."
 msgstr ""
@@ -2839,7 +2839,7 @@ msgid "Verified Certificate upgrade"
 msgstr ""
 
 msgid "Verified Certificate"
-msgstr ""
+msgstr "যাচাইকৃত সার্টিফিকেট"
 
 msgid "Checkout"
 msgstr ""
@@ -3898,7 +3898,7 @@ msgid "Show All"
 msgstr ""
 
 msgid "Actions"
-msgstr ""
+msgstr "অ্যাকশন"
 
 msgid "You haven't added any assets to this course yet."
 msgstr ""
@@ -4141,7 +4141,7 @@ msgid "Access to some content in this unit is restricted to specific groups of l
 msgstr ""
 
 msgid "Ungraded"
-msgstr ""
+msgstr "অ্যাসেসমেন্টটি এখনো গ্রেড করা হয়নি।"
 
 msgid "Onboarding Exam"
 msgstr ""
@@ -4288,7 +4288,7 @@ msgid "Transcript Provider"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "পরিবর্তন করুন"
 
 msgid "Press change to change selected transcript provider."
 msgstr ""
@@ -4798,7 +4798,7 @@ msgid "Current Role:"
 msgstr ""
 
 msgid "You!"
-msgstr ""
+msgstr "আপনি!"
 
 msgid "send an email message to {email}"
 msgstr ""
@@ -4870,7 +4870,7 @@ msgid "Specify any rules or rule exceptions that the proctoring review team shou
 msgstr ""
 
 msgid "Account"
-msgstr ""
+msgstr "একাউন্ট"
 
 msgid "This action updates the {provider} information for your entire organization."
 msgstr ""
@@ -4924,7 +4924,7 @@ msgid "Recommended image resolution is {imageResolution}, maximum image file siz
 msgstr ""
 
 msgid "Read more"
-msgstr ""
+msgstr "আরো পড়ুন"
 
 msgid "No transcript uploaded."
 msgstr ""
@@ -5071,7 +5071,7 @@ msgid "Reported"
 msgstr "রিপোর্ট করা হয়েছে"
 
 msgid "Closed"
-msgstr ""
+msgstr "বন্ধ"
 
 msgid "Related to: %(courseware_title_linked)s"
 msgstr ""
@@ -5344,7 +5344,7 @@ msgid "Username or email address"
 msgstr ""
 
 msgid "Course ID"
-msgstr ""
+msgstr "কোর্স আইডি"
 
 msgid "Course Start"
 msgstr ""

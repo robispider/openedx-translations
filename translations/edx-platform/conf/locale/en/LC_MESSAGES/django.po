@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 18:19+0000\n"
-"PO-Revision-Date: 2025-09-28 00:19+9901\n"
+"POT-Creation-Date: 2025-09-27 20:20+0000\n"
+"PO-Revision-Date: 2025-09-28 02:20+6475\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -357,7 +357,7 @@ msgid "Uploaded"
 msgstr ""
 
 msgid "Cancelled"
-msgstr ""
+msgstr "বাতিল করা হয়েছে"
 
 msgid "Failed Duplicate"
 msgstr ""
@@ -393,7 +393,7 @@ msgid "{profile_name} URL"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 msgid "Duration"
 msgstr ""
@@ -918,10 +918,10 @@ msgid "Other/Prefer Not to Say"
 msgstr ""
 
 msgid "Doctorate"
-msgstr ""
+msgstr "ডক্টরেট"
 
 msgid "Master's or professional degree"
-msgstr ""
+msgstr "মাস্টার্স অথবা পেশাদারী ডিগ্রী"
 
 msgid "Bachelor's degree"
 msgstr ""
@@ -930,19 +930,19 @@ msgid "Associate degree"
 msgstr ""
 
 msgid "Secondary/high school"
-msgstr ""
+msgstr "মাধ্যমিক/উচ্চ মাধ্যমিক"
 
 msgid "Junior secondary/junior high/middle school"
-msgstr ""
+msgstr "জুনিয়র সেকেন্ডারি/জুনিয়র হাই/মধ্য বিদ্যালয়"
 
 msgid "Elementary/primary school"
-msgstr ""
+msgstr "প্রাথমিক বিদ্যালয়"
 
 msgid "No formal education"
-msgstr ""
+msgstr "কোনো প্রাতিষ্ঠানিক শিক্ষা নেই"
 
 msgid "Other education"
-msgstr ""
+msgstr "অন্যান্য শিক্ষা"
 
 msgid "{platform_name} Honor Code Certificate for {course_name}"
 msgstr ""
@@ -2594,7 +2594,7 @@ msgid "City"
 msgstr ""
 
 msgid "Country"
-msgstr ""
+msgstr "দেশ"
 
 msgid "enrollment"
 msgstr ""
@@ -3726,7 +3726,7 @@ msgid "Create article"
 msgstr ""
 
 msgid "Go back"
-msgstr ""
+msgstr "ফিরে যান"
 
 msgid "Delete article"
 msgstr ""
@@ -3786,7 +3786,7 @@ msgid "Auto log:"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "পরিবর্তন করুন"
 
 msgid "Merge selected with current..."
 msgstr ""
@@ -4782,7 +4782,7 @@ msgid "Experience"
 msgstr ""
 
 msgid "Course ID"
-msgstr ""
+msgstr "কোর্স আইডি"
 
 msgid "Schedules"
 msgstr ""
@@ -4797,7 +4797,7 @@ msgid "Deadline by which the learner must upgrade to a verified seat"
 msgstr ""
 
 msgid "Schedule"
-msgstr ""
+msgstr "সময়সূচী"
 
 msgid " By %(filter_title)s "
 msgstr ""
@@ -5049,7 +5049,7 @@ msgid "Success"
 msgstr ""
 
 msgid "Actions"
-msgstr ""
+msgstr "অ্যাকশন"
 
 msgid "Comma separated file that have username and user_email of the users that needs to be retired"
 msgstr ""
@@ -5895,7 +5895,7 @@ msgid "Attempted or Past Due"
 msgstr ""
 
 msgid "Closed"
-msgstr ""
+msgstr "বন্ধ"
 
 msgid "Finished"
 msgstr ""
@@ -7350,7 +7350,7 @@ msgid "Thumbnail"
 msgstr ""
 
 msgid "Instructions"
-msgstr ""
+msgstr "নির্দেশনা"
 
 msgid "Add instructions to help learners understand how to use the word cloud. Clear instructions are important, especially for learners who have accessibility requirements."
 msgstr ""
@@ -7780,7 +7780,7 @@ msgid "New image %s was successfully uploaded. You can use it by selecting it fr
 msgstr ""
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "আপনি কি নিশ্চিত?"
 
 msgid "image"
 msgstr ""
@@ -8329,7 +8329,7 @@ msgid "Required Information to Create a re-run of a course"
 msgstr ""
 
 msgid "Course Name"
-msgstr ""
+msgstr "কোর্সের নাম"
 
 msgid "e.g. Introduction to Computer Science"
 msgstr ""
@@ -8341,7 +8341,7 @@ msgid "Organization"
 msgstr "সংস্থা"
 
 msgid "e.g. UniversityX or OrganizationX"
-msgstr ""
+msgstr "যেমন: ইউনিভার্সিটিএক্স অথবা অর্গানাইজেশনএক্স"
 
 msgid "The name of the organization sponsoring the new course. (This name is often the same as the original organization name.)"
 msgstr ""
@@ -9139,7 +9139,7 @@ msgid "Library Code"
 msgstr ""
 
 msgid "e.g. CSPROB"
-msgstr ""
+msgstr "যেমন: CSPROB"
 
 msgid "The unique code that identifies this library. {strong_start}Note: This is part of your library URL, so no spaces or special characters are allowed.{strong_end} This cannot be changed."
 msgstr ""
@@ -9313,7 +9313,7 @@ msgid "Course Team Settings"
 msgstr ""
 
 msgid "New Team Member"
-msgstr ""
+msgstr "নতুন টিম মেম্বার"
 
 msgid "Add a User to Your Course's Team"
 msgstr ""
@@ -9325,7 +9325,7 @@ msgid "User's Email Address"
 msgstr ""
 
 msgid "example: username@domain.com"
-msgstr ""
+msgstr "উদাহরণ: ব্যবহারকারীর নাম@ডোমেইন.কম"
 
 msgid "Provide the email address of the user you want to add as Staff"
 msgstr ""
@@ -9364,37 +9364,37 @@ msgid "Library User Access"
 msgstr ""
 
 msgid "User Access"
-msgstr ""
+msgstr "ব্যবহারকারীর প্রবেশাধিকার"
 
 msgid "Grant Access to This Library"
 msgstr ""
 
 msgid "Provide the email address of the user you want to add"
-msgstr ""
+msgstr "যাকে যোগ করতে চান তার ইমেইল ঠিকানা দিন।"
 
 msgid "Add More Users to This Library"
-msgstr ""
+msgstr "এই লাইব্রেরিতে আরও ব্যবহারকারী যোগ করুন"
 
 msgid "Grant other members of your course team access to this library. New library users must have an active {studio_name} account."
 msgstr ""
 
 msgid "Add a New User"
-msgstr ""
+msgstr "নতুন ইউজার যোগ করুন"
 
 msgid "Library Access Roles"
-msgstr ""
+msgstr "লাইব্রেরি অ্যাক্সেস রোলসমূহ"
 
 msgid "There are three access roles for libraries: User, Staff, and Admin."
-msgstr ""
+msgstr "লাইব্রেরির জন্য তিনটি অ্যাক্সেস রোল আছে: ইউজার, স্টাফ এবং অ্যাডমিন।"
 
 msgid "Library Users can view library content and can reference or use library components in their courses, but they cannot edit the contents of a library."
-msgstr ""
+msgstr "লাইব্রেরি ব্যবহারকারীরা লাইব্রেরির কন্টেন্ট দেখতে পারবেন এবং তাদের কোর্সে রেফারেন্স বা লাইব্রেরির কম্পোনেন্ট ব্যবহার করতে পারবেন, তবে তারা লাইব্রেরির কন্টেন্ট এডিট করতে পারবেন না।"
 
 msgid "Library Staff are content co-authors. They have full editing privileges on the contents of a library."
-msgstr ""
+msgstr "লাইব্রেরি স্টাফরা কন্টেন্ট কো-অathor। তাদের একটি লাইব্রেরির কন্টেন্টের উপর সম্পূর্ণ সম্পাদনার অধিকার আছে।"
 
 msgid "Library Admins have full editing privileges and can also add and remove other team members. There must be at least one user with the Admin role in a library."
-msgstr ""
+msgstr "লাইব্রেরি অ্যাডমিনদের সম্পূর্ণ সম্পাদনার অধিকার আছে এবং তারা অন্য টিমের সদস্য যোগ ও অপসারণ করতে পারে। একটি লাইব্রেরিতে অবশ্যই কমপক্ষে একজন অ্যাডমিন রোলের ব্যবহারকারী থাকতে হবে।"
 
 msgid "Schedule & Details Settings"
 msgstr ""
@@ -9718,7 +9718,7 @@ msgid "Prerequisite Course"
 msgstr ""
 
 msgid "None"
-msgstr ""
+msgstr "কিছু নেই"
 
 msgid "Course that students must complete before beginning this course"
 msgstr ""
@@ -10123,7 +10123,7 @@ msgid "Choose Language"
 msgstr ""
 
 msgid "Account"
-msgstr ""
+msgstr "একাউন্ট"
 
 msgid "Account Navigation"
 msgstr ""
@@ -10213,10 +10213,10 @@ msgid "name"
 msgstr ""
 
 msgid "Currently signed in as:"
-msgstr ""
+msgstr "বর্তমানে {name} হিসেবে সাইন ইন করা আছে।"
 
 msgid "Maintenance"
-msgstr ""
+msgstr "রক্ষণাবেক্ষণ"
 
 msgid "Sign Out"
 msgstr ""
@@ -11389,7 +11389,7 @@ msgid "time"
 msgstr ""
 
 msgid "(Optional)"
-msgstr ""
+msgstr "(ঐচ্ছিক)"
 
 msgid "Due Time format two digit hours colon two digit minutes"
 msgstr ""
@@ -11749,7 +11749,7 @@ msgid "Course Progress for '{username}' ({email})"
 msgstr ""
 
 msgid "View Certificate"
-msgstr ""
+msgstr "সার্টিফিকেট দেখুন"
 
 msgid "Opens in a new browser window"
 msgstr ""
@@ -12997,7 +12997,7 @@ msgid "Add Limited Staff"
 msgstr ""
 
 msgid "Admin"
-msgstr ""
+msgstr "এডমিন"
 
 msgid "Course team members with the Admin role help you manage your course. They can do all of the tasks that Staff can do, and can also add and remove the Staff and Admin roles, discussion moderation roles, and the beta tester role to manage course team membership. Any users not yet enrolled in the course will be automatically enrolled when added as Admin."
 msgstr ""
