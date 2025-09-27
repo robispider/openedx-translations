@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 12:23+0000\n"
-"PO-Revision-Date: 2025-09-27 18:23+2229\n"
+"POT-Creation-Date: 2025-09-27 14:17+0000\n"
+"PO-Revision-Date: 2025-09-27 20:17+2491\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -270,7 +270,7 @@ msgid "If you leave this page without submitting your peer assessment, you will 
 msgstr ""
 
 msgid "Refresh"
-msgstr ""
+msgstr "পুনরায় লোড করুন"
 
 msgid "Action"
 msgstr ""
@@ -279,7 +279,7 @@ msgid "Review"
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "ব্যবহারকারীর নাম"
 
 msgid "Peers Assessed"
 msgstr ""

@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 12:23+0000\n"
-"PO-Revision-Date: 2025-09-27 18:23+2085\n"
+"POT-Creation-Date: 2025-09-27 18:19+0000\n"
+"PO-Revision-Date: 2025-09-28 00:19+2183\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -145,7 +145,7 @@ msgid "None"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ করুন"
 
 msgid "Cancel"
 msgstr "বাতিল করুন"
@@ -283,7 +283,7 @@ msgid "Optional"
 msgstr ""
 
 msgid "Required"
-msgstr ""
+msgstr "প্রয়োজনীয়"
 
 msgid "Select one of the options above. This describes whether or not the reviewer will have to provide criterion feedback."
 msgstr ""
@@ -304,7 +304,7 @@ msgid "Assessment steps"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "সেটিংস"
 
 msgid "Option"
 msgstr ""
@@ -568,7 +568,7 @@ msgid "Status"
 msgstr "স্ট্যাটাস"
 
 msgid "Overall Grade"
-msgstr ""
+msgstr "মোট গ্রেড"
 
 msgid "Points"
 msgstr ""
@@ -622,7 +622,7 @@ msgid "You have not completed all the steps of this problem."
 msgstr ""
 
 msgid "Not Started"
-msgstr ""
+msgstr "শুরু করা হয়নি"
 
 msgid "You have not started this problem yet."
 msgstr ""
@@ -753,7 +753,7 @@ msgid "This assignment has several steps. In the first step, you'll provide a re
 msgstr ""
 
 msgid "Loading"
-msgstr ""
+msgstr "লোড হচ্ছে..."
 
 msgid "Preview in LaTeX"
 msgstr ""
@@ -828,7 +828,7 @@ msgid "The due date for this step has passed. This step is now closed. You can n
 msgstr ""
 
 msgid "Completed"
-msgstr ""
+msgstr "সম্পন্ন"
 
 msgid "You have successfully completed all of the required peer assessments for this assignment. You may assess additional peer responses if you want to. Completing additional assessments will not affect your final grade."
 msgstr ""
@@ -849,7 +849,7 @@ msgid "All submitted peer responses have been assessed. Check back later to see 
 msgstr ""
 
 msgid "Not Available"
-msgstr ""
+msgstr "ಲಭ್ಯ নাই"
 
 msgid ""
 ""\n
@@ -1055,7 +1055,7 @@ msgid ""
 msgstr ""
 
 msgid "Incomplete"
-msgstr ""
+msgstr "অসম্পূর্ণ"
 
 msgid "The due date for this step has passed. This step is now closed. You can no longer submit a response or continue with this problem, and you will receive a grade of Incomplete. If you saved but did not submit a response, the response appears in the course records."
 msgstr ""
@@ -1178,7 +1178,7 @@ msgid "Active Learners in Step"
 msgstr ""
 
 msgid "Dates"
-msgstr ""
+msgstr "তারিখসমূহ"
 
 msgid "Release Date"
 msgstr ""

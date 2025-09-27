@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 12:23+0000\n"
-"PO-Revision-Date: 2025-09-27 18:23+9810\n"
+"POT-Creation-Date: 2025-09-27 18:19+0000\n"
+"PO-Revision-Date: 2025-09-28 00:19+9901\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -175,7 +175,7 @@ msgid "Vertical"
 msgstr ""
 
 msgid "Section"
-msgstr ""
+msgstr "ধারা"
 
 msgid "Subsection"
 msgstr ""
@@ -184,7 +184,7 @@ msgid "Unit"
 msgstr ""
 
 msgid "Problem"
-msgstr ""
+msgstr "সমস্যা"
 
 msgid "Library Content"
 msgstr ""
@@ -249,7 +249,7 @@ msgid "Failed"
 msgstr ""
 
 msgid "Completed"
-msgstr ""
+msgstr "সম্পন্ন"
 
 msgid "Linking status for course context key"
 msgstr ""
@@ -450,7 +450,7 @@ msgid "{platform_name} Support Levels:"
 msgstr ""
 
 msgid "Discussion"
-msgstr ""
+msgstr "আলোচনা"
 
 msgid "Video"
 msgstr "ভিডিও"
@@ -771,13 +771,13 @@ msgid "OPTIONAL: After this date/time, users will no longer be able to submit ph
 msgstr ""
 
 msgid "You're enrolled as a verified student"
-msgstr ""
+msgstr "আপনি একজন যাচাইকৃত শিক্ষার্থী হিসেবে ভর্তি আছেন।"
 
 msgid "Verified"
-msgstr ""
+msgstr "যাচাইকৃত"
 
 msgid "ID Verified Ribbon/Badge"
-msgstr ""
+msgstr "আইডি যাচাইকৃত - রিबन/ব্যাজ"
 
 msgid "You're enrolled as an honor code student"
 msgstr ""
@@ -795,7 +795,7 @@ msgid "Display Name"
 msgstr ""
 
 msgid "Price"
-msgstr ""
+msgstr "মূল্য"
 
 msgid "Upgrade Deadline"
 msgstr ""
@@ -1590,7 +1590,7 @@ msgid "Contact Us"
 msgstr ""
 
 msgid "Help Center"
-msgstr ""
+msgstr "সাহায্য কেন্দ্র"
 
 msgid "Security"
 msgstr ""
@@ -1680,7 +1680,7 @@ msgid "generated"
 msgstr ""
 
 msgid "All learners"
-msgstr ""
+msgstr "সব শিক্ষার্থীরা"
 
 msgid "For exceptions"
 msgstr ""
@@ -1791,7 +1791,7 @@ msgid "{platform_name} acknowledges achievements through certificates, which are
 msgstr ""
 
 msgid "All rights reserved"
-msgstr ""
+msgstr "সর্বস্ব অধিকার সংরক্ষিত"
 
 msgid "Invalid Certificate"
 msgstr ""
@@ -2076,7 +2076,7 @@ msgid "Financial Assistance"
 msgstr ""
 
 msgid "Assignment"
-msgstr ""
+msgstr "অ্যাসাইনমেন্ট"
 
 msgid "Open Response Assessment"
 msgstr ""
@@ -2106,7 +2106,7 @@ msgid "Enrollment Date"
 msgstr ""
 
 msgid "Course starts"
-msgstr ""
+msgstr "কোর্স শুরু হয়"
 
 msgid "Course ends"
 msgstr ""
@@ -2148,7 +2148,7 @@ msgid "by {date}"
 msgstr ""
 
 msgid "Learn More"
-msgstr ""
+msgstr "আরও জানুন"
 
 msgid "Retry Verification"
 msgstr ""
@@ -2208,7 +2208,7 @@ msgid "Create and manage a library of course readings, textbooks, and chapters."
 msgstr ""
 
 msgid "Calculator"
-msgstr ""
+msgstr "ক্যালকুলেটর"
 
 msgid "Provide an in-course calculator for simple and complex calculations."
 msgstr ""
@@ -2235,10 +2235,10 @@ msgid "Course"
 msgstr "কোর্স"
 
 msgid "Syllabus"
-msgstr ""
+msgstr "সিলেবাস"
 
 msgid "Dates"
-msgstr ""
+msgstr "তারিখসমূহ"
 
 msgid "Your enrollment: Audit track"
 msgstr ""
@@ -2265,7 +2265,7 @@ msgid "Please contact your course team if you have any questions."
 msgstr ""
 
 msgid "Congratulations, you qualified for a certificate!"
-msgstr ""
+msgstr "অভিনন্দন, {name}, আপনি সার্টিফিকেট পাওয়ার যোগ্য হয়েছেন!"
 
 msgid "You've earned a certificate for this course."
 msgstr ""
@@ -2292,10 +2292,10 @@ msgid "To see course content, {sign_in_link} or {register_link}."
 msgstr ""
 
 msgid "sign in"
-msgstr ""
+msgstr "সাইন ইন করুন"
 
 msgid "register"
-msgstr ""
+msgstr "রেজিস্টার করুন"
 
 msgid "{sign_in_link} or {register_link}."
 msgstr ""
@@ -2307,7 +2307,7 @@ msgid "You must be enrolled in the course to see course content. {enroll_link_st
 msgstr ""
 
 msgid "You must be enrolled in the course to see course content."
-msgstr ""
+msgstr "কোর্স কন্টেন্ট দেখার জন্য আপনাকে কোর্সে ভর্তি হতে হবে।"
 
 msgid "User does not exist."
 msgstr ""
@@ -2546,7 +2546,7 @@ msgid "User ID"
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "ব্যবহারকারীর নাম"
 
 msgid "Email"
 msgstr "ইমেইল"
@@ -2585,7 +2585,7 @@ msgid "External User Key"
 msgstr ""
 
 msgid "Cohort"
-msgstr ""
+msgstr " cohort"
 
 msgid "Team"
 msgstr ""
@@ -2837,10 +2837,10 @@ msgid "Membership"
 msgstr ""
 
 msgid "Cohorts"
-msgstr ""
+msgstr "ক cohort"
 
 msgid "Discussions"
-msgstr ""
+msgstr "আলোচনা"
 
 msgid "Student Admin"
 msgstr ""
@@ -2870,7 +2870,7 @@ msgid "Complete"
 msgstr "আপনার প্রোফাইল সম্পূর্ণ করুন"
 
 msgid "Incomplete"
-msgstr ""
+msgstr "অসম্পূর্ণ"
 
 msgid "Role name"
 msgstr ""
@@ -2930,7 +2930,7 @@ msgid "An extended due date must be later than the original due date."
 msgstr ""
 
 msgid "Full Name"
-msgstr ""
+msgstr "নাম"
 
 msgid "Extended Due Date"
 msgstr ""
@@ -3759,7 +3759,7 @@ msgid "Save changes"
 msgstr ""
 
 msgid "Preview"
-msgstr ""
+msgstr "প্রিভিউ"
 
 msgid "Wiki Preview"
 msgstr ""
@@ -3918,7 +3918,7 @@ msgid "You can reuse files from other articles. These files are subject to updat
 msgstr ""
 
 msgid "Search"
-msgstr ""
+msgstr "অনুসন্ধান করুন"
 
 msgid "The following files are available for this article. Copy the markdown tag to directly refer to a file from the article text."
 msgstr ""
@@ -4026,7 +4026,7 @@ msgid "Denied"
 msgstr ""
 
 msgid "Approved"
-msgstr ""
+msgstr "অনুমোদিত"
 
 msgid "Status of this API access request"
 msgstr ""
@@ -4251,10 +4251,10 @@ msgid "This user already has access to this library."
 msgstr ""
 
 msgid "Loading"
-msgstr ""
+msgstr "লোড হচ্ছে..."
 
 msgid "Expired"
-msgstr ""
+msgstr "মেয়াদ উত্তীর্ণ"
 
 msgid "Staged Content"
 msgstr ""
@@ -4508,7 +4508,7 @@ msgid "Community TA"
 msgstr ""
 
 msgid "Student"
-msgstr ""
+msgstr "ছাত্র/ছাত্রী"
 
 msgid "COURSE NOT FOUND.  Please check that the course ID is valid."
 msgstr ""
@@ -4626,13 +4626,13 @@ msgid "Total Notifications"
 msgstr ""
 
 msgid "Today"
-msgstr ""
+msgstr "আজ"
 
 msgid "Updates"
 msgstr ""
 
 msgid "Grades"
-msgstr ""
+msgstr "গ্রেড"
 
 msgid "discussion"
 msgstr ""
@@ -4659,7 +4659,7 @@ msgid "View all"
 msgstr ""
 
 msgid "View"
-msgstr ""
+msgstr "দেখুন"
 
 msgid "more"
 msgstr ""
@@ -4776,7 +4776,7 @@ msgid "Course Id"
 msgstr ""
 
 msgid "All"
-msgstr ""
+msgstr "সব"
 
 msgid "Experience"
 msgstr ""
@@ -4893,7 +4893,7 @@ msgid "We hope you are enjoying learning with us so far in %(first_course_name)s
 msgstr ""
 
 msgid "Upgrade now"
-msgstr ""
+msgstr "এখনই আপগ্রেড করুন"
 
 msgid "We hope you are enjoying learning with us so far on {start_strong}%(platform_name)s{end_strong}! A verified certificate allows you to highlight your new knowledge and skills. An %(platform_name)s certificate is official and easily shareable."
 msgstr ""
@@ -5346,7 +5346,7 @@ msgid "{header_open}{title}{header_close}"
 msgstr ""
 
 msgid "Dismiss"
-msgstr ""
+msgstr "বাতিল করুন"
 
 msgid "Oauth client name of VEM service."
 msgstr ""
@@ -5454,7 +5454,7 @@ msgid "Verified Track Access"
 msgstr ""
 
 msgid "Upgrade to unlock"
-msgstr ""
+msgstr "আপগ্রেড করে আনলক করুন"
 
 msgid "Access expired on {expiration_date}"
 msgstr ""
@@ -5538,13 +5538,13 @@ msgid "The deadline to complete this assignment has passed."
 msgstr ""
 
 msgid "Shift due dates"
-msgstr ""
+msgstr "তারিখ পরিবর্তন করুন"
 
 msgid "It looks like you missed some important deadlines based on our suggested schedule."
-msgstr ""
+msgstr "আমাদের প্রস্তাবিত সময়সূচী অনুযায়ী আপনার কিছু গুরুত্বপূর্ণ সময়সীমা পার হয়ে গেছে মনে হচ্ছে।"
 
 msgid "To keep yourself on track, you can update this schedule and shift the past due assignments into the future. Don’t worry—you won’t lose any of the progress you’ve made when you shift your due dates."
-msgstr ""
+msgstr "নিজেকে ট্র্যাকে রাখতে, আপনি এই সময়সূচি আপডেট করতে পারেন এবং পুরনো অ্যাসাইনমেন্টগুলো ভবিষ্যতে সরিয়ে নিতে পারেন। চিন্তা করবেন না—আপনি আপনার তৈরি করা অগ্রগতি হারাতে পারবেন না যখন আপনি আপনার ডেডলাইন পরিবর্তন করবেন।"
 
 msgid "Try again ({attempts} attempt remaining)"
 msgstr ""
@@ -5889,7 +5889,7 @@ msgid "Defines when to show the answer to the problem. A default value can be se
 msgstr ""
 
 msgid "Answered"
-msgstr ""
+msgstr "উত্তর দেওয়া হয়েছে"
 
 msgid "Attempted or Past Due"
 msgstr ""
@@ -6018,7 +6018,7 @@ msgid "Answer ID"
 msgstr ""
 
 msgid "Question"
-msgstr ""
+msgstr "প্রশ্ন"
 
 msgid "Correct Answer"
 msgstr ""
@@ -6813,7 +6813,7 @@ msgid "Select True if this component will receive a numerical score from the ext
 msgstr ""
 
 msgid "Weight"
-msgstr ""
+msgstr "ওজন"
 
 msgid "Enter the number of points possible for this component.  The default value is 1.0.  This setting is only used when Scored is set to True."
 msgstr ""
@@ -7428,7 +7428,7 @@ msgid "No changes made. Nothing to save."
 msgstr ""
 
 msgid "Slug"
-msgstr ""
+msgstr "স্লাগ"
 
 msgid "This will be the address where your article can be found. Use only alphanumeric characters and - or _. Note that you cannot change the slug after creating the article."
 msgstr ""
@@ -7708,7 +7708,7 @@ msgid "History of"
 msgstr ""
 
 msgid "Date"
-msgstr ""
+msgstr "তারিখ"
 
 msgid "User"
 msgstr ""
@@ -7756,7 +7756,7 @@ msgid "Your search did not return any results"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "সাহায্য"
 
 msgid "Adding new articles"
 msgstr ""
@@ -7906,7 +7906,7 @@ msgid "You can link to another website simply by inserting an address example.co
 msgstr ""
 
 msgid "Notifications"
-msgstr ""
+msgstr "নোটিফিকেশন"
 
 msgid "When this article is edited"
 msgstr ""
@@ -7942,7 +7942,7 @@ msgid "Clear notifications list"
 msgstr ""
 
 msgid "Search..."
-msgstr ""
+msgstr "অনুসন্ধান করুন..."
 
 msgid "Log in"
 msgstr ""
@@ -8011,7 +8011,7 @@ msgid "and"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "সেটিংস"
 
 msgid "Source of"
 msgstr ""
@@ -8035,7 +8035,7 @@ msgid "Create root article"
 msgstr ""
 
 msgid "Congratulations!"
-msgstr ""
+msgstr "অভিনন্দন!"
 
 msgid "You have django-wiki installed... but there are no articles. So it's time to create the first one, the root article. In the beginning, it will only be editable by administrators, but you can define permissions after."
 msgstr ""
@@ -8152,7 +8152,7 @@ msgid "Page Not Found"
 msgstr ""
 
 msgid "Page not found"
-msgstr ""
+msgstr "পেজটি খুঁজে পাওয়া যায়নি"
 
 msgid "The page that you were looking for was not found."
 msgstr ""
@@ -8338,7 +8338,7 @@ msgid "The public display name for the new course. (This name is often the same 
 msgstr ""
 
 msgid "Organization"
-msgstr ""
+msgstr "সংস্থা"
 
 msgid "e.g. UniversityX or OrganizationX"
 msgstr ""
@@ -8599,7 +8599,7 @@ msgid "We're sorry. There was a problem with the server while trying to process 
 msgstr ""
 
 msgid "Back to dashboard"
-msgstr ""
+msgstr "ড্যাশবোর্ডে ফিরে যান"
 
 msgid "Library Export"
 msgstr ""
@@ -8680,7 +8680,7 @@ msgid "Course Content (all Sections, Sub-sections, and Units)"
 msgstr ""
 
 msgid "Course Structure"
-msgstr ""
+msgstr "কোর্স স্ট্রাকচার"
 
 msgid "Individual Problems"
 msgstr ""
@@ -9112,7 +9112,7 @@ msgid "The term in which your course will run. {strong_start}Note: This is part 
 msgstr ""
 
 msgid "Create"
-msgstr ""
+msgstr "তৈরি করুন"
 
 msgid "Create a New Library"
 msgstr ""
@@ -9124,7 +9124,7 @@ msgid "Library Name"
 msgstr ""
 
 msgid "e.g. Computer Science Problems"
-msgstr ""
+msgstr "যেমন: কম্পিউটার বিজ্ঞান সমস্যা"
 
 msgid "The public display name for your library."
 msgstr ""
@@ -9157,7 +9157,7 @@ msgid "Courses Being Processed"
 msgstr ""
 
 msgid "Organization:"
-msgstr ""
+msgstr "সংস্থা: {name}"
 
 msgid "Course Number:"
 msgstr ""
@@ -9187,7 +9187,7 @@ msgid "Archived Courses"
 msgstr ""
 
 msgid "Libraries"
-msgstr ""
+msgstr "লাইব্রেরি"
 
 msgid "Taxonomies"
 msgstr ""
@@ -9277,7 +9277,7 @@ msgid "Almost there! In order to complete your sign up we need you to verify you
 msgstr ""
 
 msgid "Need help?"
-msgstr ""
+msgstr "সাহায্য লাগবে?"
 
 msgid "Please check your Junk or Spam folders in case our email isn't in your INBOX. Still can't find the verification email? Request help via the link below."
 msgstr "অনুগ্রহ করে আপনার জাঙ্ক বা স্প্যাম ফোল্ডারগুলোও দেখে নিন, আমাদের ইমেলটি হয়তো আপনার ইনবক্সে আসেনি। তারপরও ভেরিফিকেশন ইমেল খুঁজে পাচ্ছেন না? নিচের লিংকের মাধ্যমে সাহায্য চেয়ে নিন।"
@@ -9292,7 +9292,7 @@ msgid "Add Component"
 msgstr ""
 
 msgid "Adding content to your library"
-msgstr ""
+msgstr "আপনার লাইব্রেরিতে কন্টেন্ট যোগ করা হচ্ছে"
 
 msgid "Add components to your library for use in courses, using Add New Component at the bottom of this page."
 msgstr ""
@@ -9301,13 +9301,13 @@ msgid "Components are listed in the order in which they are added, with the most
 msgstr ""
 
 msgid "Using library content in courses"
-msgstr ""
+msgstr "কোর্সে লাইব্রেরি কন্টেন্ট ব্যবহার করা হচ্ছে"
 
 msgid "Use library content in courses by adding the {em_start}library_content{em_end} policy key to the Advanced Module List in the course's Advanced Settings, then adding a Randomized Content Block to your courseware. In the settings for each Randomized Content Block, select this library as the source library, and specify the number of problems to be randomly selected and displayed to each student."
 msgstr ""
 
 msgid "Learn more about content libraries"
-msgstr ""
+msgstr "কন্টেন্ট লাইব্রেরি সম্পর্কে আরো জানুন"
 
 msgid "Course Team Settings"
 msgstr ""
@@ -9826,7 +9826,7 @@ msgid "Leeway on due dates"
 msgstr ""
 
 msgid "Assignment Types"
-msgstr ""
+msgstr "অ্যাসাইনমেন্টের প্রকার"
 
 msgid "Categories and labels for any exercises that are gradable"
 msgstr ""
@@ -10027,7 +10027,7 @@ msgid "Edit Announcement"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ করুন"
 
 msgid "Create New"
 msgstr ""
@@ -10105,7 +10105,7 @@ msgid "Publisher"
 msgstr ""
 
 msgid "Import"
-msgstr ""
+msgstr "ইম্পোর্ট করুন"
 
 msgid "Export"
 msgstr ""
@@ -10285,7 +10285,7 @@ msgid "The discussions are currently undergoing maintenance. We'll have them bac
 msgstr ""
 
 msgid "Content Locked"
-msgstr ""
+msgstr "কন্টেন্টটি লক করা আছে"
 
 msgid "You must complete the prerequisites for '{prereq_section_name}' to access this content."
 msgstr ""
@@ -10303,10 +10303,10 @@ msgid "Hide Annotations"
 msgstr ""
 
 msgid "Bookmarked"
-msgstr ""
+msgstr "বুকমার্ক করা আছে"
 
 msgid "Bookmark this page"
-msgstr ""
+msgstr "এই পেজটি বুকমার্ক করুন"
 
 msgid "You do not have access to this dependency block."
 msgstr ""
@@ -10324,7 +10324,7 @@ msgid "View all Courses"
 msgstr ""
 
 msgid "Dashboard"
-msgstr ""
+msgstr "ড্যাশবোর্ড"
 
 msgid "results successfully populated,"
 msgstr ""
@@ -10348,13 +10348,13 @@ msgid "Search Your Courses"
 msgstr ""
 
 msgid "Clear search"
-msgstr ""
+msgstr "অনুসন্ধান পরিষ্কার করুন"
 
 msgid "Skip to list of announcements"
 msgstr ""
 
 msgid "Activate your account so you can log back in"
-msgstr ""
+msgstr "আপনার অ্যাকাউন্টটি সক্রিয় করুন যাতে আপনি আবার লগইন করতে পারেন।"
 
 msgid "We sent an email to {strong_start}{email}{strong_end} with a link to activate your account. Can’t find it? Check your spam folder or {link_start}resend the email{link_end}."
 msgstr ""
@@ -10453,7 +10453,7 @@ msgid "The course has ended."
 msgstr ""
 
 msgid "The due date for this assignment has passed."
-msgstr ""
+msgstr "এই অ্যাসাইনমেন্টের সময়সীমা পেরিয়ে গেছে।"
 
 msgid "Because the course has ended, this assignment is no longer available.{line_break}If you have completed this assignment, your grade is available on the {link_start}progress page{link_end}."
 msgstr ""
@@ -10552,7 +10552,7 @@ msgid "We're sorry, this module is temporarily unavailable. Our staff is working
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "বিস্তারিত"
 
 msgid "Raw data:"
 msgstr ""
@@ -10561,7 +10561,7 @@ msgid "Course View"
 msgstr ""
 
 msgid "View this course as:"
-msgstr ""
+msgstr "এই কোর্সটি {name} হিসেবে দেখুন:"
 
 msgid "Staff"
 msgstr "স্টাফ"
@@ -10876,7 +10876,7 @@ msgid "Due {date}"
 msgstr ""
 
 msgid "Past due"
-msgstr ""
+msgstr "মেয়াদ উত্তীর্ণ"
 
 msgid "Reset Problems"
 msgstr ""
@@ -10906,7 +10906,7 @@ msgid "Share on {site}"
 msgstr ""
 
 msgid "Copy"
-msgstr ""
+msgstr "কপি করুন"
 
 msgid "Transcripts"
 msgstr ""
@@ -11200,43 +11200,43 @@ msgid "Tips"
 msgstr ""
 
 msgid "Use parentheses () to make expressions clear. You can use parentheses inside other parentheses."
-msgstr ""
+msgstr "এক্সপ্রেশনগুলো পরিষ্কার করার জন্য বন্ধনী () ব্যবহার করুন। আপনি অন্য বন্ধনীর ভেতরেও বন্ধনী ব্যবহার করতে পারেন।"
 
 msgid "Do not use spaces in expressions."
-msgstr ""
+msgstr "গণিত লেখার সময় কোনো স্পেস ব্যবহার করবেন না।"
 
 msgid "For constants, indicate multiplication explicitly (example: 5*c)."
-msgstr ""
+msgstr "ধ্রুবকের জন্য, গুণফল স্পষ্টভাবে উল্লেখ করুন (উদাহরণ: 5*c)।"
 
 msgid "For affixes, type the number and affix without a space (example: 5c)."
-msgstr ""
+msgstr "অ্যাফিক্স লেখার জন্য, সংখ্যা এবং অ্যাফিক্স একসাথে লিখুন (যেমন: 5c)।"
 
 msgid "For functions, type the name of the function, then the expression in parentheses."
-msgstr ""
+msgstr "ফাংশনের জন্য, ফাংশনের নাম লিখে তারপর ব্র্যাকেটের মধ্যে এক্সপ্রেশনটা লিখুন।"
 
 msgid "To Use"
-msgstr ""
+msgstr "ব্যবহারবিধি"
 
 msgid "Type"
-msgstr ""
+msgstr "ধরন"
 
 msgid "Examples"
-msgstr ""
+msgstr "উদাহরণ"
 
 msgid "Numbers"
-msgstr ""
+msgstr "সংখ্যা"
 
 msgid "Integers"
-msgstr ""
+msgstr "পূর্ণসংখ্যা"
 
 msgid "Fractions"
-msgstr ""
+msgstr "ভগ্নাংশ"
 
 msgid "Decimals"
-msgstr ""
+msgstr "দশমিক সংখ্যা"
 
 msgid "Operators"
-msgstr ""
+msgstr "অপারেটরগুলো"
 
 msgid "+ - * / (add, subtract, multiply, divide)"
 msgstr ""
@@ -11248,22 +11248,22 @@ msgid "|| (parallel resistors)"
 msgstr ""
 
 msgid "Constants"
-msgstr ""
+msgstr "ধ্রুবক"
 
 msgid "Affixes"
-msgstr ""
+msgstr "অ্যাফিক্সগুলো"
 
 msgid "Percent sign (%)"
-msgstr ""
+msgstr "শতাংশ চিহ্ন (%)"
 
 msgid "Basic functions"
-msgstr ""
+msgstr "বেসিক ফাংশনগুলো ব্যবহার করার নিয়মাবলী"
 
 msgid "Trigonometric functions"
-msgstr ""
+msgstr "ত্রিকোণমিতিক ফাংশন"
 
 msgid "Scientific notation"
-msgstr ""
+msgstr "বৈজ্ঞানিক স্বরলিপি"
 
 msgid "10^ and the exponent"
 msgstr ""
@@ -11275,10 +11275,10 @@ msgid "1e and the exponent"
 msgstr ""
 
 msgid "Calculate"
-msgstr ""
+msgstr "গণনা করুন"
 
 msgid "Result"
-msgstr ""
+msgstr "ফলাফল"
 
 msgid "CCX Coach Dashboard"
 msgstr ""
@@ -11527,7 +11527,7 @@ msgid "Choose a path for your course in"
 msgstr ""
 
 msgid "Earn a certificate"
-msgstr ""
+msgstr "একটি সার্টিফিকেট অর্জন করুন"
 
 msgid "Studies show that those who choose this option are  {start_bold}more engaged and motivated{end_bold} to complete their courses"
 msgstr ""
@@ -11545,7 +11545,7 @@ msgid "You are enrolled in this course"
 msgstr ""
 
 msgid "View Course"
-msgstr ""
+msgstr "কোর্সটি দেখুন"
 
 msgid "Enrollment in this course is by invitation only"
 msgstr ""
@@ -11635,7 +11635,7 @@ msgid "We're sorry, this module is temporarily unavailable. Our staff is working
 msgstr ""
 
 msgid "Gradebook"
-msgstr ""
+msgstr "গ্রেডবুক"
 
 msgid "Search students"
 msgstr ""
@@ -11710,13 +11710,13 @@ msgid "{weeks_to_complete} weeks per course"
 msgstr ""
 
 msgid "Effort"
-msgstr ""
+msgstr "চেষ্টা"
 
 msgid "{min_hours_effort_per_week}-{max_hours_effort_per_week} hours per week, per course"
 msgstr ""
 
 msgid "Number of Courses"
-msgstr ""
+msgstr "কোর্সের সংখ্যা"
 
 msgid "{number_of_courses} courses in program"
 msgstr ""
@@ -11806,7 +11806,7 @@ msgid "Suspicious activity detected during proctored exam review. Exam score 0."
 msgstr ""
 
 msgid "Section grade has been overridden."
-msgstr ""
+msgstr "সেকশনের গ্রেড পরিবর্তন করা হয়েছে।"
 
 msgid "Problem Scores: "
 msgstr ""
@@ -11872,7 +11872,7 @@ msgid "Your grade and certificate will be ready after {date}."
 msgstr ""
 
 msgid "Congratulations! Your certificate is ready."
-msgstr ""
+msgstr "অভিনন্দন! আপনার সার্টিফিকেটটি প্রস্তুত।"
 
 msgid "Grade required for a {cert_name_short}:"
 msgstr ""
@@ -11914,7 +11914,7 @@ msgid "This link will open the course progress page"
 msgstr ""
 
 msgid "View grades"
-msgstr ""
+msgstr "গ্রেড দেখুন"
 
 msgid "Course details"
 msgstr ""
@@ -11986,7 +11986,7 @@ msgid "Email Settings"
 msgstr ""
 
 msgid "View Archived Course"
-msgstr ""
+msgstr "আর্কাইভ করা কোর্স দেখুন"
 
 msgid "Related Programs"
 msgstr ""
@@ -12112,7 +12112,7 @@ msgid "Something was broken"
 msgstr ""
 
 msgid "Other"
-msgstr ""
+msgstr "অন্যান্য"
 
 msgid "Results:"
 msgstr ""
@@ -12457,7 +12457,7 @@ msgid "Register for free"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "প্রোফাইল"
 
 msgid "Order History"
 msgstr ""
@@ -13237,7 +13237,7 @@ msgid "New score for problem, out of the total points available for the problem"
 msgstr ""
 
 msgid "Score"
-msgstr ""
+msgstr "স্কোর"
 
 msgid "Override Learner's Score"
 msgstr ""
@@ -13415,7 +13415,7 @@ msgid "Available"
 msgstr ""
 
 msgid "Required"
-msgstr ""
+msgstr "প্রয়োজনীয়"
 
 msgid "No due date"
 msgstr ""
@@ -13685,7 +13685,7 @@ msgid "Got it!"
 msgstr ""
 
 msgid "Learn more"
-msgstr ""
+msgstr "আরও জানুন"
 
 msgid "{span_start}(active){span_end}"
 msgstr ""
@@ -13709,31 +13709,31 @@ msgid "Preview Theme"
 msgstr ""
 
 msgid "All Rights Reserved"
-msgstr ""
+msgstr "সর্বস্ব স্বত্ব সংরক্ষিত"
 
 msgid "Attribution"
-msgstr ""
+msgstr "স্বত্ত্বাধিকারীর স্বীকৃতি"
 
 msgid "Noncommercial"
-msgstr ""
+msgstr "অবাণিজ্যিক"
 
 msgid "No Derivatives"
-msgstr ""
+msgstr "কোনো প্রকার পরিবর্তন বা পরিমার্জন করা যাবে না"
 
 msgid "Share Alike"
-msgstr ""
+msgstr "পুনরায় বিতরণ করুন"
 
 msgid "Creative Commons licensed content, with terms as follow:"
 msgstr ""
 
 msgid "Some Rights Reserved"
-msgstr ""
+msgstr "কিছু অধিকার স্বত্বাধিকারীর কাছে সংরক্ষিত।"
 
 msgid "Upcoming Dates"
 msgstr ""
 
 msgid "View all course dates"
-msgstr ""
+msgstr "সব কোর্সের তারিখ দেখুন"
 
 msgid "This course does not have any updates."
 msgstr ""

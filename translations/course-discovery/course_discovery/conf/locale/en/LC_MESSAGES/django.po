@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 12:23+0000\n"
-"PO-Revision-Date: 2025-09-27 18:23+1136\n"
+"POT-Creation-Date: 2025-09-27 18:19+0000\n"
+"PO-Revision-Date: 2025-09-28 00:19+0741\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -166,7 +166,7 @@ msgid "Permissions"
 msgstr ""
 
 msgid "Important dates"
-msgstr ""
+msgstr "গুরুত্বপূর্ণ তারিখসমূহ"
 
 msgid "API Configuration"
 msgstr ""
@@ -193,7 +193,7 @@ msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
 msgstr ""
 
 msgid "Full Name"
-msgstr ""
+msgstr "নাম"
 
 msgid "Referral Tracking ID"
 msgstr ""
@@ -349,10 +349,10 @@ msgid "Reviewed"
 msgstr ""
 
 msgid "Published"
-msgstr ""
+msgstr "প্রকাশিত"
 
 msgid "Retired"
-msgstr ""
+msgstr "অবসরপ্রাপ্ত"
 
 msgid "Instructor-paced"
 msgstr ""
@@ -361,7 +361,7 @@ msgid "Self-paced"
 msgstr ""
 
 msgid "Active"
-msgstr ""
+msgstr "সক্রিয়"
 
 msgid "Deleted"
 msgstr ""
@@ -397,19 +397,19 @@ msgid "Pending"
 msgstr ""
 
 msgid "Verified"
-msgstr ""
+msgstr "যাচাইকৃত"
 
 msgid "Processing"
 msgstr ""
 
 msgid "Completed"
-msgstr ""
+msgstr "সম্পন্ন"
 
 msgid "Failed"
 msgstr ""
 
 msgid "Partially Completed"
-msgstr ""
+msgstr "আংশিকভাবে সম্পন্ন হয়েছে"
 
 msgid "Errored"
 msgstr ""
@@ -442,7 +442,7 @@ msgid "Platform"
 msgstr ""
 
 msgid "Organization"
-msgstr ""
+msgstr "সংস্থা"
 
 msgid "Short"
 msgstr ""
@@ -454,7 +454,7 @@ msgid "Long"
 msgstr ""
 
 msgid "Short Course"
-msgstr ""
+msgstr "সংক্ষিপ্ত কোর্স"
 
 msgid "Sprint"
 msgstr ""

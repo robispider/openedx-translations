@@ -1,6 +1,6 @@
 ﻿{
   "profile.page.title": "Profile | {siteName}",
-  "profile.certificate.organization.label": "From",
+  "profile.certificate.organization.label": "থেকে",
   "profile.certificate.completion.date.label": "Completed on {date}",
   "profile.certificate.uuid": "Credential ID {certificate_uuid}",
   "profile.your.certificates": "Your certificates",
@@ -16,7 +16,7 @@
   "profile.profile.information": "Profile information",
   "profile.viewMyRecords": "View My Records",
   "profile.loading": "Profile loading...",
-  "profile.username": "Username",
+  "profile.username": "ব্যবহারকারীর নাম",
   "profile.username.tooltip": "The name that identifies you on edX. You cannot change your username.",
   "profile.certificatecount": "{certificate_count} certifications",
   "profile.bio.empty": "Add a short bio",
@@ -51,9 +51,9 @@
   "profile.editbutton.edit": "সম্পাদনা করুন",
   "profile.formcontrols.who.can.see": "Who can see this:",
   "profile.formcontrols.button.cancel": "বাতিল করুন",
-  "profile.formcontrols.button.save": "Save",
-  "profile.formcontrols.button.saving": "Saving",
-  "profile.formcontrols.button.saved": "Saved",
+  "profile.formcontrols.button.save": "সংরক্ষণ করুন",
+  "profile.formcontrols.button.saving": "সংরক্ষণ করা হচ্ছে",
+  "profile.formcontrols.button.saved": "সংরক্ষণ করা হয়েছে",
   "profile.visibility.who.just.me": "Just me",
   "profile.visibility.who.everyone": "Everyone on {siteName}"
 }

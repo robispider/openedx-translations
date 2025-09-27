@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 12:23+0000\n"
-"PO-Revision-Date: 2025-09-27 18:23+1796\n"
+"POT-Creation-Date: 2025-09-27 18:19+0000\n"
+"PO-Revision-Date: 2025-09-28 00:19+1806\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -392,7 +392,7 @@ msgid "Audit"
 msgstr ""
 
 msgid "Verified"
-msgstr ""
+msgstr "যাচাইকৃত"
 
 msgid "Professional Education"
 msgstr ""
@@ -443,7 +443,7 @@ msgid "Enter the course run key."
 msgstr ""
 
 msgid "Preview"
-msgstr ""
+msgstr "প্রিভিউ"
 
 msgid "Hold Ctrl when clicking on button to open Preview in new tab"
 msgstr ""
@@ -855,7 +855,7 @@ msgid "Enter a string that can be used to generate a dynamic subject line for no
 msgstr ""
 
 msgid "Active"
-msgstr ""
+msgstr "সক্রিয়"
 
 msgid "Include Date"
 msgstr ""
@@ -1185,7 +1185,7 @@ msgid "User Email"
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "ব্যবহারকারীর নাম"
 
 msgid "Linked Date"
 msgstr ""
@@ -1392,7 +1392,7 @@ msgid "Select Organization"
 msgstr ""
 
 msgid "Select an organization"
-msgstr ""
+msgstr "একটি সংস্থা নির্বাচন করুন"
 
 msgid "Instructor-Paced"
 msgstr ""
@@ -1401,7 +1401,7 @@ msgid "Self-Paced"
 msgstr ""
 
 msgid "FREE"
-msgstr ""
+msgstr "বিনামূল্যে"
 
 msgid "Not eligible for a certificate."
 msgstr ""
@@ -1422,25 +1422,25 @@ msgid "Confirm your course"
 msgstr ""
 
 msgid "View Course Details"
-msgstr ""
+msgstr "কোর্স ডিটেইলস দেখুন"
 
 msgid "Please select one:"
 msgstr ""
 
 msgid "Price"
-msgstr ""
+msgstr "মূল্য"
 
 msgid "Level"
 msgstr "লেভেল"
 
 msgid "Effort"
-msgstr ""
+msgstr "চেষ্টা"
 
 msgid "Duration"
 msgstr ""
 
 msgid "What you'll learn"
-msgstr ""
+msgstr "এই কোর্সে আপনি যা শিখবেন"
 
 msgid "About This Course"
 msgstr ""
@@ -1491,7 +1491,7 @@ msgid "Program Summary"
 msgstr ""
 
 msgid "Length"
-msgstr ""
+msgstr "সময়কাল"
 
 msgid "Program not eligible for one-click purchase."
 msgstr ""
