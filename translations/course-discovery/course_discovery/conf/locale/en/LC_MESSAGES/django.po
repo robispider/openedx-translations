@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 20:20+0000\n"
-"PO-Revision-Date: 2025-09-28 02:20+7219\n"
+"POT-Creation-Date: 2025-09-29 04:37+0000\n"
+"PO-Revision-Date: 2025-09-29 10:37+3842\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,286 +46,286 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "No user with the username [{username}] exists."
-msgstr ""
+msgstr "এই ইউজারনেম [{username}] নামে কোনো ব্যবহারকারী নেই।"
 
 msgid "Only staff users are permitted to filter by username. Remove the username parameter."
-msgstr ""
+msgstr "শুধুমাত্র স্টাফ ব্যবহারকারীরা ইউজারনেম দিয়ে ফিল্টার করার অনুমতিপ্রাপ্ত। ইউজারনেম প্যারামিটারটি সরিয়ে দিন।"
 
 msgid "Number of courses contained in this catalog"
-msgstr ""
+msgstr "এই ক্যাটালগে কতগুলো কোর্স আছে"
 
 msgid "Usernames of users with explicit access to view this catalog"
-msgstr ""
+msgstr "এই ক্যাটালগ দেখার জন্য সরাসরি অনুমতি আছে এমন ব্যবহারকারীদের নাম"
 
 msgid "Start date cannot be after the End date"
-msgstr ""
+msgstr "শুরুর তারিখ শেষ তারিখের পরে হতে পারবে না।"
 
 msgid "Term cannot be changed"
-msgstr ""
+msgstr "মেয়াদ পরিবর্তন করা যাবে না"
 
 msgid "Language in which the course is administered"
-msgstr ""
+msgstr "যে ভাষায় কোর্সটি পরিচালিত হবে"
 
 msgid "Course cannot be changed for an existing course run"
-msgstr ""
+msgstr "একটি চলমান কোর্সের জন্য কোর্স পরিবর্তন করা যাবে না।"
 
 msgid "Minimum effort cannot be greater than Maximum effort"
-msgstr ""
+msgstr "ন্যূনতম চেষ্টা সর্বোচ্চ চেষ্টার চেয়ে বেশি হতে পারে না।"
 
 msgid "Minimum effort and Maximum effort cannot be the same"
-msgstr ""
+msgstr "ন্যূনতম চেষ্টা আর সর্বোচ্চ চেষ্টা তো একরকম হতে পারে না।"
 
 msgid "Dictionary mapping course run IDs to boolean values"
-msgstr ""
+msgstr "কোর্স রান আইডিগুলোর সাথে বুলিয়ান মানের ডিকশনারি"
 
 msgid "Restriction Type cannot be empty"
-msgstr ""
+msgstr "Restriction Type খালি রাখা যাবে না"
 
 msgid "Dictionary mapping course IDs to boolean values"
-msgstr ""
+msgstr "কোর্স আইডি-গুলোর সাথে বুলিয়ান ভ্যালুর ডিকশনারি"
 
 msgid "Languages that course runs in this program are offered in."
-msgstr ""
+msgstr "এই প্রোগ্রামের কোর্সগুলো {name} এ প্রদান করা হয়।"
 
 msgid "Languages that course runs in this program have available transcripts in."
-msgstr ""
+msgstr "এই প্রোগ্রামের কোর্সগুলো যে ভাষায় চলে, সেগুলোর ট্রান্সক্রিপ্ট এখানে পাওয়া যাবে।"
 
 msgid "An error occurred while setting the course run image for [{key}] in studio. All other fields were successfully saved in Studio."
-msgstr ""
+msgstr "স্টুডিওতে [{key}] এর জন্য কোর্স রান ইমেজ সেট করার সময় একটি ত্রুটি ঘটেছে। স্টুডিওতে অন্যান্য ক্ষেত্রগুলি সফলভাবে সংরক্ষণ করা হয়েছে।"
 
 msgid "Specifying both editable=1 and a q parameter is not supported."
-msgstr ""
+msgstr "এডিটেবল=১ এবং একই সাথে একটি প্রশ্ন প্যারামিটার নির্দিষ্ট করা সমর্থন করা হয় না।"
 
 msgid "You must include a course_uuid in your query parameters."
-msgstr ""
+msgstr "আপনার ক্যোয়ারী প্যারামিটারে একটি course_uuid অন্তর্ভুক্ত করতে হবে।"
 
 msgid "Missing value for: [{name}]. "
-msgstr ""
+msgstr "{name}-এর জন্য মান অনুপস্থিত।"
 
 msgid "Incorrect data sent. "
-msgstr ""
+msgstr "ভুল ডেটা পাঠানো হয়েছে।"
 
 msgid "Failed to set course run data: {}"
-msgstr ""
+msgstr "কোর্স রান ডেটা সেট করতে সমস্যা হয়েছে: {}"
 
 msgid "Can only update status, ofac restrictions, and ofac comment"
-msgstr ""
+msgstr "শুধু স্ট্যাটাস, ওফ্যাক বিধিনিষেধ, এবং ওফ্যাক কমেন্ট আপডেট করা যাবে।"
 
 msgid "The course run type '{course_run_type}' is not valid for this course type '{course_type}'."
-msgstr ""
+msgstr "এই কোর্সের ধরণের জন্য '{course_run_type}' কোর্স রান টাইপটি বৈধ নয়। '{course_type}'।"
 
 msgid "Course run is in review. Editing disabled."
-msgstr ""
+msgstr "কোর্সটি পর্যালোচনা করা হচ্ছে। সম্পাদনা বন্ধ করা হয়েছে।"
 
 msgid "Invalid parameter"
-msgstr ""
+msgstr "অবৈধ প্যারামিটার"
 
 msgid "Failed to set data: {}"
-msgstr ""
+msgstr "ডাটা সেট করা যায়নি: {}"
 
 msgid "Organization [{org}] does not exist. "
-msgstr ""
+msgstr "অর্গানাইজেশন [{org}] টি খুঁজে পাওয়া যায়নি।"
 
 msgid "Course Type [{course_type}] does not exist. "
-msgstr ""
+msgstr "কোর্সের ধরন [{course_type}] টি পাওয়া যাচ্ছে না।"
 
 msgid "Product Source [{product_source}] does not exist. "
-msgstr ""
+msgstr "প্রোডাক্ট সোর্স [{product_source}] খুঁজে পাওয়া যায়নি।"
 
 msgid "A course with key [{key}] already exists."
-msgstr ""
+msgstr "এই নামে ஏற்கனவே একটি কোর্স আছে যেখানে মূল [{key}] বিদ্যমান।"
 
 msgid "Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is already in use. Please update this field and try again."
-msgstr ""
+msgstr "কোর্স তৈরি করা সম্ভব হয়নি। '{url_slug}' URL slug টি ইতিমধ্যে ব্যবহার করা হয়েছে। অনুগ্রহ করে এই ফিল্ডটি পরিবর্তন করে আবার চেষ্টা করুন।"
 
 msgid "Switching entitlement types after being reviewed is not supported. Please reach out to your project coordinator for additional help if necessary."
-msgstr ""
+msgstr "পর্যালোচনা করার পরে entitlement-এর ধরণ পরিবর্তন করা সমর্থন করা হয় না। প্রয়োজনে অতিরিক্ত সহায়তার জন্য আপনার প্রোজেক্ট কো-অর্ডিনেটরের সাথে যোগাযোগ করুন।"
 
 msgid "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already in use. Please update this field and try again."
-msgstr ""
+msgstr "কোর্সটি সম্পাদনা করা যায়নি। '{url_slug}' এই কোর্স URL স্লাগটি অন্য কোর্সে ব্যবহার করা হয়েছে। অনুগ্রহ করে এই ক্ষেত্রটি পরিবর্তন করে আবার চেষ্টা করুন।"
 
 msgid "You are not permitted to access the API documentation."
-msgstr ""
+msgstr "আপনাকে API ডকুমেন্টেশন দেখার অনুমতি নেই।"
 
 msgid "Catalog name"
-msgstr ""
+msgstr "ক্যাটালগের নাম"
 
 msgid "Query to retrieve Course Run catalog contents"
-msgstr ""
+msgstr "কোর্স রান ক্যাটালগ কন্টেন্ট পুনরুদ্ধার করার জন্য প্রশ্ন"
 
 msgid "Query to retrieve Program catalog contents"
-msgstr ""
+msgstr "প্রোগ্রাম ক্যাটালগের বিষয়বস্তু পাওয়ার জন্য জিজ্ঞাসা"
 
 msgid "Include archived courses"
-msgstr ""
+msgstr "আর্কাইভ করা কোর্সগুলো অন্তর্ভুক্ত করুন"
 
 msgid "Personal info"
-msgstr ""
+msgstr "ব্যক্তিগত তথ্য"
 
 msgid "Permissions"
-msgstr ""
+msgstr "অনুমতি"
 
 msgid "Important dates"
 msgstr "গুরুত্বপূর্ণ তারিখসমূহ"
 
 msgid "API Configuration"
-msgstr ""
+msgstr "API কনফিগারেশন"
 
 msgid "Configure the APIs that will be used to retrieve data."
-msgstr ""
+msgstr "ডাটা পাওয়ার জন্য যে APIগুলো ব্যবহার করা হবে সেগুলো কনফিগার করুন।"
 
 msgid "Marketing Site Configuration"
-msgstr ""
+msgstr "মার্কেটিং সাইট কনফিগারেশন"
 
 msgid "Configure the marketing site URLs that will be used to retrieve data and create URLs."
-msgstr ""
+msgstr "মার্কেটিং সাইটের URL কনফিগার করুন যা ডেটা পুনরুদ্ধার এবং URL তৈরি করতে ব্যবহৃত হবে।"
 
 msgid "Analytics Configuration"
-msgstr ""
+msgstr "অ্যানালিটিক্স কনফিগারেশন"
 
 msgid "Configure the analytics API that will be used to retrieve enrollment data"
-msgstr ""
+msgstr "এন enrollment ডেটা পাওয়ার জন্য যে analytics API ব্যবহার করা হবে, সেটা কনফিগার করুন।"
 
 msgid "period must be one of {period_choices}."
-msgstr ""
+msgstr "সময়কাল অবশ্যই {period_choices} এর মধ্যে একটি হতে হবে।"
 
 msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
-msgstr ""
+msgstr "'rate' অবশ্যই DRF দ্বারা সংজ্ঞায়িত বিন্যাসে থাকতে হবে, যেমন '100/ঘণ্টা'।"
 
 msgid "Full Name"
 msgstr "নাম"
 
 msgid "Referral Tracking ID"
-msgstr ""
+msgstr "রেফারেল ট্র্যাকিং আইডি"
 
 msgid "The rate of requests to limit this user to. The format is specified by Django Rest Framework (see http://www.django-rest-framework.org/api-guide/throttling/)."
-msgstr ""
+msgstr "এই ব্যবহারকারীর জন্য রিকোয়েস্টের হার নির্ধারণ করুন। ফরম্যাটটি Django Rest Framework দ্বারা নির্দিষ্ট করা হয়েছে (দেখুন http://www.django-rest-framework.org/api-guide/throttling/)।"
 
 msgid "Short Code"
-msgstr ""
+msgstr "শর্ট কোড"
 
 msgid "Convenient code/slug used to identify this Partner (e.g. for management commands.)"
-msgstr ""
+msgstr "এই পার্টনারকে সনাক্ত করার জন্য সুবিধাজনক কোড/স্লাগ (যেমন: ম্যানেজমেন্ট কমান্ডের জন্য)।"
 
 msgid "Courses API URL"
-msgstr ""
+msgstr "কোর্স API URL"
 
 msgid "Course Mode API URL"
-msgstr ""
+msgstr "কোর্স মোড API URL"
 
 msgid "E-Commerce API URL"
-msgstr ""
+msgstr "ই-কমার্স এপিআই ইউআরএল"
 
 msgid "Organizations API URL"
-msgstr ""
+msgstr "সংস্থা API URL"
 
 msgid "Programs API URL"
-msgstr ""
+msgstr "প্রোগ্রাম API URL"
 
 msgid "Marketing Site API URL"
-msgstr ""
+msgstr "মার্কেটিং সাইট এপিআই ইউআরএল"
 
 msgid "Marketing Site URL"
-msgstr ""
+msgstr "মার্কেটিং সাইটের ঠিকানা"
 
 msgid "Marketing Site API Username"
-msgstr ""
+msgstr "মার্কেটিং সাইট এপিআই ইউজারনেম"
 
 msgid "Marketing Site API Password"
-msgstr ""
+msgstr "মার্কেটিং সাইট এপিআই পাসওয়ার্ড"
 
 msgid "Studio URL"
-msgstr ""
+msgstr "স্টুডিও ইউআরএল"
 
 msgid "Publisher URL"
-msgstr ""
+msgstr "প্রকাশকের URL"
 
 msgid "The base URL of your publisher service, if used. Example: https://publisher.example.com/"
-msgstr ""
+msgstr "যদি ব্যবহার করা হয়, তাহলে আপনার পাবলিশার সার্ভিসের বেস URL। উদাহরণ: https://publisher.example.com/"
 
 msgid "LMS URL"
-msgstr ""
+msgstr "এলএমএস ইউআরএল"
 
 msgid "LMS Admin URL"
-msgstr ""
+msgstr "LMS অ্যাডমিন ইউআরএল"
 
 msgid "The public URL of your LMS Django admin. Example: https://lms-internal.example.com/admin"
-msgstr ""
+msgstr "আপনার এলএমএস Django অ্যাডমিনের পাবলিক ইউআরএল। উদাহরণ: https://lms-internal.example.com/admin"
 
 msgid "Analytics API URL"
-msgstr ""
+msgstr "অ্যানালিটিক্স API URL"
 
 msgid "Analytics Access Token"
-msgstr ""
+msgstr "অ্যানালিটিক্স অ্যাক্সেস টোকেন"
 
 msgid "Partner"
 msgstr "পার্টনার"
 
 msgid "Partners"
-msgstr ""
+msgstr "অংশীদার"
 
 msgid "Salesforce Username"
-msgstr ""
+msgstr "Salesforce ইউজারনেম"
 
 msgid "Salesforce Password"
-msgstr ""
+msgstr "Salesforce পাসওয়ার্ড"
 
 msgid "Salesforce Organization Id"
-msgstr ""
+msgstr "Salesforce Organization ID"
 
 msgid "Salesforce Security Token"
-msgstr ""
+msgstr "Salesforce সিকিউরিটি টোকেন"
 
 msgid "Is a Salesforce Sandbox?"
-msgstr ""
+msgstr "এটা কি সেলসফোর্স স্যান্ডবক্স?"
 
 msgid "Case Record Type Id"
-msgstr ""
+msgstr "কেস রেকর্ড টাইপ আইডি"
 
 msgid "An error occurred while publishing the {model} to the marketing site. Please try again. If the error persists, please contact the Engineering Team."
-msgstr ""
+msgstr "মার্কেটিং সাইটে {model} পাবলিশ করার সময় একটি ত্রুটি ঘটেছে। অনুগ্রহ করে আবার চেষ্টা করুন। সমস্যাটি চললে, অনুগ্রহ করে ইঞ্জিনিয়ারিং টিমের সাথে যোগাযোগ করুন।"
 
 msgid "eligible for one-click purchase"
-msgstr ""
+msgstr "এক-ক্লিকেই কেনার যোগ্য"
 
 msgid "Yes"
-msgstr ""
+msgstr "হ্যাঁ"
 
 msgid "No"
-msgstr ""
+msgstr "না"
 
 msgid "Included course runs"
-msgstr ""
+msgstr "অন্তর্ভুক্ত কোর্স রান"
 
 msgid "Edit link"
-msgstr ""
+msgstr "লিঙ্কটি সম্পাদনা করুন"
 
 msgid "Edit course run exclusions"
-msgstr ""
+msgstr "কোর্স রানের ব্যতিক্রমগুলো পরিবর্তন করুন"
 
 msgid "(save and continue editing to create a link)"
-msgstr ""
+msgstr "সংরক্ষণ করুন এবং সম্পাদনা চালিয়ে যান একটি লিঙ্ক তৈরি করতে।"
 
 msgid "Successfully %(status)s %(count)d %(items)s."
-msgstr ""
+msgstr "সফলভাবে %(status)s %(count)d টি %(items)s।"
 
 msgid "Certificates"
-msgstr ""
+msgstr "সার্টিফিকেটসমূহ"
 
 msgid "Pathways to Degrees"
-msgstr ""
+msgstr "ডিগ্রি পাওয়ার পথ"
 
 msgid "Boot Camps"
-msgstr ""
+msgstr "বুট ক্যাম্প"
 
 msgid "Bachelor’s"
-msgstr ""
+msgstr "ব্যাচেলর"
 
 msgid "Master’s"
-msgstr ""
+msgstr "মাস্টার্স"
 
 msgid "Available now"
-msgstr ""
+msgstr "এখনই পাওয়া যাচ্ছে"
 
 msgid "Upcoming"
 msgstr "আগামী"
@@ -334,19 +334,19 @@ msgid "Archived"
 msgstr "আর্কাইভ করা হয়েছে"
 
 msgid "Available by subscription"
-msgstr ""
+msgstr "সাবস্ক্রিপশনের মাধ্যমে পাওয়া যাবে"
 
 msgid "Unpublished"
-msgstr ""
+msgstr "প্রকাশিত নয়"
 
 msgid "Awaiting Review from Legal"
-msgstr ""
+msgstr "লিগ্যাল থেকে পর্যালোচনার জন্য অপেক্ষা করা হচ্ছে"
 
 msgid "Awaiting Internal Review"
-msgstr ""
+msgstr "অভ্যন্তরীণ পর্যালোচনার জন্য অপেক্ষমান"
 
 msgid "Reviewed"
-msgstr ""
+msgstr "পর্যালোচনা করা হয়েছে"
 
 msgid "Published"
 msgstr "প্রকাশিত"
@@ -355,1096 +355,1096 @@ msgid "Retired"
 msgstr "অবসরপ্রাপ্ত"
 
 msgid "Instructor-paced"
-msgstr ""
+msgstr "শিক্ষক-নিয়ন্ত্রিত"
 
 msgid "Self-paced"
-msgstr ""
+msgstr "নিজের গতিতে"
 
 msgid "Active"
 msgstr "সক্রিয়"
 
 msgid "Deleted"
-msgstr ""
+msgstr "মুছে ফেলা হয়েছে"
 
 msgid "mooc"
-msgstr ""
+msgstr "মুক"
 
 msgid "spoc"
-msgstr ""
+msgstr "স্পোক"
 
 msgid "test"
-msgstr ""
+msgstr "টেস্ট"
 
 msgid "demo"
-msgstr ""
+msgstr "ডেমো"
 
 msgid "other"
-msgstr ""
+msgstr "অন্যান্য"
 
 msgid "Course Create"
-msgstr ""
+msgstr "কোর্স তৈরি করুন"
 
 msgid "Partial Update"
-msgstr ""
+msgstr "আংশিক হালনাগাদ"
 
 msgid "Course Rerun"
-msgstr ""
+msgstr "কোর্সটি পুনরায় শুরু করুন"
 
 msgid "Course Editor Update"
-msgstr ""
+msgstr "কোর্স এডিটর আপডেট"
 
 msgid "Pending"
-msgstr ""
+msgstr "অপেক্ষমান"
 
 msgid "Verified"
 msgstr "যাচাইকৃত"
 
 msgid "Processing"
-msgstr ""
+msgstr "প্রক্রিয়াকরণ করা হচ্ছে"
 
 msgid "Completed"
 msgstr "সম্পন্ন"
 
 msgid "Failed"
-msgstr ""
+msgstr "ব্যর্থ হয়েছে"
 
 msgid "Partially Completed"
 msgstr "আংশিকভাবে সম্পন্ন হয়েছে"
 
 msgid "Errored"
-msgstr ""
+msgstr "এরর হয়েছে"
 
 msgid "Honor"
-msgstr ""
+msgstr "সম্মান"
 
 msgid "Credit"
-msgstr ""
+msgstr "ক্রেডিট"
 
 msgid "Professional"
-msgstr ""
+msgstr "পেশাদার"
 
 msgid "Executive Education"
 msgstr "এক্সিকিউটিভ এডুকেশন"
 
 msgid "Paid Executive Education"
-msgstr ""
+msgstr "পেইড এক্সিকিউটিভ এডুকেশন"
 
 msgid "Unpaid Executive Education"
-msgstr ""
+msgstr "অপরিশোধিত এক্সিকিউটিভ এডুকেশন"
 
 msgid "Paid Bootcamp"
-msgstr ""
+msgstr "পেইড বুটক্যাম্প"
 
 msgid "Unpaid Bootcamp"
-msgstr ""
+msgstr "বকেয়া বুটক্যাম্প"
 
 msgid "Platform"
-msgstr ""
+msgstr "প্ল্যাটফর্ম"
 
 msgid "Organization"
 msgstr "সংস্থা"
 
 msgid "Short"
-msgstr ""
+msgstr "সংক্ষিপ্ত"
 
 msgid "Medium"
-msgstr ""
+msgstr "মাঝারি"
 
 msgid "Long"
-msgstr ""
+msgstr "দীর্ঘ"
 
 msgid "Short Course"
 msgstr "সংক্ষিপ্ত কোর্স"
 
 msgid "Sprint"
-msgstr ""
+msgstr "স্প্রিন্ট"
 
 msgid "Course Stack"
-msgstr ""
+msgstr "কোর্স স্ট্যাক"
 
 msgid "Custom B2B Enterprise"
-msgstr ""
+msgstr "কাস্টম বিটুবি এন্টারপ্রাইজ"
 
 msgid "Custom B2C"
-msgstr ""
+msgstr "কাস্টম বিটুসি"
 
 msgid "Existing course type {type} for {key} ({id}) doesn't match its own entitlements."
-msgstr ""
+msgstr " বিদ্যমান কোর্স টাইপ {type} এর জন্য {key} ({id}) এর নিজস্ব অধিকারের সাথে মিলছে না।"
 
 msgid "Existing run type {run_type} for {key} ({id}) doesn't match course type {type}.Skipping type."
-msgstr ""
+msgstr "现有 রান টাইপ {run_type} {key} ({id})-এর সাথে কোর্সের টাইপ {type} মিলছে না। টাইপটি বাদ দেওয়া হচ্ছে।"
 
 msgid "Existing run type {run_type} for {key} ({id}) doesn't match its own seats."
-msgstr ""
+msgstr "বিদ্যমান রান টাইপ {run_type} এর {key} ({id}) এর সিটের সাথে মিলছে না।"
 
 msgid "Course {key} ({id}) matched type {type}"
-msgstr ""
+msgstr "কোর্স {key} ({id}) {type} এর সাথে মিলেছে"
 
 msgid "Could not convert course {key} ({id}) to type {type}"
-msgstr ""
+msgstr "কোর্স {key} ({id}) কে {type} টাইপে পরিবর্তন করা যায়নি।"
 
 msgid "Not sending notification email for template {template} because no organization is defined for course {course}"
-msgstr ""
+msgstr "কোর্স {course}-এর জন্য কোনো সংস্থা নির্দিষ্ট করা নেই তাই টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেল পাঠানো হচ্ছে না।"
 
 msgid "Not sending notification email for template {template} because no project coordinator is defined for organization {org}"
-msgstr ""
+msgstr "অর্গানাইজেশন {org}-এর জন্য কোনো প্রজেক্ট কোঅর্ডিনেটর নির্দিষ্ট করা নেই তাই টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেল পাঠানো হচ্ছে না।"
 
 msgid "Not sending notification email for template {template} because no publisher URL is defined for partner {partner}"
-msgstr ""
+msgstr "পার্টনার {partner}-এর জন্য কোনো পাবলিশার ইউআরএল দেওয়া হয়নি তাই টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেইল পাঠানো হচ্ছে না।"
 
 msgid "Not sending notification email for template {template} because no studio URL is defined for partner {partner}"
-msgstr ""
+msgstr "টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেল পাঠানো হচ্ছে না, কারণ পার্টনার {partner}-এর জন্য স্টুডিও URL সংজ্ঞায়িত করা নেই।"
 
 msgid "legal team"
-msgstr ""
+msgstr "আইন বিষয়ক দল"
 
 msgid "Project Coordinator team"
-msgstr ""
+msgstr "প্রজেক্ট কোঅর্ডিনেটর টিম"
 
 msgid "course team"
-msgstr ""
+msgstr "কোর্স টিম"
 
 msgid "Legal review requested: {title}"
-msgstr ""
+msgstr "আইনগত পর্যালোচনার জন্য অনুরোধ করা হয়েছে: {title}"
 
 msgid "Course URL for {title}"
-msgstr ""
+msgstr "{title} কোর্সের URL"
 
 msgid "Review requested: {key} - {title}"
-msgstr ""
+msgstr "রিভিউয়ের জন্য অনুরোধ করা হয়েছে: {key} - {title}"
 
 msgid "Review complete: {title}"
-msgstr ""
+msgstr "রিভিউ সম্পন্ন হয়েছে: {title}"
 
 msgid "Published: {title}"
-msgstr ""
+msgstr "প্রকাশিত: {title}"
 
 msgid "Published: {key} - {title}"
-msgstr ""
+msgstr "প্রকাশিত: {key} - {title}"
 
 msgid "Comment added: {title}"
-msgstr ""
+msgstr "মন্তব্য করা হয়েছে: {title}"
 
 msgid "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or hyphens."
-msgstr ""
+msgstr "একটি বৈধ \"slug\" লিখুন যাতে অক্ষর, সংখ্যা, স্লাশ, আন্ডারস্কোর অথবা হাইফেন থাকতে পারে।"
 
 msgid "Programs can only be activated if they have a banner image."
-msgstr ""
+msgstr "প্রোগ্রামগুলো সক্রিয় করার জন্য একটি ব্যানার ইমেজ থাকতে হবে।"
 
 msgid "Tag to add to courses"
-msgstr ""
+msgstr "কোর্সগুলোতে যোগ করার ট্যাগ"
 
 msgid "UUIDs of courses to tag"
-msgstr ""
+msgstr "কোর্স ট্যাগ করার জন্য UUID"
 
 msgid "Use arguments from the TagCourseUUIDsConfig model instead of the command line."
-msgstr ""
+msgstr "কমান্ড লাইনের বদলে TagCourseUUIDsConfig মডেল থেকে আর্গুমেন্ট ব্যবহার করুন।"
 
 msgid "Missing required arguments"
-msgstr ""
+msgstr "প্রয়োজনীয় আর্গুমেন্ট অনুপস্থিত"
 
 msgid "Backpopulate new-style CourseType and CourseRunType where possible."
-msgstr ""
+msgstr "সম্ভব হলে নতুন স্টাইলের CourseType এবং CourseRunType রিpopulate করুন।"
 
 msgid "CODE"
-msgstr ""
+msgstr "কোড"
 
 msgid "Short code for a partner."
-msgstr ""
+msgstr "একটি পার্টনারের শর্ট কোড।"
 
 msgid "UUID"
-msgstr ""
+msgstr "ইউইউআইডি"
 
 msgid "Course to backpopulate."
-msgstr ""
+msgstr "কোর্সটি ব্যাকপপুলেট করার জন্য।"
 
 msgid "KEY"
-msgstr ""
+msgstr "কী"
 
 msgid "Organization to backpopulate."
-msgstr ""
+msgstr "ব্যাক populate করার জন্য সংস্থা।"
 
 msgid "CourseType/CourseRunType mismatches to allow. Specify like course-type-slug:run-type-slug."
-msgstr ""
+msgstr "কোর্স টাইপ/কোর্স রান টাইপ মেলানোর ক্ষেত্রে সমস্যা হয়েছে। কোর্স-টাইপ-স্লাগ:রান-টাইপ-স্লাগ এভাবে উল্লেখ করুন।"
 
 msgid "Actually commit the changes to the database."
-msgstr ""
+msgstr "আসলে ডাটাবেসে পরিবর্তনগুলো নিশ্চিত করুন।"
 
 msgid "Use arguments from the BackpopulateCourseTypeConfig model instead of the command line."
-msgstr ""
+msgstr "ব্যাকপপুলেটকোর্সটাইপকনফিগ মডেল থেকে আর্গুমেন্ট ব্যবহার করুন কমান্ড লাইনের পরিবর্তে।"
 
 msgid "You must specify --partner"
-msgstr ""
+msgstr "আপনাকে --partner উল্লেখ করতে হবে।"
 
 msgid "Supplied Course Run Type slug [{rt_slug}] does not exist."
-msgstr ""
+msgstr "সরবরাহকৃত কোর্স রান টাইপ স্লাগ [{rt_slug}] অস্তিত্বহীন।"
 
 msgid "Supplied Course Type slug [{ct_slug}] does not exist."
-msgstr ""
+msgstr "সরবরাহকৃত কোর্স টাইপ স্লাগ [{ct_slug}] টি বিদ্যমান নেই।"
 
 msgid "No courses found. Did you specify an argument?"
-msgstr ""
+msgstr "কোনো কোর্স খুঁজে পাওয়া যায়নি। আপনি কোনো শর্ত উল্লেখ করেছেন কি?"
 
 msgid "Could not backpopulate a course type for the following courses: {course_keys}"
-msgstr ""
+msgstr "নিম্নলিখিত কোর্সগুলোর জন্য কোর্স টাইপ পুনরুদ্ধার করা যায়নি: {course_keys}"
 
 msgid "Delete duplicate persons in course_metadata."
-msgstr ""
+msgstr "course_metadata-তে ডুপ্লিকেট পার্সনদের ডিলিট করুন।"
 
 msgid "PERSON"
-msgstr ""
+msgstr "ব্যক্তি"
 
 msgid "People to delete, in UUID:TARGET_UUID form."
-msgstr ""
+msgstr "UUID:TARGET_UUID ফর্মে ডিলিট করার জন্য লোকগুলো।"
 
 msgid "PARTNER"
-msgstr ""
+msgstr "পার্টনার"
 
 msgid "Use arguments from the DeletePersonDupsConfig model instead of the command line."
-msgstr ""
+msgstr "কমান্ড লাইনের বদলে DeletePersonDupsConfig মডেলের আর্গুমেন্টগুলো ব্যবহার করুন।"
 
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
-msgstr ""
+msgstr "ভুল আর্গুমেন্ট \"{}\", এটা UUID:TARGET_UUID এই ফরম্যাটে হওয়া উচিত।"
 
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr ""
+msgstr "ভুল আর্গুমেন্ট \"{}\", UUID গুলো সমান হতে পারবে না।"
 
 msgid "Deleting"
 msgstr "পোস্টগুলো ডিলিট করা হচ্ছে..."
 
 msgid "Would delete"
-msgstr ""
+msgstr "ডিলিট করবেন?"
 
 msgid "Name"
 msgstr "নাম"
 
 msgid "Endorsements"
-msgstr ""
+msgstr "সুপারিশ"
 
 msgid "Programs"
 msgstr "প্রোগ্রাম"
 
 msgid "Course Runs"
-msgstr ""
+msgstr "কোর্স চালান"
 
 msgid "Target"
-msgstr ""
+msgstr "লক্ষ্য"
 
 msgid "You must specify --partner-code"
-msgstr ""
+msgstr "আপনাকে --partner-code উল্লেখ করতে হবে।"
 
 msgid "You must specify at least one person"
-msgstr ""
+msgstr "আপনাকে কমপক্ষে একজন ব্যক্তি উল্লেখ করতে হবে।"
 
 msgid "Publishing course run {key}"
-msgstr ""
+msgstr "Publishing কোর্স {key} চলছে"
 
 msgid "Failed to publish {key}"
-msgstr ""
+msgstr "{key} পাবলিশ করা যায়নি।"
 
 msgid "Successfully published {key}"
-msgstr ""
+msgstr "সফলভাবে {key} পাবলিশ করা হয়েছে।"
 
 msgid "One or more course runs failed to publish."
-msgstr ""
+msgstr "এক বা একাধিক কোর্সের রান পাবলিশ করা যায়নি।"
 
 msgid "Remove all redirects to all courses"
-msgstr ""
+msgstr "সমস্ত কোর্সের রিডাইরেক্টগুলো সরিয়ে ফেলুন"
 
 msgid "Redirects to remove"
-msgstr ""
+msgstr "সরানোর জন্য রিডাইরেক্ট করা হচ্ছে"
 
 msgid "Use arguments from the RemoveRedirectsConfig model instead of the command line."
-msgstr ""
+msgstr "কমান্ড লাইনের পরিবর্তে RemoveRedirectsConfig মডেল থেকে আর্গুমেন্ট ব্যবহার করুন।"
 
 msgid "Invalid arguments"
-msgstr ""
+msgstr "ভুল আর্গুমেন্ট"
 
 msgid "Cannot remove active url_slug {url_slug}"
-msgstr ""
+msgstr "সক্রিয় url_slug {url_slug} সরানো যাচ্ছে না।"
 
 msgid "Path /course/{url_slug} not in use, nothing to delete"
-msgstr ""
+msgstr "Path /course/{url_slug} ব্যবহার করা হচ্ছে না, ডিলিট করার কিছু নেই।"
 
 msgid "Path {url_path} not in use, nothing to delete"
-msgstr ""
+msgstr "পাথ {url_path} ব্যবহার করা হচ্ছে না, ডিলিট করার কিছু নেই।"
 
 msgid "One or more courses failed to unpublish."
-msgstr ""
+msgstr "একটি বা একাধিক কোর্স আনপাবলিশ করা যায়নি।"
 
 msgid "Successfully unpublished runs in course {key}"
-msgstr ""
+msgstr "কোর্স {key}-এর রানগুলো সফলভাবে আনপাবলিশ করা হয়েছে।"
 
 msgid "Failed to unpublish runs in course {key}"
-msgstr ""
+msgstr "কোর্স {key}-এর রান আনপাবলিশ করতে সমস্যা হয়েছে।"
 
 msgid "Please do not use any spaces or special characters other than period, underscore or hyphen. This key will be used in the course's course key."
-msgstr ""
+msgstr "দয়া করে কোনো স্পেস বা বিশেষ অক্ষর ব্যবহার করবেন না শুধুমাত্র পিরিয়ড_আন্ডারস্কোর অথবা হাইফেন ব্যবহার করুন।এই কীটি কোর্সের কোর্স কী-তে ব্যবহৃত হবে।"
 
 msgid "If populated, this field will overwrite name in platform."
-msgstr ""
+msgstr "যদি এই ঘর পূরণ করা হয়, তাহলে এটি প্ল্যাটফর্মে {name} এর পরিবর্তে এই মানটি ব্যবহার করবে।"
 
 msgid "Spanish Description"
-msgstr ""
+msgstr "স্প্যানিশ বর্ণনা"
 
 msgid "For seo, this field allows for alternate spanish description to be manually inputted"
-msgstr ""
+msgstr "এসইও-এর জন্য, এই ফিল্ডটি স্প্যানিশ ভাষায় বিকল্প বর্ণনা হাতেকলমে লেখার সুযোগ দেয়।"
 
 msgid "Pick a tag from the suggestions. To make a new tag, add a comma after the tag name."
-msgstr ""
+msgstr "সাজেশন থেকে একটা ট্যাগ বেছে নিন। নতুন ট্যাগ বানানোর জন্য, ট্যাগের নামের পরে কমা দিন।"
 
 msgid "Automatically generate course run keys"
-msgstr ""
+msgstr "স্বয়ংক্রিয়ভাবে কোর্সের রান কী তৈরি করা"
 
 msgid "When this flag is enabled, the key of a new course run will be auto generated.  When this flag is disabled, the key can be manually set."
-msgstr ""
+msgstr "এই ফ্ল্যাগটি চালু থাকলে নতুন কোর্সের রান-এর কী স্বয়ংক্রিয়ভাবে তৈরি হবে। এই ফ্ল্যাগটি বন্ধ থাকলে কী manualmente সেট করা যাবে।"
 
 msgid "This field signifies if any of this org's courses are in the enterprise subscription catalog"
-msgstr ""
+msgstr "এই ক্ষেত্রটি নির্দেশ করে এই প্রতিষ্ঠানের কোনো কোর্স এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে আছে কিনা।"
 
 msgid ""
 "The 6 character-hex-value of the orgnization theme color,\"\"\"\"\"\"\"\"\""\n
 "            all related course under same organization will use this color as theme color.\"\"\"\"\"\"\"\"\""\n
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
-msgstr ""
+msgstr "সংস্থার থিম রঙের ৬ অক্ষরের হেক্স মান। এই রঙের থিম কালারটি একই সংস্থার অধীনে থাকা সকল কোর্সে ব্যবহৃত হবে। (যেমন: \"ff0000\" মানে লাল)। # দেওয়ার দরকার নেই।"
 
 msgid "The timestamp of the last time the organization data was modified."
-msgstr ""
+msgstr "সংস্থা ডেটা শেষ কবে পরিবর্তন করা হয়েছিল তার সময়সীমা।"
 
 msgid "Please do not use any spaces or special characters other than period, underscore or hyphen in the key field."
-msgstr ""
+msgstr "অনুগ্রহ করে {name}, কোনো স্পেস বা বিশেষ অক্ষর ব্যবহার করবেন না কী ফিল্ডে, শুধুমাত্র পিরিয়ড, আন্ডারস্কোর অথবা হাইফেন ব্যবহার করতে পারবেন।"
 
 msgid "Corresponding organization code in an external product source"
-msgstr ""
+msgstr "বাহ্যিক পণ্যের উৎসে সংশ্লিষ্ট প্রতিষ্ঠানের কোড"
 
 msgid "LevelType model translations"
-msgstr ""
+msgstr "LevelType মডেলের অনুবাদ"
 
 msgid "Seat types that qualify for completion of programs of this type. Learners completing associated courses, but enrolled in other seat types, will NOT have their completion of the course counted toward the completion of the program."
-msgstr ""
+msgstr "এই ধরণের প্রোগ্রামের সমাপ্তির জন্য যোগ্য আসন ধরণগুলো। সংশ্লিষ্ট কোর্স সম্পন্ন করা শিক্ষার্থীরা, কিন্তু অন্য আসন ধরনে নথিভুক্ত থাকলে, তাদের কোর্সের সমাপ্তি এই প্রোগ্রামের সমাপ্তির দিকে গণনা করা হবে না।"
 
 msgid "Please provide an image file with transparent background"
-msgstr ""
+msgstr "দয়া করে স্বচ্ছ ব্যাকগ্রাউন্ডযুক্ত একটি ইমেজ ফাইল দিন।"
 
 msgid "Leave this field blank to have the value generated automatically."
-msgstr ""
+msgstr "এই ঘরটি খালি রাখলে স্বয়ংক্রিয়ভাবে মান তৈরি হবে।"
 
 msgid "Name of the external source."
-msgstr ""
+msgstr "বাহ্যিক উৎসের নাম।"
 
 msgid "Description of the external source."
-msgstr ""
+msgstr "বাহ্যিক উৎসের বর্ণনা।"
 
 msgid "Programs of these types will be OFAC restricted"
-msgstr ""
+msgstr "এই ধরনের প্রোগ্রামগুলি OFAC দ্বারা নিয়ন্ত্রিত হবে"
 
 msgid "ProgramType model translations"
-msgstr ""
+msgstr "ProgramType মডেল অনুবাদ"
 
 msgid "This mode requires ID verification."
-msgstr ""
+msgstr "এই মোডে আইডি যাচাইকরণ প্রয়োজন।"
 
 msgid "Completion can grant credit toward an organization’s degree."
-msgstr ""
+msgstr "কোর্সটি সম্পন্ন করলে কোনো প্রতিষ্ঠানের ডিগ্রির দিকে ক্রেডিট যোগ হতে পারে।"
 
 msgid "Certificate type granted if this mode is eligible for a certificate, or blank if not."
-msgstr ""
+msgstr "যদি এই মোডটি সার্টিফিকেটের জন্য যোগ্য হয় তবে প্রদত্ত সার্টিফিকেটের ধরণ, অন্যথায় খালি রাখুন।"
 
 msgid "Who gets paid for the course? Platform is the site owner, Organization is the school."
-msgstr ""
+msgstr "এই কোর্সের পেমেন্টটা কে পাবে? প্ল্যাটফর্ম মানে হল সাইটের মালিক, আর অর্গানাইজেশন মানে হল স্কুল।"
 
 msgid "Sets the order for displaying Course Run Types."
-msgstr ""
+msgstr "কোর্স রান টাইপগুলো দেখানোর ক্রম সেট করুন।"
 
 msgid "Leave this blank to allow all orgs. Otherwise, specifies which orgs can see this course type in Publisher."
-msgstr ""
+msgstr "এটা খালি রাখলে সব অর্গ দেখতে পারবে। অন্যথায়, কোন অর্গগুলো পাবলিশারে এই কোর্স টাইপ দেখতে পারবে, তা উল্লেখ করুন।"
 
 msgid "Subject model translations"
-msgstr ""
+msgstr "বিষয় মডেল অনুবাদ"
 
 msgid "Topic model translations"
-msgstr ""
+msgstr "বিষয় মডেলের অনুবাদ"
 
 msgid "SEO Meta tags for Products"
-msgstr ""
+msgstr "পণ্যগুলির জন্য এসইও মেটা ট্যাগ"
 
 msgid "The ID of the Taxi Form (by 2U) that would be rendered in place of the hubspot capture form"
-msgstr ""
+msgstr "2U কর্তৃক রেন্ডার করা ট্যাক্সি ফর্মের আইডি (যা হাবস্পট ক্যাপচার ফর্মের স্থানে প্রদর্শিত হবে)"
 
 msgid "The grouping of the Taxi Form (by 2U) that would be rendered instead of the hubspot capture form"
-msgstr ""
+msgstr "২ইউ-এর ট্যাক্সি ফর্মের গ্রুপিং যা হাবস্পট ক্যাপচার ফর্মের পরিবর্তে রেন্ডার করা হবে"
 
 msgid "The URL of the paid landing page on external site"
-msgstr ""
+msgstr "বাহ্যিক সাইটে পেইড ল্যান্ডিং পেজের URL"
 
 msgid "The URL of the organic landing page on external site"
-msgstr ""
+msgstr "বাহ্যিক সাইটে অর্গানিক ল্যান্ডিং পেজের URL"
 
 msgid "The start date of the external course offering for marketing purpose"
-msgstr ""
+msgstr "মার্কেটিং এর উদ্দেশ্যে বাহ্যিক কোর্স অফারের শুরু হওয়ার তারিখ"
 
 msgid "The ends date of the external course offering for marketing purpose"
-msgstr ""
+msgstr "মার্কেটিং এর উদ্দেশ্যে বহিরাগত কোর্স অফারের শেষ তারিখ"
 
 msgid "The suggested deadline for enrollment for marketing purpose"
-msgstr ""
+msgstr "মার্কেটিং এর জন্য ভর্তির প্রস্তাবিত শেষ তারিখ"
 
 msgid "The identifier for a product variant."
-msgstr ""
+msgstr "একটি পণ্যের ভিন্নতার পরিচিতি নম্বর।"
 
 msgid "Course override"
-msgstr ""
+msgstr "কোর্স ওভাররাইড"
 
 msgid "This field allows for override the default course term"
-msgstr ""
+msgstr "এই ক্ষেত্রটি ডিফল্ট কোর্স টার্ম পরিবর্তন করার সুযোগ দেয়।"
 
 msgid "This field contain external course marketing type specific to product lines"
-msgstr ""
+msgstr "এই ফিল্ডে পণ্য লাইনের জন্য বিশেষভাবে বাহ্যিক কোর্স মার্কেটিংয়ের ধরন উল্লেখ করা হবে।"
 
 msgid "Determines weather the course should be displayed on the owning organization's page"
-msgstr ""
+msgstr "এই কোর্সটি মালিকানা সংস্থা/প্রতিষ্ঠানের পেজে দেখানো হবে কিনা তা নির্ধারণ করে।"
 
 msgid "A list of major works by this person. Must be valid HTML."
-msgstr ""
+msgstr "এই ব্যক্তির প্রধান কাজগুলোর তালিকা। অবশ্যই বৈধ HTML হতে হবে।"
 
 msgid "People"
-msgstr ""
+msgstr "লোকেরা"
 
 msgid "Add the collaborator image, please make sure its dimensions are 200x100px"
-msgstr ""
+msgstr "সহকর্মীর ছবি যোগ করুন, দয়া করে নিশ্চিত করুন ছবির মাপ যেন 200x100 পিক্সেল হয়।"
 
 msgid "U.S. Value Per Lead"
-msgstr ""
+msgstr "মার্কিন যুক্তরাষ্ট্রের প্রতি লিডের মূল্য"
 
 msgid "U.S. value per lead in U.S. dollars."
-msgstr ""
+msgstr "মার্কিন ডলারে ইউ.এস.-এর প্রতি লিডের মূল্য।"
 
 msgid "International Value Per Lead"
-msgstr ""
+msgstr "আন্তর্জাতিক লিড প্রতি মূল্য"
 
 msgid "International value per lead in U.S. dollars."
-msgstr ""
+msgstr "মার্কিন ডলারে প্রতি লিডের আন্তর্জাতিক মূল্য।"
 
 msgid "U.S. Value Per Click"
-msgstr ""
+msgstr "মার্কিন যুক্তরাষ্ট্রের প্রতি ক্লিকের মূল্য"
 
 msgid "U.S. value per click in U.S. dollars."
-msgstr ""
+msgstr "মার্কিন যুক্তরাষ্ট্রে প্রতি ক্লিকের মূল্য (মার্কিন ডলারে)।"
 
 msgid "International Value Per Click"
-msgstr ""
+msgstr "আন্তর্জাতিক প্রতি ক্লিকের মূল্য"
 
 msgid "International value per click in U.S. dollars."
-msgstr ""
+msgstr "মার্কিন ডলারে আন্তর্জাতিকভাবে প্রতি ক্লিকের মূল্য।"
 
 msgid "Latitude"
-msgstr ""
+msgstr "অক্ষাংশ"
 
 msgid "Longitude"
-msgstr ""
+msgstr "দৈর্ঘ্যরেখা"
 
 msgid "Allowlist"
-msgstr ""
+msgstr "অনুমোদিত তালিকা"
 
 msgid "Blocklist"
-msgstr ""
+msgstr "ব্লকলিস্ট"
 
 msgid "When making reruns for this course, they will use this key instead of the course key."
-msgstr ""
+msgstr "এই কোর্সের জন্য রিরান করার সময়, তারা কোর্স কী-এর পরিবর্তে এই কী ব্যবহার করবে।"
 
 msgid "The actual duration of this course as experienced by learners who complete it."
-msgstr ""
+msgstr "যারা কোর্সটি সম্পন্ন করেছেন তাদের অভিজ্ঞতায় এই কোর্সের প্রকৃত সময়কাল।"
 
 msgid "Add the course image"
-msgstr ""
+msgstr "কোর্স এর ছবি যোগ করুন"
 
 msgid "FAQ"
-msgstr ""
+msgstr "সাধারণ জিজ্ঞাসা"
 
 msgid "Total number of learners who have enrolled in this course"
-msgstr ""
+msgstr "এই কোর্সে মোট কতজন শিক্ষার্থী ভর্তি হয়েছেন"
 
 msgid "Total number of learners who have enrolled in this course in the last 6 months"
-msgstr ""
+msgstr "গত ৬ মাসে এই কোর্সে মোট {name} জন শিক্ষার্থী ভর্তি হয়েছেন।"
 
 msgid "Course number format e.g CS002x, BIO1.1x, BIO1.2x"
-msgstr ""
+msgstr "কোর্স নম্বর ফরম্যাট যেমন: CS002x, BIO1.1x, BIO1.2x"
 
 msgid "Additional Information"
-msgstr ""
+msgstr "অতিরিক্ত তথ্য"
 
 msgid "The last time this course was modified in the database."
-msgstr ""
+msgstr "এই কোর্সটি ডাটাবেসে শেষ কবে পরিবর্তন করা হয়েছিল।"
 
 msgid "This field signifies if this course is in the enterprise subscription catalog"
-msgstr ""
+msgstr "এই ক্ষেত্রটি নির্দেশ করে যে এই কোর্সটি এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে আছে কিনা।"
 
 msgid "If checked, this item will not be indexed in Algolia and will not show up in search results."
-msgstr ""
+msgstr "যদি এই অপশনটি নির্বাচন করা হয়, তাহলে এই আইটেমটি অ্যালগোলিয়াতে ইনডেক্স করা হবে না এবং সার্চ রেজাল্টে দেখা যাবে না।"
 
 msgid "If checked, the About Page will have a meta tag with noindex value"
-msgstr ""
+msgstr "যদি চেক করা হয়, তাহলে অ্যাবাউট পেজে নোইনডেক্স ভ্যালুসহ একটি মেটা ট্যাগ থাকবে।"
 
 msgid "Watchers"
-msgstr ""
+msgstr "অনুসারী"
 
 msgid "The list of email addresses that will be notified if any of the course runs is published or scheduled."
-msgstr ""
+msgstr "যদি কোনো কোর্সের রান পাবলিশ বা শিডিউল করা হয়, তাহলে এই ইমেইল ঠিকানাগুলোতে নোটিফিকেশন পাঠানো হবে।"
 
 msgid "Future"
-msgstr ""
+msgstr "ভবিষ্যৎ"
 
 msgid "Past"
-msgstr ""
+msgstr "অতীতে"
 
 msgid "Blocked"
-msgstr ""
+msgstr "ব্লক করা"
 
 msgid "Unrestricted"
-msgstr ""
+msgstr "সীমাহীন"
 
 msgid "Title specific for this run of a course. Leave this value blank to default to the parent course's title."
-msgstr ""
+msgstr "এই কোর্সের এই সংস্করণের জন্য নির্দিষ্ট শিরোনাম। প্যারেন্ট কোর্সের শিরোনামে ডিফল্ট করার জন্য এই মানটি খালি রাখুন।"
 
 msgid "Short description specific for this run of a course. Leave this value blank to default to the parent course's short_description attribute."
-msgstr ""
+msgstr "এই কোর্সের এই বিশেষ সেশনের জন্য সংক্ষিপ্ত বর্ণনা। এই মানটি খালি রাখলে, এটি প্যারেন্ট কোর্সের short_description বৈশিষ্ট্যটির ডিফল্ট মান ব্যবহার করবে।"
 
 msgid "Full description specific for this run of a course. Leave this value blank to default to the parent course's full_description attribute."
-msgstr ""
+msgstr "এই কোর্সের এই সেশনের জন্য বিস্তারিত বর্ণনা। প্যারেন্ট কোর্সের `full_description` অ্যাট্রিবিউটের ডিফল্ট মান ব্যবহার করতে এই ফিল্ডটি খালি রাখুন।"
 
 msgid "Estimated minimum number of hours per week needed to complete a course run."
-msgstr ""
+msgstr "একটি কোর্স সম্পন্ন করতে প্রতি সপ্তাহে আনুমানিক সর্বনিম্ন কত ঘণ্টা সময় লাগতে পারে।"
 
 msgid "Estimated maximum number of hours per week needed to complete a course run."
-msgstr ""
+msgstr "একটি কোর্স সম্পন্ন করতে প্রতি সপ্তাহে আনুমানিক সর্বোচ্চ কত ঘণ্টা লাগতে পারে।"
 
 msgid "Estimated number of weeks needed to complete this course run."
-msgstr ""
+msgstr "এই কোর্সটি শেষ করতে আনুমানিক কত সপ্তাহ লাগতে পারে।"
 
 msgid "A JSON dict detailing the available translations and transcriptions for this run. The dict has two keys: translation_languages and transcription_languages."
-msgstr ""
+msgstr "এই রানটির জন্য উপলব্ধ অনুবাদ এবং প্রতিলিপিগুলোর বিবরণ দেওয়া একটি JSON ডিকশনারি। ডিকশনারিটিতে দুটি কী আছে: translation_languages এবং transcription_languages।"
 
 msgid "Total number of learners who have enrolled in this course run"
-msgstr ""
+msgstr "এই কোর্সে মোট {name} জন শিক্ষার্থী ভর্তি হয়েছে।"
 
 msgid "Total number of learners who have enrolled in this course run in the last 6 months"
-msgstr ""
+msgstr "গত ৬ মাসে এই কোর্সে মোট কতজন শিক্ষার্থী ভর্তি হয়েছে"
 
 msgid "Whether this run should be hidden from API responses.  Do not edit here - this value will be overwritten by the \"Course Visibility In Catalog\" field in Studio via Refresh Course Metadata."
-msgstr ""
+msgstr "এই রানটি API রেসপন্স থেকে লুকানো হবে কিনা। এখানে সম্পাদনা করবেন না - স্টুডিওর \"কোর্স ভিজিবিলিটি ইন ক্যাটালগ\" ফিল্ডের মাধ্যমে রিফ্রেশ কোর্স মেটাডেটার সময় এই মান পরিবর্তন করা হবে।"
 
 msgid "Indicates whether the course relation has been manually overridden."
-msgstr ""
+msgstr "এই কোর্স রিলেশনটি ম্যানুয়ালি ওভাররাইড করা হয়েছে কিনা তা নির্দেশ করে।"
 
 msgid "'What You Will Learn' description for this particular course run. Leave this value blank to default to the parent course's Outcome attribute."
-msgstr ""
+msgstr "এই কোর্সের মাধ্যমে আপনি যা শিখবেন (এই বিশেষ কোর্সের জন্য)। এই মানটি খালি রাখলে, এটি মূল কোর্সের Outcome অ্যাট্রিবিউটের সাথে ডিফল্ট হবে।"
 
 msgid "Add OFAC restriction text to the FAQ section of the Marketing site"
-msgstr ""
+msgstr "মার্কেটিং সাইটের প্রায়শই জিজ্ঞাসিত প্রশ্ন (FAQ) বিভাগে OFAC বিধিনিষেধ সংক্রান্ত লেখা যোগ করুন"
 
 msgid "This calculated field signifies if this course run is in the enterprise subscription catalog"
-msgstr ""
+msgstr "এই ক্যালকুলেটেড ফিল্ডটি নির্দেশ করে যে এই কোর্স রানটি এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে আছে কিনা।"
 
 msgid "The identifier for a product variant. This is used to link a course run to a product variant for external LOBs (i.e; ExecEd & Bootcamps)."
-msgstr ""
+msgstr "একটি পণ্যের ভিন্নতার পরিচিতি নম্বর। এটি কোর্স রানকে বাহ্যিক ব্যবসার ক্ষেত্রগুলির (যেমন: ExecEd ও বুটক্যাম্প) সাথে যুক্ত করতে ব্যবহৃত হয়।"
 
 msgid "Current"
-msgstr ""
+msgstr "বর্তমান"
 
 msgid "Starting Soon"
 msgstr "শীঘ্রই শুরু হচ্ছে"
 
 msgid "Switching seat types after being reviewed is not supported. Please reach out to your project coordinator for additional help if necessary."
-msgstr ""
+msgstr "পর্যালোচনা করার পরে সিটের ধরন পরিবর্তন করা সমর্থন করা হয় না। প্রয়োজনে অতিরিক্ত সহায়তার জন্য আপনার প্রকল্প সমন্বয়কের সাথে যোগাযোগ করুন।"
 
 msgid "Change careers"
-msgstr ""
+msgstr "কেরিয়ার পরিবর্তন করুন"
 
 msgid "Job advancement"
-msgstr ""
+msgstr "চাকরির উন্নতি"
 
 msgid "Learn valuable skills"
-msgstr ""
+msgstr "মূল্যবান দক্ষতা শিখুন"
 
 msgid "Learn for fun"
-msgstr ""
+msgstr "আনন্দ করে শিখুন"
 
 msgid "FAQs"
-msgstr ""
+msgstr "FAQ"
 
 msgid "The user-facing display title for this Program."
-msgstr ""
+msgstr "এই প্রোগ্রামের ব্যবহারকারীর জন্য প্রদর্শিত শিরোনাম।"
 
 msgid "A brief, descriptive subtitle for the Program."
-msgstr ""
+msgstr "প্রোগ্রামটির একটি সংক্ষিপ্ত, বর্ণনাকারী উপশিরোনাম।"
 
 msgid "A brief hook for the marketing website"
-msgstr ""
+msgstr "মার্কেটিং ওয়েবসাইটের জন্য একটি সংক্ষিপ্ত পরিচিতি"
 
 msgid "The lifecycle status of this Program."
-msgstr ""
+msgstr "এই প্রোগ্রামের লাইফসাইকেল স্ট্যাটাস।"
 
 msgid "If this box is not checked, courses will be ordered as in the courses select box above."
-msgstr ""
+msgstr "যদি এই বাক্সটি টিক দেওয়া না হয়, তাহলে কোর্সগুলো উপরের কোর্স নির্বাচন বক্সের মতো করেই সাজানো হবে।"
 
 msgid "This field is now deprecated (ECOM-6021).Estimated number of weeks needed to complete a course run belonging to this program."
-msgstr ""
+msgstr "এই ফিল্ডটি এখন বাতিল করা হয়েছে (ECOM-6021)। এই প্রোগ্রামের অধীনে একটি কোর্স সম্পন্ন করতে আনুমানিক কত সপ্তাহ লাগতে পারে।"
 
 msgid "DEPRECATED: Use the card image field"
-msgstr ""
+msgstr "ব্যবহার করা হচ্ছে না: কার্ডের ইমেজ ক্ষেত্রটি ব্যবহার করুন"
 
 msgid "This field can be used by API clients to determine the order in which instructors will be displayed on program pages. Instructors in this list should appear before all others associated with this programs courses runs."
-msgstr ""
+msgstr "এই ক্ষেত্রটি API ক্লায়েন্টদের প্রোগ্রামের পেজে প্রশিক্ষকদের প্রদর্শনের ক্রম নির্ধারণ করতে ব্যবহার করা যেতে পারে। এই তালিকার প্রশিক্ষকদের এই প্রোগ্রামের কোর্স রানের সাথে যুক্ত অন্য সকলের আগে প্রদর্শিত হওয়া উচিত।"
 
 msgid "The description of credit redemption for courses in program"
-msgstr ""
+msgstr "প্রোগ্রাম-এর কোর্সগুলির জন্য ক্রেডিট রিডেম্পশনের বিবরণ"
 
 msgid "Allow courses in this program to be purchased in a single transaction"
-msgstr ""
+msgstr "এই প্রোগ্রামের কোর্সগুলো একসাথে কেনার সুযোগ দিন।"
 
 msgid "Hide program on marketing site landing and search pages. This program MAY have a detail page."
-msgstr ""
+msgstr "মার্কেটিং সাইটের ল্যান্ডিং এবং সার্চ পেজ থেকে প্রোগ্রামটি লুকিয়ে রাখুন। এই প্রোগ্রামের ডিটেইল পেজ থাকতেও পারে।"
 
 msgid "Total number of learners who have enrolled in courses this program"
-msgstr ""
+msgstr "এই প্রোগ্রামে এই পর্যন্ত মোট {name} জন শিক্ষার্থী নথিভুক্ত হয়েছে।"
 
 msgid "Total number of learners who have enrolled in courses in this program in the last 6 months"
-msgstr ""
+msgstr "গত ৬ মাসে এই প্রোগ্রামে কোর্সে নথিভুক্ত শিক্ষার্থীর মোট সংখ্যা"
 
 msgid "Number of credits a learner will earn upon successful completion of the program"
-msgstr ""
+msgstr "সফলভাবে প্রোগ্রামটি সম্পন্ন করার পরে একজন শিক্ষার্থী কত ক্রেডিট পাবে"
 
 msgid "This calculated field signifies if all the courses in this program are included in the enterprise subscription catalog "
-msgstr ""
+msgstr "এই ক্যালকুলেটেড ফিল্ডটি নির্দেশ করে যে এই প্রোগ্রামের সমস্ত কোর্স এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে অন্তর্ভুক্ত আছে কিনা।"
 
 msgid "A field to override Organization short code alias specific for this program."
-msgstr ""
+msgstr "এই প্রোগ্রামটির জন্য নির্দিষ্ট করে অর্গানাইজেশন শর্ট কোড উপনাম পরিবর্তন করার ক্ষেত্র।"
 
 msgid "A field to override Organization logo specific for this program."
-msgstr ""
+msgstr "এই প্রোগ্রামটির জন্য নির্দিষ্ট করে অর্গানাইজেশন লোগো পরিবর্তন করার ক্ষেত্র।"
 
 msgid "Primary subject field specific for this program. Useful field in case there are no courses associated with this program."
-msgstr ""
+msgstr "এই প্রোগ্রামের জন্য নির্দিষ্ট প্রাথমিক বিষয় ক্ষেত্র। এই প্রোগ্রাম এর সাথে কোনো কোর্স যুক্ত না থাকলে এই ক্ষেত্রটি কাজে লাগবে।"
 
 msgid "Level type specific for this program. Useful field in case there are no courses associated with this program."
-msgstr ""
+msgstr "এই প্রোগ্রামের জন্য নির্দিষ্ট লেভেল টাইপ। এই প্রোগ্রামের সাথে কোনো কোর্স যুক্ত না থাকলে এই ফিল্ডটি কাজে লাগবে।"
 
 msgid "Language code specific for this program. Useful field in case there are no courses associated with this program."
-msgstr ""
+msgstr "এই প্রোগ্রামের জন্য নির্দিষ্ট ভাষা কোড। যদি এই প্রোগ্রামের সাথে কোনো কোর্স যুক্ত না থাকে তাহলে এই ক্ষেত্রটি কাজে লাগবে।"
 
 msgid "Useful field to overwrite the duration of a program. It can be a text describing a period of time, Ex: 6-9 months."
-msgstr ""
+msgstr "একটি প্রোগ্রামের সময়সীমা পরিবর্তন করার জন্য দরকারি ক্ষেত্র। এখানে সময়ের একটি বর্ণনা লেখা যেতে পারে, যেমন: ৬-৯ মাস।"
 
 msgid "Pick a tag/label from the suggestions. To make a new tag, add a comma after the tag name."
-msgstr ""
+msgstr "সুপারিশগুলো থেকে একটা ট্যাগ/লেবেল পছন্দ করুন। নতুন ট্যাগ তৈরি করতে, ট্যাগের নামের পরে কমা দিন।"
 
 msgid "The last time this program was modified."
-msgstr ""
+msgstr "এই প্রোগ্রামটি শেষ কবে পরিবর্তন করা হয়েছিল।"
 
 msgid "ID"
-msgstr ""
+msgstr "আইডি"
 
 msgid "The actual rank number"
-msgstr ""
+msgstr "প্রকৃত র‍্যাঙ্ক নম্বর"
 
 msgid "What does the rank number mean"
-msgstr ""
+msgstr "র‍্যাঙ্ক নম্বরটা কী মানে?"
 
 msgid "From where the rank is obtained"
-msgstr ""
+msgstr "র‍্যাঙ্কটা কোথা থেকে পাওয়া গেছে"
 
 msgid "Callback URL to partner application flow"
-msgstr ""
+msgstr "পার্টনার অ্যাপ্লিকেশনের ফ্লো-এর জন্য কলব্যাক ইউআরএল"
 
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
-msgstr ""
+msgstr "সামগ্রিক প্রোগ্রামের র‍্যাঙ্কিং (যেমন: \"#1 ইউ.এস.-এ\")"
 
 msgid ""
 "The 6 character hex value of the color to make the banner borders\"\"\"\"\"\"\"\"\""\n
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
-msgstr ""
+msgstr " ব্যানারের বর্ডারের জন্য ৬ অক্ষরের হেক্স কোড দিন (যেমন: \"ff0000\" মানে লাল)। `#` দেওয়ার দরকার নেই।"
 
 msgid "Provide a campus image for the header of the degree"
-msgstr ""
+msgstr "ডিগ্রীর হেডার অংশের জন্য একটি ক্যাম্পাস ইমেজ দিন।"
 
 msgid "Provide a background image for the title section of the degree"
-msgstr ""
+msgstr "ডিগ্রীর টাইটেল সেকশনের জন্য একটি ব্যাকগ্রাউন্ড ইমেজ দিন।"
 
 msgid "The fine print that displays at the Tuition section's bottom"
-msgstr ""
+msgstr "Tuition সেকশনের নিচে প্রদর্শিত শর্তাবলী"
 
 msgid "The fine print that displays at the Deadline section's bottom"
-msgstr ""
+msgstr "ডেডলাইনের নিচে প্রদর্শিত শর্তাবলী"
 
 msgid "The sailthru email list name to capture leads"
-msgstr ""
+msgstr "লিড ক্যাপচার করার জন্য সেইলথ্রু ইমেল লিস্টের নাম"
 
 msgid "Please provide an image file for the lead capture banner."
-msgstr ""
+msgstr "লিড ক্যাপচার ব্যানারের জন্য একটি ছবি ফাইল দিন।"
 
 msgid "The Hubspot form ID for the lead capture form"
-msgstr ""
+msgstr "লিড ক্যাপচার ফর্মের জন্য হাবস্পট ফর্ম আইডি"
 
 msgid "URL to micromasters landing page"
-msgstr ""
+msgstr "মাইক্রোমাস্টার্স ল্যান্ডিং পেজের URL"
 
 msgid "Micromasters verbose title"
-msgstr ""
+msgstr "মাইক্রোমাস্টার্স বিস্তারিত শিরোনাম"
 
 msgid "Micromasters descriptive paragraph"
-msgstr ""
+msgstr "মাইক্রোমাস্টার্স প্রোগ্রামটি সম্পর্কে সংক্ষিপ্ত বর্ণনা।"
 
 msgid "Customized background image for the MicroMasters section."
-msgstr ""
+msgstr "মাইক্রোমাস্টার্স সেকশনের জন্য কাস্টমাইজড ব্যাকগ্রাউন্ড ইমেজ।"
 
 msgid "Override org name if micromasters program comes from different organization than Masters program"
-msgstr ""
+msgstr "যদি মাইক্রোমাস্টার্স প্রোগ্রামটি মাস্টার্স প্রোগ্রামের চেয়ে ভিন্ন সংস্থা থেকে আসে, তাহলে সংস্থার নাম পরিবর্তন করুন।"
 
 msgid "Ranking display for search card (e.g. \"#1 in the U.S.\\"
-msgstr ""
+msgstr "সার্চ কার্ডের র‍্যাঙ্কিং প্রদর্শন (যেমন: \"যুক্তরাষ্ট্রে #১\")"
 
 msgid "Cost display for search card (e.g. \"$9,999\\"
-msgstr ""
+msgstr "সার্চ কার্ডের দাম (যেমন: $9,999)"
 
 msgid "Number of courses for search card (e.g. \"11 Courses\\"
-msgstr ""
+msgstr "অনুসন্ধান কার্ডের জন্য কোর্সের সংখ্যা (যেমন \"১১টি কোর্স\")"
 
 msgid "Designates whether the degree should be displayed on the owning organization's page"
-msgstr ""
+msgstr "এই ডিগ্রিটি মালিকানাধীন প্রতিষ্ঠানের পেজে দেখানো হবে কিনা তা নির্দিষ্ট করে।"
 
 msgid "The redirect URL of the degree on external site"
-msgstr ""
+msgstr "বাহ্যিক সাইটে ডিগ্রির রিডাইরেক্ট ইউআরএল"
 
 msgid "The URL of the landing page on external site"
-msgstr ""
+msgstr "বাহ্যিক সাইটে ল্যান্ডিং পেজের URL"
 
 msgid "Bell"
-msgstr ""
+msgstr "বেল"
 
 msgid "Certificate"
 msgstr "সার্টিফিকেট"
 
 msgid "Checkmark"
-msgstr ""
+msgstr "টিক চিহ্ন"
 
 msgid "Clock"
-msgstr ""
+msgstr "ঘড়ি"
 
 msgid "Desktop"
-msgstr ""
+msgstr "ডেস্কটপ"
 
 msgid "Info"
-msgstr ""
+msgstr "তথ্য"
 
 msgid "Sitemap"
-msgstr ""
+msgstr "সাইটম্যাপ"
 
 msgid "User"
-msgstr ""
+msgstr "ব্যবহারকারী"
 
 msgid "Dollar"
-msgstr ""
+msgstr "ডলার"
 
 msgid "Book"
-msgstr ""
+msgstr "বই"
 
 msgid "Mortar Board"
-msgstr ""
+msgstr "মর্টার বোর্ড"
 
 msgid "Star"
-msgstr ""
+msgstr "তারা"
 
 msgid "Trophy"
-msgstr ""
+msgstr "ট্রফি"
 
 msgid "Icon FA class"
-msgstr ""
+msgstr "আইকন এফএ ক্লাস"
 
 msgid "Paired text"
-msgstr ""
+msgstr "যুগল টেক্সট"
 
 msgid "Deadline applies for this semester (e.g. Spring 2019"
-msgstr ""
+msgstr "এই সেমিস্টারের জন্য সময়সীমা প্রযোজ্য (যেমন: বসন্ত ২০১৯)"
 
 msgid "Describes the deadline (e.g. Early Admission Deadline)"
-msgstr ""
+msgstr "সময়সীমা বর্ণনা করুন (যেমন: প্রাথমিক ভর্তির শেষ তারিখ)"
 
 msgid "The date after which the deadline expires (e.g. January 1, 2019)"
-msgstr ""
+msgstr "সময়সীমা যে তারিখের পর শেষ হবে (যেমন: ১ জানুয়ারি, ২০১৯)"
 
 msgid "The time after which the deadline expires (e.g. 11:59 PM EST)."
-msgstr ""
+msgstr "সময়সীমা শেষ হওয়ার সময় (যেমন: রাত ১১:৫৯ পূর্ব সময়)।"
 
 msgid "Describes what the cost is for (e.g. Tuition)"
-msgstr ""
+msgstr "খরচটা কিসের জন্য (যেমন: টিউশন)"
 
 msgid "String-based field stating how much the cost is (e.g. $1000)."
-msgstr ""
+msgstr "স্ট্রিং-ভিত্তিক ক্ষেত্র যেখানে খরচ কত তা উল্লেখ করা হবে (যেমন: $১০০০)।"
 
 msgid ""
 "A high-level overview of the degree's courseware. The \"brief\"\"\"\"\"\"\"\"\"\""\n
 "            text is the first 750 characters of \"marketing_text\" and must be\"\"\"\"\"\"\"\"\""\n
 "            valid HTML."
-msgstr ""
+msgstr "ডিগ্রিটির কোর্সওয়ার্কের একটি সারসংক্ষেপ। \"সংক্ষিপ্ত\" লেখাটি \"marketing_text\" এর প্রথম ৭৫০টি অক্ষর এবং এটি অবশ্যই একটি বৈধ HTML হতে হবে।"
 
 msgid "A high-level overview of the degree's courseware."
-msgstr ""
+msgstr "ডিগ্রিটির কোর্সওয়্যার এর একটি সংক্ষিপ্ত বিবরণ।"
 
 msgid "Organization name"
-msgstr ""
+msgstr "সংস্থার নাম"
 
 msgid "These programs are for a different partner than the pathway itself: {}"
-msgstr ""
+msgstr "এই প্রোগ্রামগুলো পাথেওয়ের (pathway) থেকে আলাদা একটি পার্টনারের জন্য: {name} "
 
 msgid "Facebook"
-msgstr ""
+msgstr "ফেসবুক"
 
 msgid "Twitter"
-msgstr ""
+msgstr "টুইটার"
 
 msgid "Blog"
-msgstr ""
+msgstr "ব্লগ"
 
 msgid "Others"
-msgstr ""
+msgstr "অন্যান্য"
 
 msgid "Partner {partner_key} and course partner {course_partner_key} do not match when attempting to save url slug {url_slug}"
-msgstr ""
+msgstr "পার্টনার {partner_key} এবং কোর্স পার্টনার {course_partner_key}, url slug {url_slug} সেভ করার সময় মিলছে না।"
 
 msgid "Partner {partner_key} and course partner {course_partner_key} do not match when attempting to save url redirect {url_path}"
-msgstr ""
+msgstr "URL রিডাইরেক্ট {url_path} সেভ করার সময় পার্টনার {partner_key} এবং কোর্স পার্টনার {course_partner_key} মিলছে না।"
 
 msgid "It expects the data will be provided in a csv file format "
-msgstr ""
+msgstr "এটি আশা করে ডেটা একটি CSV ফাইল ফরম্যাটে দেওয়া হবে।"
 
 msgid "A csv file containing uuid of the courses to be archived"
-msgstr ""
+msgstr "আর্কাইভ করার জন্য কোর্সের UUID সম্বলিত একটি CSV ফাইল"
 
 msgid "It expects the data will be provided in a csv file format with first row containing all the headers."
-msgstr ""
+msgstr "এটি আশা করে ডেটা একটি CSV ফাইল ফরম্যাটে দেওয়া হবে, যেখানে প্রথম সারিতে সমস্ত হেডার থাকবে।"
 
 msgid "Open Courses"
-msgstr ""
+msgstr "ওপেন কোর্স"
 
 msgid "2U Executive Education Courses"
-msgstr ""
+msgstr "2U এক্সিকিউটিভ এডুকেশন কোর্স"
 
 msgid "Bootcamps"
-msgstr ""
+msgstr "বুটক্যাম্প"
 
 msgid "Course UUIDs"
-msgstr ""
+msgstr "কোর্স UUID"
 
 msgid "Course Run IDs"
-msgstr ""
+msgstr "কোর্স রান আইডি"
 
 msgid "Profile Image UUIDs"
-msgstr ""
+msgstr "প্রোফাইল ছবির UUID"
 
 msgid "Tag"
-msgstr ""
+msgstr "ট্যাগ"
 
 msgid "Remove All Redirects"
-msgstr ""
+msgstr "সব রিডাইরেক্ট বাতিল করুন"
 
 msgid "Url Paths"
-msgstr ""
+msgstr "ইউআরএল পাথ"
 
 msgid "Add redirects from all published course url slugs"
-msgstr ""
+msgstr "প্রকাশিত কোর্সগুলোর URL স্ল্যাগ থেকে রিডাইরেক্ট যোগ করুন"
 
 msgid "Course uuids"
-msgstr ""
+msgstr "কোর্স UUID"
 
 msgid "User who uploaded the file"
-msgstr ""
+msgstr "যে ব্যবহারকারী ফাইলটি আপলোড করেছেন"
 
 msgid "Summary of the task"
-msgstr ""
+msgstr "টাস্কের সারসংক্ষেপ"
 
 msgid "Task Type"
 msgstr "কাজের ধরণ"
 
 msgid "Type of Bulk Task to be performed"
-msgstr ""
+msgstr "যে ধরনের বাল্ক টাস্ক করতে হবে"
 
 msgid "Status"
 msgstr "স্ট্যাটাস"
 
 msgid "Status of the Bulk Task"
-msgstr ""
+msgstr "বাল্ক টাস্কের অবস্থা"
 
 msgid "Identifier of the celery task associated with this bulk task"
-msgstr ""
+msgstr "এই বাল্ক টাস্কের সাথে সম্পর্কিত সেলেরি টাস্কের আইডি"
 
 msgid "Attempted to query Salesforce with no client for partner={}"
-msgstr ""
+msgstr "কোনো ক্লায়েন্ট ছাড়াই পার্টনার {partner}-এর জন্য সেলসফোর্স কোয়েরি করার চেষ্টা করা হয়েছে।"
 
 msgid "Unable to associate a case for comments for {}"
-msgstr ""
+msgstr "{} এর জন্য কমেন্টগুলির সাথে কোনো কেস যুক্ত করা যায়নি।"
 
 msgid "Cancel"
 msgstr "বাতিল করুন"
 
 msgid "Back to Program"
-msgstr ""
+msgstr "প্রোগ্রামে ফিরে যান"
 
 msgid "Save Course Run"
-msgstr ""
+msgstr "কোর্স রান সেভ করুন"
 
 msgid "Home"
-msgstr ""
+msgstr "হোম"
 
 msgid "Course Skills"
-msgstr ""
+msgstr "কোর্সের দক্ষতা"
 
 msgid "Refresh Course Skills"
-msgstr ""
+msgstr "কোর্স স্কিলস রিফ্রেশ করুন"
 
 msgid "Refresh Program Skills"
-msgstr ""
+msgstr "প্রোগ্রাম দক্ষতা রিফ্রেশ করুন"
 
 msgid "%(user_name)s made the following comment on %(course_name)s on %(date)s at %(time)s"
-msgstr ""
+msgstr "{user_name} এই কোর্সে {date} তারিখে {time}-এ নিচের মন্তব্যটি করেছেন: {course_name}"
 
 msgid "View comment in Publisher"
-msgstr ""
+msgstr "প্রকাশকের কমেন্ট দেখুন"
 
 msgid "The edX team"
-msgstr ""
+msgstr "edX টিম"
 
 msgid "%(user_name)s made the following comment on %(course_name)s %(date)s at %(time)s"
-msgstr ""
+msgstr "{user_name} এই কোর্সে {course_name} তে {date} তারিখে {time} এ কমেন্ট করেছেন।"
 
 msgid "Hi Course Team,"
-msgstr ""
+msgstr "হাই কোর্স টিম, "
 
 msgid ""
 ""\n
 "        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 "        "
-msgstr ""
+msgstr "আপনাকে জানানো হচ্ছে যে, \"%({course_name}s)\" কোর্সটি (কোর্স কী: %({course_key}s)) {days} দিনে, {course_end_date} তারিখে শেষ হবে।"
 
 msgid "To ensure uninterrupted learner access and enrollment, please take one of the following actions:"
-msgstr ""
+msgstr "শিক্ষার্থীদের বাধাহীনভাবে শেখার সুযোগ এবং ভর্তি প্রক্রিয়া অব্যাহত রাখার জন্য, অনুগ্রহ করে নিচের যেকোনো একটি পদক্ষেপ নিন:"
 
 msgid ""
 ""\n
 "        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 "        "
-msgstr ""
+msgstr "আপনাকে জানানো যাচ্ছে যে, কোর্স \"%s\" (কোর্স কী: %s) %s তারিখে আনুষ্ঠানিকভাবে শেষ হয়েছে।"
 
 msgid "If this was intentional, no action is needed. However, if this course was meant to remain available, you have two options to restore access:"
-msgstr ""
+msgstr "যদি এটা ইচ্ছাকৃতভাবে করা হয়ে থাকে, তাহলে কিছু করার দরকার নেই। তবে, যদি এই কোর্সটি সবসময় সহজলভ্য রাখার কথা থাকতো, তাহলে আপনার কাছে অ্যাক্সেস ফিরিয়ে আনার দুটো উপায় আছে:"
 
 msgid "Extend the current course run’s end date if the same course is meant to remain available."
-msgstr ""
+msgstr "যদি একই কোর্সটি引き続き উপলব্ধ রাখার প্রয়োজন হয়, তাহলে বর্তমান কোর্সের সময়সীমা বাড়িয়ে দিন।"
 
 msgid "Create a new course run if you are planning to offer this course again with updated content, pacing, or a new cohort of learners."
-msgstr ""
+msgstr "যদি আপনি এই কোর্সটি আবার আপডেটেড কন্টেন্ট, গতি অথবা নতুন শিক্ষার্থীদের সাথে অফার করার পরিকল্পনা করেন, তাহলে একটি নতুন কোর্স রান তৈরি করুন।"
 
 msgid "Visit the Course in Publisher"
-msgstr ""
+msgstr "Publisher-এ কোর্সটি দেখুন"
 
 msgid "You can review and modify the course end settings here:"
-msgstr ""
+msgstr "আপনি এখানে কোর্সের শেষ হওয়ার সেটিংস দেখে পরিবর্তন করতে পারবেন:"
 
 msgid ""
 ""\n
 "        If no action is taken, the course will no longer be available for enrollment or access by learners on \"\"\"\"\"\"\"\"\""\n
 "        <a href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a> after the end date.\"\"\"\"\"\"\"\"\""\n
 "        "
-msgstr ""
+msgstr "কোনো পদক্ষেপ না নিলে, কোর্সটি আর শিক্ষার্থীদের জন্য তালিকাভুক্ত বা অ্যাক্সেসযোগ্য থাকবে না। শেষ তারিখের পরে <a href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a>-এ তালিকাভুক্তি বন্ধ হয়ে যাবে।"
 
 msgid "Thanks"
-msgstr ""
+msgstr "ধন্যবাদ"
 
 msgid ""
 ""\n
 "This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 ""
-msgstr ""
+msgstr "আপনাকে জানানো হচ্ছে যে, %(course_name)s কোর্সটি (কোর্স কী: %(course_key)s) %(days)s দিনের মধ্যে %(course_end_date)s তারিখে শেষ হতে যাচ্ছে।"
 
 msgid ""
 ""\n
 "This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 ""
-msgstr ""
+msgstr "আপনাকে জানানো যাচ্ছে যে, %(course_name)s (কোর্স কী: %(course_key)s) কোর্সটি %(course_end_date)s তারিখে আনুষ্ঠানিকভাবে শেষ হয়েছে।"
 
 msgid "Visit the Course in Publisher:"
-msgstr ""
+msgstr "Publisher-এ কোর্সটি দেখুন:"
 
 msgid ""
 ""\n
 "If no action is taken, the course will no longer be available for enrollment or access by learners on %(partner_marketing_site_url)s after the end date.\"\"\"\"\"\"\"\"\""\n
 ""
-msgstr ""
+msgstr "যদি কোনো পদক্ষেপ নেওয়া না হয়, তাহলে %(partner_marketing_site_url)s-এ কোর্সটি শেষ তারিখের পরে শিক্ষার্থীদের জন্য তালিকাভুক্তি বা অ্যাক্সেসের জন্য আর উপলব্ধ থাকবে না।"
 
 msgid "The About page for the %(course_run_number)s course run of %(course_name)s has been submitted for publishing. The new session will appear on the edX website following the next couple of deployments—typically within 24 to 48 business hours."
-msgstr ""
+msgstr "{course_name} কোর্সের {course_run_number} নম্বর সেশনের অ্যাবাউট পেজটি পাবলিশ করার জন্য জমা দেওয়া হয়েছে। সাধারণত ২৪ থেকে ৪৮ ঘণ্টার মধ্যে edX ওয়েবসাইটে নতুন সেশনটি দেখা যাবে।"
 
 msgid "{link_start}{contact_us_email}{link_middle}{contact_us_email}{link_end}"
-msgstr ""
+msgstr "{link_start}যোগাযোগের জন্য ইমেইল করুন: {contact_us_email}{link_middle}{contact_us_email}{link_end}"
 
 msgid "Note: This is a no-reply email. For any questions or comments, please contact your Project Coordinator at"
-msgstr ""
+msgstr "নোট: এটি একটি স্বয়ংক্রিয় ইমেল, যেখানে উত্তর দেওয়া যাবে না। কোনো প্রশ্ন বা মন্তব্যের জন্য, অনুগ্রহ করে আপনার প্রোজেক্ট কোঅর্ডিনেটরের সাথে যোগাযোগ করুন।"
 
 msgid "Dear %(recipient_name)s,"
-msgstr ""
+msgstr "প্রিয় {recipient_name},"
 
 msgid "{org_name} has submitted {course_key} for review. {link_start}{course_page_url}{link_middle}View this course run in Publisher{link_end} to review the changes and mark it as reviewed."
-msgstr ""
+msgstr "{org_name} {course_key} পর্যালোচনার জন্য জমা দিয়েছে। {link_start}{course_page_url}{link_middle}Publisher-এ এই কোর্স রানটি দেখুন{link_end} এবং পরিবর্তনগুলো পর্যালোচনা করে এটি রিভিউ করা হয়েছে হিসেবে চিহ্নিত করুন।"
 
 msgid "This is a good time to {link_start}{studio_url}{link_middle}review this course run in Studio{link_end}."
-msgstr ""
+msgstr "স্টুডিওতে এই কোর্স রানটি পর্যালোচনা করার জন্য এটা একটা ভালো সময়। {link_start}{studio_url}{link_middle}স্টুডিওতে কোর্স রান পর্যালোচনা করুন{link_end}।"
 
 msgid "Visit the {link_start}{restricted_admin_url}{link_middle}restricted course admin page{link_end} to set embargo rules for this course, as needed."
-msgstr ""
+msgstr "এই কোর্সের জন্য প্রয়োজন অনুযায়ী এমবারগো রুল সেট করার জন্য {link_start}{restricted_admin_url}{link_middle}রেস্ট্রিক্টেড কোর্স অ্যাডমিন পেজ{link_end} ভিজিট করুন।"
 
 msgid "%(org_name)s has submitted %(course_key)s for review."
-msgstr ""
+msgstr "%(org_name)s %(course_key)s পর্যালোচনার জন্য জমা দিয়েছে।"
 
 msgid "Publisher page: %(course_page_url)s"
-msgstr ""
+msgstr "প্রকাশকের পেজ: %(course_page_url)s"
 
 msgid "Studio page: %(studio_url)s"
-msgstr ""
+msgstr "স্টুডিও পেজ: %(studio_url)s"
 
 msgid "Restricted Course admin: %(restricted_admin_url)s"
-msgstr ""
+msgstr "নিষেধিত কোর্স অ্যাডমিন: %(restricted_admin_url)s"
 
 msgid "{org_name} has submitted {course_name} for review. {link_start}{course_page_url}{link_middle}View this course run in Publisher{link_end} to determine OFAC status."
-msgstr ""
+msgstr "{org_name} {course_name} পর্যালোচনার জন্য জমা দিয়েছে। {link_start}{course_page_url}{link_middle} পাবলিশারে এই কোর্সের রান দেখুন{link_end} এবং OFAC স্ট্যাটাস নির্ধারণ করুন।"
 
 msgid "%(org_name)s has submitted %(course_name)s for review."
-msgstr ""
+msgstr "%(org_name)s, %(course_name)s পর্যালোচনার জন্য জমা দিয়েছে।"
 
 msgid "View this course run in Publisher above to determine OFAC status."
-msgstr ""
+msgstr "Publisher-এ এই কোর্স রানটি দেখে OFAC স্ট্যাটাস নির্ধারণ করুন।"
 
 msgid "Note: This email address is unable to receive replies. For questions or comments, please contact your Project Coordinator(s):"
-msgstr ""
+msgstr "নোট: এই ইমেল ঠিকানায় উত্তর দেওয়া সম্ভব নয়। কোনো প্রশ্ন বা মন্তব্যের জন্য, অনুগ্রহ করে আপনার প্রোজেক্ট কো-অর্ডিনেটর(দের) সাথে যোগাযোগ করুন:"
 
 msgid "The {link_start}{course_page_url}{link_middle}{course_run_number} course run{link_end} of {course_name} has been reviewed and approved by {platform_name}."
-msgstr ""
+msgstr "{link_start}{course_page_url}{link_middle}{course_run_number} নম্বর {course_name} কোর্সটি {platform_name} কর্তৃক নিরীক্ষণ ও অনুমোদন করা হয়েছে।{link_end}"
 
 msgid "The course run about page will be published on %(go_live_date)s, pending no further edits."
-msgstr ""
+msgstr "কোর্স রান অ্যাবাউট পেজটি %(go_live_date)s তারিখে পাবলিশ করা হবে, যদি আর কোনো এডিট করার প্রয়োজন না হয়।"
 
 msgid "The course run about page is now published."
-msgstr ""
+msgstr "কোর্স রান অ্যাবাউট পেজটি এখন পাবলিশ করা হয়েছে।"
 
 msgid "The %(course_run_number)s course run of %(course_name)s has been reviewed and approved by %(platform_name)s."
-msgstr ""
+msgstr "%(platform_name)s কর্তৃক %(course_name)s এর %(course_run_number)তম কোর্স রানটি পর্যালোচনা করা হয়েছে এবং অনুমোদিত হয়েছে।"
 
 msgid "View the course run in Publisher: %(course_page_url)s"
-msgstr ""
+msgstr "Publisher-এ কোর্সটি দেখুন: %(course_page_url)s"
 
 msgid ""
 ""\n
 "        Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\"\"\"\"\"\"\"\"\""\n
 "    "
-msgstr ""
+msgstr "Course '%(course_name)s' সফলভাবে edX কর্তৃক রিভিউ করা হয়েছে এবং %(course_publish_date)s তারিখে পাবলিশ করা হয়েছে। লাইভ কোর্সটি দেখতে এখানে যান: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
 
 msgid ""
 ""\n
@@ -1457,7 +1457,7 @@ msgid ""
 ""\n
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\"\"\"\"\"\"\"\"\""\n
 ""
-msgstr ""
+msgstr "edX কর্তৃক '%(course_name)s' কোর্সটি সফলভাবে রিভিউ করা হয়েছে এবং এটি এখন %(course_publish_date)s তারিখে প্রকাশিত হয়েছে। লাইভ কোর্সটি দেখতে এখানে যান: %(course_marketing_url)s"
 
 msgid ""
 ""\n
@@ -1465,127 +1465,130 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr ""
+"edX কর্তৃক '%(course_name)s' কোর্সটি সফলভাবে রিভিউ করা হয়েছে এবং এটি এখন প্রকাশের জন্য প্রস্তুত। কোর্সটি %(course_publish_date)s তারিখে প্রকাশিত হবে। "\n
+""\n
+"কোর্স অ্যাবাউট পেজের প্রিভিউ দেখতে এখানে যান: %(course_preview_url)s"
 
 msgid "Special characters not allowed in Course Number."
-msgstr ""
+msgstr "কোর্স নম্বরে বিশেষ অক্ষর ব্যবহার করা যাবে না।"
 
 msgid "Invalid HTML received: {0}"
-msgstr ""
+msgstr "অবৈধ HTML পাওয়া গেছে: {0}"
 
 msgid "Invalid HTML received"
-msgstr ""
+msgstr "অবৈধ HTML পাওয়া গেছে"
 
 msgid "{0} tag is not allowed"
-msgstr ""
+msgstr "{0} ট্যাগটি অনুমোদিত নয়"
 
 msgid "{0} attribute is not allowed on the {1} tag"
-msgstr ""
+msgstr "{0} অ্যাট্রিবিউটটি {1} ট্যাগে ব্যবহারের অনুমতি নেই।"
 
 msgid "Update excluded course runs"
-msgstr ""
+msgstr "বাদ দেওয়া কোর্স রান আপডেট করুন"
 
 msgid "The program was changed successfully."
-msgstr ""
+msgstr "প্রোগ্রামটি সফলভাবে পরিবর্তন করা হয়েছে।"
 
 msgid "The refresh program skills task triggered successfully."
-msgstr ""
+msgstr "রিফ্রেশ প্রোগ্রাম স্কিলস টাস্কটি সফলভাবে শুরু হয়েছে।"
 
 msgid "The refresh course skills task triggered successfully."
-msgstr ""
+msgstr "রিফ্রেশ কোর্স স্কিলস টাস্কটি সফলভাবে ট্রিগার হয়েছে।"
 
 msgid "The course skills were updated successfully."
-msgstr ""
+msgstr "কোর্সটির দক্ষতা সফলভাবে আপডেট করা হয়েছে।"
 
 msgid "Request could not be completed due to an incorrect ElasticSearch query parameters"
-msgstr ""
+msgstr "ইলাস্টিকসার্চ কোয়েরি প্যারামিটার ভুল থাকার কারণে রিকোয়েস্টটি সম্পন্ন করা যায়নি।"
 
 msgid "Name for translation"
-msgstr ""
+msgstr "অনুবাদ করার জন্য নাম"
 
 msgid "LanguageTag model translations"
-msgstr ""
+msgstr "ভাষা ট্যাগ মডেলের অনুবাদ"
 
 msgid "Inactive"
-msgstr ""
+msgstr "নিষ্ক্রিয়"
 
 msgid "Title of the learner pathway."
-msgstr ""
+msgstr "শিক্ষার্থীর পথনির্দেশিকার শিরোনাম।"
 
 msgid "Course/Program associated pathways also appear in search results"
-msgstr ""
+msgstr "কোর্স/প্রোগ্রামের সাথে যুক্ত পাথওয়েগুলো সার্চ রেজাল্টে দেখা যায়।"
 
 msgid "The active/inactive status of this Pathway."
-msgstr ""
+msgstr "এই পাথওয়ের সক্রিয়/নিষ্ক্রিয় অবস্থা।"
 
 msgid "Learner Pathway"
-msgstr ""
+msgstr "শিক্ষার্থীর পথ"
 
 msgid "Learner Pathways"
-msgstr ""
+msgstr "শিক্ষার্থীর পথ"
 
 msgid "Minimum number of nodes to complete this step of the pathway"
-msgstr ""
+msgstr "এই পথটির এই ধাপটি সম্পূর্ণ করার জন্য সর্বনিম্ন কতগুলি নোড প্রয়োজন।"
 
 msgid "Learner Pathway Step"
-msgstr ""
+msgstr "লার্নার পাথওয়ে ধাপ"
 
 msgid "Learner Pathway Steps"
-msgstr ""
+msgstr "শিক্ষার্থীর পথচলার ধাপগুলো"
 
 msgid "Learner Pathway Course"
-msgstr ""
+msgstr "শিক্ষার্থীর পথচলার কোর্স"
 
 msgid "Learner Pathway Courses"
-msgstr ""
+msgstr "শিক্ষার্থীর পথচলার কোর্স"
 
 msgid "Learner Pathway Program"
-msgstr ""
+msgstr "শিক্ষার্থীর পথচলা প্রোগ্রাম"
 
 msgid "Learner Pathway Programs"
-msgstr ""
+msgstr "শিক্ষার্থীর জন্য কোর্স প্রোগ্রাম"
 
 msgid "Organization Role"
-msgstr ""
+msgstr "সংস্থার ভূমিকা"
 
 msgid "Update the course recommendations based on skills."
-msgstr ""
+msgstr "দক্ষতার ভিত্তিতে কোর্সগুলোর প্রস্তাবনা আপডেট করুন।"
 
 msgid "Use arguments from the UpdateCourseRecommendationsConfig model instead of the command line."
-msgstr ""
+msgstr "কমান্ড লাইনের বদলে UpdateCourseRecommendationsConfig মডেল থেকে আর্গুমেন্ট ব্যবহার করুন।"
 
 msgid "The original course, whose recommendation is stored here."
-msgstr ""
+msgstr "অরিজিনাল কোর্সটি, যার রেকমেন্ডেশন এখানে স্টোর করা আছে।"
 
 msgid "This is the course recommended after learner completes the original course."
-msgstr ""
+msgstr "শিক্ষার্থী মূল কোর্সটি শেষ করার পর এই কোর্সটি করার পরামর্শ দেওয়া হচ্ছে।"
 
 msgid "Ratio of number of common skills and total skill count."
-msgstr ""
+msgstr "কমন স্কিলের সংখ্যা এবং মোট স্কিলের সংখ্যার অনুপাত।"
 
 msgid "Count of common skills between the original course and recommended course."
-msgstr ""
+msgstr "অরিজিনাল কোর্স এবং প্রস্তাবিত কোর্সের মধ্যে সাধারণ দক্ষতার সংখ্যা।"
 
 msgid "Ratio of number of common subjects and total subject count."
-msgstr ""
+msgstr "মোট বিষয়ের সাপেক্ষে সাধারণ বিষয়ের অনুপাত।"
 
 msgid "Count of common subjects between the original course and recommended course."
-msgstr ""
+msgstr "অরিজিনাল কোর্স এবং রেকমেন্ডেড কোর্সের মধ্যে সাধারণ বিষয়ের সংখ্যা।"
 
 msgid "Course Recommendation"
-msgstr ""
+msgstr "কোর্স প্রস্তাবনা"
 
 msgid "Course Recommendations"
-msgstr ""
+msgstr "কোর্সের প্রস্তাবনা"
 
 msgid "Adds recommendations for all published courses"
-msgstr ""
+msgstr "প্রকাশিত সকল কোর্সের জন্য প্রস্তাবনা যোগ করা হয়েছে"
 
 msgid "Adds recommendations for courses created or modified in the past num days"
-msgstr ""
+msgstr "গত {num} দিনে তৈরি অথবা পরিবর্তন করা কোর্সগুলোর জন্য সুপারিশ যোগ করা হয়েছে"
 
 msgid "No partner object found!"
-msgstr ""
+msgstr "কোনো পার্টনার অবজেক্ট খুঁজে পাওয়া যায়নি!"
 
 msgid "Discovery Service Administration"
-msgstr ""
+msgstr "ডিসকভারি সার্ভিস অ্যাডমিনিস্ট্রেশন"
 

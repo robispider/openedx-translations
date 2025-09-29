@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 14:17+0000\n"
-"PO-Revision-Date: 2025-09-27 20:17+4376\n"
+"POT-Creation-Date: 2025-09-29 13:56+0000\n"
+"PO-Revision-Date: 2025-09-29 19:56+6857\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,46 +46,46 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Display Name"
-msgstr ""
+msgstr "ডিসপ্লে নাম"
 
 msgid "This name appears in the horizontal navigation at the top of the page."
-msgstr ""
+msgstr "এই নামটি পেজের উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।"
 
 msgid "Image Explorer"
-msgstr ""
+msgstr "ইমেজ এক্সপ্লোরার"
 
 msgid "Hot Spots Coordinates Centered"
-msgstr ""
+msgstr "গরম স্পটগুলোর স্থানাঙ্ক কেন্দ্রিক"
 
 msgid "Store hotspots opened by student, for completion"
-msgstr ""
+msgstr "ছাত্রদের দ্বারা খোলা স্টোর হটস্পট, সম্পন্ন করার জন্য"
 
 msgid "XML contents to display for this module"
-msgstr ""
+msgstr "এই মডিউলের জন্য প্রদর্শিত XML কন্টেন্ট"
 
 msgid "Missing event_type in JSON data"
-msgstr ""
+msgstr "JSON ডেটাতে event_type অনুপস্থিত।"
 
 msgid "Title"
-msgstr ""
+msgstr "শিরোনাম"
 
 msgid "The title of the Image Explorer that is displayed to the user"
-msgstr ""
+msgstr "ব্যবহারকারীকে দেখানো ইমেজ এক্সপ্লোরারের শিরোনাম"
 
 msgid "Hotspot coordinates centered"
-msgstr ""
+msgstr "হটস্পট স্থানাঙ্ক কেন্দ্রিক"
 
 msgid "If set to true, hotspot coordinates interpreted to point to the center of the hotspot"
-msgstr ""
+msgstr "যদি এটা true তে সেট করা হয়, তাহলে হটস্পট কোঅর্ডিনেটগুলো হটস্পটের মাঝখানে নির্দেশ করবে।"
 
 msgid "If set to false, assumed to point to the top left corner of the hotspot image"
-msgstr ""
+msgstr "যদি false সেট করা হয়, তাহলে ধরে নেওয়া হবে এটি হটস্পট ইমেজের উপরের বাম কোণ নির্দেশ করছে।"
 
 msgid "Definition"
-msgstr ""
+msgstr "সংজ্ঞা"
 
 msgid "The XML definition for the Image Explorer"
-msgstr ""
+msgstr "ইমেজ এক্সপ্লোরারের XML ডেফিনেশন"
 
 msgid "Save"
 msgstr "সংরক্ষণ করুন"

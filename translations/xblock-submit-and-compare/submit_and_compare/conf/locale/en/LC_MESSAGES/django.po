@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 17:20+0000\n"
-"PO-Revision-Date: 2025-09-27 23:20+4226\n"
+"POT-Creation-Date: 2025-09-29 13:56+0000\n"
+"PO-Revision-Date: 2025-09-29 19:56+8052\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,46 +46,46 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Display Name"
-msgstr ""
+msgstr "ডিসপ্লে নাম"
 
 msgid "This name appears in the horizontal navigation at the top of the page"
-msgstr ""
+msgstr "এই {name} টি পৃষ্ঠার উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।"
 
 msgid "Weight"
 msgstr "ওজন"
 
 msgid "This assigns an integer value representing the weight of this problem"
-msgstr ""
+msgstr "এটা এই সমস্যাটির গুরুত্ব বোঝানোর জন্য একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
 
 msgid "Max Attempts"
-msgstr ""
+msgstr "সর্বোচ্চ চেষ্টা"
 
 msgid "This assigns an integer value representing the maximum number of times a student can attempt the problem"
-msgstr ""
+msgstr "এটা একজন ছাত্র একটি সমস্যা কতবার সমাধান করার চেষ্টা করতে পারবে তার সর্বোচ্চ সংখ্যা বোঝাতে একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
 
 msgid "Label for Student Answer"
-msgstr ""
+msgstr "ছাত্রের উত্তর"
 
 msgid "Label for the text area containing the student's answer"
-msgstr ""
+msgstr "ছাত্রের উত্তর লেখার স্থান"
 
 msgid "Label for Expert Answer"
-msgstr ""
+msgstr "বিশেষজ্ঞের উত্তর"
 
 msgid "Label for the 'expert' answer"
-msgstr ""
+msgstr "এক্সপার্ট উত্তরের লেবেল"
 
 msgid "Label for Submit Button"
-msgstr ""
+msgstr "সাবমিট করুন"
 
 msgid "Label for the submit button"
-msgstr ""
+msgstr "জমা দিন"
 
 msgid "Definition"
-msgstr ""
+msgstr "সংজ্ঞা"
 
 msgid "The XML definition for the question and expert answer"
-msgstr ""
+msgstr "প্রশ্ন এবং বিশেষজ্ঞ উত্তরের জন্য XML ডেফিনেশন"
 
 msgid "Save"
 msgstr "সংরক্ষণ করুন"
@@ -94,14 +94,14 @@ msgid "Cancel"
 msgstr "বাতিল করুন"
 
 msgid "Hint ({number} of {total}): {hint}"
-msgstr ""
+msgstr "ইঙ্গিত ({number} টি, মোট {total} টি): {hint}"
 
 msgid "You have used {count_attempts} of {max_attempts} submission"
-msgstr ""
+msgstr "আপনি {max_attempts} বার জমা দেওয়ার মধ্যে {count_attempts} বার জমা দিয়েছেন।"
 
 msgid "{weight} point possible"
-msgstr ""
+msgstr "{weight} পয়েন্ট সম্ভাব্য"
 
 msgid "/{weight} point"
-msgstr ""
+msgstr "{weight} পয়েন্ট"
 

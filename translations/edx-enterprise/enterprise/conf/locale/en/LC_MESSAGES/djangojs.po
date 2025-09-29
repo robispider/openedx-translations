@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 14:17+0000\n"
-"PO-Revision-Date: 2025-09-27 20:17+1935\n"
+"POT-Creation-Date: 2025-09-29 07:57+0000\n"
+"PO-Revision-Date: 2025-09-29 13:57+4520\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,29 +46,29 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Enter a valid course ID"
-msgstr ""
+msgstr "একটি বৈধ কোর্স আইডি লিখুন"
 
 msgid "Are you sure you want to unlink %(email)s?"
-msgstr ""
+msgstr "আপনি কি নিশ্চিতভাবে %(email)s আনলিঙ্ক করতে চান?"
 
 msgid "---------"
-msgstr ""
+msgstr "আপনাকে স্বাগতম, {name}!"
 
 msgid "Audit"
-msgstr ""
+msgstr "নিরীক্ষা"
 
 msgid "Verified"
 msgstr "যাচাইকৃত"
 
 msgid "Professional Education"
-msgstr ""
+msgstr "পেশাদার শিক্ষা"
 
 msgid "Professional Education (no ID)"
-msgstr ""
+msgstr "পেশাদার শিক্ষা"
 
 msgid "Credit"
-msgstr ""
+msgstr "ক্রেডিট"
 
 msgid "Honor"
-msgstr ""
+msgstr "সম্মান"
 

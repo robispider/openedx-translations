@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 12:23+0000\n"
-"PO-Revision-Date: 2025-09-27 18:23+2829\n"
+"POT-Creation-Date: 2025-09-29 12:55+0000\n"
+"PO-Revision-Date: 2025-09-29 18:55+9088\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,311 +46,311 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Invalid location URL provided"
-msgstr ""
+msgstr "ভুল লোকেশন ইউআরএল দেওয়া হয়েছে।"
 
 msgid "The resource you are attempting to provide already exists"
-msgstr ""
+msgstr "আপনি যে রিসোর্সটি যোগ করার চেষ্টা করছেন, সেটি ইতিমধ্যে বিদ্যমান।"
 
 msgid "The resource you are attempting to provide has been disallowed by the staff. Reason: "
-msgstr ""
+msgstr "স্টাফ কর্তৃক নিষিদ্ধ করার কারণে আপনি যে রিসোর্সটি দিতে চাচ্ছেন সেটি গ্রহণ করা যাচ্ছে না। কারণ:"
 
 msgid "The selected resource does not exist"
-msgstr ""
+msgstr "নির্বাচিত রিসোর্সটি খুঁজে পাওয়া যায়নি।"
 
 msgid "Size of uploaded file exceeds threshold"
-msgstr ""
+msgstr "আপলোড করা ফাইলের আকার অনুমোদিত সীমা অতিক্রম করেছে।"
 
 msgid "The configuration of pyfs is not properly set"
-msgstr ""
+msgstr "pyfs এর কনফিগারেশন ঠিকমতো সেট করা হয়নি।"
 
 msgid "Endorse resource without permission"
-msgstr ""
+msgstr "অনুমতি ছাড়া রিসোর্স এন্ডোর্স করা হয়েছে"
 
 msgid "You don't have the permission to remove this resource"
-msgstr ""
+msgstr "আপনার এই রিসোর্সটি সরানোর অনুমতি নেই।"
 
 msgid "Only staff can import resources"
-msgstr ""
+msgstr "শুধুমাত্র স্টাফরাই রিসোর্স ইম্পোর্ট করতে পারবে।"
 
 msgid "Please submit the JSON file obtained with the download resources button"
-msgstr ""
+msgstr "ডাউনলোড রিসোর্স বাটনে করে পাওয়া JSON ফাইলটি জমা দিন।"
 
 msgid "Tried to access flagged resources without staff permission"
-msgstr ""
+msgstr "স্টাফের অনুমতি ছাড়া ফ্ল্যাগ করা রিসোর্স অ্যাক্সেস করার চেষ্টা করা হয়েছে।"
 
 msgid "This is a list of recommended resources. If you\\"
-msgstr ""
+msgstr "এটি প্রস্তাবিত রিসোর্সের একটি তালিকা। যদি আপনি"
 
 msgid "Show related resources"
-msgstr ""
+msgstr "সম্পর্কিত রিসোর্সগুলো দেখান"
 
 msgid "This will be a list of resources your fellow students thought might be helpful, but it is empty currently. If you find useful resources, either on edx.org or elsewhere, please add it."
-msgstr ""
+msgstr "এটি আপনার সহপাঠীরা সহায়ক মনে করতে পারে এমন রিসোর্সের একটি তালিকা হবে, কিন্তু বর্তমানে এটি খালি। যদি আপনি সহায়ক রিসোর্স খুঁজে পান, edx.org-এ অথবা অন্য কোথাও, তাহলে অনুগ্রহ করে এটি যোগ করুন।"
 
 msgid "Add new resource &gt;&gt;"
-msgstr ""
+msgstr "নতুন রিসোর্স যোগ করুন &gt;&gt; "
 
 msgid "Download resources"
-msgstr ""
+msgstr "রিসোর্স ডাউনলোড করুন"
 
 msgid "Upload resources"
-msgstr ""
+msgstr "রিসোর্স আপলোড করুন"
 
 msgid "mode"
-msgstr ""
+msgstr "মোড"
 
 msgid "This is a list of resources your fellow students thought might be helpful. If you find another useful resource, either on edx.org or elsewhere, please add it. If you can improve the description or preview of a resource, please do so as well. If you find a resource helpful, upvote it. If it&rsquo;s not so helpful, downvote it. If it has issues (illegal material, incorrect, etc.), please flag it and let us know the reason."
 msgstr ""
 
 msgid "cancel and go back to resource list"
-msgstr ""
+msgstr "বাতিল করুন এবং রিসোর্স লিস্টে ফিরে যান"
 
 msgid "&lt; Related resources"
-msgstr ""
+msgstr "সম্পর্কিত রিসোর্স"
 
 msgid "Resources (in JSON format):"
-msgstr ""
+msgstr "রিসোর্স (JSON ফরম্যাটে):"
 
 msgid "Provide a file of resource list in JSON format"
-msgstr ""
+msgstr "JSON ফরম্যাটে রিসোর্স লিস্টের একটি ফাইল দিন।"
 
 msgid "Reason"
 msgstr "কারণ"
 
 msgid "Reason for why this resource should be removed"
-msgstr ""
+msgstr "এই রিসোর্সটি সরানোর কারণ"
 
 msgid "Reason for why this resource should be endorsed"
-msgstr ""
+msgstr "এই রিসোর্সটি কেন সমর্থন করা উচিত তার কারণ"
 
 msgid "Reason for why this resource should be flagged"
-msgstr ""
+msgstr "এই রিসোর্সটি কেন ফ্ল্যাগ করা উচিত তার কারণ"
 
 msgid "Title"
-msgstr ""
+msgstr "শিরোনাম"
 
 msgid "Provide a resource title, required"
-msgstr ""
+msgstr "একটি রিসোর্সের শিরোনাম দিন, এটা জরুরি"
 
 msgid "Provide a meaningful title so other students know whether this is useful to them"
-msgstr ""
+msgstr "একটি অর্থপূর্ণ শিরোনাম দিন যাতে অন্য শিক্ষার্থীরা বুঝতে পারে এটি তাদের জন্য দরকারি কিনা।"
 
 msgid "Location"
-msgstr ""
+msgstr "অবস্থান"
 
 msgid "Provide a resource location in url, required"
-msgstr ""
+msgstr "একটি URL-এ রিসোর্সের লোকেশন দিন, এটি আবশ্যক"
 
 msgid "Description"
-msgstr ""
+msgstr "বর্ণনা"
 
 msgid "Provide a meaningful description so other students know whether this is useful to them"
-msgstr ""
+msgstr "অন্যান্য শিক্ষার্থীদের জন্য একটি অর্থপূর্ণ বর্ণনা দিন যাতে তারা বুঝতে পারে এটা তাদের জন্য কাজে লাগবে কিনা।"
 
 msgid "Preview screenshot:"
-msgstr ""
+msgstr "স্ক্রিনশট প্রিভিউ:"
 
 msgid "Provide a resource screenshot"
-msgstr ""
+msgstr "একটি রিসোর্স স্ক্রিনশট দিন"
 
 msgid "Save change"
-msgstr ""
+msgstr "পরিবর্তনগুলি সংরক্ষণ করুন"
 
 msgid "Provide a resource description"
-msgstr ""
+msgstr "একটি রিসোর্সের বর্ণনা দিন"
 
 msgid "Provide a file of resource screenshot"
-msgstr ""
+msgstr "রিসোর্স স্ক্রিনশটের ফাইল দিন"
 
 msgid "Add resource"
-msgstr ""
+msgstr "রিসোর্স যোগ করুন"
 
 msgid "Configuration setting"
-msgstr ""
+msgstr "কনফিগারেশন সেটিং"
 
 msgid "Set the student-view, client side configurations for RecommenderXblock."
-msgstr ""
+msgstr "RecommenderXblock-এর জন্য ছাত্র-দৃষ্টিভঙ্গি, ক্লায়েন্ট সাইড কনফিগারেশন সেট করুন।"
 
 msgid "Yes"
-msgstr ""
+msgstr "হ্যাঁ"
 
 msgid "No"
-msgstr ""
+msgstr "না"
 
 msgid "Do you want to take users on a little tour when they see the RecommenderXBlock first time?"
-msgstr ""
+msgstr "RecommenderXBlock প্রথমবার দেখার সময় ব্যবহারকারীদের কি একটু ট্যুর দিয়ে দেখাতে চান?"
 
 msgid "Do you want to disable the UX functions which are under development?"
-msgstr ""
+msgstr "আপনি কি বর্তমানে উন্নয়নাধীন ইউএক্স ফিচারগুলো বন্ধ করতে চান?"
 
 msgid "How many resources you want to show in each page of the resource list?"
-msgstr ""
+msgstr "রে sources লিস্টের প্রতি পাতায় আপনি কয়টা রিসোর্স দেখতে চান?"
 
 msgid "How many page icons in pagination control (i.e., page range)? The icons for pages from (current page - page range) to (current page + page range) will be shown."
-msgstr ""
+msgstr "প্যাজিনেশন কন্ট্রোলে কতগুলো পেজ আইকন থাকবে (যেমন, পেজ রেঞ্জ)? (বর্তমান পেজ - পেজ রেঞ্জ) থেকে (বর্তমান পেজ + পেজ রেঞ্জ) পর্যন্ত পেজগুলোর আইকন দেখানো হবে।"
 
 msgid "Recommend a new resource which may be helpful to other students solving this problem"
-msgstr ""
+msgstr "এই সমস্যা সমাধানে অন্য শিক্ষার্থীদের সাহায্য করতে পারে এমন একটি নতুন রিসোর্স সাজেস্ট করুন।"
 
 msgid "Edit this resource"
-msgstr ""
+msgstr "এই রিসোর্সটি এডিট করুন"
 
 msgid "Upvote if the resource is helpful"
-msgstr ""
+msgstr "যদি রিসোর্সটা কাজে লাগে তাহলে আপভোট করুন"
 
 msgid "Downvote if the resource is not helpful"
-msgstr ""
+msgstr "যদি রিসোর্সটি কাজে না লাগে তাহলে ডাউনভোট করুন।"
 
 msgid "Votes"
-msgstr ""
+msgstr "ভোট"
 
 msgid "Resource title"
-msgstr ""
+msgstr "রিসোর্স টাইটেল"
 
 msgid "Remove this resource and give the reason why you do that"
-msgstr ""
+msgstr "এই রিসোর্সটা সরিয়ে ফেলুন এবং এর কারণটা জানান।"
 
 msgid "Preview image (typically, a screenshot)"
-msgstr ""
+msgstr "প্রিভিউ ইমেজ (সাধারণত, একটি স্ক্রিনশট)"
 
 msgid "Give a short (1-3 sentence) summary of the resource; ideally, this should be concise, but give enough detail to let students know whether this resources is useful to them"
-msgstr ""
+msgstr "এই রিসোর্সটির একটি সংক্ষিপ্ত সারসংক্ষেপ দিন (১-৩ বাক্যে)। চেষ্টা করুন সংক্ষিপ্ত রাখার, তবে শিক্ষার্থীদের জন্য এটি কতটা দরকারি, তা বোঝার মতো যথেষ্ট তথ্য দিন।"
 
 msgid "Cut-and-paste the URL of the resource."
-msgstr ""
+msgstr "রিসোর্স এর URL টি কপি করে পেস্ট করুন।"
 
 msgid "Give a paragraph of summary of the resource; the summary should be more detailed than you gave in Title"
-msgstr ""
+msgstr "এই রিসোর্সটির একটি বিস্তারিত সারাংশ দিন; সারাংশটি টাইটেলে দেওয়ার চেয়ে বেশি বিস্তারিত হতে হবে।"
 
 msgid "Upload a preview screenshot (in GIF/PNG/JPG) of the resource; ideally, this should let students know whether this resources is useful to them"
-msgstr ""
+msgstr "রিসোর্সটির একটি প্রিভিউ স্ক্রিনশট (GIF/PNG/JPG ফরম্যাটে) আপলোড করুন; সবচেয়ে ভালো হয় যদি এটি শিক্ষার্থীদের বুঝতে সাহায্য করে রিসোর্সটি তাদের জন্য দরকারি কিনা।"
 
 msgid "Go back to the main list"
-msgstr ""
+msgstr "প্রধান তালিকায় ফিরে যান"
 
 msgid "Give a meaningful reason for why this resource should be removed"
-msgstr ""
+msgstr "এই রিসোর্সটি সরানোর জন্য একটি যুক্তিসঙ্গত কারণ দিন।"
 
 msgid "Flag this resource as problematic and give your reason"
-msgstr ""
+msgstr "এই রিসোর্সটিকে সমস্যাপূর্ণ হিসেবে চিহ্নিত করুন এবং আপনার কারণ জানান"
 
 msgid "Delete this resource"
-msgstr ""
+msgstr "এই রিসোর্সটি ডিলিট করুন"
 
 msgid "Show a list of student-recommented related resources"
-msgstr ""
+msgstr "ছাত্রদের প্রস্তাবিত সম্পর্কিত রিসোর্সগুলোর তালিকা দেখান"
 
 msgid "Hide the recommendations list"
-msgstr ""
+msgstr "রিকমেন্ডেশন লিস্টটি লুকিয়ে ফেলুন"
 
 msgid "Check the icon to endorse this resource"
-msgstr ""
+msgstr "এই রিসোর্সটিকে সমর্থন করার জন্য আইকনটিতে ক্লিক করুন।"
 
 msgid "This resource is endorsed by staff"
-msgstr ""
+msgstr "এই রিসোর্সটি স্টাফদের দ্বারা অনুমোদিত।"
 
 msgid "Click to view resources for removal"
-msgstr ""
+msgstr "সরানোর জন্য রিসোর্সগুলো দেখতে ক্লিক করুন"
 
 msgid "Click to view resources in ordinary decreasing-vote order"
-msgstr ""
+msgstr "ক্লিক করে কম ভোট পাওয়া থেকে বেশি ভোট পাওয়ার ক্রমানুসারে রিসোর্সগুলো দেখুন"
 
 msgid "Here is a list of reasons why students think this resource problematic:"
-msgstr ""
+msgstr "শিক্ষার্থীরা কেন এই রিসোর্সটিকে সমস্যাজনক মনে করে তার একটি তালিকা নিচে দেওয়া হলো:"
 
 msgid "The reason why it is endorsed is:"
-msgstr ""
+msgstr "এটা সমর্থন করার কারণ হল:"
 
 msgid "Resource: "
-msgstr ""
+msgstr "রিসোর্স:"
 
 msgid "votes"
-msgstr ""
+msgstr "ভোট"
 
 msgid "The content you typed has not been submitted yet. Are you sure to go back?"
-msgstr ""
+msgstr "আপনি যে লেখাটি লিখেছেন, সেটি এখনো জমা দেওয়া হয়নি। আপনি কি ফিরে যেতে চান?"
 
 msgid "Import resources"
-msgstr ""
+msgstr "রিসোর্স ইম্পোর্ট করুন"
 
 msgid "Suggest resource"
-msgstr ""
+msgstr "রিসোর্স সাজেস্ট করুন"
 
 msgid "Edit existing resource"
-msgstr ""
+msgstr "বিদ্যমান রিসোর্সটি সম্পাদনা করুন"
 
 msgid "Flag Resource"
-msgstr ""
+msgstr "ফ্ল্যাগ রিসোর্স"
 
 msgid "Endorse Resource"
-msgstr ""
+msgstr "রিসোর্স অনুমোদন করুন"
 
 msgid "Remove Resource"
-msgstr ""
+msgstr "রিসোর্স সরান"
 
 msgid "Upload resources in JSON format to the database."
-msgstr ""
+msgstr "ডাটাবেসে JSON ফরম্যাটে রিসোর্স আপলোড করুন।"
 
 msgid "Suggest a resource which can help other students with this problem. Please do not give the answer directly."
-msgstr ""
+msgstr "অন্যান্য ছাত্রছাত্রীদের এই সমস্যা সমাধানে সাহায্য করতে পারে এমন একটি রিসোর্স সাজেস্ট করুন। দয়া করে সরাসরি উত্তর দেবেন না।"
 
 msgid "Edit the resource and make it more helpful for other students with this problem. Please do not give the answer directly."
-msgstr ""
+msgstr " রিসোর্সটি এডিট করুন এবং এই সমস্যায় অন্যান্য শিক্ষার্থীদের জন্য আরও সহায়ক করুন। দয়া করে সরাসরি উত্তর দেওয়া থেকে বিরত থাকুন।"
 
 msgid "Why would you like to flag this resource? The staff will review all flagged resources, and remove inappropriate ones (spam, incorrect, abusive, etc.). Giving a clear reason will help us do this efficiently."
-msgstr ""
+msgstr "আপনি কেন এই রিসোর্সটি রিপোর্ট করতে চান? আমাদের স্টাফরা রিপোর্ট করা রিসোর্সগুলো দেখবে এবং আপত্তিকর কিছু পেলে সরিয়ে দেবে (স্প্যাম, ভুল তথ্য, খারাপ ব্যবহার, ইত্যাদি)। দয়া করে স্পষ্ট করে কারণটা বললে আমাদের জন্য দ্রুত ব্যবস্থা নিতে সুবিধা হবে।"
 
 msgid "Endorse this resource and give the reason why you do that."
-msgstr ""
+msgstr "এই রিসোর্সটিকে সমর্থন করুন এবং এর কারণ জানান।"
 
 msgid "Remove this resource and give the reason why you do that."
-msgstr ""
+msgstr "এই রিসোর্সটি সরিয়ে ফেলুন এবং এর কারণ জানান।"
 
 msgid "Hide related resources"
-msgstr ""
+msgstr "সম্পর্কিত রিসোর্সগুলো লুকান"
 
 msgid "From page {fromPage} To page {toPage}"
-msgstr ""
+msgstr "পাতা {fromPage} থেকে পাতা {toPage} পর্যন্ত"
 
 msgid "Export resources"
-msgstr ""
+msgstr "রিসোর্স এক্সপোর্ট করুন"
 
 msgid "Entering import resource mode"
-msgstr ""
+msgstr "ইম্পোর্ট রিসোর্স মোডে প্রবেশ করা হচ্ছে।"
 
 msgid "Entering add resource mode"
-msgstr ""
+msgstr "রিসোর্স যুক্ত করার মোডে প্রবেশ করা হচ্ছে"
 
 msgid "Add new resource"
-msgstr ""
+msgstr "নতুন রিসোর্স যোগ করুন"
 
 msgid "Entering edit resource mode"
-msgstr ""
+msgstr "রিসোর্স এডিট মোডে প্রবেশ করা হচ্ছে"
 
 msgid "Entering flag resource mode"
-msgstr ""
+msgstr "ফ্ল্যাগ রিসোর্স মোডে প্রবেশ করা হচ্ছে"
 
 msgid "Flag resource"
-msgstr ""
+msgstr "ফ্ল্যাগ রিসোর্স"
 
 msgid "Unflag resource"
-msgstr ""
+msgstr "রিসোর্স আনফ্ল্যাগ করুন"
 
 msgid "Endorse resource"
-msgstr ""
+msgstr "রিসোর্সটি সমর্থন করুন"
 
 msgid "Unendorse resource"
-msgstr ""
+msgstr "রিসোর্স আনেন্ডোর্স করুন"
 
 msgid "Remove resource"
-msgstr ""
+msgstr "রিসোর্স সরান"
 
 msgid "Hovering resource"
-msgstr ""
+msgstr "রিসোর্সটির উপর মাউস হোভার করুন"
 
 msgid "A resource was clicked"
-msgstr ""
+msgstr "একটি রিসোর্স ক্লিক করা হয়েছে।"
 
 msgid "Back to resource list mode"
-msgstr ""
+msgstr "রিসোর্স লিস্ট মোডে ফিরে যান"
 

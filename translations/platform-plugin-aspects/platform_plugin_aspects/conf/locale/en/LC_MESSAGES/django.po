@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 18:19+0000\n"
-"PO-Revision-Date: 2025-09-28 00:19+2293\n"
+"POT-Creation-Date: 2025-09-29 12:06+0000\n"
+"PO-Revision-Date: 2025-09-29 18:06+8515\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,22 +46,22 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Reports"
-msgstr ""
+msgstr "রিপোর্ট"
 
 msgid "Course Dashboard"
-msgstr ""
+msgstr "কোর্স ড্যাশবোর্ড"
 
 msgid "Individual Learner Dashboard"
-msgstr ""
+msgstr "ব্যক্তিগত শিক্ষার্থীর ড্যাশবোর্ড"
 
 msgid "At-Risk Learners Dashboard"
-msgstr ""
+msgstr "ঝুঁকিপূর্ণ শিক্ষার্থী ড্যাশবোর্ড"
 
 msgid "Course"
 msgstr "কোর্স"
 
 msgid "Graded Subsection"
-msgstr ""
+msgstr "গ্রেডেড সাবসেকশন"
 
 msgid "Problem"
 msgstr "সমস্যা"
@@ -70,34 +70,34 @@ msgid "Video"
 msgstr "ভিডিও"
 
 msgid "Superset is not configured properly. Please contact your system administrator."
-msgstr ""
+msgstr "সুপারসেট সঠিকভাবে কনফিগার করা হয়নি। অনুগ্রহ করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।"
 
 msgid "Superset is only visible to course staff and instructors. Please contact your system administrator."
-msgstr ""
+msgstr "Superset শুধুমাত্র কোর্স স্টাফ ও ইন্সট্রাক্টরদের জন্য দৃশ্যমান। প্রয়োজনে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।"
 
 msgid "Course not found: '{course_id}'"
-msgstr ""
+msgstr "কোর্সটি খুঁজে পাওয়া যায়নি: '{course_id}'"
 
 msgid "Invalid course id: '{course_id}'"
-msgstr ""
+msgstr "অবৈধ কোর্স আইডি: '{course_id}'"
 
 msgid "Invalid usage id: '{usage_id}'"
-msgstr ""
+msgstr "ভুল ব্যবহারকারী আইডি: '{usage_id}'"
 
 msgid "No dashboard for block type: '{block_type}'"
-msgstr ""
+msgstr "ব্লক টাইপ: '{block_type}' এর জন্য ড্যাশবোর্ড নেই।"
 
 msgid "Display name"
-msgstr ""
+msgstr "প্রদর্শন নাম"
 
 msgid "Superset Dashboard"
-msgstr ""
+msgstr "Superset ড্যাশবোর্ড"
 
 msgid "Dashboard UUID"
-msgstr ""
+msgstr "ড্যাশবোর্ড UUID"
 
 msgid "The ID of the dashboard to embed. Available in the Superset embed dashboard UI."
-msgstr ""
+msgstr "ড্যাশবোর্ডটি এম্বেড করার আইডি। Superset এম্বেড ড্যাশবোর্ড ইউআই-তে পাওয়া যাবে।"
 
 msgid "Filters"
 msgstr "ফিল্টার"
@@ -107,5 +107,5 @@ msgid ""
 "               dashboard. E.g: [\"org='edX'\", \"country in ('us', 'co')\"]\"\"\"\"\"\"\"\"\""\n
 "               The fields used here must be available on every dataset used by the dashboard.\"\"\"\"\"\"\"\"\""\n
 "               "
-msgstr ""
+msgstr "ড্যাশবোর্ডে প্রয়োগ করার জন্য SQL ফিল্টারগুলির তালিকা। যেমন: [\"org='edX'"
 

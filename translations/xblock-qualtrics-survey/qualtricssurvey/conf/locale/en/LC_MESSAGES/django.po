@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 12:23+0000\n"
-"PO-Revision-Date: 2025-09-27 18:23+3795\n"
+"POT-Creation-Date: 2025-09-29 13:56+0000\n"
+"PO-Revision-Date: 2025-09-29 19:56+7623\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,38 +46,38 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Display Name:"
-msgstr ""
+msgstr "ডিসপ্লে নাম:"
 
 msgid "This name appears in the horizontal navigation at the top of the page."
-msgstr ""
+msgstr "এই নামটি পেজের উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।"
 
 msgid "Link Text:"
-msgstr ""
+msgstr "লিঙ্ক টেক্সট:"
 
 msgid "This is the text that will link to your survey."
-msgstr ""
+msgstr "এটি আপনার সার্ভেতে নিয়ে যাওয়ার লিঙ্ক।"
 
 msgid "Message:"
 msgstr "বার্তা:"
 
 msgid "This is the text that will be displayed above the link to your survey."
-msgstr ""
+msgstr "আপনার জরিপের লিঙ্কের উপরে এই লেখাটি দেখানো হবে।"
 
 msgid "Param Name:"
-msgstr ""
+msgstr "প্যারামিটার নাম:"
 
 msgid "This is the name for the User ID parameter in the url. If blank, User ID is ommitted from the url."
-msgstr ""
+msgstr "এইটি হল URL-এর ইউজার আইডি প্যারামিটারের নাম। খালি থাকলে, URL থেকে ইউজার আইডি বাদ দেওয়া হবে।"
 
 msgid "Survey ID:"
-msgstr ""
+msgstr "সার্ভে আইডি:"
 
 msgid "This is the ID that Qualtrics uses for the survey, which can include numbers and letters, and should be entered in the following format: SV_###############"
-msgstr ""
+msgstr "এটি কোয়ান্ট্রিক্স সার্ভের জন্য ব্যবহার করা আইডি, যেখানে সংখ্যা ও অক্ষর দুটোই থাকতে পারে। এটি নিচের ফরম্যাটে প্রবেশ করানো উচিত: SV_###############"
 
 msgid "Your University:"
-msgstr ""
+msgstr "আপনার বিশ্ববিদ্যালয়:"
 
 msgid "This is the name of your university."
-msgstr ""
+msgstr "এটা আপনার বিশ্ববিদ্যালয়ের নাম।"
 
