@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 12:55+0000\n"
-"PO-Revision-Date: 2025-09-29 18:55+9620\n"
+"POT-Creation-Date: 2025-09-29 21:14+0000\n"
+"PO-Revision-Date: 2025-09-30 03:14+2442\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -329,9 +329,9 @@ msgstr "ব্যাকগ্রাউন্ড বর্ণনা"
 
 msgid ""
 ""\n
-"                            Please provide a description of the image for non-visual users.\"\"\"\"\"\""\n
-"                            The description should provide sufficient information to allow anyone\"\"\"\"\"\""\n
-"                            to solve the problem even without seeing the image.\"\"\"\"\"\""\n
+"                            Please provide a description of the image for non-visual users.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            The description should provide sufficient information to allow anyone\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            to solve the problem even without seeing the image.\"\"\"\"\"\"\"\"\"\"\"\""\n
 "                        "
 msgstr "অনুগ্রহ করে যারা দেখতে পাচ্ছেন না, তাদের জন্য ছবিটির একটি বর্ণনা দিন। বর্ণনাটি যেন যথেষ্ট তথ্যপূর্ণ হয়, যাতে ছবিটি না দেখলেও যে কেউ সমস্যাটি সমাধান করতে পারে।"
 

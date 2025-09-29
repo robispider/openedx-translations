@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 07:57+0000\n"
-"PO-Revision-Date: 2025-09-29 13:57+4069\n"
+"POT-Creation-Date: 2025-09-29 21:14+0000\n"
+"PO-Revision-Date: 2025-09-30 03:14+1074\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -197,20 +197,20 @@ msgstr "অকার্যকর ইন্টিগ্রেটেড চ্য�
 
 msgid ""
 ""\n
-"    Backfill missing audit record foreign keys for Cornerstone.\"\"\"\"\"\"\"\"\""\n
+"    Backfill missing audit record foreign keys for Cornerstone.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "কর্নারস্টোনের জন্য অনুপস্থিত অডিট রেকর্ডের বিদেশি কীগুলি পুনরায় পূরণ করুন।"
 
 msgid ""
 ""\n
-"    Backfill missing audit record foreign keys.\"\"\"\"\"\"\"\"\""\n
+"    Backfill missing audit record foreign keys.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "বাদ দেওয়া অডিট রেকর্ডের ফরেন কীগুলো পূরণ করুন।"
 
 msgid ""
 ""\n
-"    Verify and remove any duplicated assignments transmitted to the IntegratedChannel(s) configured for the given\"\"\"\"\"\"\"\"\""\n
-"     EnterpriseCustomer.\"\"\"\"\"\"\"\"\""\n
+"    Verify and remove any duplicated assignments transmitted to the IntegratedChannel(s) configured for the given\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"     EnterpriseCustomer.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "给定 EnterpriseCustomer এর জন্য কনফিগার করা IntegratedChannel(s)-এ পাঠানো ডুপ্লিকেট অ্যাসাইনমেন্টগুলো যাচাই করুন এবং সরিয়ে দিন।"
 
@@ -222,19 +222,19 @@ msgstr "{username} নামের কোনো ব্যবহারকার�
 
 msgid ""
 ""\n
-"    Transmit Enterprise learner course completion data for the given EnterpriseCustomer.\"\"\"\"\"\"\"\"\""\n
+"    Transmit Enterprise learner course completion data for the given EnterpriseCustomer.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "নির্দিষ্ট EnterpriseCustomer-এর জন্য Transmit Enterprise লার্নার কোর্সের সমাপ্তির ডেটা প্রেরণ করুন।"
 
 msgid ""
 ""\n
-"    This management command deletes records from the IntegratedChannelAPIRequestLogs model that are older than one month\"\"\"\"\"\"\"\"\""\n
+"    This management command deletes records from the IntegratedChannelAPIRequestLogs model that are older than one month\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "এই ম্যানেজমেন্ট কমান্ডটি ইন্টিগ্রেটেড চ্যানেল এপিআই রিকোয়েস্ট লগস মডেল থেকে এক মাসের পুরোনো রেকর্ডগুলি মুছে ফেলে।"
 
 msgid ""
 ""\n
-"    Reset SAPSF learner transmissions for the given EnterpriseCustomer and Channel between two dates.\"\"\"\"\"\"\"\"\""\n
+"    Reset SAPSF learner transmissions for the given EnterpriseCustomer and Channel between two dates.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "নির্দিষ্ট EnterpriseCustomer এবং Channel এর মধ্যে দুটি তারিখের মধ্যে SAPSF শিক্ষার্থীর ডেটা ট্রান্সমিশন রিসেট করুন।"
 
@@ -246,7 +246,7 @@ msgstr "YYYY-MM-DDTHH:MM:SSZ ফরম্যাটে শেষ তারিখ 
 
 msgid ""
 ""\n
-"    Transmit Enterprise learner assessment level reporting data for the given EnterpriseCustomer.\"\"\"\"\"\"\"\"\""\n
+"    Transmit Enterprise learner assessment level reporting data for the given EnterpriseCustomer.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "দয়া করে প্রদত্ত EnterpriseCustomer-এর জন্য ট্রান্সমিট এন্টারপ্রাইজ লার্নার অ্যাসেসমেন্ট লেভেল রিপোর্টিং ডেটা প্রেরণ করুন।"
 
@@ -488,7 +488,7 @@ msgid "The following duplicate email addresses were not added: {list_of_emails}"
 msgstr "নিম্নলিখিত ডুপ্লিকেট ইমেইল ঠিকানাগুলো যোগ করা হয়নি: {list_of_emails}"
 
 msgid ""
-"Error at line {line}: {message}\"\"\"\"\"\"\"\"\""\n
+"Error at line {line}: {message}\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr "{line} নম্বর লাইনে ত্রুটি: {message}"
 
@@ -508,22 +508,22 @@ msgid "Successfully written the \"Auth org id\" field for this enterprise custom
 msgstr "এই এন্টারপ্রাইজ গ্রাহকের জন্য \"Auth org id\" ক্ষেত্রটি সফলভাবে লেখা হয়েছে।"
 
 msgid ""
-"{token_email} from {token_enterprise_name} has requested {token_number_codes} additional codes. Please reach out to them.\"\"\"\"\"\"\"\"\""\n
-"Additional Notes:\"\"\"\"\"\"\"\"\""\n
+"{token_email} from {token_enterprise_name} has requested {token_number_codes} additional codes. Please reach out to them.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Additional Notes:\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "{token_notes}."
 msgstr ""
-"{token_email} ঠিকানায় {token_enterprise_name} থেকে {token_number_codes} টি অতিরিক্ত কোড চেয়েছেন। অনুগ্রহ করে তাদের সাথে যোগাযোগ করুন।"\n
+"{token_email} ঠিকানায় {token_enterprise_name} থেকে {token_number_codes} টি অতিরিক্ত কোড চেয়েছেন। অনুগ্রহ করে তাদের সাথে যোগাযোগ করুন।\"\"\"\"\"\""\n
 "{token_notes}"
 
 msgid "{token_email} from {token_enterprise_name} has requested {token_number_codes} additional codes. Please reach out to them."
 msgstr "{token_email} ইমেলটি {token_enterprise_name} থেকে {token_number_codes}টি অতিরিক্ত কোডের জন্য অনুরোধ করেছে। অনুগ্রহ করে তাদের সাথে যোগাযোগ করুন।"
 
 msgid ""
-"{token_email} from {token_enterprise_name} has requested additional codes. Please reach out to them.\"\"\"\"\"\"\"\"\""\n
-"Additional Notes:\"\"\"\"\"\"\"\"\""\n
+"{token_email} from {token_enterprise_name} has requested additional codes. Please reach out to them.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Additional Notes:\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "{token_notes}."
 msgstr ""
-"{token_email} -এর পক্ষ থেকে {token_enterprise_name} অতিরিক্ত কোড চেয়েছে। অনুগ্রহ করে তাদের সাথে যোগাযোগ করুন।"\n
+"{token_email} -এর পক্ষ থেকে {token_enterprise_name} অতিরিক্ত কোড চেয়েছে। অনুগ্রহ করে তাদের সাথে যোগাযোগ করুন।\"\"\"\"\"\""\n
 "{token_notes}।"
 
 msgid "{token_email} from {token_enterprise_name} has requested additional codes. Please reach out to them."
@@ -621,7 +621,7 @@ msgstr "মাইগ্রেট করার জন্য এন্টারপ
 
 msgid ""
 ""\n
-"    Set error state for configurations.\"\"\"\"\"\"\"\"\""\n
+"    Set error state for configurations.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "কনফিগারেশনগুলোর জন্য এরর স্টেট সেট করুন।"
 
@@ -851,7 +851,7 @@ msgid "Enterprise Customer Catalogs"
 msgstr "এন্টারপ্রাইজ কাস্টমার ক্যাটালগ"
 
 msgid ""
-"Fill in a standard Django template that, when rendered, produces the email you want sent to newly-enrolled Enterprise Customer learners. The following variables may be available:\"\"\"\"\"\"\"\"\""\n
+"Fill in a standard Django template that, when rendered, produces the email you want sent to newly-enrolled Enterprise Customer learners. The following variables may be available:\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 
