@@ -1,0 +1,149 @@
+﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# edX translation file.
+# Copyright (C) 2025 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+# Translators:
+# Gabriel D'Amours <gabriel@opencraft.com>, 2024
+# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
+# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
+# Brian Smith, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-29 21:52+0000\n"
+"PO-Revision-Date: 2025-09-30 03:52+6374\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "We could not execute your query; please try again."
+msgstr "আপনারquery টি সম্পাদন করা যায়নি; অনুগ্রহ করে আবার চেষ্টা করুন।"
+
+msgid "Weight"
+msgstr "ওজন"
+
+msgid "This assigns an integer value representing the weight of this problem"
+msgstr "এটা এই সমস্যাটির গুরুত্ব বোঝানোর জন্য একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
+
+msgid "Display Name"
+msgstr "ডিসপ্লে নাম"
+
+msgid "The display name for this component."
+msgstr "এই কম্পোনেন্টের প্রদর্শিত নাম।"
+
+msgid "SQL Problem"
+msgstr "SQL সমস্যা"
+
+msgid "Dataset"
+msgstr "ডেটা সেট"
+
+msgid "Which initial dataset/database to be used for queries"
+msgstr "কোন্‌ প্রাথমিক ডেটাসেট/ডাটাবেস কোয়েরির জন্য ব্যবহার করা হবে?"
+
+msgid "Answer Query"
+msgstr "উত্তর দিন"
+
+msgid "A correct response SQL query"
+msgstr "সঠিক উত্তর দেওয়ার SQL কোয়েরি"
+
+msgid "Verify Query"
+msgstr "কোয়েরি যাচাই করুন"
+
+msgid "A secondary verification SQL query, to be used if the answer_query modifies the database (UPDATE, INSERT, DELETE, etc.). Only enter a single SELECT query here, which is used for matching the answer"
+msgstr "একটি দ্বিতীয় যাচাইকরণ SQL ক্যোয়ারী, যদি answer_query ডাটাবেস পরিবর্তন করে (UPDATE, INSERT, DELETE, ইত্যাদি)। এখানে শুধুমাত্র একটি SELECT ক্যোয়ারী লিখুন, যা উত্তর মেলানোর জন্য ব্যবহৃত হবে।"
+
+msgid "Modification query statements"
+msgstr "পরিবর্তন কোয়েরি স্টেটমেন্ট"
+
+msgid "Optional SQL statements, to be executed after the user-submitted query, but before the verify_query."
+msgstr "ব্যবহারকারী কর্তৃক জমা দেওয়া প্রশ্নের পরে এবং যাচাই করার আগে ঐচ্ছিক SQL স্টেটমেন্টগুলি কার্যকর করা হবে।"
+
+msgid "Is Ordered?"
+msgstr "অর্ডার করা হয়েছে?"
+
+msgid "Should results be in order?"
+msgstr "ফলাফলগুলো সাজানো থাকবে কি?"
+
+msgid "Prompt"
+msgstr "প্রম্পট"
+
+msgid "Explanatory text to accompany the problem"
+msgstr "সমস্যার সাথে যুক্ত সহায়ক ব্যাখ্যা।"
+
+msgid "Submission Query"
+msgstr "জমা দেওয়ার বিষয়ে জিজ্ঞাসা"
+
+msgid "A Submission Query"
+msgstr "একটি সাবমিশন কোয়েরি"
+
+msgid ""
+""\n
+"            %(score_weighted)s/%(max_score)s point (graded)"\n
+"        "
+msgstr "%(score_weighted)s / %(max_score)s পয়েন্ট (গ্রেডেড)"
+
+msgid "0 points (ungraded)"
+msgstr "০ পয়েন্ট (অ্যাসেসমেন্ট করা হয়নি)"
+
+msgid "Note:"
+msgstr "নোট:"
+
+msgid "Your queries are executed using SQLite, so you must conform to the SQL constructs supported by SQLite."
+msgstr "আপনার প্রশ্নগুলো SQLite ব্যবহার করে চালানো হয়, তাই আপনাকে SQLite সমর্থিত SQL নিয়মগুলো মেনে চলতে হবে।"
+
+msgid "Press ESC then TAB or click outside of the code editor to exit"
+msgstr "ESC চেপে তারপর TAB চাপুন অথবা কোড এডিটরের বাইরে ক্লিক করে বের হয়ে যান।"
+
+msgid "Submit"
+msgstr "জমা দিন"
+
+msgid "Show Answer"
+msgstr "উত্তর দেখাও"
+
+msgid "Correct"
+msgstr "সঠিক"
+
+msgid "Incorrect"
+msgstr "ভুল"
+
+msgid "Unanswered"
+msgstr "উত্তর দেওয়া হয়নি"
+
+msgid "To check your data modification statement, we ran the following query after your modification:"
+msgstr "আপনার ডেটা পরিবর্তনের স্টেটমেন্ট যাচাই করার জন্য, আপনার পরিবর্তনের পরে আমরা নিম্নলিখিত কোয়েরিটি চালিয়েছি:"
+
+msgid "Your Query Result:"
+msgstr "আপনার অনুসন্ধানের ফলাফল:"
+
+msgid "Expected Query Result:"
+msgstr "প্রত্যাশিত ক্যোয়ারী ফলাফল:"
+

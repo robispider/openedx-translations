@@ -1,0 +1,74 @@
+﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# edX translation file.
+# Copyright (C) 2025 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+# Translators:
+# Gabriel D'Amours <gabriel@opencraft.com>, 2024
+# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
+# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
+# Brian Smith, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-29 21:52+0000\n"
+"PO-Revision-Date: 2025-09-30 03:52+4009\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Enter a valid course ID"
+msgstr "একটি বৈধ কোর্স আইডি লিখুন"
+
+msgid "Are you sure you want to unlink %(email)s?"
+msgstr "আপনি কি নিশ্চিতভাবে %(email)s আনলিঙ্ক করতে চান?"
+
+msgid "---------"
+msgstr "আপনাকে স্বাগতম, {name}!"
+
+msgid "Audit"
+msgstr "নিরীক্ষা"
+
+msgid "Verified"
+msgstr "যাচাইকৃত"
+
+msgid "Professional Education"
+msgstr "পেশাদার শিক্ষা"
+
+msgid "Professional Education (no ID)"
+msgstr "পেশাদার শিক্ষা"
+
+msgid "Credit"
+msgstr "ক্রেডিট"
+
+msgid "Honor"
+msgstr "সম্মান"
+

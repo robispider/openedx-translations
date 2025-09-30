@@ -1,0 +1,107 @@
+﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# edX translation file.
+# Copyright (C) 2025 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+# Translators:
+# Gabriel D'Amours <gabriel@opencraft.com>, 2024
+# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
+# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
+# Brian Smith, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-29 21:52+0000\n"
+"PO-Revision-Date: 2025-09-30 03:52+6499\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Display Name"
+msgstr "ডিসপ্লে নাম"
+
+msgid "This name appears in the horizontal navigation at the top of the page"
+msgstr "এই {name} টি পৃষ্ঠার উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।"
+
+msgid "Weight"
+msgstr "ওজন"
+
+msgid "This assigns an integer value representing the weight of this problem"
+msgstr "এটা এই সমস্যাটির গুরুত্ব বোঝানোর জন্য একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
+
+msgid "Max Attempts"
+msgstr "সর্বোচ্চ চেষ্টা"
+
+msgid "This assigns an integer value representing the maximum number of times a student can attempt the problem"
+msgstr "এটা একজন ছাত্র একটি সমস্যা কতবার সমাধান করার চেষ্টা করতে পারবে তার সর্বোচ্চ সংখ্যা বোঝাতে একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
+
+msgid "Label for Student Answer"
+msgstr "ছাত্রের উত্তর"
+
+msgid "Label for the text area containing the student's answer"
+msgstr "ছাত্রের উত্তর লেখার স্থান"
+
+msgid "Label for Expert Answer"
+msgstr "বিশেষজ্ঞের উত্তর"
+
+msgid "Label for the 'expert' answer"
+msgstr "এক্সপার্ট উত্তরের লেবেল"
+
+msgid "Label for Submit Button"
+msgstr "সাবমিট করুন"
+
+msgid "Label for the submit button"
+msgstr "জমা দিন"
+
+msgid "Definition"
+msgstr "সংজ্ঞা"
+
+msgid "The XML definition for the question and expert answer"
+msgstr "প্রশ্ন এবং বিশেষজ্ঞ উত্তরের জন্য XML ডেফিনেশন"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Hint ({number} of {total}): {hint}"
+msgstr "ইঙ্গিত ({number} টি, মোট {total} টি): {hint}"
+
+msgid "You have used {count_attempts} of {max_attempts} submission"
+msgstr "আপনি {max_attempts} বার জমা দেওয়ার মধ্যে {count_attempts} বার জমা দিয়েছেন।"
+
+msgid "{weight} point possible"
+msgstr "{weight} পয়েন্ট সম্ভাব্য"
+
+msgid "/{weight} point"
+msgstr "{weight} পয়েন্ট"
+

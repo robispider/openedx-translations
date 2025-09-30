@@ -1,0 +1,251 @@
+﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# edX translation file.
+# Copyright (C) 2025 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+# Translators:
+# Gabriel D'Amours <gabriel@opencraft.com>, 2024
+# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
+# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
+# Brian Smith, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-29 21:52+0000\n"
+"PO-Revision-Date: 2025-09-30 03:52+4978\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "What did you learn from this? What was missing?"
+msgstr "এটা থেকে কী শিখলে? কী missing ছিল?"
+
+msgid "How would you rate this as a learning experience?"
+msgstr "এই অভিজ্ঞতাটা শেখার দিক থেকে কেমন ছিল, রেটিং দেন?<br/>(১-৫ এর মধ্যে)"
+
+msgid "Think about the material, and try to synthesize key lessons learned, as well as key gaps in our presentation."
+msgstr "উপকরণগুলো নিয়ে একটু ভাবুন, এবং আমাদের উপস্থাপনায় মূল শিক্ষা এবং দুর্বলতাগুলো চিহ্নিত করার চেষ্টা করুন।"
+
+msgid "Take a little bit of time to reflect here. Research shows that a meaningful synthesis will help you better understand and remember material from this course."
+msgstr "এখানে একটু সময় নিয়ে ভাবুন। গবেষণায় দেখা গেছে যে একটি অর্থপূর্ণ সারসংক্ষেপ আপনাকে এই কোর্সের উপাদানগুলি আরও ভালোভাবে বুঝতে এবং মনে রাখতে সাহায্য করবে।"
+
+msgid "Excellent"
+msgstr "চমৎকার"
+
+msgid "Good"
+msgstr "ভাল"
+
+msgid "Average"
+msgstr "গড়"
+
+msgid "Fair"
+msgstr "ন্যায্য"
+
+msgid "Poor"
+msgstr "দুঃখজনক"
+
+msgid "Freeform user prompt"
+msgstr "ব্যবহারকারীর প্রশ্ন"
+
+msgid "Random number generated for p. -1 if uninitialized"
+msgstr "p এর জন্য র‍্যান্ডম নম্বর তৈরি হয়েছে। যদি শুরু করা না হয়ে থাকে তবে -১।"
+
+msgid "How user voted. -1 if didn't vote"
+msgstr "ইউজার কিভাবে ভোট দিয়েছেন। ভোট না দিলে -1"
+
+msgid "What percent of the time should this show?"
+msgstr "কত শতাংশ সময় ধরে এটা দেখানো উচিত?"
+
+msgid "A list of user votes"
+msgstr "ব্যবহারকারীদের ভোটের তালিকা"
+
+msgid "Feedback"
+msgstr "ফিডব্যাক"
+
+msgid "Display Name"
+msgstr "ডিসপ্লে নাম"
+
+msgid "Provide Feedback"
+msgstr "ফিডব্যাক দিন"
+
+msgid "Voting message"
+msgstr "ভোটিং মেসেজ"
+
+msgid "Thank you for voting!"
+msgstr "ভোট দেওয়ার জন্য ধন্যবাদ!"
+
+msgid "Feedback message"
+msgstr "ফিডব্যাক মেসেজ"
+
+msgid "Thank you for your feedback!"
+msgstr "আপনার মতামত দেওয়ার জন্য ধন্যবাদ!"
+
+msgid "Show aggregate to students"
+msgstr "শিক্ষার্থীদের কাছে অ্যাগ্রিগেট দেখান"
+
+msgid "Please reflect on this course material"
+msgstr "অনুগ্রহ করে এই কোর্সের উপাদানগুলো নিয়ে একটু ভাবুন।"
+
+msgid "Please take time to meaningfully reflect on your experience with this course material."
+msgstr "দয়া করে এই কোর্সের উপাদানগুলোর সাথে আপনার অভিজ্ঞতা নিয়ে গভীরভাবে চিন্তা করুন।"
+
+msgid "Please rate your overall experience"
+msgstr "অনুগ্রহ করে আপনার সামগ্রিক অভিজ্ঞতা কেমন ছিল, অনুগ্রহ করে রেটিং দিন।"
+
+msgid "Please take a moment to thoughtfully reflect."
+msgstr "অনুগ্রহ করে একটু ভেবে দেখুন।"
+
+msgid "Please vote!"
+msgstr "অনুগ্রহ করে ভোট দিন!"
+
+msgid "Component"
+msgstr "কম্পোনেন্ট"
+
+msgid "Number of ratings"
+msgstr "রেটিং সংখ্যা"
+
+msgid "Average rating"
+msgstr "গড় রেটিং"
+
+msgid "Feedback "
+msgstr "ফিডব্যাক"
+
+msgid "Comment"
+msgstr "মন্তব্য"
+
+msgid "Vote"
+msgstr "ভোট"
+
+msgid "No vote"
+msgstr "কোনো ভোট নেই"
+
+msgid "Submit Feedback"
+msgstr "ফিডব্যাক জমা দিন"
+
+msgid "This XBlock allows you to collect student feedback on pieces of the course. This may be helpful either for course improvement, or to give students a chance to reflect on what they have done."
+msgstr "এই XBlock টি আপনাকে কোর্সের বিভিন্ন অংশের উপর শিক্ষার্থীদের মতামত সংগ্রহ করতে সাহায্য করবে। এটি কোর্সের মান উন্নয়নের জন্য অথবা শিক্ষার্থীদের তাদের কাজ নিয়ে চিন্তা করার সুযোগ দেওয়ার জন্য সহায়ক হতে পারে।"
+
+msgid "Display name"
+msgstr "প্রদর্শন নাম"
+
+msgid "The name of the component."
+msgstr "কম্পোনেন্টটির নাম।"
+
+msgid "The message to show after user vote."
+msgstr "ব্যবহারকারী ভোট দেওয়ার পরে দেখানোর বার্তা।"
+
+msgid "The message to show after user feedback."
+msgstr "ব্যবহারকারী মতামত দেওয়ার পরে দেখানোর বার্তা।"
+
+msgid "Show aggregate report to students"
+msgstr "শিক্ষার্থীদের কাছে অ্যাগ্রিগেট রিপোর্ট দেখান"
+
+msgid "False"
+msgstr "মিথ্যা"
+
+msgid "True"
+msgstr "সত্য"
+
+msgid "Whether to show the aggregate report to students."
+msgstr "শিক্ষার্থীদের কাছে সামগ্রিক রিপোর্ট দেখানোর অনুমতি দেওয়া হবে কিনা।"
+
+msgid "Freeform prompt"
+msgstr "ফ্রিফর্ম প্রম্পট"
+
+msgid "Example: Please provide us feedback on this section."
+msgstr "উদাহরণ: এই অংশে আপনার মতামত দিন।"
+
+msgid "Freeform placeholder"
+msgstr "ফ্রিফর্ম প্লেসহোল্ডার"
+
+msgid "This is shown as grayed out text before the student has answered."
+msgstr "শিক্ষার্থী উত্তর দেওয়ার আগে এটি ধূসর রঙে দেখানো হবে।"
+
+msgid "Likert icon set"
+msgstr "লাইকার্ট আইকন সেট"
+
+msgid "Faces (happy to sad)"
+msgstr "মুখ (খুশি থেকে দুঃখ)"
+
+msgid "Faces (sad to happy)"
+msgstr "মুখের অভিব্যক্তি (দুঃখী থেকে খুশি)"
+
+msgid "Numeric"
+msgstr "সংখ্যাসূচক"
+
+msgid "Stars"
+msgstr "তারা"
+
+msgid "We can either show happy/sad faces, numbers 1-5 or stars."
+msgstr "আমরা খুশি/দুঃখী মুখ, ১-৫ পর্যন্ত সংখ্যা অথবা তারা দেখাতে পারি।"
+
+msgid "Likert prompt"
+msgstr "লিকার্ট প্রশ্ন"
+
+msgid "Example: Please rate your overall experience with this section."
+msgstr "উদাহরণস্বরূপ: এই অংশের সাথে আপনার অভিজ্ঞতা কেমন ছিল, অনুগ্রহ করে রেটিং দিন।"
+
+msgid "Likert option 1"
+msgstr "Likert অপশন ১"
+
+msgid "Example: Excellent!"
+msgstr "দারুণ!"
+
+msgid "Likert option 2"
+msgstr "লাইকার্ট অপশন ২"
+
+msgid "Example: Good"
+msgstr "উদাহরণস্বরূপ:"
+
+msgid "Likert option 3"
+msgstr "লাইকার্ট অপশন ৩"
+
+msgid "Example: Average"
+msgstr "উদাহরণ: গড়"
+
+msgid "Likert option 4"
+msgstr "লাইকার্ট অপশন ৪"
+
+msgid "Example: Fair"
+msgstr "উদাহরণস্বরূপ: ন্যায্য"
+
+msgid "Likert option 5"
+msgstr "লাইকার্ট অপশন ৫"
+
+msgid "Example: Poor"
+msgstr "উদাহরণ: খারাপ"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+

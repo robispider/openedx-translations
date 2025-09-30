@@ -1,0 +1,122 @@
+﻿{
+  "Hyperlink.externalLinkAltText": {
+    "string": "নতুন ট্যাবে খুলুন"
+  },
+  "Hyperlink.externalLinkTitle": {
+    "string": "নতুন ট্যাবে খুলবে"
+  },
+  "dropzone.Dropzone.invalidSizeLessError": {
+    "string": "ফাইলের আকার {size}-এর চেয়ে বড় হতে হবে।"
+  },
+  "dropzone.Dropzone.invalidSizeMoreError": {
+    "string": "ফাইলের আকার {size}-এর চেয়ে ছোট হতে হবে।"
+  },
+  "dropzone.Dropzone.invalidType": {
+    "string": "ফাইলের ধরণটি অবশ্যই {count, plural, one {{typeString} ফাইল} other {{typeString} ফাইলগুলির মধ্যে একটি}} হতে হবে।"
+  },
+  "dropzone.Dropzone.multipleDraggedError": {
+    "string": "একবারে কেবল একটি ফাইল আপলোড করার অনুমতি দেওয়া হয়েছে।"
+  },
+  "dropzone.Dropzone.unexpectedValidationError": {
+    "string": "ফাইল যাচাই করার সময় অপ্রত্যাশিত সমস্যা হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  "dropzone.Dropzone.uploadError": {
+    "string": "ফাইল আপলোড করার সময় সমস্যা হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  "pgn.Alert.closeLabel": {
+    "string": "বাতিল করুন"
+  },
+  "pgn.CardCarousel.scrollToNext": {
+    "string": "পরবর্তী কার্ড দেখুন"
+  },
+  "pgn.CardCarousel.scrollToPrevious": {
+    "string": "আগের কার্ডে যান"
+  },
+  "pgn.ChipCarousel.scrollToNext": {
+    "string": "পরবর্তী কার্ড দেখুন"
+  },
+  "pgn.ChipCarousel.scrollToPrevious": {
+    "string": "আগের কার্ডে যান"
+  },
+  "pgn.DataTable.BaseSelectionStatus.allSelectedText": {
+    "string": "মোট {numSelectedRows} টি নির্বাচন করা হয়েছে"
+  },
+  "pgn.DataTable.BaseSelectionStatus.clearSelectionText": {
+    "string": "সিলেকশন বাতিল করুন"
+  },
+  "pgn.DataTable.BaseSelectionStatus.selectAllText": {
+    "string": "সব {itemCount} টি নির্বাচন করুন"
+  },
+  "pgn.DataTable.BaseSelectionStatus.selectedText": {
+    "string": "{numSelectedRows}টি নির্বাচিত হয়েছে"
+  },
+  "pgn.DataTable.BaseSelectionStatus.selectedTextPaginated": {
+    "string": "{numSelectedRows}টি নির্বাচিত ({numSelectedRowsOnPage}টি নিচে দেখানো হলো)"
+  },
+  "pgn.DataTable.ExpandAll.collapseAllLabel": {
+    "string": "সবগুলো বন্ধ করুন"
+  },
+  "pgn.DataTable.ExpandAll.expandAllLabel": {
+    "string": "সবগুলো 펼টান"
+  },
+  "pgn.DataTable.FilterStatus.clearFiltersText": {
+    "string": "ফিল্টারগুলো পরিষ্কার করুন"
+  },
+  "pgn.DataTable.RowStatus.statusText": {
+    "string": "{firstRow} - {lastRow} এর মধ্যে দেখাচ্ছে, মোট {itemCount} টি আইটেম।"
+  },
+  "pgn.DataTable.SidebarFilters.title": {
+    "string": "ফিল্টার"
+  },
+  "pgn.DataTable.filtersDropdownTitle": {
+    "string": "ফিল্টার"
+  },
+  "pgn.DataTable.paginationLabel": {
+    "string": "পাতা {current} / {total} টি"
+  },
+  "pgn.Dropzone.DefaultContent.fileSizeBetween": {
+    "string": "{sizeMin} থেকে {sizeMax} এর মধ্যে"
+  },
+  "pgn.Dropzone.DefaultContent.fileSizeMax": {
+    "string": "সর্বোচ্চ {sizeMax} পর্যন্ত ফাইল আপলোড করা যাবে।"
+  },
+  "pgn.Dropzone.DefaultContent.fileSizeMin": {
+    "string": "ন্যূনতম {sizeMin} আকারের ফাইল"
+  },
+  "pgn.Dropzone.DefaultContent.fileTypeRestriction": {
+    "string": "আপলোড করুন {count, plural, one {{firstPart} টি ফাইল} other {{firstPart} অথবা {secondPart} টি ফাইল}}"
+  },
+  "pgn.Dropzone.DefaultContent.label": {
+    "string": "এখানে ফাইল ড্র্যাগ ও ড্রপ করুন অথবা আপলোড করার জন্য ক্লিক করুন।"
+  },
+  "pgn.Dropzone.UploadProgress.cancelLabel": {
+    "string": "বাতিল করুন"
+  },
+  "pgn.Dropzone.UploadProgress.uploadLabel": {
+    "string": "{filename} আপলোড হচ্ছে।"
+  },
+  "pgn.FormAutosuggest.iconButtonClosed": {
+    "string": "অপশন মেনু বন্ধ করুন"
+  },
+  "pgn.FormAutosuggest.iconButtonOpened": {
+    "string": "অপশন মেনুটা খুলুন"
+  },
+  "pgn.Modal.closeButon": {
+    "string": "বন্ধ করুন"
+  },
+  "pgn.ProductTour.Checkpoint.bottom-position-text": {
+    "string": "ধাপ {step} এর নিচে"
+  },
+  "pgn.ProductTour.Checkpoint.page-index-text": {
+    "string": "{step} নং ধাপ / {totalSteps} টি ধাপ"
+  },
+  "pgn.ProductTour.Checkpoint.top-position-text": {
+    "string": "ধাপ {step} এর উপরে"
+  },
+  "pgn.ProductTour.checkpointHeader.close": {
+    "string": "ট্যুরটি বন্ধ করুন"
+  },
+  "pgn.Toast.closeLabel": {
+    "string": "বন্ধ করুন"
+  }
+}
