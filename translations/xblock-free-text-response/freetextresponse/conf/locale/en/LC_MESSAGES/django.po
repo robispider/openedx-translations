@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 13:56+0000\n"
-"PO-Revision-Date: 2025-09-29 19:56+6165\n"
+"POT-Creation-Date: 2025-09-27 19:25+0000\n"
+"PO-Revision-Date: 2025-09-28 01:25+5833\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,85 +46,85 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Display Correctness?"
-msgstr "সঠিকতা প্রদর্শন করুন?"
+msgstr ""
 
 msgid "This is a flag that indicates if the indicator icon should be displayed after a student enters their response"
-msgstr "এটা একটা ফ্ল্যাগ, যেটা নির্দেশ করে একজন ছাত্র/ছাত্রী উত্তর দেওয়ার পরে ইন্ডিকেটর আইকনটা দেখানো হবে কিনা।"
+msgstr ""
 
 msgid "Display Other Student Responses"
-msgstr "অন্যান্য শিক্ষার্থীর উত্তর দেখুন"
+msgstr ""
 
 msgid "This will display other student responses to the student after they submit their response."
-msgstr "সাবমিট করার পরে এই অপশনটি অন্য শিক্ষার্থীদের উত্তরগুলো {name}-কে দেখাবে।"
+msgstr ""
 
 msgid "System selected answers to give to students"
-msgstr "শিক্ষার্থীদের জন্য সিস্টেম কর্তৃক নির্বাচিত উত্তর"
+msgstr ""
 
 msgid "Display Name"
-msgstr "ডিসপ্লে নাম"
+msgstr ""
 
 msgid "This is the title for this question type"
-msgstr "এই প্রশ্ন ধরনের শিরোনাম"
+msgstr ""
 
 msgid "Full-Credit Key Phrases"
-msgstr "পূর্ণ ক্রেডিট পাওয়ার জন্য গুরুত্বপূর্ণ শব্দগুচ্ছ"
+msgstr ""
 
 msgid "This is a list of words or phrases, one of which must be present in order for the student's answer to receive full credit"
-msgstr "এটা শব্দ অথবা বাক্যের একটা তালিকা, যার মধ্যে যেকোনো একটা শব্দ শিক্ষার্থীর উত্তরে থাকতেই হবে, নাহলে সে পুরো নম্বর পাবে না।"
+msgstr ""
 
 msgid "Half-Credit Key Phrases"
-msgstr "আধা ক্রেডিট পাওয়ার জন্য গুরুত্বপূর্ণ শব্দগুচ্ছ"
+msgstr ""
 
 msgid "This is a list of words or phrases, one of which must be present in order for the student's answer to receive half credit"
-msgstr "এটা শব্দ অথবা বাক্যাংশের একটা তালিকা, যার মধ্যে অন্তত একটা শব্দ অবশ্যই শিক্ষার্থীর উত্তরে থাকতে হবে, না হলে সে অর্ধেক নম্বর পাবে না।"
+msgstr ""
 
 msgid "Maximum Number of Attempts"
-msgstr "সর্বোচ্চ চেষ্টার সংখ্যা"
+msgstr ""
 
 msgid "This is the maximum number of times a student is allowed to attempt the problem"
-msgstr "একজন ছাত্র একটি সমস্যা কতবার চেষ্টা করতে পারবে তার সর্বোচ্চ সংখ্যা এটি।"
+msgstr ""
 
 msgid "Maximum Word Count"
-msgstr "সর্বোচ্চ শব্দ সংখ্যা"
+msgstr ""
 
 msgid "This is the maximum number of words allowed for this question"
-msgstr "এই প্রশ্নের জন্য সর্বোচ্চ শব্দসংখ্যা হল।"
+msgstr ""
 
 msgid "Minimum Word Count"
-msgstr "ন্যূনতম শব্দ সংখ্যা"
+msgstr ""
 
 msgid "This is the minimum number of words required for this question"
-msgstr "এই প্রশ্নের জন্য সর্বনিম্ন শব্দসংখ্যা হলো।"
+msgstr ""
 
 msgid "Prompt"
 msgstr "প্রম্পট"
 
 msgid "This is the prompt students will see when asked to enter their response"
-msgstr "শিক্ষার্থীরা যখন তাদের উত্তর দিতে বলা হবে, তখন তারা এই প্রম্পটটি দেখবে।"
+msgstr ""
 
 msgid "Submission Received Message"
-msgstr "আপনার জমা দেওয়া হয়েছে। {name}, ধন্যবাদ!"
+msgstr ""
 
 msgid "This is the message students will see upon submitting their response"
-msgstr "ফর্ম জমা দেওয়ার পরে শিক্ষার্থীরা এই বার্তাটি দেখবে।"
+msgstr ""
 
 msgid "Weight"
 msgstr "ওজন"
 
 msgid "This assigns an integer value representing the weight of this problem"
-msgstr "এটা এই সমস্যাটির গুরুত্ব বোঝানোর জন্য একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
+msgstr ""
 
 msgid "Draft Received Message"
-msgstr "ড্রাফট মেসেজ গ্রহণ করা হয়েছে"
+msgstr ""
 
 msgid "This is the message students will see upon submitting a draft response"
-msgstr "শিক্ষার্থীরা খসড়া জমা দেওয়ার পরে এই বার্তাটি দেখতে পাবে।"
+msgstr ""
 
 msgid "Allow my response to possibly be visible by other learners after submitting their response"
-msgstr "সাবমিট করার পরে অন্যান্য শিক্ষার্থীদের জন্য আমার উত্তর দৃশ্যমান হতে পারে।"
+msgstr ""
 
 msgid "Checking..."
-msgstr "যাচাই করা হচ্ছে..."
+msgstr ""
 
 msgid "Submit"
 msgstr "জমা দিন"
@@ -133,32 +133,32 @@ msgid "Save"
 msgstr "সংরক্ষণ করুন"
 
 msgid "Hide"
-msgstr "লুকানো"
+msgstr ""
 
 msgid "Show"
-msgstr "দেখাও"
+msgstr ""
 
 msgid "peer responses"
-msgstr "অন্যান্য ব্যবহারকারীর প্রতিক্রিয়া"
+msgstr ""
 
 msgid "Submissions by others"
-msgstr "অন্যদের জমা দেওয়া"
+msgstr ""
 
 msgid "No responses to show at this time"
-msgstr "এই মুহূর্তে দেখানোর মতো কোনো উত্তর নেই।"
+msgstr ""
 
 msgid "{weight} point possible"
-msgstr "{weight} পয়েন্ট সম্ভাব্য"
+msgstr ""
 
 msgid "{score_string}/{weight} point"
-msgstr "{score_string}/{weight} পয়েন্ট"
+msgstr ""
 
 msgid "You have used {count_attempts} of {max_attempts} submission"
-msgstr "আপনি {max_attempts} বার জমা দেওয়ার মধ্যে {count_attempts} বার জমা দিয়েছেন।"
+msgstr ""
 
 msgid "Your response must be between {min} and {max} word."
-msgstr "আপনার উত্তরটি {min} থেকে {max} শব্দের মধ্যে হতে হবে।"
+msgstr ""
 
 msgid "Invalid Word Count. {word_count_message}"
-msgstr "অকার্যকর শব্দ সংখ্যা। {word_count_message}"
+msgstr ""
 

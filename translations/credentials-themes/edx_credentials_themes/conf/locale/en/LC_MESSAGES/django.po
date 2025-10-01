@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 05:44+0000\n"
-"PO-Revision-Date: 2025-09-29 11:44+6229\n"
+"POT-Creation-Date: 2025-09-27 20:20+0000\n"
+"PO-Revision-Date: 2025-09-28 02:20+8340\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,83 +46,83 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "Legal Policies"
-msgstr "আইনগত নীতিমালা"
+msgstr ""
 
 msgid "Terms of Service & Honor Code"
-msgstr "ব্যবহারের শর্তাবলী ও আচরণবিধি"
+msgstr ""
 
 msgid "Privacy Policy"
 msgstr "গোপনীয়তা নীতি"
 
 msgid "Cookie Policy"
-msgstr "কুকি নীতি"
+msgstr ""
 
 msgid "Your Privacy Choices"
-msgstr "আপনার গোপনীয়তা পছন্দ"
+msgstr ""
 
 msgid "All rights reserved except where noted. edX, Open edX and the edX and Open edX logos are registered trademarks or trademarks of edX Inc."
-msgstr "সর্বস্ব অধিকার সংরক্ষিত, অন্যথায় উল্লেখ করা হয়েছে। edX, Open edX এবং edX ও Open edX লোগো edX Inc.-এর নিবন্ধিত ট্রেডমার্ক অথবা ট্রেডমার্ক।"
+msgstr ""
 
 msgid "Powered by"
-msgstr "পাওয়ার্ড বাই"
+msgstr ""
 
 msgid "About edX"
-msgstr "edX সম্পর্কে"
+msgstr ""
 
 msgid "{link_start} edX{link_end} offers interactive online classes and MOOCs from the world’s best universities, including MIT, Harvard, Berkeley, University of Texas, and many others. edX is an online initiative created by founding partners Harvard and MIT."
-msgstr "{link_start} edX{link_end} বিশ্বের সেরা বিশ্ববিদ্যালয়গুলো থেকে ইন্টারেক্টিভ অনলাইন ক্লাস এবং MOOCs প্রদান করে, যার মধ্যে MIT, Harvard, Berkeley, University of Texas এবং আরও অনেক রয়েছে। edX হার্ভার্ড এবং MIT দ্বারা তৈরি একটি অনলাইন উদ্যোগ।"
+msgstr ""
 
 msgid "has successfully completed all courses and received passing grades to earn a MicroBachelors program certificate in"
-msgstr "{name} সফলভাবে কোর্সগুলো সম্পন্ন করেছে এবং {course_name} এ মাইক্রোব্যাচেলর প্রোগ্রাম সার্টিফিকেট অর্জনের জন্য প্রয়োজনীয় গ্রেড পেয়েছে।"
+msgstr ""
 
 msgid "MicroBachelors program certificate"
-msgstr "মাইক্রোব্যাচেলর প্রোগ্রাম সার্টিফিকেট"
+msgstr ""
 
 msgid "About the edX MicroBachelors program certificate"
-msgstr "edX MicroBachelors প্রোগ্রামের সার্টিফিকেট সম্পর্কে"
+msgstr ""
 
 msgid "An edX MicroBachelors credential signifies that the learner has completed a group of courses that add up to a rich understanding of an area of study. Completion of MicroBachelors programs requires that learners earn {link_start}Verified Certificates{link_end} from each of the courses included in the program."
-msgstr "একটি edX মাইক্রোব্যাচেলর ক্রেডেনশিয়াল মানে হলো একজন শিক্ষার্থী একটি নির্দিষ্ট বিষয়ে ভালো ধারণা তৈরি করার জন্য বেশ কয়েকটি কোর্স সম্পন্ন করেছে। মাইক্রোব্যাচেলর প্রোগ্রাম শেষ করতে শিক্ষার্থীদের প্রতিটি কোর্স থেকে {link_start}ভেরিফাইড সার্টিফিকেট{link_end} অর্জন করতে হবে।"
+msgstr ""
 
 msgid "You worked hard to earn your MicroMasters Credential from %(organization_name)s."
-msgstr "আপনি {organization_name} থেকে আপনার মাইক্রোমাস্টার্স ক্রেডেনশিয়াল অর্জন করার জন্য কঠোর পরিশ্রম করেছেন।"
+msgstr ""
 
 msgid "has successfully completed all courses and received passing grades to earn a MicroMasters program certificate in"
-msgstr "{name} সফলভাবে সব কোর্স সম্পন্ন করেছে এবং {program_name} প্রোগ্রামের মাইক্রোমাস্টার্স প্রোগ্রামের সার্টিফিকেট অর্জন করেছে।"
+msgstr ""
 
 msgid "MicroMasters program certificate"
-msgstr "মাইক্রোমাসters প্রোগ্রাম সার্টিফিকেট"
+msgstr ""
 
 msgid "About the edX MicroMasters credential"
-msgstr "edX MicroMasters ক্রেডেনশিয়াল সম্পর্কে"
+msgstr ""
 
 msgid "An edX MicroMasters credential signifies that the learner has completed a group of courses that add up to a rich understanding of an area of study. Completion of MicroMasters Programs requires that learners earn {link_start}Verified Certificates{link_end} from each of the courses included in the Program."
-msgstr "একটি edX মাইক্রোমাস্টার্স ক্রেডেনশিয়াল মানে হলো একজন শিক্ষার্থী একটি নির্দিষ্ট বিষয়ে গভীর জ্ঞান অর্জনের জন্য কোর্সগুলোর একটি গ্রুপ সম্পন্ন করেছে। মাইক্রোমাস্টার্স প্রোগ্রাম সম্পন্ন করার জন্য শিক্ষার্থীদের প্রতিটি কোর্সের জন্য {link_start}ভেরিফাইড সার্টিফিকেট{link_end} অর্জন করতে হবে।"
+msgstr ""
 
 msgid "successfully completed all courses and received passing grades for a Professional Certificate in"
-msgstr "সফলভাবে সকল কোর্স সম্পন্ন করেছেন এবং {name} এ একটি প্রফেশনাল সার্টিফিকেটের জন্য পাশ নম্বর পেয়েছেন।"
+msgstr ""
 
 msgid "Professional Certificate"
 msgstr "পেশাদারী সনদ"
 
 msgid "About the edX Professional Certificate"
-msgstr "edX Professional Certificate সম্পর্কে"
+msgstr ""
 
 msgid "An edX Professional Certificate signifies that the learner has completed a group of courses that add up to a rich understanding of an area of study. Completion of Professional Certificate Programs requires that learners earn {link_start}Verified Certificates{link_end} from each of the courses included in the Program."
-msgstr "একটি edX প্রফেশনাল সার্টিফিকেট প্রমাণ করে যে একজন শিক্ষার্থী একটি নির্দিষ্ট ক্ষেত্রের উপর গভীর ধারণা তৈরি করার জন্য একগুচ্ছ কোর্স সম্পন্ন করেছে। প্রফেশনাল সার্টিফিকেট প্রোগ্রামগুলি সম্পূর্ণ করার জন্য শিক্ষার্থীদের প্রোগ্রামের অন্তর্ভুক্ত প্রতিটি কোর্স থেকে {link_start}ভেরিফাইড সার্টিফিকেট{link_end} অর্জন করতে হবে।"
+msgstr ""
 
 msgid "You worked hard to earn your XSeries Program certificate from %(organization_name)s."
-msgstr "আপনি {organization_name} থেকে আপনার XSeries প্রোগ্রাম সার্টিফিকেট অর্জন করার জন্য কঠোর পরিশ্রম করেছেন।"
+msgstr ""
 
 msgid "has successfully completed all courses and received passing grades for an XSeries Program certificate in"
 msgstr ""
 
 msgid "XSeries Program certificate"
-msgstr "এক্সসিরিজ প্রোগ্রাম সার্টিফিকেট"
+msgstr ""
 
 msgid "About the edX XSeries Program certificate"
-msgstr "edX XSeries প্রোগ্রাম সার্টিফিকেট সম্পর্কে"
+msgstr ""
 
 msgid "An edX XSeries Program certificate signifies that the learner has completed a group of courses that add up to a rich understanding of an area of study. Completion of XSeries Programs requires that learners earn {link_start}Verified Certificates{link_end} from each of the courses included in the Program."
-msgstr "একটি edX XSeries প্রোগ্রামের সার্টিফিকেট প্রমাণ করে যে একজন শিক্ষার্থী একটি নির্দিষ্ট বিষয়ে গভীর জ্ঞান অর্জনের জন্য কোর্সগুলোর একটি দল সম্পন্ন করেছে। XSeries প্রোগ্রাম সম্পন্ন করার জন্য শিক্ষার্থীদের প্রতিটি কোর্সের জন্য {link_start}Verified সার্টিফিকেট{link_end} অর্জন করতে হবে।"
+msgstr ""
 

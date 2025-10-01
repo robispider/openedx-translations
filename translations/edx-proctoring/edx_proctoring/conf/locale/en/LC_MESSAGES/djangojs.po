@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 12:06+0000\n"
-"PO-Revision-Date: 2025-09-29 18:06+7589\n"
+"POT-Creation-Date: 2025-09-27 17:20+0000\n"
+"PO-Revision-Date: 2025-09-27 23:20+2452\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,73 +46,73 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "OK"
-msgstr "ঠিক আছে"
+msgstr ""
 
 msgid "Error Ending Exam"
-msgstr "পরীক্ষা শেষ করতে সমস্যা হয়েছে।"
+msgstr ""
 
 msgid "Something has gone wrong ending your exam. Please reload the page and start again."
-msgstr "পরীক্ষা শেষ করতে গিয়ে কিছু সমস্যা হয়েছে। অনুগ্রহ করে পেজটি রিলোড করে আবার শুরু করুন।"
+msgstr ""
 
 msgid "Error Starting Exam"
-msgstr "পরীক্ষা শুরু করতে সমস্যা হয়েছে।"
+msgstr ""
 
 msgid "Something has gone wrong starting your exam. Please double-check that the application is running."
-msgstr "আপনার পরীক্ষা শুরু করতে সমস্যা হয়েছে। অনুগ্রহ করে নিশ্চিত করুন অ্যাপ্লিকেশনটি চলছে।"
+msgstr ""
 
 msgid "Something has gone wrong starting your exam. Please reload the page and start again."
-msgstr "আপনার পরীক্ষা শুরু করতে সমস্যা হয়েছে। অনুগ্রহ করে পেজটি রিলোড করে আবার চেষ্টা করুন।"
+msgstr ""
 
 msgid "Something has gone wrong ending your exam. Please double-check that the application is running."
-msgstr "পরীক্ষা শেষ করার সময় সমস্যা হয়েছে। দয়া করে দেখে নিন অ্যাপ্লিকেশনটি চলছে কিনা।"
+msgstr ""
 
 msgid "Review Policy Exception"
-msgstr "রিভিউ পলিসি ব্যতিক্রম"
+msgstr ""
 
 msgid "Add Time(Minutes)"
-msgstr "সময় যোগ করুন (মিনিট)"
+msgstr ""
 
 msgid "Add Multiplier as a Number Greater Than 1"
-msgstr "১-এর চেয়ে বড় একটি সংখ্যা হিসেবে গুণনীয়ক যোগ করুন"
+msgstr ""
 
 msgid "Add Policy Exception"
-msgstr "পলিসি ব্যতিক্রম যোগ করুন"
+msgstr ""
 
 msgid "Required field"
-msgstr "প্রয়োজনীয় ক্ষেত্র"
+msgstr ""
 
 msgid "Additional Time (minutes)"
-msgstr "অতিরিক্ত সময় (মিনিট)"
+msgstr ""
 
 msgid "Time Multiplier"
-msgstr "সময় গুণক"
+msgstr ""
 
 msgid "Eligible"
-msgstr "যোগ্য"
+msgstr ""
 
 msgid "Created"
-msgstr "তৈরি করা হয়েছে"
+msgstr ""
 
 msgid "Download Software Clicked"
-msgstr "সফটওয়্যার ডাউনলোড করা হয়েছে"
+msgstr ""
 
 msgid "Ready to start"
-msgstr "শুরু করার জন্য প্রস্তুত"
+msgstr ""
 
 msgid "Started"
 msgstr "শুরু হয়েছে"
 
 msgid "Ready to submit"
-msgstr "সাবমিট করার জন্য প্রস্তুত?"
+msgstr ""
 
 msgid "Declined"
-msgstr "বাতিল করা হয়েছে"
+msgstr ""
 
 msgid "Timed out"
-msgstr "সময়সীমা শেষ"
+msgstr ""
 
 msgid "Second Review Required"
-msgstr "দ্বিতীয়বার পর্যালোচনা প্রয়োজন"
+msgstr ""
 
 msgid "Submitted"
 msgstr "জমা দেওয়া হয়েছে"
@@ -127,31 +127,31 @@ msgid "Error"
 msgstr "ত্রুটি"
 
 msgid "Onboarding Missing"
-msgstr "অনবোর্ডিং অসম্পূর্ণ"
+msgstr ""
 
 msgid "Onboarding Pending"
-msgstr "অনবোর্ডিং পেন্ডিং"
+msgstr ""
 
 msgid "Onboarding Failed"
-msgstr "অনবোর্ডিং ব্যর্থ হয়েছে"
+msgstr ""
 
 msgid "Onboarding Expired"
-msgstr "অনবোর্ডিং মেয়াদ শেষ"
+msgstr ""
 
 msgid "Practice"
-msgstr "অনুশীলন"
+msgstr ""
 
 msgid "Proctored"
-msgstr "নজরদারি করা হচ্ছে"
+msgstr ""
 
 msgid "Timed"
-msgstr "সময়সীমা"
+msgstr ""
 
 msgid "Are you sure you want to remove this student's exam attempt?"
-msgstr "আপনি কি নিশ্চিত যে আপনি এই শিক্ষার্থীর পরীক্ষার চেষ্টাটি মুছতে চান?"
+msgstr ""
 
 msgid "Are you sure you want to resume this student's exam attempt?"
-msgstr "আপনি কি নিশ্চিত যে আপনি এই শিক্ষার্থীর পরীক্ষার চেষ্টা আবার শুরু করতে চান?"
+msgstr ""
 
 msgid "Not Started"
 msgstr "শুরু করা হয়নি"
@@ -196,31 +196,31 @@ msgid "Your onboarding status has expired. Please complete onboarding again to c
 msgstr "আপনার অনবোর্ডিংয়ের সময়সীমা শেষ হয়ে গেছে। তত্ত্বাবধানে পরীক্ষা দেওয়া চালিয়ে যেতে অনুগ্রহ করে আবার অনবোর্ডিং সম্পন্ন করুন।"
 
 msgid "Setup Started"
-msgstr "সেটআপ শুরু হয়েছে"
+msgstr ""
 
 msgid "Onboarding Started"
-msgstr "অনboarding শুরু হয়েছে"
+msgstr ""
 
 msgid "Onboarding Reset Failed Due to Past Due Exam"
-msgstr "অডিট পরীক্ষার সময়সীমা পার হয়ে যাওয়ার কারণে অনboarding রিসেট করা যায়নি।"
+msgstr ""
 
 msgid "Audit"
-msgstr "নিরীক্ষা"
+msgstr ""
 
 msgid "Honor"
-msgstr "সম্মান"
+msgstr ""
 
 msgid "Professional"
-msgstr "পেশাদার"
+msgstr ""
 
 msgid "No ID Professional"
-msgstr "কোনো আইডি নেই পেশাদার"
+msgstr ""
 
 msgid "Credit"
-msgstr "ক্রেডিট"
+msgstr ""
 
 msgid "Master's"
-msgstr "মাস্টার্স"
+msgstr ""
 
 msgid "Executive Education"
 msgstr "এক্সিকিউটিভ এডুকেশন"
@@ -228,5 +228,5 @@ msgstr "এক্সিকিউটিভ এডুকেশন"
 msgid ""
 "Are you sure you want to leave this page? \"\"\"\"\"\"\"\"\""\n
 "To pass your proctored exam you must also pass the online proctoring session review."
-msgstr "আপনি কি এই পেজটি ত্যাগ করতে চান? আপনার প্রক্টর্ড পরীক্ষাটি দিতে হলে অনলাইন প্রক্টরিং সেশন রিভিউটিও পাশ করতে হবে।"
+msgstr ""
 

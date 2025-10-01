@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 11:13+0000\n"
-"PO-Revision-Date: 2025-09-29 17:13+8399\n"
+"POT-Creation-Date: 2025-09-27 20:20+0000\n"
+"PO-Revision-Date: 2025-09-28 02:20+8961\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,88 +46,88 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 msgid "This section could not be loaded."
-msgstr "এই অংশটি লোড করা যায়নি।"
+msgstr ""
 
 msgid "The staff assessment form could not be loaded."
-msgstr "স্টাফ অ্যাসেসমেন্ট ফর্মটি লোড করা যায়নি।"
+msgstr ""
 
 msgid "The display of ungraded and checked out responses could not be loaded."
-msgstr " ungraded এবং checked out responses লোড করা যায়নি।"
+msgstr ""
 
 msgid "This response could not be submitted."
-msgstr "এই উত্তরটি জমা দেওয়া যায়নি।"
+msgstr ""
 
 msgid "The submission could not be reset."
-msgstr "সাবমিশনটি রিসেট করা যায়নি।"
+msgstr ""
 
 msgid "Please check your internet connection."
-msgstr "দয়া করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন।"
+msgstr ""
 
 msgid "This feedback could not be submitted."
-msgstr "ফিডব্যাকটি জমা দেওয়া যায়নি।"
+msgstr ""
 
 msgid "This assessment could not be submitted."
-msgstr "অ্যাসেসমেন্টটি জমা দেওয়া যায়নি।"
+msgstr ""
 
 msgid "One or more rescheduling tasks failed."
-msgstr "এক বা একাধিক শিডিউল পরিবর্তনের কাজ ব্যর্থ হয়েছে।"
+msgstr ""
 
 msgid "This problem could not be saved."
-msgstr "সমস্যাটি সেভ করা যায়নি।"
+msgstr ""
 
 msgid "The server could not be contacted."
-msgstr "সার্ভারের সাথে যোগাযোগ করা যায়নি।"
+msgstr ""
 
 msgid "Could not retrieve upload url."
-msgstr "আপলোড URL টি পাওয়া যায়নি।"
+msgstr ""
 
 msgid "Server error."
-msgstr "সার্ভারে সমস্যা হয়েছে।"
+msgstr ""
 
 msgid "Could not retrieve download url."
-msgstr "ডাউনলোডের লিঙ্কটি খুঁজে পাওয়া যায়নি।"
+msgstr ""
 
 msgid "The submission could not be removed from the grading pool."
-msgstr "গ্রেডিং পুল থেকে জমা দেওয়া কাজটি সরানো যায়নি।"
+msgstr ""
 
 msgid "Multiple teams returned for course"
-msgstr "একাধিক টিম কোর্সটিতে ফিরে এসেছে"
+msgstr ""
 
 msgid "Could not load teams information."
-msgstr "টিমের তথ্য লোড করা যায়নি।"
+msgstr ""
 
 msgid "User lookup failed"
-msgstr "ব্যবহারকারী খুঁজে পাওয়া যায়নি।"
+msgstr ""
 
 msgid "Error when looking up username"
-msgstr "ইউজারনেম খোঁজার সময় এরর হয়েছে।"
+msgstr ""
 
 msgid "Failed to clone rubric"
-msgstr "রুব্রিক ক্লোন করতে ব্যর্থ হয়েছে।"
+msgstr ""
 
 msgid "View and grade responses"
-msgstr "উত্তরগুলো দেখুন এবং মূল্যায়ন করুন"
+msgstr ""
 
 msgid "Demo the new Grading Experience"
-msgstr "নতুন গ্রেডিং অভিজ্ঞতা দেখুন"
+msgstr ""
 
 msgid "Unit Name"
-msgstr "ইউনিট নাম"
+msgstr ""
 
 msgid "Units"
-msgstr "ইউনিট"
+msgstr ""
 
 msgid "Assessment"
-msgstr "মূল্যায়ন"
+msgstr ""
 
 msgid "Assessments"
-msgstr "মূল্যায়ন"
+msgstr ""
 
 msgid "Total Responses"
-msgstr "মোট উত্তর"
+msgstr ""
 
 msgid "Training"
-msgstr "প্রশিক্ষণ"
+msgstr ""
 
 msgid "Peer"
 msgstr "সহকর্মী"
@@ -142,22 +142,22 @@ msgid "Staff"
 msgstr "স্টাফ"
 
 msgid "Final Grade Received"
-msgstr "চূড়ান্ত গ্রেড গ্রহণ করা হয়েছে"
+msgstr ""
 
 msgid "Staff Grader"
-msgstr "স্টাফ গ্রেডার"
+msgstr ""
 
 msgid "List of Open Assessments is unavailable"
-msgstr "Open Assessment-এর তালিকা পাওয়া যাচ্ছে না"
+msgstr ""
 
 msgid "Please wait"
-msgstr "দয়া করে অপেক্ষা করুন"
+msgstr ""
 
 msgid "Block view is unavailable"
-msgstr "ব্লক ভিউটি এখন পাওয়া যাচ্ছে না।"
+msgstr ""
 
 msgid "Back to Full List"
-msgstr "সম্পূর্ণ তালিকায় ফিরে যান"
+msgstr ""
 
 msgid "Confirm"
 msgstr "নিশ্চিত করুন"
@@ -166,223 +166,223 @@ msgid "Cancel"
 msgstr "বাতিল করুন"
 
 msgid "There is still file upload in progress. Please wait until it is finished."
-msgstr "ফাইল আপলোড করার কাজ এখনও চলছে। দয়া করে শেষ হওয়া পর্যন্ত অপেক্ষা করুন।"
+msgstr ""
 
 msgid "Cannot submit empty response even everything is optional."
-msgstr "সবকিছু ঐচ্ছিক হলেও খালি উত্তর জমা দেওয়া যাবে না।"
+msgstr ""
 
 msgid "Please upload a file."
-msgstr "অনুগ্রহ করে একটি ফাইল আপলোড করুন।"
+msgstr ""
 
 msgid "Please provide a response."
-msgstr "অনুগ্রহ করে একটি উত্তর দিন।"
+msgstr ""
 
 msgid "No files selected for upload."
-msgstr "আপলোড করার জন্য কোনো ফাইল নির্বাচন করা হয়নি।"
+msgstr ""
 
 msgid "Please provide a description for each file you are uploading."
-msgstr "আপনি যে ফাইলগুলো আপলোড করছেন, সেগুলোর প্রত্যেকটার জন্য একটা করে বর্ণনা দিন।"
+msgstr ""
 
 msgid "Your file has been deleted or path has been changed: "
-msgstr "আপনার ফাইলটি মুছে ফেলা হয়েছে অথবা পাথ পরিবর্তন করা হয়েছে: "
+msgstr ""
 
 msgid "Saving draft"
-msgstr "ড্রাফট সংরক্ষণ করা হচ্ছে"
+msgstr ""
 
 msgid "If you leave this page without saving or submitting your response, you will lose any work you have done on the response."
-msgstr "আপনি যদি আপনার উত্তর সেভ বা জমা না দিয়েই এই পেজটি ছেড়ে যান, তাহলে আপনার করা সব কাজ হারিয়ে যাবে।"
+msgstr ""
 
 msgid "Saving draft..."
-msgstr "ড্রাফট সংরক্ষণ করা হচ্ছে..."
+msgstr ""
 
 msgid "Draft saved!"
-msgstr "খসড়া সংরক্ষণ করা হয়েছে!"
+msgstr ""
 
 msgid "Error"
 msgstr "ত্রুটি"
 
 msgid "Confirm Submit Response"
-msgstr "আপনার উত্তর জমা দেওয়া নিশ্চিত করুন"
+msgstr ""
 
 msgid "You're about to submit your response for this assignment. After you submit this response, you may have a limited time to resubmit before your submission is graded."
-msgstr "আপনি এই অ্যাসাইনমেন্টের উত্তর জমা দিতে যাচ্ছেন। জমা দেওয়ার পরে, আপনার সাবমিশন গ্রেড করার আগে পুনরায় জমা দেওয়ার জন্য আপনার কাছে সীমিত সময় থাকতে পারে।"
+msgstr ""
 
 msgid "You're about to submit your response for this assignment. After you submit this response, you can't change it or submit a new response."
-msgstr "আপনি এই অ্যাসাইনমেন্টের উত্তর জমা দিতে যাচ্ছেন। একবার জমা দিলে, এই উত্তর আর পরিবর্তন করা যাবে না অথবা নতুন উত্তর জমা দেওয়া যাবে না।"
+msgstr ""
 
 msgid "Confirm Reset"
-msgstr "রিসেট নিশ্চিত করুন"
+msgstr ""
 
 msgid "You're about to reset your response for this assignment. You will need to submit a new response in order to complete this step. Are you sure you want to continue?"
-msgstr "আপনি এই অ্যাসাইনমেন্টের জন্য আপনার উত্তর রিসেট করতে যাচ্ছেন। এই ধাপটি সম্পূর্ণ করার জন্য আপনাকে নতুন করে উত্তর জমা দিতে হবে। আপনি কি চালিয়ে যেতে চান?"
+msgstr ""
 
 msgid "Individual file size must be {max_files_mb}MB or less."
-msgstr "ফাইলের আকার {max_files_mb}MB এর কম হতে হবে।"
+msgstr ""
 
 msgid "File upload failed: unsupported file type. Only the supported file types can be uploaded. If you have questions, please reach out to the course team."
-msgstr "ফাইল আপলোড করা যায়নি: এই ধরনের ফাইল সাপোর্ট করা হয় না। শুধুমাত্র সাপোর্ট করা ফাইলগুলোই আপলোড করা যাবে। যদি কোনো প্রশ্ন থাকে, তাহলে কোর্স টিমের সাথে যোগাযোগ করুন।"
+msgstr ""
 
 msgid "The maximum number files that can be saved is "
-msgstr "সর্বোচ্চ {name} টি ফাইল সেভ করা যাবে।"
+msgstr ""
 
 msgid "Describe "
-msgstr "বর্ণনা করুন"
+msgstr ""
 
 msgid "(required):"
-msgstr "প্রয়োজনীয়: {name}"
+msgstr ""
 
 msgid "Thumbnail view of "
-msgstr "{name}-এর থাম্বনেইল ভিউ"
+msgstr ""
 
 msgid "Confirm Delete Uploaded File"
-msgstr "আপলোড করা ফাইলটি কি ডিলিট করবেন? ({name})"
+msgstr ""
 
 msgid ""
 "Are you sure you want to delete the following file? It cannot be restored.\"\"\"\"\"\""\n
 "File: "
-msgstr "আপনি কি নিচের ফাইলটি ডিলিট করতে চান? এটা পুনরুদ্ধার করা যাবে না।"
+msgstr ""
 
 msgid "If you leave this page without submitting your self assessment, you will lose any work you have done."
-msgstr "যদি আপনি আপনার স্ব-মূল্যায়ন জমা না দিয়েই এই পেজটি ত্যাগ করেন, তাহলে আপনার করা সমস্ত কাজ হারিয়ে যাবে।"
+msgstr ""
 
 msgid "Unexpected server error."
-msgstr "অপ্রত্যাশিত সার্ভার ত্রুটি।"
+msgstr ""
 
 msgid "You must provide a learner name."
-msgstr "আপনাকে একজন শিক্ষার্থীর নাম দিতে হবে।"
+msgstr ""
 
 msgid "This grade will be applied to all members of the team. Do you want to continue?"
-msgstr "এই গ্রেডটি টিমের সকল সদস্যের জন্য প্রয়োগ করা হবে। আপনি কি চালিয়ে যেতে চান?"
+msgstr ""
 
 msgid "Confirm Grade Team Submission"
-msgstr "গ্রেড টিমের জমা নিশ্চিত করুন"
+msgstr ""
 
 msgid "Error getting the number of ungraded responses"
-msgstr " ungraded উত্তরের সংখ্যা পেতে সমস্যা হচ্ছে।"
+msgstr ""
 
 msgid "If you leave this page without submitting your staff assessment, you will lose any work you have done."
-msgstr "আপনি যদি আপনার স্টাফ অ্যাসেসমেন্ট জমা না দিয়ে এই পেজটি ত্যাগ করেন, তাহলে আপনার করা সমস্ত কাজ হারিয়ে যাবেন।"
+msgstr ""
 
 msgid "Feedback available for selection."
-msgstr "ফিডব্যাক বাছাই করার জন্য উপলব্ধ।"
+msgstr ""
 
 msgid "If you leave this page without submitting your peer assessment, you will lose any work you have done."
-msgstr "যদি আপনি আপনার পিয়ার অ্যাসেসমেন্ট জমা না দিয়েই এই পেজটি ত্যাগ করেন, তাহলে আপনার করা সমস্ত কাজ বাতিল হয়ে যাবে।"
+msgstr ""
 
 msgid "Refresh"
 msgstr "পুনরায় লোড করুন"
 
 msgid "Action"
-msgstr "কার্য"
+msgstr ""
 
 msgid "Review"
-msgstr "পর্যালোচনা"
+msgstr ""
 
 msgid "Username"
 msgstr "ব্যবহারকারীর নাম"
 
 msgid "Peers Assessed"
-msgstr "সমकक्ष মূল্যায়ন"
+msgstr ""
 
 msgid "Peer Responses Received"
-msgstr "পর্যালোচনা জমা পড়েছে"
+msgstr ""
 
 msgid "Time Spent On Current Step"
-msgstr "বর্তমান ধাপে সময় ব্যয়"
+msgstr ""
 
 msgid "Staff assessment"
 msgstr "স্টাফ মূল্যায়ন"
 
 msgid "Grade Status"
-msgstr "গ্রেড স্ট্যাটাস"
+msgstr ""
 
 msgid "The \"{name}\" problem is configured to require a minimum of {min_grades} peer grades, and asks to review {min_graded} peers."
-msgstr "{name} সমস্যাটি কনফিগার করা হয়েছে কমপক্ষে {min_grades} জন সহপাঠীর গ্রেড প্রয়োজন, এবং {min_graded} জন সহপাঠীকে রিভিউ করতে বলা হয়েছে।"
+msgstr ""
 
 msgid "There are currently {stuck_learners} learners in the waiting state, meaning they have not yet met all requirements for Peer Assessment. "
-msgstr "বর্তমানে {stuck_learners} জন শিক্ষার্থী অপেক্ষমাণ অবস্থায় আছেন, অর্থাৎ তারা এখনো পিয়ার অ্যাসেসমেন্টের জন্য প্রয়োজনীয় শর্ত পূরণ করেননি।"
+msgstr ""
 
 msgid "However, {overwritten_count} of these students have received a grade through the staff grade override tool already."
-msgstr "তবে, ইতিমধ্যে {overwritten_count} জন ছাত্রের গ্রেড স্টাফ গ্রেড ওভাররাইড টুলের মাধ্যমে দেওয়া হয়েছে।"
+msgstr ""
 
 msgid "Error while fetching student data."
-msgstr "ছাত্রের ডেটা আনার সময় ত্রুটি ঘটেছে।"
+msgstr ""
 
 msgid "Unable to load"
-msgstr "লোড করা যায়নি"
+msgstr ""
 
 msgid "Paragraph"
-msgstr "প্যারাগ্রাফ"
+msgstr ""
 
 msgid "Preformatted"
-msgstr "পূর্বরূপ"
+msgstr ""
 
 msgid "Heading 3"
-msgstr "হেডিং ৩"
+msgstr ""
 
 msgid "Heading 4"
-msgstr "শিরোনাম ৪"
+msgstr ""
 
 msgid "Heading 5"
-msgstr "হেডিং ৫"
+msgstr ""
 
 msgid "Heading 6"
-msgstr "হেডিং ৬"
+msgstr ""
 
 msgid "Unnamed Option"
-msgstr "নামবিহীন অপশন"
+msgstr ""
 
 msgid "Not Selected"
-msgstr "নির্বাচিত নয়"
+msgstr ""
 
 msgid "Problem cloning rubric"
-msgstr "রুব্রিক ক্লোন করতে সমস্যা হচ্ছে"
+msgstr ""
 
 msgid "Criterion Added"
-msgstr "মাপকাঠি যোগ করা হয়েছে"
+msgstr ""
 
 msgid "You have added a criterion. You will need to select an option for the criterion in the Learner Training step. To do this, click the Assessment Steps tab."
-msgstr "আপনি একটি শর্ত যোগ করেছেন। শিক্ষার্থী প্রশিক্ষণের ধাপে এই শর্তের জন্য আপনাকে একটি অপশন নির্বাচন করতে হবে। এর জন্য, অ্যাসেসমেন্ট স্টেপস ট্যাবে ক্লিক করুন।"
+msgstr ""
 
 msgid "Option Deleted"
-msgstr "অপশনটি মুছে ফেলা হয়েছে"
+msgstr ""
 
 msgid "You have deleted an option. That option has been removed from its criterion in the sample responses in the Learner Training step. You might have to select a new option for the criterion."
-msgstr "আপনি একটি অপশন মুছে ফেলেছেন। এই অপশনটি Learner Training স্টেপের নমুনা উত্তর থেকে সরিয়ে দেওয়া হয়েছে। আপনাকে হয়তো এই criterion-এর জন্য নতুন অপশন নির্বাচন করতে হতে পারে।"
+msgstr ""
 
 msgid "You have deleted all the options for this criterion. The criterion has been removed from the sample responses in the Learner Training step."
-msgstr "আপনি এই মানদণ্ডের জন্য সমস্ত অপশন মুছে ফেলেছেন। এই মানদণ্ডটি Learner Training ধাপের নমুনা প্রতিক্রিয়া থেকে সরানো হয়েছে।"
+msgstr ""
 
 msgid "Criterion Deleted"
-msgstr "মাপকাঠি বাতিল করা হয়েছে"
+msgstr ""
 
 msgid "You have deleted a criterion. The criterion has been removed from the example responses in the Learner Training step."
-msgstr "আপনি একটি মানদণ্ড মুছে ফেলেছেন। এই মানদণ্ডটি Learner Training ধাপের উদাহরণ উত্তরগুলো থেকে সরিয়ে দেওয়া হয়েছে।"
+msgstr ""
 
 msgid "Warning"
-msgstr "সতর্কতা"
+msgstr ""
 
 msgid "Changes to steps that are not selected as part of the assignment will not be saved."
-msgstr "অ্যাসাইনমেন্টের অংশ হিসেবে যে ধাপগুলো নির্বাচন করা হয়নি, সেগুলোর পরিবর্তন সেভ করা হবে না।"
+msgstr ""
 
 msgid "Time must be in the format dd:hh:mm. The days must be between 00 and 99, the hours between 00 and 23, and the minutes between 00 and 59."
-msgstr "সময় dd:hh:mm ফরম্যাটে হতে হবে। দিন 00 থেকে 99 এর মধ্যে, ঘণ্টা 00 থেকে 23 এবং মিনিট 00 থেকে 59 এর মধ্যে হতে হবে।"
+msgstr ""
 
 msgid "File types can not be empty."
-msgstr "ফাইলের ধরণ খালি রাখা যাবে না।"
+msgstr ""
 
 msgid "The following file types are not allowed: "
-msgstr "নিম্নলিখিত ফাইল টাইপগুলো অনুমোদিত নয়:"
+msgstr ""
 
 msgid "Save Unsuccessful"
-msgstr "সংরক্ষণ করা যায়নি"
+msgstr ""
 
 msgid "Errors detected on the following tabs: "
-msgstr "নিম্নলিখিত ট্যাবগুলোতে সমস্যা ধরা পড়েছে:"
+msgstr ""
 
 msgid "This ORA has already been released. Changes will only affect learners making new submissions. Existing submissions will not be modified by this change."
-msgstr "এই ORA-টি ইতিমধ্যে প্রকাশ করা হয়েছে। পরিবর্তনগুলি শুধুমাত্র নতুন সাবমিশনকারীদের প্রভাবিত করবে। এই পরিবর্তনের ফলে আগের সাবমিশনগুলি পরিবর্তন হবে না।"
+msgstr ""
 
 msgid "error count: "
-msgstr "ত্রুটি সংখ্যা:"
+msgstr ""
 
