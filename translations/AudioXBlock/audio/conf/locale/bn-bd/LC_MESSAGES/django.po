@@ -1,4 +1,4 @@
-﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
@@ -33,27 +33,31 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:52+0000\n"
-"PO-Revision-Date: 2025-09-30 03:52+2402\n"
+"POT-Creation-Date: 2025-10-01 20:55+0000\n"
+"PO-Revision-Date: 2025-10-02 02:55+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 "X-Generator: Poedit 3.7\n"
 
-msgid "URL for MP3 file to play"
-msgstr "MP3 ফাইলটি প্লে করার জন্য URL"
+#: audio.py:31
+msgid ""URL for MP3 file to play""
+msgstr ""MP3 ফাইলটি প্লে করার জন্য URL""
 
-msgid "Audio Source Location"
-msgstr "অডিওর উৎস স্থান"
+#: templates/html/audio_edit.html:7
+msgid ""Audio Source Location""
+msgstr ""অডিওর উৎস স্থান""
 
-msgid "Save"
-msgstr "সংরক্ষণ করুন"
+#: templates/html/audio_edit.html:13
+msgid ""Save""
+msgstr ""সংরক্ষণ করুন""
 
-msgid "Cancel"
-msgstr "বাতিল করুন"
+#: templates/html/audio_edit.html:14
+msgid ""Cancel""
+msgstr ""বাতিল করুন""
 

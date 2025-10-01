@@ -1,4 +1,4 @@
-﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
@@ -33,75 +33,99 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:52+0000\n"
-"PO-Revision-Date: 2025-09-30 03:52+6499\n"
+"POT-Creation-Date: 2025-10-01 20:57+0000\n"
+"PO-Revision-Date: 2025-10-02 02:57+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 "X-Generator: Poedit 3.7\n"
 
-msgid "Display Name"
-msgstr "ডিসপ্লে নাম"
+#: templates/edit.html:8
+msgid ""Display Name""
+msgstr ""ডিসপ্লে নাম""
 
-msgid "This name appears in the horizontal navigation at the top of the page"
-msgstr "এই {name} টি পৃষ্ঠার উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।"
+#: templates/edit.html:11
+msgid ""This name appears in the horizontal navigation at the top of the page""
+msgstr ""এই {name} টি পৃষ্ঠার উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।""
 
-msgid "Weight"
-msgstr "ওজন"
+#: templates/edit.html:16
+msgid ""Weight""
+msgstr ""ওজন""
 
-msgid "This assigns an integer value representing the weight of this problem"
-msgstr "এটা এই সমস্যাটির গুরুত্ব বোঝানোর জন্য একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
+#: templates/edit.html:19
+msgid ""This assigns an integer value representing the weight of this problem""
+msgstr ""এটা এই সমস্যাটির গুরুত্ব বোঝানোর জন্য একটি পূর্ণসংখ্যা মান নির্ধারণ করে।""
 
-msgid "Max Attempts"
-msgstr "সর্বোচ্চ চেষ্টা"
+#: templates/edit.html:24
+msgid ""Max Attempts""
+msgstr ""সর্বোচ্চ চেষ্টা""
 
-msgid "This assigns an integer value representing the maximum number of times a student can attempt the problem"
-msgstr "এটা একজন ছাত্র একটি সমস্যা কতবার সমাধান করার চেষ্টা করতে পারবে তার সর্বোচ্চ সংখ্যা বোঝাতে একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
+#: templates/edit.html:27
+msgid ""This assigns an integer value representing the maximum number of times a student can attempt the problem""
+msgstr ""এটা একজন ছাত্র একটি সমস্যা কতবার সমাধান করার চেষ্টা করতে পারবে তার সর্বোচ্চ সংখ্যা বোঝাতে একটি পূর্ণসংখ্যা মান নির্ধারণ করে।""
 
-msgid "Label for Student Answer"
-msgstr "ছাত্রের উত্তর"
+#: templates/edit.html:32
+msgid ""Label for Student Answer""
+msgstr ""ছাত্রের উত্তর""
 
-msgid "Label for the text area containing the student's answer"
-msgstr "ছাত্রের উত্তর লেখার স্থান"
+#: templates/edit.html:35
+msgid ""Label for the text area containing the student's answer""
+msgstr ""ছাত্রের উত্তর লেখার স্থান""
 
-msgid "Label for Expert Answer"
-msgstr "বিশেষজ্ঞের উত্তর"
+#: templates/edit.html:40
+msgid ""Label for Expert Answer""
+msgstr ""বিশেষজ্ঞের উত্তর""
 
-msgid "Label for the 'expert' answer"
-msgstr "এক্সপার্ট উত্তরের লেবেল"
+#: templates/edit.html:43
+msgid ""Label for the 'expert' answer""
+msgstr ""এক্সপার্ট উত্তরের লেবেল""
 
-msgid "Label for Submit Button"
-msgstr "সাবমিট করুন"
+#: templates/edit.html:48
+msgid ""Label for Submit Button""
+msgstr ""সাবমিট করুন""
 
-msgid "Label for the submit button"
-msgstr "জমা দিন"
+#: templates/edit.html:51
+msgid ""Label for the submit button""
+msgstr ""জমা দিন""
 
-msgid "Definition"
-msgstr "সংজ্ঞা"
+#: templates/edit.html:56
+msgid ""Definition""
+msgstr ""সংজ্ঞা""
 
-msgid "The XML definition for the question and expert answer"
-msgstr "প্রশ্ন এবং বিশেষজ্ঞ উত্তরের জন্য XML ডেফিনেশন"
+#: templates/edit.html:57
+msgid ""The XML definition for the question and expert answer""
+msgstr ""প্রশ্ন এবং বিশেষজ্ঞ উত্তরের জন্য XML ডেফিনেশন""
 
-msgid "Save"
-msgstr "সংরক্ষণ করুন"
+#: templates/edit.html:69
+msgid ""Save""
+msgstr ""সংরক্ষণ করুন""
 
-msgid "Cancel"
-msgstr "বাতিল করুন"
+#: templates/edit.html:72
+msgid ""Cancel""
+msgstr ""বাতিল করুন""
 
-msgid "Hint ({number} of {total}): {hint}"
-msgstr "ইঙ্গিত ({number} টি, মোট {total} টি): {hint}"
+#: views.py:223
+#, python-brace-format
+msgid ""Hint ({number} of {total}): {hint}""
+msgstr ""ইঙ্গিত ({number} টি, মোট {total} টি): {hint}""
 
-msgid "You have used {count_attempts} of {max_attempts} submission"
-msgstr "আপনি {max_attempts} বার জমা দেওয়ার মধ্যে {count_attempts} বার জমা দিয়েছেন।"
+#: views.py:244
+#, python-brace-format
+msgid ""You have used {count_attempts} of {max_attempts} submission""
+msgstr ""আপনি {max_attempts} বার জমা দেওয়ার মধ্যে {count_attempts} বার জমা দিয়েছেন।""
 
-msgid "{weight} point possible"
-msgstr "{weight} পয়েন্ট সম্ভাব্য"
+#: views.py:287
+#, python-brace-format
+msgid ""{weight} point possible""
+msgstr ""{weight} পয়েন্ট সম্ভাব্য""
 
-msgid "/{weight} point"
-msgstr "{weight} পয়েন্ট"
+#: views.py:299
+#, python-brace-format
+msgid ""/{weight} point""
+msgstr ""{weight} পয়েন্ট""
 

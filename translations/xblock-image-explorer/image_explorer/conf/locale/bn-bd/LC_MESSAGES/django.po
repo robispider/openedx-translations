@@ -1,4 +1,4 @@
-﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
@@ -33,63 +33,79 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:52+0000\n"
-"PO-Revision-Date: 2025-09-30 03:52+5791\n"
+"POT-Creation-Date: 2025-10-01 20:56+0000\n"
+"PO-Revision-Date: 2025-10-02 02:56+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 "X-Generator: Poedit 3.7\n"
 
-msgid "Display Name"
-msgstr "ডিসপ্লে নাম"
+#: image_explorer.py:59
+msgid ""Display Name""
+msgstr ""ডিসপ্লে নাম""
 
-msgid "This name appears in the horizontal navigation at the top of the page."
-msgstr "এই নামটি পেজের উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।"
+#: image_explorer.py:60
+msgid ""This name appears in the horizontal navigation at the top of the page.""
+msgstr ""এই নামটি পেজের উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।""
 
-msgid "Image Explorer"
-msgstr "ইমেজ এক্সপ্লোরার"
+#: image_explorer.py:62
+msgid ""Image Explorer""
+msgstr ""ইমেজ এক্সপ্লোরার""
 
-msgid "Hot Spots Coordinates Centered"
-msgstr "গরম স্পটগুলোর স্থানাঙ্ক কেন্দ্রিক"
+#: image_explorer.py:66
+msgid ""Hot Spots Coordinates Centered""
+msgstr ""গরম স্পটগুলোর স্থানাঙ্ক কেন্দ্রিক""
 
-msgid "Store hotspots opened by student, for completion"
-msgstr "ছাত্রদের দ্বারা খোলা স্টোর হটস্পট, সম্পন্ন করার জন্য"
+#: image_explorer.py:72
+msgid ""Store hotspots opened by student, for completion""
+msgstr ""ছাত্রদের দ্বারা খোলা স্টোর হটস্পট, সম্পন্ন করার জন্য""
 
-msgid "XML contents to display for this module"
-msgstr "এই মডিউলের জন্য প্রদর্শিত XML কন্টেন্ট"
+#: image_explorer.py:77
+msgid ""XML contents to display for this module""
+msgstr ""এই মডিউলের জন্য প্রদর্শিত XML কন্টেন্ট""
 
-msgid "Missing event_type in JSON data"
-msgstr "JSON ডেটাতে event_type অনুপস্থিত।"
+#: image_explorer.py:230
+msgid ""Missing event_type in JSON data""
+msgstr ""JSON ডেটাতে event_type অনুপস্থিত।""
 
-msgid "Title"
-msgstr "শিরোনাম"
+#: templates/html/image_explorer_edit.html:8
+msgid ""Title""
+msgstr ""শিরোনাম""
 
-msgid "The title of the Image Explorer that is displayed to the user"
-msgstr "ব্যবহারকারীকে দেখানো ইমেজ এক্সপ্লোরারের শিরোনাম"
+#: templates/html/image_explorer_edit.html:11
+msgid ""The title of the Image Explorer that is displayed to the user""
+msgstr ""ব্যবহারকারীকে দেখানো ইমেজ এক্সপ্লোরারের শিরোনাম""
 
-msgid "Hotspot coordinates centered"
-msgstr "হটস্পট স্থানাঙ্ক কেন্দ্রিক"
+#: templates/html/image_explorer_edit.html:17
+msgid ""Hotspot coordinates centered""
+msgstr ""হটস্পট স্থানাঙ্ক কেন্দ্রিক""
 
-msgid "If set to true, hotspot coordinates interpreted to point to the center of the hotspot"
-msgstr "যদি এটা true তে সেট করা হয়, তাহলে হটস্পট কোঅর্ডিনেটগুলো হটস্পটের মাঝখানে নির্দেশ করবে।"
+#: templates/html/image_explorer_edit.html:19
+msgid ""If set to true, hotspot coordinates interpreted to point to the center of the hotspot""
+msgstr ""যদি এটা true তে সেট করা হয়, তাহলে হটস্পট কোঅর্ডিনেটগুলো হটস্পটের মাঝখানে নির্দেশ করবে।""
 
-msgid "If set to false, assumed to point to the top left corner of the hotspot image"
-msgstr "যদি false সেট করা হয়, তাহলে ধরে নেওয়া হবে এটি হটস্পট ইমেজের উপরের বাম কোণ নির্দেশ করছে।"
+#: templates/html/image_explorer_edit.html:19
+msgid ""If set to false, assumed to point to the top left corner of the hotspot image""
+msgstr ""যদি false সেট করা হয়, তাহলে ধরে নেওয়া হবে এটি হটস্পট ইমেজের উপরের বাম কোণ নির্দেশ করছে।""
 
-msgid "Definition"
-msgstr "সংজ্ঞা"
+#: templates/html/image_explorer_edit.html:24
+msgid ""Definition""
+msgstr ""সংজ্ঞা""
 
-msgid "The XML definition for the Image Explorer"
-msgstr "ইমেজ এক্সপ্লোরারের XML ডেফিনেশন"
+#: templates/html/image_explorer_edit.html:25
+msgid ""The XML definition for the Image Explorer""
+msgstr ""ইমেজ এক্সপ্লোরারের XML ডেফিনেশন""
 
-msgid "Save"
-msgstr "সংরক্ষণ করুন"
+#: templates/html/image_explorer_edit.html:36
+msgid ""Save""
+msgstr ""সংরক্ষণ করুন""
 
-msgid "Cancel"
-msgstr "বাতিল করুন"
+#: templates/html/image_explorer_edit.html:40
+msgid ""Cancel""
+msgstr ""বাতিল করুন""
 

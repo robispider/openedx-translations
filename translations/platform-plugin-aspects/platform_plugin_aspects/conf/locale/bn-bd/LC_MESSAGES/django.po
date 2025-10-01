@@ -1,4 +1,4 @@
-﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
@@ -33,79 +33,103 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 06:24+0000\n"
-"PO-Revision-Date: 2025-10-01 12:24+2026\n"
+"POT-Creation-Date: 2025-10-01 21:07+0000\n"
+"PO-Revision-Date: 2025-10-02 03:07+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 "X-Generator: Poedit 3.7\n"
 
-msgid "Reports"
-msgstr "রিপোর্ট"
+#: extensions/filters.py:58
+msgid ""Reports""
+msgstr ""রিপোর্ট""
 
-msgid "Course Dashboard"
-msgstr "কোর্স ড্যাশবোর্ড"
+#: settings/common.py:31
+msgid ""Course Dashboard""
+msgstr ""কোর্স ড্যাশবোর্ড""
 
-msgid "Individual Learner Dashboard"
-msgstr "ব্যক্তিগত শিক্ষার্থীর ড্যাশবোর্ড"
+#: settings/common.py:37
+msgid ""Individual Learner Dashboard""
+msgstr ""ব্যক্তিগত শিক্ষার্থীর ড্যাশবোর্ড""
 
-msgid "At-Risk Learners Dashboard"
-msgstr "ঝুঁকিপূর্ণ শিক্ষার্থী ড্যাশবোর্ড"
+#: settings/common.py:43
+msgid ""At-Risk Learners Dashboard""
+msgstr ""ঝুঁকিপূর্ণ শিক্ষার্থী ড্যাশবোর্ড""
 
-msgid "Course"
-msgstr "কোর্স"
+#: settings/common.py:114
+msgid ""Course""
+msgstr ""কোর্স""
 
-msgid "Graded Subsection"
-msgstr "গ্রেডেড সাবসেকশন"
+#: settings/common.py:122
+msgid ""Graded Subsection""
+msgstr ""গ্রেডেড সাবসেকশন""
 
-msgid "Problem"
-msgstr "সমস্যা"
+#: settings/common.py:130
+msgid ""Problem""
+msgstr ""সমস্যা""
 
-msgid "Video"
-msgstr "ভিডিও"
+#: settings/common.py:138
+msgid ""Video""
+msgstr ""ভিডিও""
 
-msgid "Superset is not configured properly. Please contact your system administrator."
-msgstr "সুপারসেট সঠিকভাবে কনফিগার করা হয়নি। অনুগ্রহ করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।"
+#: static/html/superset.html:9
+msgid ""Superset is not configured properly. Please contact your system administrator.""
+msgstr ""সুপারসেট সঠিকভাবে কনফিগার করা হয়নি। অনুগ্রহ করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।""
 
-msgid "Superset is only visible to course staff and instructors. Please contact your system administrator."
-msgstr "Superset শুধুমাত্র কোর্স স্টাফ ও ইন্সট্রাক্টরদের জন্য দৃশ্যমান। প্রয়োজনে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।"
+#: static/html/superset_student.html:4
+msgid ""Superset is only visible to course staff and instructors. Please contact your system administrator.""
+msgstr ""Superset শুধুমাত্র কোর্স স্টাফ ও ইন্সট্রাক্টরদের জন্য দৃশ্যমান। প্রয়োজনে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।""
 
-msgid "Course not found: '{course_id}'"
-msgstr "কোর্সটি খুঁজে পাওয়া যায়নি: '{course_id}'"
+#: views.py:87
+#, python-brace-format
+msgid ""Course not found: '{course_id}'""
+msgstr ""কোর্সটি খুঁজে পাওয়া যায়নি: '{course_id}'""
 
-msgid "Invalid course id: '{course_id}'"
-msgstr "অবৈধ কোর্স আইডি: '{course_id}'"
+#: views.py:114
+#, python-brace-format
+msgid ""Invalid course id: '{course_id}'""
+msgstr ""অবৈধ কোর্স আইডি: '{course_id}'""
 
-msgid "Invalid usage id: '{usage_id}'"
-msgstr "ভুল ব্যবহারকারী আইডি: '{usage_id}'"
+#: views.py:179
+#, python-brace-format
+msgid ""Invalid usage id: '{usage_id}'""
+msgstr ""ভুল ব্যবহারকারী আইডি: '{usage_id}'""
 
-msgid "No dashboard for block type: '{block_type}'"
-msgstr "ব্লক টাইপ: '{block_type}' এর জন্য ড্যাশবোর্ড নেই।"
+#: views.py:208
+#, python-brace-format
+msgid ""No dashboard for block type: '{block_type}'""
+msgstr ""ব্লক টাইপ: '{block_type}' এর জন্য ড্যাশবোর্ড নেই।""
 
-msgid "Display name"
-msgstr "প্রদর্শন নাম"
+#: xblock.py:48 xblock.py:49
+msgid ""Display name""
+msgstr ""প্রদর্শন নাম""
 
-msgid "Superset Dashboard"
-msgstr "Superset ড্যাশবোর্ড"
+#: xblock.py:50
+msgid ""Superset Dashboard""
+msgstr ""Superset ড্যাশবোর্ড""
 
-msgid "Dashboard UUID"
-msgstr "ড্যাশবোর্ড UUID"
+#: xblock.py:55
+msgid ""Dashboard UUID""
+msgstr ""ড্যাশবোর্ড UUID""
 
-msgid "The ID of the dashboard to embed. Available in the Superset embed dashboard UI."
-msgstr "ড্যাশবোর্ডটি এম্বেড করার আইডি। Superset এম্বেড ড্যাশবোর্ড ইউআই-তে পাওয়া যাবে।"
+#: xblock.py:57
+msgid ""The ID of the dashboard to embed. Available in the Superset embed dashboard UI.""
+msgstr ""ড্যাশবোর্ডটি এম্বেড করার আইডি। Superset এম্বেড ড্যাশবোর্ড ইউআই-তে পাওয়া যাবে।""
 
-msgid "Filters"
-msgstr "ফিল্টার"
+#: xblock.py:64
+msgid ""Filters""
+msgstr ""ফিল্টার""
 
+#: xblock.py:66
 msgid ""
-"List of SQL filters to apply to the"\n
-"               dashboard. E.g: [\"org='edX'\", \"country in ('us', 'co')\"]"\n
-"               The fields used here must be available on every dataset used by the dashboard."\n
-"               "
-msgstr "ড্যাশবোর্ডে প্রয়োগ করার জন্য SQL ফিল্টারগুলির তালিকা। যেমন: [\"org='edX'\", \"country in ('us', 'co')\"] ড্যাশবোর্ড দ্বারা ব্যবহৃত প্রতিটি ডেটাসেটে এখানে ব্যবহৃত ক্ষেত্রগুলি উপলব্ধ থাকতে হবে।"
+""List of SQL filters to apply to the""
+""               dashboard. E.g: [\"org='edX'\", \"country in ('us', 'co')\"]""
+""               The fields used here must be available on every dataset used by the dashboard.""
+""               ""
+msgstr ""ড্যাশবোর্ডে প্রয়োগ করার জন্য SQL ফিল্টারগুলির তালিকা। যেমন: [\"org='edX'\", \"country in ('us', 'co')\"] ড্যাশবোর্ড দ্বারা ব্যবহৃত প্রতিটি ডেটাসেটে এখানে ব্যবহৃত ক্ষেত্রগুলি উপলব্ধ থাকতে হবে।""
 
