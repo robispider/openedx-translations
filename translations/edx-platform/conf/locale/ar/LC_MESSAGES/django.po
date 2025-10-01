@@ -195,6 +195,14 @@ msgstr ""
 "دليل GIT_REPO_EXPORT_DIR غير محدّد، أو المسار {0} غير موجود، لذلك يُرجى "
 "إنشاؤه، أو ضبط إعدادات مسار آخر مع دليل GIT_REPO_EXPORT_DIR."
 
+#: cms/djangoapps/contentstore/git_export_utils.py:39
+msgid ""
+"Non writable git url provided. Expecting something like: "
+"git@github.com:openedx/openedx-demo-course.git"
+msgstr ""
+"لقد أُرفِق رابط git غير قابل للكتابة. يُتوقّع شيء مثل: "
+"git@github.com:openx/openx-demo-course.git"
+
 #: cms/djangoapps/contentstore/git_export_utils.py:41
 msgid ""
 "If using http urls, you must provide the username and password in the url. "
@@ -456,7 +464,7 @@ msgstr "المعلومات التي أدخلتها غير صحيحة."
 #: xmodule/video_block/video_handlers.py:459
 #, python-brace-format
 msgid "The following parameters are required: {missing}."
-msgstr "المعطيات التالية مطلوبة: {missing}."
+msgstr "المُعطيات التالية مطلوبة: {missing}."
 
 #: cms/djangoapps/contentstore/transcript_storage_handlers.py:205
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:292
@@ -1516,9 +1524,9 @@ msgid ""
 "follows:                     user_id, username, email, course_id, "
 "is_verified, verification_date"
 msgstr ""
-"يُتوقع تقديم البيانات بنَسَق ملف csv بحيث يكون الصف الأول لعناوين الأعمدة، "
-"وتكون الأعمدة كما يلي: user_id, username, email, course_id, is_verified, "
-"verification_date"
+"يُتوقّع تقديم البيانات بنَسَق ملف csv بحيث يكون                     الصف "
+"الأول لعناوين الأعمدة، وتكون الأعمدة كما يلي:                     user_id, "
+"username, email, course_id, is_verified, verification_date"
 
 #: common/djangoapps/student/models/course_enrollment.py:1774
 msgid ""
@@ -1526,8 +1534,9 @@ msgid ""
 "                     first row being the header and columns will be as "
 "follows:                     course_id, username, mode"
 msgstr ""
-"تتوقع أن يتم توفير البيانات بتنسيق ملف csv مع        سيكون الصف الأول هو "
-"الرأس والأعمدة كما يلي: معرف_الدورة، اسم المستخدم، الوضع"
+"يُتوقّع تقديم البيانات بنَسَق ملف csv بحيث يكون                     الصف "
+"الأول لعناوين الأعمدة، وتكون الأعمدة كما يلي:                     course_id,"
+" username, mode"
 
 #: common/djangoapps/student/models/user.py:463
 msgid "Male"
@@ -1556,7 +1565,7 @@ msgstr "درجة البكالوريوس"
 
 #: common/djangoapps/student/models/user.py:480
 msgid "Associate degree"
-msgstr "درجة زميل"
+msgstr "درجة دبلوم"
 
 #: common/djangoapps/student/models/user.py:481
 msgid "Secondary/high school"
@@ -1659,8 +1668,9 @@ msgid ""
 "                     first row being the header and columns will be as "
 "follows:                     username, current_email, desired_email"
 msgstr ""
-"تتوقع أن يتم توفير البيانات بتنسيق ملف csv مع               سيكون الصف الأول"
-" هو الرأس والأعمدة كما يلي: اسم المستخدم، االبريد_الحالي، بريد_الاستعادة"
+"يُتوقّع تقديم البيانات بنَسَق ملف csv بحيث يكون                     الصف "
+"الأول لعناوين الأعمدة، وتكون الأعمدة كما يلي:                     username, "
+"current_email, desired_email"
 
 #: common/djangoapps/student/models/user.py:1908
 msgid "Add a reason"
@@ -1733,7 +1743,7 @@ msgstr ""
 #: common/djangoapps/student/views/dashboard.py:765
 #, python-brace-format
 msgid "The course you are looking for does not start until {date}."
-msgstr "عذرًا، المساق الذي تبحث عنه لن يبدأ حتى {date}. "
+msgstr "المساق الذي تبحث عنه لن يبدأ حتى {date}."
 
 #: common/djangoapps/student/views/dashboard.py:769
 #, python-brace-format
@@ -2758,7 +2768,7 @@ msgid ""
 "engaging, high-quality %(platform_name)s courses. Note that you will not be "
 "able to log back into your account until you have activated it."
 msgstr ""
-"أوشكت على الوصول! استَخدِم الرابط أدناه لتنشيط حسابك للوصول إلى مُقَرَّرات "
+"أوشكت على الوصول! استخدِم الرابط أدناه لتنشيط حسابك للوصول إلى مُقَرَّرات "
 "مُمتعة عالية الجودة من %(platform_name)s. اعلَم أنّك لن تتمكن من الدخول إلى "
 "حسابك إلى حين تفعيله."
 
@@ -2802,7 +2812,7 @@ msgid ""
 "engaging, high-quality %(platform_name)s courses. Note that you will not be "
 "able to log back into your account until you have activated it."
 msgstr ""
-"أوشكت على الوصول! استَخدِم الرابط أدناه لتنشيط حسابك للوصول إلى مُقَرَّرات "
+"أوشكت على الوصول! استخدِم الرابط أدناه لتنشيط حسابك للوصول إلى مُقَرَّرات "
 "مُمتعة عالية الجودة من %(platform_name)s. اعلَم أنّك لن تتمكن من الدخول إلى "
 "حسابك إلى حين تفعيله."
 
@@ -3562,8 +3572,8 @@ msgid ""
 "A {cert_type} certificate also indicates that the identity of the learner "
 "has been checked and is valid."
 msgstr ""
-"تشير الشهادة الـ{cert_type} أيضاً إلى أنّه تم التحقق من هُوِيّة المتعلم "
-"وأنّها صالحة."
+"تشير الشهادة الـ{cert_type} أيضاً إلى أنّه تم التحقق من هوية المتعلم وأنّها "
+"صالحة."
 
 #. Translators:  This text describes the 'XSeries' course certificate type.
 #. An XSeries is a collection of
@@ -4341,7 +4351,7 @@ msgstr "اعرف المزيد"
 
 #: lms/djangoapps/courseware/date_summary.py:553
 msgid "Retry Verification"
-msgstr "أعد محاولة التحقّق"
+msgstr "إعادة التحقق"
 
 #: lms/djangoapps/courseware/date_summary.py:557
 msgid "Verify My Identity"
@@ -5226,7 +5236,7 @@ msgstr "نتائج الإمتحان المراقب"
 
 #: lms/djangoapps/instructor/views/api.py:1812
 msgid "Anonymized User IDs"
-msgstr "معرّفات المستخدمين مخفيّي الهُوِيّة"
+msgstr "معرّفات المستخدمين مَخفيّي الهوية"
 
 #: lms/djangoapps/instructor/views/api.py:1849
 #, python-brace-format
@@ -5380,7 +5390,7 @@ msgstr "ملخص ORA"
 
 #: lms/djangoapps/instructor/views/api.py:2888
 msgid "Attachments archive is being created."
-msgstr "يتم الآن إنشاء أرشيف الملحقات"
+msgstr "أرشيف الملفات المرفقة يُنشَأ الآن."
 
 #: lms/djangoapps/instructor/views/api.py:2909
 #: lms/djangoapps/instructor_task/api_helper.py:116
@@ -5795,7 +5805,7 @@ msgstr "تاريخ الاستحقاق بعد التمديد"
 #: lms/djangoapps/instructor/views/tools.py:229
 #, python-brace-format
 msgid "Users with due date extensions for {0}"
-msgstr "مستخدمون ممن لديهم عمليات تمديد تاريخ الاستحقاق لـ {0}"
+msgstr "المستخدمون الحاصلون على تمديد في تاريخ الاستحقاق لـ {0}"
 
 #: lms/djangoapps/instructor/views/tools.py:256
 #, python-brace-format
@@ -6436,11 +6446,11 @@ msgstr "لا يمكنك ترك فريق يديره معلم."
 
 #: lms/djangoapps/user_tours/models.py:19
 msgid "Show existing user tour"
-msgstr "اعرِض جولة المستخدم الموجود"
+msgstr "اعرض جولة المستخدم الموجود"
 
 #: lms/djangoapps/user_tours/models.py:20
 msgid "Show new user tour"
-msgstr "اعرِض جولة المستخدم الجديد"
+msgstr "اعرض جولة المستخدم الجديد"
 
 #: lms/djangoapps/user_tours/models.py:21
 msgid "Do not show user tour"
@@ -6449,7 +6459,7 @@ msgstr "لا تعرض جولة المستخدم"
 #: lms/djangoapps/verify_student/api.py:42
 #, python-brace-format
 msgid "Your {platform_name} ID verification was approved!"
-msgstr "تمّت الموافقة على توثيق هُوِيّتك في {platform_name}!"
+msgstr "تمّت الموافقة على توثيق هويتك في {platform_name}!"
 
 #: lms/djangoapps/verify_student/models.py:1097
 msgid "The course for which this deadline applies"
@@ -7210,13 +7220,13 @@ msgstr "مرحبا %(full_name)s."
 
 #: lms/templates/verify_student/edx_ace/verificationapproved/email/body.html:10
 msgid "ID Verification Approved"
-msgstr "تمّت الموافقة على توثيق الهُوِيّة."
+msgstr "تمّت الموافقة على توثيق الهوية."
 
 #: lms/templates/verify_student/edx_ace/verificationapproved/email/body.html:19
 #: lms/templates/verify_student/edx_ace/verificationapproved/email/body.txt:3
 #, python-format
 msgid "Your %(platform_name)s ID verification photos have been approved."
-msgstr "تمّت الموافقة على صور توثيق هُوِيّتك في %(platform_name)s."
+msgstr "تمّت الموافقة على صور توثيق هويتك في %(platform_name)s."
 
 #: lms/templates/verify_student/edx_ace/verificationapproved/email/body.html:23
 #: lms/templates/verify_student/edx_ace/verificationapproved/email/body.txt:4
@@ -7237,7 +7247,7 @@ msgstr "استمتع برحلتك التعليمية"
 #: lms/templates/verify_student/edx_ace/verificationapproved/email/subject.txt:3
 #, python-format
 msgid "Your %(platform_name)s ID verification was approved!"
-msgstr "تمّت الموافقة على توثيق هُوِيّتك في %(platform_name)s!"
+msgstr "تمّت الموافقة على توثيق هويتك في %(platform_name)s!"
 
 #: lms/templates/verify_student/edx_ace/verificationexpiry/email/body.html:10
 msgid "Expired ID Verification"
@@ -7288,7 +7298,7 @@ msgstr "انتهت صلاحية التحقق من %(platform_name)sالخاصة 
 
 #: lms/templates/verify_student/edx_ace/verificationsubmitted/email/body.html:10
 msgid "ID Verification Submitted"
-msgstr "أُرسِل طلب التحقق من الهُوِيّة"
+msgstr "أُرسِل طلب التحقق من الهوية"
 
 #: lms/templates/verify_student/edx_ace/verificationsubmitted/email/body.html:19
 #: lms/templates/verify_student/edx_ace/verificationsubmitted/email/body.txt:3
@@ -7481,7 +7491,7 @@ msgstr "تغيير"
 #: lms/templates/wiki/history.html:183 lms/templates/wiki/history.html:188
 #: wiki/templates/wiki/history.html:131
 msgid "Merge selected with current..."
-msgstr "دمج اختيارك مع الحالي..."
+msgstr "ادمِج اختيارك مع الحالي..."
 
 #: lms/templates/wiki/history.html:193 wiki/templates/wiki/history.html:135
 msgid "Switch to selected version"
@@ -7503,11 +7513,11 @@ msgstr "انتقِل إلى هذه النسخة"
 
 #: lms/templates/wiki/history.html:237
 msgid "Merge Revision"
-msgstr "مراجعة عملية الدمج"
+msgstr "ادمِج المراجعة"
 
 #: lms/templates/wiki/history.html:241 wiki/templates/wiki/history.html:169
 msgid "Merge with current"
-msgstr "الدمج مع الحالي"
+msgstr "ادمِج مع الحالي..."
 
 #: lms/templates/wiki/history.html:242 wiki/templates/wiki/history.html:170
 msgid ""
@@ -7524,7 +7534,7 @@ msgstr "بعد القيام بهذا، من المهم إجراء مراجعة �
 #: lms/templates/wiki/history.html:255 lms/templates/wiki/history.html:260
 #: wiki/templates/wiki/history.html:183 wiki/templates/wiki/history.html:188
 msgid "Create new merged version"
-msgstr "إنشاء نسخة مدمجة جديدة"
+msgstr "أنشِئ نسخة مُدمجة جديدة"
 
 #: lms/templates/wiki/includes/anonymous_blocked.html:7
 #, python-brace-format
@@ -7661,7 +7671,7 @@ msgstr ""
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:4
 #: wiki/plugins/attachments/wiki_plugin.py:29
 msgid "Attachments"
-msgstr "الملفّات المرفقة"
+msgstr "الملفات المرفقة"
 
 #: lms/templates/wiki/plugins/attachments/index.html:13
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:83
@@ -7777,7 +7787,7 @@ msgstr "مراجعات"
 #: lms/templates/wiki/plugins/attachments/index.html:130
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:69
 msgid "There are no attachments for this article."
-msgstr "لا توجد ملفّات مرفقة بهذا المقال."
+msgstr "لا توجد ملفات مرفقة بهذا المقال."
 
 #: lms/templates/wiki/preview_inline.html:13
 msgid "Previewing revision:"
@@ -7785,7 +7795,7 @@ msgstr "معاينة المراجعة:"
 
 #: lms/templates/wiki/preview_inline.html:20
 msgid "Previewing a merge between two revisions:"
-msgstr "معاينة عملية دمج بين مراجعتين:"
+msgstr "عايِن الدمج بين مراجعتين:"
 
 #: lms/templates/wiki/preview_inline.html:32
 #: wiki/templates/wiki/preview_inline.html:26
@@ -8015,7 +8025,7 @@ msgid ""
 "Username created for Course Catalog Integration, e.g. "
 "lms_catalog_service_user."
 msgstr ""
-"تم إنشاء اسم المستخدم لدمج كتالوج الدورة التعليمية، على سبيل المثال، "
+"أُنشئ اسم المستخدم لدمج دليل المساق، على سبيل المثال، "
 "lms_catalog_service_user."
 
 #: openedx/core/djangoapps/catalog/models.py:58
@@ -8226,7 +8236,7 @@ msgstr "معرّف المساق"
 
 #: openedx/core/djangoapps/content_libraries/models.py:276
 msgid "ID of the imported course."
-msgstr "مُعرّف المساق الذي استُورِد."
+msgstr "معرّف المساق الذي استُورِد."
 
 #. Translators: 'Open edX' is a trademark, please keep this untranslated
 #: openedx/core/djangoapps/content_libraries/models.py:353
@@ -8282,7 +8292,7 @@ msgstr "العنوان الوصفي لمنصة LTI لهذا المورد."
 
 #: openedx/core/djangoapps/content_libraries/models.py:499
 msgid "If AGS was enabled during launch, this should hold the lineitem ID."
-msgstr "إذا مُكِّن AGS أثناء التشغيل، فيجب أن يشتمل هذا على مُعرَّف البند."
+msgstr "إذا مُكِّن AGS أثناء التشغيل، فيجب أن يشتمل هذا على معرّف البند."
 
 #: openedx/core/djangoapps/content_libraries/rest_api/libraries.py:323
 msgid "We could not find a user with that email address."
@@ -8331,7 +8341,7 @@ msgstr "يتم تطبيق علامات المحتوى على هذه الكتل"
 
 #: openedx/core/djangoapps/content_staging/models.py:116
 msgid "Original usage key/ID of the thing that is in the clipboard."
-msgstr "مُعرّف أو مفتاح الاستخدام الأصلي للشيء الموجود في الحافظة."
+msgstr "معرّف أو مفتاح الاستخدام الأصلي للشيء الموجود في الحافظة."
 
 #: openedx/core/djangoapps/content_tagging/models/base.py:24
 #: wiki/models/article.py:34
@@ -9186,14 +9196,6 @@ msgstr "يجب ألا يقلّ حجم الملف عن {image_min_size} ."
 msgid "The file must be one of the following types: {valid_file_types}."
 msgstr "يجب أن يكون نوع الملف واحدًا من الأنواع التالية: {valid_file_types}"
 
-#: openedx/core/djangoapps/profile_images/images.py:124
-msgid ""
-"The Content-Type header for this file does not match the file data. The file"
-" may be corrupted."
-msgstr ""
-"إن ترويسة نوع-المحتوى الخاصة بهذا الملف غير مطابقة لبياناته. قد يكون الملف "
-"معيبًا."
-
 #: openedx/core/djangoapps/profile_images/images.py:133
 msgid ""
 "The file name extension for this file does not match the file data. The file"
@@ -9210,7 +9212,7 @@ msgstr "كيلو بايت"
 
 #: openedx/core/djangoapps/profile_images/images.py:242
 msgid "MB"
-msgstr "ميغا بايت"
+msgstr "ميجا بايت"
 
 #: openedx/core/djangoapps/profile_images/views.py:136
 msgid "No file provided for profile image"
@@ -9244,7 +9246,7 @@ msgstr "جدول البدء < بدء المساق"
 
 #: openedx/core/djangoapps/schedules/admin.py:81
 msgid "Course Id"
-msgstr "رقم المساق "
+msgstr "معرّف المساق"
 
 #: openedx/core/djangoapps/schedules/admin.py:112
 msgid "All"
@@ -9259,7 +9261,7 @@ msgstr "خبرة"
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html:47
 #: lms/templates/support/feature_based_enrollments.html:31
 msgid "Course ID"
-msgstr "الرقم التعريفي للمساق "
+msgstr "معرّف المساق"
 
 #: openedx/core/djangoapps/schedules/apps.py:12
 #: openedx/core/djangoapps/schedules/models.py:47
@@ -10388,7 +10390,7 @@ msgstr "سيتم استخدام هذا الاسم في أي شهادات تكت�
 #: themes/stanford-style/lms/templates/register-form.html:93
 #: themes/stanford-style/lms/templates/register-shib.html:126
 msgid "Public Username"
-msgstr "اسم المستخدم"
+msgstr "اسم المستخدم العام"
 
 #. Translators: These instructions appear on the registration form,
 #. immediately
@@ -10496,7 +10498,7 @@ msgstr "محدد موقع معلومات API الخاص بمدير ترميز ا
 
 #: openedx/core/djangoapps/video_pipeline/models.py:46
 msgid "Username created for VEM Integration, e.g. vem_service_user."
-msgstr "اسم المستخدم الذي تم إنشاؤه لدمج VEM، مثل vem_service_user."
+msgstr "أُنشئ اسم المستخدم لدمج VEM، على سبيل المثال، vem_service_user."
 
 #: openedx/core/djangoapps/waffle_utils/models.py:28
 #: openedx/core/djangoapps/waffle_utils/models.py:91
@@ -10648,7 +10650,7 @@ msgstr "ممكن_اعتبارًا_من يجب تعيينه عندما يكون �
 
 #: openedx/features/content_type_gating/partitions.py:70
 msgid "Partition for segmenting users by access to gated content types"
-msgstr " افرِز المستخدمين وفقاً لصلاحية وصولهم إلى أنواع المحتوى المُقيّد"
+msgstr " افرِز المستخدمين وفقاً لصلاحية وصولهم إلى أنواع المحتوى المقيّد"
 
 #: openedx/features/content_type_gating/partitions.py:117
 #: openedx/features/content_type_gating/templates/content_type_gating/access_denied_message.html:10
@@ -11643,8 +11645,8 @@ msgid ""
 "Defines the number of points each problem is worth. If the value is not set,"
 " each response field in the problem is worth one point."
 msgstr ""
-"تحدِّد هذه القيمة عدد النقاط التي تستحقّها كلّ مسألة. إذا لم تُضبَط هذه "
-"القيمة، فسيٌثمّن لكل حقل ردّ في المسألة بنقطة واحدة."
+"يُحدِّد عدد الدرجات المُستحقّة لكل مسألة. إذا لم تُحدَّد القيمة، ستُعطى درجة"
+" واحدة لكل حقل إجابة في المسألة."
 
 #: xmodule/capa_block.py:324
 msgid "Markdown source of this module"
@@ -11756,7 +11758,7 @@ msgstr "لقد تم حفظ إجاباتك سابقاً. يُرجى الضغط ع
 #, python-brace-format
 msgid "Incorrect ({progress} point)"
 msgid_plural "Incorrect ({progress} points)"
-msgstr[0] "خطأ ( نقاط {progress} )"
+msgstr[0] "خطأ (لا درجات)"
 msgstr[1] "خطأ (درجة واحدة)"
 msgstr[2] "خطأ (درجتان)"
 msgstr[3] "خطأ ({progress} درجات)"
@@ -11907,7 +11909,7 @@ msgid ""
 "Studio."
 msgstr ""
 "مساقات موقع المُكوّن لجميع مُكوّنات المصدر المستخدمة لتحديد ما إذا كان "
-"المتعلم سيظهر له محتوى هذه الكُتلة الشرطية. انسَخ مُعرّف موقع المُكوّن من "
+"المتعلم سيظهر له محتوى هذه الكُتلة الشرطية. انسخ معرّف موقع المُكوّن من "
 "مُربع حوار الإعدادات الخاص به في الاستوديو."
 
 #: xmodule/conditional_block.py:108
@@ -11983,7 +11985,7 @@ msgstr "قائمة بأجزاء (عناوين، وروابط) كل كتاب مس
 
 #: xmodule/course_block.py:336
 msgid "Slug that points to the wiki for this course"
-msgstr "العنوان المختصر الذي يشير إلى ويكي هذا المساق"
+msgstr "المعرّف المختصر الذي يشير إلى ويكي هذا المساق"
 
 #: xmodule/course_block.py:338
 msgid "Date that enrollment for this class is opened"
@@ -12200,7 +12202,7 @@ msgid ""
 "Enter the unique identifier for your course's video files provided by "
 "{platform_name}."
 msgstr ""
-"أدخِل المُعرّف الفريد لملفات الفيديو لمساقك والمُقدّمة من {platform_name}."
+"أدخِل المعرّف الفريد لملفات الفيديو لمساقك والمُقدّمة من {platform_name}."
 
 #: xmodule/course_block.py:478
 msgid "Course Not Graded"
@@ -12562,7 +12564,7 @@ msgstr ""
 
 #: xmodule/course_block.py:739
 msgid "Allow Public Wiki Access"
-msgstr "تفعيل الوصول العامّ للويكي"
+msgstr "اسمَح بصلاحية الوصول العام للويكي"
 
 #: xmodule/course_block.py:741
 msgid ""
@@ -12587,12 +12589,12 @@ msgstr "اسم استبيان ما قبل المساق"
 #: xmodule/course_block.py:757
 msgid "Name of SurveyForm to display as a pre-course survey to the user."
 msgstr ""
-"اسم نموذج الاستبيان ’SurveyForm‘ الذي يجب عرضه للمستخدم كاستبيان ما قبل "
+"اسم نموذج الاستبيان ’SurveyForm‘ الذي سيُعرض للمستخدم كاستبيان ما قبل "
 "المساق."
 
 #: xmodule/course_block.py:764
 msgid "Pre-Course Survey Required"
-msgstr "مطلوب إجراء استبيان قبل المساق"
+msgstr "مطلوب إجراء استبيان ما قبل المساق"
 
 #: xmodule/course_block.py:766
 msgid ""
@@ -13294,8 +13296,8 @@ msgid ""
 "{docs_anchor_open}the edX LTI documentation{anchor_close} for more details "
 "on this setting."
 msgstr ""
-"أدخِل عنوان الأداة الخارجية الذي يُشغّلها هذا المُكوّن. لا يُستَخدم هذا "
-"الإعداد إلا عند تعيين خِيار \"إخفاء الأداة الخارجية\" على \"لا\". "
+"أدخِل عنوان الأداة الخارجية الذي يُشغّلها هذا المكون. لا يُستخدم هذا الإعداد"
+" إلا عندما يُعيَّن خِيار \"إخفاء الأداة الخارجية\" على \"لا تخفِ\". "
 "{break_tag} اطَّلِع على {docs_anchor_open} وثائق LTI الخاصة بـ edX "
 "{anchor_close} لمزيدٍ من التفاصيل حول هذا الإعداد."
 
@@ -13327,10 +13329,10 @@ msgid ""
 "in the current page. This setting is only used when Hide External Tool is "
 "set to False.  "
 msgstr ""
-"يُرجى اختيار ’true‘ إذا أردت أن يضغط الطلّاب على رابط، يفتح أداة ’LTI‘ في "
-"نافذة جديدة أو يمكنك اختيار ’false‘ لفتح محتوى ’LTI‘ داخل إطار ’IFrame‘ ضمن "
-"الصفحة الحاليّة. يقتصر استخدام هذا الإعداد على حالة ضبط خاصية \"إخفاء الأداة"
-" الخارجية\" على القيمة ’false‘. "
+"اختَر خِيار \"نعم\" إذا أردت أن يضغط الطلاب على رابطٍ يفتح أداة LTI في نافذة"
+" جديدة. اختَر خِيار \"لا\" إذا أردت أن يُفتح محتوى LTI في IFrame في الصفحة "
+"الحالية. لا يُستخدم هذا الإعداد إلا عندما يُعيَّن خِيار \"إخفاء الأداة "
+"الخارجية\" على \"لا تخفِ\""
 
 #: xmodule/lti_block.py:190
 msgid "Scored"
@@ -13341,8 +13343,8 @@ msgid ""
 "Select True if this component will receive a numerical score from the "
 "external LTI system."
 msgstr ""
-"يُرجى اختيار  ’true‘ إذا كان هذا المكوِّن سيستقبل قيمة عدديّة للنتيجة من "
-"نظام ’LTI‘ الخارجي."
+"يُرجى اختيار \"نعم\" إذا كان هذا المكون سوف يتلقى النتيجة الرقمية من نظام "
+"LTI الخارجي."
 
 #: xmodule/lti_block.py:198
 msgid "Weight"
@@ -13353,8 +13355,8 @@ msgid ""
 "Enter the number of points possible for this component.  The default value "
 "is 1.0.  This setting is only used when Scored is set to True."
 msgstr ""
-"أدخِل عدد الدرجات المُمكِنة لهذا المُكوّن. العدد الافتراضي هو 1.0. يُستخدَم "
-"هذا الإعداد فقط عندما يتم تعيين 'Scored' على \"نعم\"."
+"أدخِل عدد الدرجات الممكنة لهذا المُكوّن. العدد الافتراضي هو 1.0. يُستخدم هذا"
+" الإعداد فقط عندما يُعيَّن خِيار 'Scored' على \"نعم\"."
 
 #: xmodule/lti_block.py:209
 msgid ""
@@ -13378,9 +13380,9 @@ msgid ""
 "with an external grading  system rather than launch an external tool.  This "
 "setting hides the Launch button and any IFrames for this component."
 msgstr ""
-"يُرجى اختيار \"نعم\" إذا أردت استخدام هذا المُكوّن كبديل للمزامنة مع نظام "
-"تقييم خارجي بدلاً من تشغيل أداة خارجية. سيُخفي هذا الإعداد زِر التشغيل وأيّ "
-"iFrames لهذا المُكوّن."
+"يُرجى اختيار \"نعم\" إذا أردت استخدام هذا المكون كبديل للمزامنة مع نظام "
+"تقييم خارجي بدلاً من تشغيل أداة خارجية. سيخفي هذا الإعداد زِر التشغيل وأيّ "
+"IFrames لهذا المكون."
 
 #: xmodule/lti_block.py:232
 msgid "Request user's username"
@@ -13400,7 +13402,7 @@ msgstr "يُرجى طلب البريد الإلكتروني للمستخدم"
 #. service.
 #: xmodule/lti_block.py:241
 msgid "Select True to request the user's email address."
-msgstr "يرجى اختيار ’true‘ لطلب البريد الإلكتروني الخاص بالمستخدم."
+msgstr "يُرجى اختيار \"نعم\" لطلب البريد الإلكتروني الخاص بالمستخدم."
 
 #: xmodule/lti_block.py:247
 msgid "LTI Application Information"
@@ -13413,7 +13415,7 @@ msgid ""
 "email will be forwarded to a third party application."
 msgstr ""
 "أدخِل وصفاً لتطبيق الجهة الخارجية. وفي حال طلب اسم المستخدم و/أو البريد "
-"الإلكتروني، فاستَخدِم هذا الصندوق النصّي لإعلام المستخدمين عن سبب إرسال اسم "
+"الإلكتروني، فاستخدِم هذا الصندوق النصّي لإعلام المستخدمين عن سبب إرسال اسم "
 "المستخدم و/أو البريد الإلكتروني الخاص بهم إلى تطبيق لجهة خارجية."
 
 #: xmodule/lti_block.py:257
@@ -13433,7 +13435,8 @@ msgstr "يمكن قبول الدرجات بعد تاريخ الاستحقاق"
 msgid ""
 "Select True to allow third party systems to post grades past the deadline."
 msgstr ""
-"يُرجى اختيار ’true‘ للسماح لأنظمة خارجية بنشر الدرجات بعد تاريخ الاستحقاق."
+"يُرجى اختيار \"نعم\" للسماح لأنظمة خارجية بنشر الدرجات بعد انقضاء الموعد "
+"النهائي."
 
 #: xmodule/lti_block.py:441
 #, python-brace-format
@@ -14492,7 +14495,7 @@ msgstr "صور الويكي"
 
 #: wiki/apps.py:19
 msgid "Wiki attachments"
-msgstr "مرفقات الويكي"
+msgstr "الملفات المرفقة بالويكي "
 
 #: wiki/forms.py:31
 msgid "Only localhost... muahahaha"
@@ -14878,11 +14881,11 @@ msgstr "اسم الملفّ الأصلي "
 
 #: wiki/plugins/attachments/models.py:38
 msgid "attachment"
-msgstr "ملف مرفق"
+msgstr "مرفق"
 
 #: wiki/plugins/attachments/models.py:39
 msgid "attachments"
-msgstr "الملفّات المرفقة"
+msgstr "الملفات المرفقة"
 
 #: wiki/plugins/attachments/models.py:82
 msgid "file"
@@ -14894,7 +14897,7 @@ msgstr "مراجعة الملف المرفق"
 
 #: wiki/plugins/attachments/models.py:89
 msgid "attachment revisions"
-msgstr "عمليات مراجعة الملف المرفق"
+msgstr "مراجعات الملفات المرفقة"
 
 #: wiki/plugins/attachments/views.py:48
 #, python-format
@@ -14915,7 +14918,7 @@ msgstr "تعذّر حفظ ملفّك، وربما يكون السبب خطأً �
 #: wiki/plugins/attachments/views.py:113
 #, python-format
 msgid "%s uploaded and replaces old attachment."
-msgstr "تم تحميل %s بدلًا من المرفق القديم."
+msgstr "رُفع %s واستُبدل الملف المرفق القديم."
 
 #: wiki/plugins/attachments/views.py:127
 msgid ""
@@ -15065,7 +15068,7 @@ msgstr "إضافة ملف إلى"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:8
 msgid "Add attachment from other article"
-msgstr "إضافة مرفق من مقال آخر"
+msgstr "أضِف مرفقاً من مقال آخر"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:22
 msgid "Main article"
@@ -15100,13 +15103,13 @@ msgstr "رابط خارجي"
 
 #: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:9
 msgid "Headers"
-msgstr "ترويسات"
+msgstr "رؤوس"
 
 #: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:10
 msgid ""
 "Use these codes for headers and to automatically generate Tables of "
 "Contents."
-msgstr "استخدم هذه الرموز لرؤوس الصفحات ولإنشاء جداول المحتويات تلقائياً."
+msgstr "استخدِم هذه الرموز لرؤوس الصفحات ولإنشاء جداول المحتويات تلقائياً."
 
 #: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:25
 msgid "Typography"
@@ -15689,7 +15692,7 @@ msgstr "الدمج بين المراجعة #%(r1)d والمراجعة #%(r2)d"
 msgid ""
 "A new revision was created: Merge between Revision #%(r1)d and Revision "
 "#%(r2)d"
-msgstr "أُنشأت مراجعة جديدة: الدمج بين المراجعة #%(r1)d والمراجعة #%(r2)d "
+msgstr "أُنشِئت مراجعة جديدة: الدمج بين المراجعة #%(r1)d والمراجعة #%(r2)d "
 
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py:32
 msgid ""
@@ -15833,7 +15836,7 @@ msgstr ""
 
 #: cms/templates/certificates.html:97
 msgid "Issuing Certificates to Learners"
-msgstr "إصدار شهادات للمتعلمين  "
+msgstr "إصدار شهادات للمتعلمين"
 
 #: cms/templates/certificates.html:98
 #, python-brace-format
@@ -15843,9 +15846,9 @@ msgid ""
 "members with these roles can edit or delete an activated certificate."
 msgstr ""
 "للبَدء في إصدار شهادات المساق، ينبغي على أحد أعضاء الفريق الذين لديهم دور "
-"\"طاقِم المساق\" أو \"المسؤول\" أن يختار خِيار {em_start} تفعيل {em_end}. "
-"ولا يمكن إلا لأعضاء الفريق الذين لديهم أحد هذين الدورين تعديل شهادة مفعّلة "
-"أو حذفها."
+"\"طاقم المساق\" أو \"المسؤول\" أن يختار خِيار {em_start} تفعيل {em_end}. ولا"
+" يمكن إلا لأعضاء الفريق الذين لديهم أحد هذين الدورين تعديل شهادة مفعّلة أو "
+"حذفها."
 
 #: cms/templates/certificates.html:99
 #, python-brace-format
@@ -16223,7 +16226,7 @@ msgstr ""
 #: cms/templates/course_outline.html:15 cms/templates/course_outline.html:205
 #: cms/templates/course_outline.html:288
 msgid "Course Outline"
-msgstr "خطّة المساق"
+msgstr "خطة المساق"
 
 #: cms/templates/course_outline.html:52
 msgid ""
@@ -16577,7 +16580,7 @@ msgstr ""
 #: cms/templates/edit-tabs.html:210 cms/templates/howitworks.html:185
 #: cms/templates/howitworks.html:198 cms/templates/howitworks.html:211
 msgid "close modal"
-msgstr "إغلاق النموذج "
+msgstr "أغلِق النافذة المشروطة"
 
 #: cms/templates/error.html:14
 msgid "Internal Server Error"
@@ -16713,7 +16716,7 @@ msgid ""
 "avoid making drastic changes to content until this export is complete)"
 msgstr ""
 "ملفات تصدير البينات تُنشَأ الآن (يمكنك الآن مغادرة هذه الصفحة بأمان، ولكن "
-"تجنَّب إجراء تغييرات جذرية على المحتوى إلى حين إنتهاء عملية التصدير هذه)"
+"تجنَّب إجراء تغييرات جذرية على المحتوى إلى أن تنتهي عملية التصدير هذه)"
 
 #: cms/templates/export.html:149
 msgid "Compressing"
@@ -16891,7 +16894,7 @@ msgid ""
 "data includes the course.xml file, as well as subfolders that contain course"
 " content."
 msgstr ""
-"استَخدِم برنامج أرشفة لاستخراج البيانات من ملف .tar.gz. وتشمل البيانات "
+"استخدِم برنامج أرشفة لاستخراج البيانات من ملف .tar.gz. وتشمل البيانات "
 "المستخرجة ملف course.xml، بالإضافة إلى مجلدات فرعية تحوي محتوى المساق."
 
 #: cms/templates/export.html:272
@@ -17464,24 +17467,24 @@ msgid ""
 "Integrating your imported content into this library. This process might take"
 " longer with larger libraries."
 msgstr ""
-"جاري دمج محتواك المستورد في هذه المكتبة. وكلّما ازداد حجم المكتبة، استغرقت "
-"هذه العملية وقتًا أطول على الأرجح."
+"يُدمَج الآن محتواك المستورَد في هذه المكتبة. قد تستغرق هذه العملية وقتاً "
+"أطول في المساقات ذات الحجم الكبير."
 
 #: cms/templates/import.html:165
 msgid ""
 "Integrating your imported content into this course. This process might take "
 "longer with larger courses."
 msgstr ""
-"جاري دمج محتواك المستورد في هذا المساق. وقد تستغرق هذه العملية وقتًا أطول في"
-" حال كانت المساقات كبيرة. "
+"يُدمَج الآن محتواك المستورَد في هذا المساق. قد تستغرق هذه العملية وقتاً أطول"
+" في المساقات ذات الحجم الكبير."
 
 #: cms/templates/import.html:182
 msgid "Your imported content has now been integrated into this library"
-msgstr "جرى الآن دمج محتواك المستورد في هذه المكتبة."
+msgstr "دُمِج الآن محتواك المستورد في هذا هذه المكتبة"
 
 #: cms/templates/import.html:184
 msgid "Your imported content has now been integrated into this course"
-msgstr "جرى الآن دمج محتواك المستورد في هذا المساق."
+msgstr "دُمِج الآن محتواك المستورد في هذا المساق"
 
 #: cms/templates/import.html:192
 msgid "View Updated Library"
@@ -17568,7 +17571,7 @@ msgstr ""
 
 #: cms/templates/import.html:250
 msgid "Learn more about importing a course"
-msgstr "اعرِف المزيد حول استيراد مساق"
+msgstr "اعرف المزيد حول استيراد مساق"
 
 #: cms/templates/index.html:15 cms/templates/index.html:27
 #: cms/templates/widgets/user_dropdown.html:22
@@ -17667,7 +17670,7 @@ msgstr "على سبيل المثال، مسائل علوم الكمبيوتر"
 
 #: cms/templates/index.html:161
 msgid "The public display name for your library."
-msgstr "اسم العرض العلني لمكتبتك"
+msgstr "الاسم الظاهر للعامّة لمكتبتك."
 
 #: cms/templates/index.html:175
 msgid "The public organization name for your library."
@@ -18087,7 +18090,7 @@ msgstr ""
 
 #: cms/templates/library.html:101
 msgid "Learn more about content libraries"
-msgstr "اعرِف المزيد حول مكتبات المحتوى"
+msgstr "اعرف المزيد حول مكتبات المحتوى"
 
 #: cms/templates/manage_users.html:12
 msgid "Course Team Settings"
@@ -18118,7 +18121,7 @@ msgstr "مثال:  username@domain.com "
 
 #: cms/templates/manage_users.html:60
 msgid "Provide the email address of the user you want to add as Staff"
-msgstr "أَدخِل عنوان البريد الإلكتروني للمستخدم الذي تُريد إضافته إلى الطاقِم"
+msgstr "أَدخِل عنوان البريد الإلكتروني للمستخدم الذي تُريد إضافته إلى الطاقم"
 
 #: cms/templates/manage_users.html:67 cms/templates/manage_users_lib.html:68
 msgid "Add User"
@@ -18150,8 +18153,8 @@ msgid ""
 "Course team members with the Staff role are course co-authors. They have "
 "full writing and editing privileges on all course content."
 msgstr ""
-"أعضاء فريق المساق الذين يقومون بدور \"طاقِم المساق\"، هم مؤلِّفون مشاركون "
-"للمساق، ويمتلكون كامل صلاحيات الكتابة والتحرير في كافّة محتويات المساق."
+"أعضاء فريق المساق الذين يقومون بدور \"طاقم المساق\"، هم مؤلِّفون مشاركون "
+"للمساق، ويمتلكون كامل امتيازات الكتابة والتحرير في كافّة محتويات المساق."
 
 #: cms/templates/manage_users.html:103
 msgid ""
@@ -18225,8 +18228,7 @@ msgstr "الأدوار التي تتيح الدخول إلى المكتبة "
 
 #: cms/templates/manage_users_lib.html:102
 msgid "There are three access roles for libraries: User, Staff, and Admin."
-msgstr ""
-"هناك ثلاثة أدوار تُتيح الدخول إلى المكتبات: المستخدم والطاقِم والمشرف."
+msgstr "هناك ثلاثة أدوار تُتيح الدخول إلى المكتبات: المستخدم والطاقم والمشرف."
 
 #: cms/templates/manage_users_lib.html:103
 msgid ""
@@ -18241,7 +18243,7 @@ msgid ""
 "Library Staff are content co-authors. They have full editing privileges on "
 "the contents of a library."
 msgstr ""
-"أعضاء فريق المكتبة هم مؤلِّفون مشاركون للمحتوى، ويمتلكون كامل صلاحيات "
+"أعضاء فريق المكتبة هم مؤلِّفون مشاركون للمحتوى، ويمتلكون كامل امتيازات "
 "التحرير في محتويات المكتبة."
 
 #: cms/templates/manage_users_lib.html:105
@@ -18250,8 +18252,8 @@ msgid ""
 "other team members. There must be at least one user with the Admin role in a"
 " library."
 msgstr ""
-"يمتلك مشرفو المكتبات كامل صلاحيات التحرير، ويمكنهم أيضاً إضافة أعضاء الفريق "
-"الآخَرين أو إزالتهم. يجب أن يكون هناك مستخدم واحد على الأقل لديه دور "
+"يمتلك مشرفو المكتبات كامل امتيازات التحرير، ويمكنهم أيضاً إضافة أعضاء الفريق"
+" الآخَرين أو إزالتهم. يجب أن يكون هناك مستخدم واحد على الأقل لديه دور "
 "\"مشرف\" في كل مكتبة."
 
 #: cms/templates/settings.html:4
@@ -18354,7 +18356,7 @@ msgstr "امتحان مراقَب {number}"
 
 #: cms/templates/settings.html:172
 msgid "ID Verification"
-msgstr "توثيق الهُوِيّة"
+msgstr "توثيق الهوية"
 
 #: cms/templates/settings.html:174
 #, python-brace-format
@@ -18896,7 +18898,7 @@ msgstr "لا يمكنك اعتماد التغييرات حتى يتم تحديث
 
 #: cms/templates/settings_advanced.html:90
 msgid "Your policy changes have been saved."
-msgstr "حُفّظت التغييرات التي أدخلتها على سياسة مساقك."
+msgstr "حُفظت التغييرات التي أجريتها على سياسة مساقك."
 
 #: cms/templates/settings_advanced.html:94
 msgid "There was an error saving your information. Please see below."
@@ -18930,8 +18932,8 @@ msgid ""
 "control specific course settings."
 msgstr ""
 "تضبط الإعدادات المتقدمة وظائف مُحدّدة للمساق. ويمكنك أن تُعدِّل السياسات "
-"يدوياً في هذه الصفحة، والتي هي أزواج من مفاتيح وقِيَم بنَسَق JSON التي تتحكم"
-" بإعدادت مُحدّدة للمساق."
+"يدوياً في هذه الصفحة، والتي هي أزواج مفاتيح وقِيَم بنَسَق JSON التي تتحكم "
+"بإعدادت مُحدّدة للمساق."
 
 #: cms/templates/settings_advanced.html:127
 #, python-brace-format
@@ -19094,7 +19096,7 @@ msgstr "أدِر الوُسوم"
 
 #: cms/templates/studio_xblock_wrapper.html:203
 msgid "Copy to Clipboard"
-msgstr "انسَخ إلى الحافظة"
+msgstr "انسخ إلى الحافظة"
 
 #: cms/templates/studio_xblock_wrapper.html:239
 msgid "This block contains multiple components."
@@ -19729,8 +19731,8 @@ msgid ""
 "The email associated with your {platform_name} account has changed from "
 "{old_email} to {new_email}."
 msgstr ""
-"البريد الالكتروني المرتبط بحسابك لدى منصة {platform_name} قد تغير من "
-"{old_email} إلى {new_email}."
+"لقد تغير البريد الإلكتروني المربتط بحسابك في {platform_name} من {old_email} "
+"إلى {new_email}."
 
 #: common/templates/emails/sync_learner_profile_data_email_change_body.txt:13
 msgid "No action is needed on your part."
@@ -19838,11 +19840,11 @@ msgstr "إخفاء الملاحظات التوضيحية"
 
 #: lms/templates/bookmark_button.html:13 lms/templates/seq_block.html:99
 msgid "Bookmarked"
-msgstr "حُفِظَت في الإشارات المرجعية"
+msgstr "حُفظت في الإشارات المرجعية"
 
 #: lms/templates/bookmark_button.html:13
 msgid "Bookmark this page"
-msgstr "احفظ هذه الصفحة في العلامات"
+msgstr "احفظ هذه الصفحة في الإشارات المرجعية"
 
 #: lms/templates/conditional_block.html:21
 msgid "You do not have access to this dependency block."
@@ -20159,14 +20161,14 @@ msgstr "مصدر خارجي"
 #: lms/templates/lti.html:16
 #, python-brace-format
 msgid "{points} / {total_points} points"
-msgstr "{points} / {total_points} نقطة"
+msgstr "{points} / {total_points} درجة"
 
 #. Translators: "total_points" is the maximum number of points achievable on
 #. this LTI unit
 #: lms/templates/lti.html:19
 #, python-brace-format
 msgid "{total_points} points possible"
-msgstr "{total_points} نقطة كحدّ أقصى"
+msgstr "{total_points} درجة ممكنة"
 
 #: lms/templates/lti.html:38
 msgid "View resource in a new window"
@@ -21826,8 +21828,8 @@ msgid ""
 "Use parentheses () to make expressions clear. You can use parentheses inside"
 " other parentheses."
 msgstr ""
-"استَخدِم القوسين () لجعل التعابير واضحة. كما يمكنك استخدام الأقواس بعضها "
-"داخل بعض."
+"استخدِم القوسين () لجعل التعابير واضحة. كما يمكنك استخدام الأقواس بعضها داخل"
+" بعض."
 
 #: lms/templates/calculator/toggle_calculator.html:39
 msgid "Do not use spaces in expressions."
@@ -22292,7 +22294,7 @@ msgid ""
 "If all of the information is correct and the problem persists, contact "
 "technical support."
 msgstr ""
-"إذا كانت جميع المعلومات صحيحة ومازالت المشكلة موجودة، اتصل بفريق الدعم "
+"إذا كانت جميع المعلومات صحيحة إذا استمرت هذه المشكلة، فتواصَل مع فريق الدعم "
 "الفني."
 
 #: lms/templates/certificates/url_unsupported.html:9
@@ -22335,8 +22337,8 @@ msgid ""
 "Showcase a {link_start}verified certificate{link_end} of completion on your "
 "resumé to advance your career"
 msgstr ""
-"اعرِض {link_start} شهادة مُوثّقة {link_end} لإتمامك المساق في سيرتك الذاتية،"
-" وذلك لتعزيز مسيرتك المهنية"
+"اعرض {link_start} شهادة مُوثّقة {link_end} لإتمامك المساق في سيرتك الذاتية، "
+"وذلك لتعزيز مسيرتك المهنية"
 
 #: lms/templates/course_modes/fbe.html:20
 #, python-brace-format
@@ -22840,7 +22842,7 @@ msgstr "تفاصيل كل فصل"
 #: lms/templates/courseware/progress.html:194
 #, python-brace-format
 msgid "{earned} of {total} possible points"
-msgstr "حصلت على {earned} من أصل {total}  نقاط محتملة."
+msgstr "حصلت على {earned} من {total}  درجة ممكنة."
 
 #: lms/templates/courseware/progress.html:208
 #, python-brace-format
@@ -22866,11 +22868,11 @@ msgstr "درجات التدريب:"
 
 #: lms/templates/courseware/progress.html:233
 msgid "Problem scores are hidden until the due date."
-msgstr "يتم إخفاء نتائج المسائل حتى تاريخ الاستحقاق."
+msgstr "تُخفى نتائج المسائل إلى أن يحين تاريخ الاستحقاق."
 
 #: lms/templates/courseware/progress.html:235
 msgid "Practice scores are hidden until the due date."
-msgstr "يتم إخفاء درجات التمارين حتى تاريخ الاستحقاق."
+msgstr "تُخفى نتائج التدريب إلى أن يحين تاريخ الاستحقاق."
 
 #: lms/templates/courseware/progress.html:239
 msgid "Problem scores are hidden."
@@ -23287,7 +23289,7 @@ msgstr ""
 
 #: lms/templates/dashboard/_dashboard_credit_info.html:49
 msgid "View Details"
-msgstr "اعرِض التفاصيل"
+msgstr "اعرض التفاصيل"
 
 #. Translators: link_to_provider_site is a link to an external webpage. The
 #. text of the link will be the name of a credit provider, such as 'State
@@ -23371,7 +23373,7 @@ msgstr "لم يكن لدي الوقت الكافي لإكمال المساقات
 
 #: lms/templates/dashboard/_entitlement_reason_survey.html:101
 msgid "The content was not available when I wanted to start"
-msgstr "لم يكن المحتوى متاحًا عندما أردت البدء"
+msgstr "لم يَكُن المحتوى متاحاً عندما أردتُ البدء"
 
 #: lms/templates/dashboard/_entitlement_reason_survey.html:124
 msgid "Can we contact you via email for follow up?"
@@ -23782,7 +23784,7 @@ msgstr ""
 #: lms/templates/emails/business_order_confirmation_email.txt:100
 msgid ""
 "(5) Course materials will not be available until the course start date."
-msgstr "(5) لن تُتاح محتويات المساق قبل أن يحين تاريخ بدء المساق."
+msgstr "(5) لن تُتاح محتويات المساق إلى أن يحين تاريخ بدء المساق."
 
 #. Translators: please translate the text inside [[ ]]. This is meant as a
 #. template for course teams to use. Please also keep the <p> and </p> HTML
@@ -23854,7 +23856,7 @@ msgstr "مرحبًا {full_name}،"
 #: lms/templates/emails/passed_verification_email.txt:6
 #, python-brace-format
 msgid "Your {platform_name} ID verification photos have been approved."
-msgstr "تمّت الموافقة على صور توثيق هُوِيّتك في {platform_name}."
+msgstr "تمّت الموافقة على صور توثيق هويتك في {platform_name}."
 
 #: lms/templates/emails/passed_verification_email.txt:8
 #, python-brace-format
@@ -24094,7 +24096,7 @@ msgstr ""
 
 #: lms/templates/header/navbar-authenticated.html:51
 msgid "Discover New"
-msgstr "اكتشف الجديد"
+msgstr "اكتشِف ما هو جديد"
 
 #: lms/templates/header/navbar-logo-header.html:24
 #, python-brace-format
@@ -24440,8 +24442,8 @@ msgid ""
 "The CSV of anonymized student IDs download has been relocated to the Reports"
 " section below."
 msgstr ""
-"لقد نُقِلَ تنزيل ملف CSV الخاص بوثائق الطلاب مَخفيّي الهُوِيّة إلى قِسم "
-"التقارير أدناه."
+"لقد نُقِل تنزيل ملف CSV الخاص بوثائق الطلاب مَخفيّي الهوية إلى قِسم التقارير"
+" أدناه."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:26
 msgid "Reports"
@@ -24800,7 +24802,7 @@ msgstr "إظهار قائمة تمديدات التواريخ الممنوحة �
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:86
 msgid "Resetting extensions"
-msgstr "إعادة ضبط التمديدات"
+msgstr "إعادة تعيين التمديدات"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:88
 msgid ""
@@ -25089,11 +25091,11 @@ msgid ""
 "Insights. Any users not yet enrolled in the course will be automatically "
 "enrolled when added as Staff."
 msgstr ""
-"يُساعدك أعضاء فريق المساق الذين يقومون بدور \"طاقِم المساق\" على إدارة "
-"مساقك. يمكن للطاقِم تسجيل المتعلمين وإلغاء تسجيلهم، إضافة إلى تعديل درجاتهم "
-"والوصول إلى جميع بيانات المساق. يمكن لطاقم المساق أيضاً الوصول إلى مساقك في "
-"Studio وInsights. وأنّ أي مستخدمين غير مُسجَّلين في المساق، سيُسجَّلون "
-"تلقائياً عند إضافتهم كطاقم."
+"يُساعدك أعضاء فريق المساق الذين يقومون بدور \"طاقم المساق\" على إدارة مساقك."
+" يمكن للطاقم تسجيل المتعلمين وإلغاء تسجيلهم، إضافة إلى تعديل درجاتهم والوصول"
+" إلى جميع بيانات المساق. يمكن لطاقم المساق أيضاً الوصول إلى مساقك في Studio "
+"وInsights. وأنّ أي مستخدمين غير مُسجَّلين في المساق، سيُسجَّلون تلقائياً عند"
+" إضافتهم كطاقم."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:179
 msgid "Add Staff"
@@ -25134,7 +25136,7 @@ msgid ""
 "will be automatically enrolled when added as Admin."
 msgstr ""
 "يُساعدك أعضاء فريق المساق الذين يقومون بدور \"مُشرف\" في إدارة مساقك. يمكنهم"
-" القيام بجميع المهام التي يمكن لطاقِم المساق عملها، إضافة إلى ذلك يمكنهم "
+" القيام بجميع المهام التي يمكن لطاقم المساق عملها، إضافة إلى ذلك يمكنهم "
 "إضافة وإزالة دور المشرفين والطاقم ودور مُراقِبي المناقشات، ودور مُختَبِري "
 "الإصدار التجريبي، وذلك من أجل إدارة عُضوية فريق المساق. وأنّ أي مستخدمين غير"
 " مُسجَّلين بعد في المساق، سيُسجَّلون تلقائياً عند إضافتهم كمُشرفين."
@@ -25309,8 +25311,8 @@ msgid ""
 "When you select Send Email, your email message is added to the queue for "
 "sending, and cannot be cancelled."
 msgstr ""
-"عند اختيارك \"أرسل الرسالة\"، سيتم جدولة إرسالها للمستلمين، ولا يمكنك بعد "
-"ذلك إلغاء هذه العملية."
+"عند اختيارك إرسال البريد إلكتروني، تُضاف رسالتك إلى قائمة الانتظار لإرسالها،"
+" ولا يمكن إلغاء ذلك."
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:111
 msgid "Send Email"
@@ -25407,8 +25409,8 @@ msgid ""
 "Note: This feature is available only to courses with a small number of "
 "enrolled learners."
 msgstr ""
-"ملاحظة:  هذه الميزة متاحة فقط في الدورات التي يكون عدد الطلاب المسجلّين فيها"
-" قليل."
+"ملاحظة: هذه الميزة متاحة فقط للمساقات التي يكون عدد المتعلمين المُسجَّلين "
+"فيها قليل."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:22
 msgid "View a specific learner's enrollment status"
@@ -25509,7 +25511,7 @@ msgstr "تجاوز نقاط المتعلم في المسألة المحددة."
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:105
 msgid ""
 "New score for problem, out of the total points available for the problem"
-msgstr "عدد نقاط جديد من مجموع النقاط المتاحة للمسألة"
+msgstr "درجة جديدة للمسألة، من إجمالي الدرجات المتاحة للمسألة."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:108
 msgid "Score"
@@ -26196,7 +26198,7 @@ msgstr ""
 
 #: lms/templates/survey/survey.html:42
 msgid "You are missing the following required fields:"
-msgstr "لقد تركت الحقول الضرورية التالية فارغة:"
+msgstr "لقد تركت الحقول المطلوبة التالية فارغة:"
 
 #: lms/templates/survey/survey.html:50
 msgid "Cancel and Return to Dashboard"
@@ -26321,7 +26323,7 @@ msgstr "إعادة التحقّق"
 #: lms/templates/verify_student/reverify_not_allowed.html:8
 #: lms/templates/verify_student/reverify_not_allowed.html:12
 msgid "Identity Verification"
-msgstr "التحقّق من الهُوِيّة"
+msgstr "التحقق من الهوية"
 
 #: lms/templates/verify_student/reverify_not_allowed.html:17
 msgid ""

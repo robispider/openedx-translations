@@ -208,23 +208,6 @@ msgstr "نص رابط رفض الإلغاء في مربع حوار التأكي�
 msgid "Specifies whether data sharing consent page is published."
 msgstr "يحدد ما إذا كان سيتم نشر صفحة الموافقة على مشاركة البيانات."
 
-#: enterprise_learner_portal/api/v1/serializers.py:40
-msgid ""
-"To use this EnterpriseCourseEnrollmentSerializer, this package must be "
-"installed in an Open edX environment."
-msgstr ""
-"لاستخدام EnterpriseCourseEnrollmentSerializer، يجب تثبيت هذه الحزمة في بيئة "
-"Open edX."
-
-#: enterprise_learner_portal/api/v1/views.py:69
-#: enterprise_learner_portal/api/v1/views.py:132
-#: enterprise/api/v1/views/enterprise_subsidy_fulfillment.py:500
-#: enterprise/api/v1/views/enterprise_subsidy_fulfillment.py:554
-msgid ""
-"To use this endpoint, this package must be installed in an Open edX "
-"environment."
-msgstr "لاستخدام نقطة النهاية هذه، يجب تثبيت هذه الحزمة في بيئة Open edX."
-
 #: integrated_channels/canvas/models.py:112
 msgid ""
 "Account number to use during api calls. Called account_id in canvas.  "
@@ -261,12 +244,12 @@ msgstr ""
 
 #: integrated_channels/canvas/models.py:247
 msgid "The amount of points that the learner scored on the subsection."
-msgstr "عدد النقاط التي سجلها المتعلم في القسم الفرعي."
+msgstr "عدد الدرجات التي حصل عليها المتعلم في القسم الفرعي."
 
 #: integrated_channels/canvas/models.py:253
 msgid ""
 "The total amount of points that the learner could score on the subsection."
-msgstr "إجمالي عدد النقاط التي يمكن للمتعلم تسجيلها في القسم الفرعي."
+msgstr "إجمالي عدد الدرجات التي يمكن للمتعلم الحصول عليها في القسم الفرعي."
 
 #: integrated_channels/canvas/models.py:326
 msgid ""
@@ -569,7 +552,7 @@ msgstr ""
 
 #: integrated_channels/moodle/models.py:169
 msgid "The maximum grade points for the courses. Default: 100"
-msgstr "الحد الأقصى لنقاط الدرجة للدورات. الافتراضي: 100"
+msgstr "الحدّ الأقصى لدرجات التقييم في المساق. القيمة الافتراضية: 100"
 
 #: integrated_channels/moodle/models.py:177
 msgid "The name for the grade assigment created for the grade integration."
@@ -1036,6 +1019,15 @@ msgid ""
 msgstr ""
 "برنامج [Enterprise API] غير موجود في الكتالوج. البرنامج: {program_uuid} ، "
 "الكتالوج: {catalog_id}"
+
+#: enterprise/api/v1/views/enterprise_subsidy_fulfillment.py:500
+#: enterprise/api/v1/views/enterprise_subsidy_fulfillment.py:554
+#: enterprise_learner_portal/api/v1/views.py:69
+#: enterprise_learner_portal/api/v1/views.py:132
+msgid ""
+"To use this endpoint, this package must be installed in an Open edX "
+"environment."
+msgstr "لاستخدام نقطة النهاية هذه، يجب تثبيت هذه الحزمة في بيئة Open edX."
 
 #: enterprise/api_client/discovery.py:60
 #: enterprise/api_client/discovery.py:399 enterprise/utils.py:1642
@@ -1717,7 +1709,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "أدخِل نصاً لقالب Django القياسي، ليُنتج عند عرضه البريد الإلكتروني الذي ترغب في إرساله إلى المتعلمين المُسجَّلين حديثاً لدى عملاء المؤسسة. قد تكون المُتغيرات التالية مُتاحة:\n"
-"<ul><li>user_name: اسم قابِل للقراءة من قبل الإنسان للشخص الذي يُرسَل إليه البريد الإلكتروني. كُن متأكّداً من التعامل مع الحالة التي قد لا يكون فيها الاسم مُعرّفاً، إذ قد يكون مفقوداً في بعض الحالات. وقد يكون أيضاً اسم مستخدم، إذا لم يَقُم المتعلم بإعداد اسمه \"الحقيقي\" في النظام.</li><li>organization_name: اسم المؤسسة الراعية للتسجيل.</li><li>enrolled_in: تفاصيل المساق أو البرنامج الذي سَجّل فيه. قد يحتوي على:<ul><li>name: وهو اسم العنصر المُسجَّل (على سبيل المثال، \"مساق تجريبي\")</li>        <li>url: وهو رابط يؤدي إلى الصفحة الرئيسية للعنصر المُسجَّل.</li>        <li>branding: وهو اسم العلامة التجارية المُخصّص للعنصر المُسجَّل. على سبيل المثال، العلامة التجارية لبرنامج MicroMasters ستكون \"MicroMasters\".</li>     <li>start: وهو التاريخ الذي سيكون فيه العنصر المُسجَّل مُتاحاً. حَوِّله إلى نص باستخدام فلتر القالب \"date\" في Django (اطَّلِع على <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\"> وثائق Django</a>).</li><li>type: فيما إذا كان العنصر المُسجَّل \"مساق\" أو \"برنامج\" أو \"شيء آخَر\".</li></ul></ul>"
+"<ul><li>user_name: اسم قابِل للقراءة من قبل الإنسان للشخص الذي يُرسَل إليه البريد الإلكتروني. كُن متأكّداً من التعامل مع الحالة التي قد لا يكون فيها الاسم معرّفاً، إذ قد يكون مفقوداً في بعض الحالات. وقد يكون أيضاً اسم مستخدم، إذا لم يَقُم المتعلم بإعداد اسمه \"الحقيقي\" في النظام.</li><li>organization_name: اسم المؤسسة الراعية للتسجيل.</li><li>enrolled_in: تفاصيل المساق أو البرنامج الذي سَجّل فيه. قد يحتوي على:<ul><li>name: وهو اسم العنصر المُسجَّل (على سبيل المثال، \"مساق تجريبي\")</li>        <li>url: وهو رابط يؤدي إلى الصفحة الرئيسية للعنصر المُسجَّل.</li>        <li>branding: وهو اسم العلامة التجارية المُخصّص للعنصر المُسجَّل. على سبيل المثال، العلامة التجارية لبرنامج MicroMasters ستكون \"MicroMasters\".</li>     <li>start: وهو التاريخ الذي سيكون فيه العنصر المُسجَّل مُتاحاً. حَوِّله إلى نص باستخدام فلتر القالب \"date\" في Django (اطَّلِع على <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\"> وثائق Django</a>).</li><li>type: فيما إذا كان العنصر المُسجَّل \"مساق\" أو \"برنامج\" أو \"شيء آخَر\".</li></ul></ul>"
 
 #: enterprise/models.py:3264
 #, python-brace-format
@@ -2042,24 +2034,24 @@ msgstr "ردود ChatGPT"
 
 #: enterprise/models.py:4382
 msgid "Enterprise Customer SSO Configuration"
-msgstr "إعدادات SSO لعملاء المؤسسة"
+msgstr "إعداد تسجيل الدخول الموحّد (SSO) لعملاء المؤسسة"
 
 #: enterprise/models.py:4383
 msgid "Enterprise Customer SSO Configurations"
-msgstr "إعدادات SSO لعملاء المؤسسة"
+msgstr "إعدادات تسجيل الدخول الموحّد (SSO) لعملاء المؤسسة"
 
 #: enterprise/models.py:4392
 msgid "The display name of the SSO configuration."
-msgstr "الاسم المستخدم لتكوين الدخول الموحّد (SSO)."
+msgstr "الاسم الظاهر للعامّة الخاص بإعداد تسجيل الدخول الموحّد (SSO)"
 
 #: enterprise/models.py:4414
 msgid ""
 "Specifies whether the integration with the SSO orchestration is active."
-msgstr "يحدد ما إذا كان التكامل مع تنسيق SSO نشطًا أم لا."
+msgstr "يُحدِّد ما إذا كان التكامل مع تنسيق الدخول الموحّد (SSO) نشطاً أم لا."
 
 #: enterprise/models.py:4423
 msgid "The identity provider integrated with by the SSO orchestrator ."
-msgstr "تم دمج موفر الهوية بواسطة منسق تسجيل الدخول الموحد (SSO)."
+msgstr "دُمِج مُزوِّد الهوية بواسطة مُنسّق تسجيل الدخول الموحّد (SSO)."
 
 #: enterprise/models.py:4432
 msgid "The metadata url of the identity provider."
@@ -2085,26 +2077,27 @@ msgstr ""
 msgid ""
 "The date and time when the configuration was submitted to the SSO "
 "orchestration."
-msgstr "التاريخ والوقت الذي تم فيه إرسال التكوين إلى تنسيق SSO."
+msgstr ""
+"التاريخ والوقت الذي أُرسل فيه الإعداد بواسطة تنسيق الدخول الموحّد (SSO)."
 
 #: enterprise/models.py:4520
 msgid ""
 "The date and time when the configuration was completed by the SSO "
 "orchestration."
 msgstr ""
-"التاريخ والوقت الذي اكتمل فيه التكوين بواسطة تنسيق الدخول الموحد (SSO)."
+"التاريخ والوقت الذي اكتمل فيه الإعداد بواسطة تنسيق الدخول الموحّد (SSO)."
 
 #: enterprise/models.py:4528
 msgid ""
 "The date and time when the configuration was validated and used for the "
 "first time."
-msgstr "التاريخ والوقت الذي تم فيه التحقق من صحة الاعدادت واستخدامه لأول مرة."
+msgstr "تاريخ ووقت التحقق من الضبط واستخدامه لأول مرة."
 
 #: enterprise/models.py:4536
 msgid ""
 "The date and time when the orchestrator encountered an error during "
 "configuration."
-msgstr "التاريخ والوقت الذي واجه فيه المُنسق خطأً أثناء الاعدادات."
+msgstr "التاريخ والوقت الذي واجه فيه المُنسّق خطأً أثناء الإعداد."
 
 #: enterprise/models.py:4545
 msgid ""
@@ -2308,7 +2301,7 @@ msgstr "خطأ: لا يمكن إضافة المتعلمين. قم بتصحيح �
 #, python-brace-format
 msgid ""
 "Enrollment track {course_mode} is not available for course {course_id}."
-msgstr "مسار التسجيل {course_mode} غير متاح للدورة {course_id} ."
+msgstr "مسار تسجيل {course_mode} غير متاح في مساق {course_id}."
 
 #: enterprise/utils.py:156
 msgid "Select a course enrollment track for the given course(s)."
@@ -2319,8 +2312,7 @@ msgstr "اختَر نوع مسار التسجيل في المساق (المسا�
 msgid ""
 "Could not retrieve details for the course ID {course_id}. Specify a valid "
 "ID."
-msgstr ""
-"تعذر استرداد تفاصيل معرف الدورة التدريبية {course_id} . حدد معرفًا صالحًا."
+msgstr "تعذّر جلب تفاصيل معرّف المساق {course_id}. حدِّد معرّفاً صالحاً."
 
 #: enterprise/utils.py:161
 msgid ""
@@ -2347,8 +2339,8 @@ msgid ""
 "Expected a CSV file with [{expected_columns}] columns, but found "
 "[{actual_columns}] columns instead."
 msgstr ""
-"من المتوقع وجود ملف CSV يحتوي على أعمدة [ {expected_columns} ]، ولكن تم "
-"العثور على أعمدة [ {actual_columns} ] بدلاً من ذلك."
+"يُتوقّع وجود ملف CSV مُحتوياً على [{expected_columns}] من الإعمدة، ولكن عُثر"
+" على [{actual_columns}] منها فقط."
 
 #: enterprise/utils.py:174
 msgid "Reason field is required but was not filled."
@@ -2419,7 +2411,7 @@ msgstr "القيمة التي تم إدخالها ليست رمز لون سدا�
 
 #: enterprise/validators.py:41
 msgid "Unsupported file extension."
-msgstr "امتداد الملف غير مدعم."
+msgstr "صيغة الملف غير مدعومة."
 
 #: enterprise/validators.py:52
 #, python-format
@@ -2722,7 +2714,7 @@ msgstr "تأكيد الدورة الخاصة بك"
 
 #: enterprise/views.py:1609
 msgid "View Course Details"
-msgstr "اعرِض تفاصيل المساق"
+msgstr "اعرض تفاصيل المساق"
 
 #: enterprise/views.py:1610
 msgid "Please select one:"
@@ -2859,6 +2851,14 @@ msgstr "تعلّم ذاتي؛ مساقات يمكن أن تؤخذ بأي ترت�
 #, python-brace-format
 msgid "{purchase_action} for"
 msgstr "{purchase_action} ل"
+
+#: enterprise_learner_portal/api/v1/serializers.py:40
+msgid ""
+"To use this EnterpriseCourseEnrollmentSerializer, this package must be "
+"installed in an Open edX environment."
+msgstr ""
+"لاستخدام EnterpriseCourseEnrollmentSerializer، يجب تثبيت هذه الحزمة في بيئة "
+"Open edX."
 
 #: enterprise/config/models.py:41
 msgid ""

@@ -73,7 +73,7 @@ msgstr "سيفتح هذا الرابط في نافذة متصفّح جديدة/�
 
 #: cms/static/js/base.js:120
 msgid "This link will open in a modal window"
-msgstr "سيُفتَح هذا الرابط في نافذة منبثقة جديدة."
+msgstr "سيُفتح هذا الرابط في نافذة مشروطة جديدة."
 
 #: cms/static/js/certificates/models/certificate.js:78
 msgid "Certificate name is required."
@@ -118,7 +118,7 @@ msgstr "أعدّ شهادتك"
 #. has been inserted
 #: cms/static/js/certificates/views/certificates_list.js:22
 msgid "You have not created any certificates yet."
-msgstr "لم تُنشِئ أي شهادات بعد."
+msgstr "لم تُنشِئ شهادات بعد."
 
 #: cms/static/js/certificates/views/signatory_editor.js:134
 msgid "Delete \"<%- signatoryName %>\" from the list of signatories?"
@@ -217,7 +217,7 @@ msgstr "ألغِ"
 
 #: cms/static/js/certificates/views/signatory_editor.js:177
 msgid "Upload signature image."
-msgstr "يُرجى تحميل صورة الموقِّع."
+msgstr "ارفع صورة التوقيع."
 
 #: cms/static/js/certificates/views/signatory_editor.js:178
 msgid "Image must be in PNG format."
@@ -305,7 +305,7 @@ msgstr "اختر ملف جديد"
 #: cms/static/js/features/import/factories/import.js:48
 msgid ""
 "File format not supported. Please upload a file with a {ext} extension."
-msgstr "صيغة الملف غير مدعومة رجاءً قم يتحميل ملف بامتداد {ext}."
+msgstr "صيغة الملف غير مدعومة. من فضلك ارفَع ملفاً بصيغة {ext}."
 
 #: cms/static/js/features/import/factories/import.js:56
 msgid "There was an error while importing the new library to our database."
@@ -501,7 +501,7 @@ msgid ""
 "<%- (fileExtensions) %> to upload."
 msgstr ""
 "يمكن رفع ملفات <%- fileTypes %> فقط. من فضلك اختَر ملفاً ينتهي بـ <%- "
-"(fileExtensions) %> لرفعه."
+"(fileExtensions) %> لإرساله."
 
 #: cms/static/js/models/uploads.js:63
 #: lms/templates/student_account/hinted_login.underscore:21
@@ -734,7 +734,7 @@ msgstr "حدثت بعض الأخطاء"
 #: cms/static/js/views/pages/container.js:421
 #: cms/static/js/views/utils/xblock_utils.js:98
 msgid "The following required files could not be added to the course:"
-msgstr "تعذر إضافة الملفات المطلوبة التالية إلى الدورة التدريبية:"
+msgstr "تعذّر إضافة الملفات المطلوبة التالية إلى المساق:"
 
 #: cms/static/js/views/course_outline.js:395
 #: cms/static/js/views/pages/container.js:429
@@ -762,7 +762,7 @@ msgstr "تمت إضافة ملف (ملفات) جديدة إلى الملفات �
 #: cms/static/js/views/pages/container.js:443
 #: cms/static/js/views/utils/xblock_utils.js:120
 msgid "The following required files were imported to this course:"
-msgstr "تم استيراد الملفات المطلوبة التالية إلى هذه الدورة التدريبية:"
+msgstr "استُورِدَت الملفات المطلوبة التالية إلى هذا المساق:"
 
 #: cms/static/js/views/course_outline.js:414
 #: cms/static/js/views/pages/container.js:448
@@ -1498,15 +1498,15 @@ msgstr ""
 
 #: cms/static/js/views/settings/advanced.js:142
 msgid "Your policy changes have been saved."
-msgstr "حُفظت التغييرات التي أجريتها على السياسة."
+msgstr "حُفظت التغييرات التي أجريتها على سياسة مساقك."
 
 #: cms/static/js/views/settings/advanced.js:143
 msgid ""
 "No validation is performed on policy keys or value pairs. If you are having "
 "difficulties, check your formatting."
 msgstr ""
-"لم يجري تنفيذ عملية تحقّق من صحّة زوج القيم أو مفاتيح السياسة. في حال كنت "
-"تواجه أية مشكلات، يُرجى مراجعة التنسيق."
+"لم يُتحَقّق من صحّة أزواج المفاتيح والقِيَم المتعلقة بالسياسات. إذا كنت "
+"تواجه أيّ مشكلة، فتحقَّق من نَسَق الإدخال."
 
 #: cms/static/js/views/settings/grader.js:58
 msgid ""
@@ -1741,7 +1741,7 @@ msgstr "هل أنت واثق من أنّك تودّ حذف هذا المنشور
 msgid ""
 "If you remove this transcript, the transcript will not be available for this"
 " component."
-msgstr "إذا قمت بإزالة هذا النص، لن يتوفر النص لهذا المكون."
+msgstr "إذا أزلت هذا التفريغ النصّي، فلن يكون متاحاً لهذا المكون."
 
 #: cms/static/js/views/video/translations_editor.js:174
 msgid "Remove Transcript"
@@ -1897,7 +1897,8 @@ msgid ""
 "If you remove this transcript, the transcript will not be available for any "
 "components that use this video."
 msgstr ""
-"إذا أزلت هذا النص ، فلن يكون النص متاحاً لأي عناصر تستخدم هذا الفيديو."
+"إذا أزلت هذا التفريغ النصّي، فلن يكون متاحاً لأيّ مكوناتٍ تستخدم هذا "
+"الفيديو."
 
 #: cms/static/js/views/xblock_editor.js:49
 msgid "Editor"
@@ -2443,7 +2444,7 @@ msgstr "حدث خطأ معين، حاول مجدداً."
 
 #: lms/djangoapps/support/static/support/jsx/file_upload.jsx:127
 msgid "Add Attachment"
-msgstr "إضافة مرفق"
+msgstr "أضِف مرفقاً"
 
 #: lms/djangoapps/support/static/support/jsx/file_upload.jsx:128
 msgid "(Optional)"
@@ -2710,7 +2711,7 @@ msgid ""
 "This learner will be removed from the team,allowing another learner to take "
 "the available spot."
 msgstr ""
-"سيتم استبعاد هذا المتعلم من الفريق، مما يسمح لمتعلم آخر بأخذ المكان المتاح."
+"سيُستبعد هذا المتعلم من الفريق، مما يتيح لمتعلم آخَر شغل المكان المتاح."
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:33
 msgid "Delete this team?"
@@ -2771,8 +2772,8 @@ msgid ""
 "If you leave, you can no longer post in this team's discussions.Your place "
 "will be available to another learner."
 msgstr ""
-"عند اختيارك لخيار مغادرة الفريق الفريق، فلن يكون بإمكانك النشر في المناقشات،"
-" وسيكون مكانك متاحًا لمتعلم آخر."
+"إذا غادرت الفريق، فلن تتمكن بعد ذلك من النشر في مناقشاته. وسيُتاح مكانك "
+"لمتعلم آخَر."
 
 #: lms/djangoapps/teams/static/teams/js/views/team_profile.js:147
 #: lms/static/js/verify_student/views/reverify_view.js:50
@@ -5070,7 +5071,7 @@ msgstr "الدفع بواسطة PayPal"
 #. vendor (example: "PayPal")
 #: lms/static/js/verify_student/views/make_payment_step_view.js:70
 msgid "Checkout with {processor}"
-msgstr "الدفع بواسطة {processor}"
+msgstr "أتِمَّ الدفع بـ {processor}"
 
 #: lms/static/js/verify_student/views/make_payment_step_view.js:124
 msgid "All payment options are currently unavailable."
@@ -5239,12 +5240,12 @@ msgstr "النتيجة الكلية"
 
 #: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmark_button.js:9
 msgid "Bookmark this page"
-msgstr "احفظ هذه الصفحة في العلامات"
+msgstr "احفظ هذه الصفحة في الإشارات المرجعية"
 
 #: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmark_button.js:10
 #: xmodule/js/src/sequence/display.js:521
 msgid "Bookmarked"
-msgstr "حُفِظَت في الإشارات المرجعية"
+msgstr "حُفظت في الإشارات المرجعية"
 
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
@@ -5311,48 +5312,48 @@ msgstr "الرد على الإيضاحات"
 #: xmodule/js/src/capa/display.js:235
 msgid "{num_points} point possible (graded, results hidden)"
 msgid_plural "{num_points} points possible (graded, results hidden)"
-msgstr[0] "لا درجات مُمكِنة (مقيّم، النتائج مخفية)"
-msgstr[1] "درجة واحدة مُمكِنة (مقيّم، النتائج مخفية)"
-msgstr[2] "درجتان مُمكِنتان (مقيّم، النتائج مخفية)"
-msgstr[3] "{num_points} درجات مُمكِنة (مقيّم، النتائج مخفية)"
-msgstr[4] "{num_points} درجةً مُمكِنة (مقيّم، النتائج مخفية)"
-msgstr[5] "{num_points} درجةٍ مُمكِنة (مقيّم، النتائج مخفية)"
+msgstr[0] "لا درجات ممكنة (مقيّم، النتائج مخفية)"
+msgstr[1] "درجة واحدة ممكنة (مقيّم، النتائج مخفية)"
+msgstr[2] "درجتان ممكنتان (مقيّم، النتائج مخفية)"
+msgstr[3] "{num_points} درجات ممكنة (مقيّم، النتائج مخفية)"
+msgstr[4] "{num_points} درجة ممكنة (مقيّم، النتائج مخفية)"
+msgstr[5] "{num_points} درجة ممكنة (مقيّم، النتائج مخفية)"
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
 #: xmodule/js/src/capa/display.js:242
 msgid "{num_points} point possible (ungraded, results hidden)"
 msgid_plural "{num_points} points possible (ungraded, results hidden)"
-msgstr[0] "لا درجات مُمكِنة (غير مقيّم، النتائج مخفية)"
-msgstr[1] "درجة واحدة مُمكِنة (غير مقيّم، النتائج مخفية)"
-msgstr[2] "درجتان مُمكِنتان (غير مقيّم، النتائج مخفية)"
-msgstr[3] "{num_points} درجات مُمكِنة (غير مقيّم، النتائج مخفية)"
-msgstr[4] "{num_points} درجةً مُمكِنة (غير مقيّم، النتائج مخفية)"
-msgstr[5] "{num_points} درجةٍ مُمكِنة (غير مقيّم، النتائج مخفية)"
+msgstr[0] "لا درجات ممكنة (غير مقيّم، النتائج مخفية)"
+msgstr[1] "درجة واحدة ممكنة (غير مقيّم، النتائج مخفية)"
+msgstr[2] "درجتان ممكنتان (غير مقيّم، النتائج مخفية)"
+msgstr[3] "{num_points} درجات ممكنة (غير مقيّم، النتائج مخفية)"
+msgstr[4] "{num_points} درجة ممكنة (غير مقيّم، النتائج مخفية)"
+msgstr[5] "{num_points} درجة ممكنة (غير مقيّم، النتائج مخفية)"
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
 #: xmodule/js/src/capa/display.js:253
 msgid "{num_points} point possible (graded)"
 msgid_plural "{num_points} points possible (graded)"
-msgstr[0] "لا درجات مُمكِنة (مقيّم)"
-msgstr[1] "درجة واحدة مُمكِنة (مقيّم)"
-msgstr[2] "درجتان مُمكِنتان (مقيّم)"
-msgstr[3] "{num_points} درجات مُمكِنة (مقيّم)"
-msgstr[4] "{num_points} درجةً مُمكِنة (مقيّم)"
-msgstr[5] "{num_points} درجةٍ مُمكِنة (مقيّم)"
+msgstr[0] "لا درجات ممكنة (مقيّم)"
+msgstr[1] "درجة واحدة ممكنة (مقيّم)"
+msgstr[2] "درجتان ممكنتان (مقيّم)"
+msgstr[3] "{num_points} درجات ممكنة (مقيّم)"
+msgstr[4] "{num_points} درجة ممكنة (مقيّم)"
+msgstr[5] "{num_points} درجة ممكنة (مقيّم)"
 
 #. Translators: {num_points} is the number of points possible (examples: 1, 3,
 #. 10).;
 #: xmodule/js/src/capa/display.js:259
 msgid "{num_points} point possible (ungraded)"
 msgid_plural "{num_points} points possible (ungraded)"
-msgstr[0] "لا درجات مُمكِنة (غير مقيّم)"
-msgstr[1] "درجة واحدة مُمكِنة (غير مقيّم)"
-msgstr[2] "درجتان مُمكِنتان (غير مقيّم)"
-msgstr[3] "{num_points} درجات مُمكِنة (غير مقيّم)"
-msgstr[4] "{num_points} درجةً مُمكِنة (غير مقيّم)"
-msgstr[5] "{num_points} درجةٍ مُمكِنة (غير مقيّم)"
+msgstr[0] "لا درجات ممكنة (غير مقيّم)"
+msgstr[1] "درجة واحدة ممكنة (غير مقيّم)"
+msgstr[2] "درجتان ممكنتان (غير مقيّم)"
+msgstr[3] "{num_points} درجات ممكنة (غير مقيّم)"
+msgstr[4] "{num_points} درجة ممكنة (غير مقيّم)"
+msgstr[5] "{num_points} درجة ممكنة (غير مقيّم)"
 
 #. Translators: {earned} is the number of points earned. {possible} is the
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
@@ -5906,55 +5907,55 @@ msgstr "محاذاة أفقية"
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:590
 msgid "Header 1"
-msgstr "الترويسة 1"
+msgstr "الرأس 1"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:595
 msgid "Header 2"
-msgstr "الترويسة 2"
+msgstr "الرأس 2"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:600
 msgid "Header 3"
-msgstr "الترويسة 3"
+msgstr "الرأس 3"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:605
 msgid "Header 4"
-msgstr "الترويسة 4"
+msgstr "الرأس 4"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:610
 msgid "Header 5"
-msgstr "الترويسة 5"
+msgstr "الرأس 5"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:615
 msgid "Header 6"
-msgstr "الترويسة 6"
+msgstr "الرأس 6"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:620
 msgid "Header cell"
-msgstr "خليّة الترويسة"
+msgstr "خلية الرأس"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:625 xmodule/js/src/problem/edit.js:50
 msgid "Header"
-msgstr "ترويسة"
+msgstr "رأس"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:630
 msgid "Headers"
-msgstr "ترويسات"
+msgstr "رؤوس"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -6164,7 +6165,7 @@ msgstr "مطابقة حالة الأحرف"
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:830
 msgid "Merge cells"
-msgstr "دمج الخلايا"
+msgstr "ادمِج الخلايا"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -6646,9 +6647,9 @@ msgid ""
 "\n"
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"انقر ’موافق‘ لإرسال اسم المستخدم الذي أدخلته وعنوان بريدك الإلكتروني إلى التطبيق.\n"
+"انقُر على \"موافق\" لإرسال اسم المستخدم وعنوان البريد الإلكتروني إلى تطبيق تابع لجهة خارجية.\n"
 "\n"
-"انقر ’إلغاء‘ للعودة إلى هذه الصفحة دون إرسال معلوماتك."
+"انقُر على \"ألغِ\" للعودة إلى هذه الصفحة دون إرسال معلوماتك."
 
 #: xmodule/js/src/lti/lti.js:25
 msgid ""
@@ -6656,9 +6657,9 @@ msgid ""
 "\n"
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"انقر ’موافق‘ لإرسال اسم المستخدم الذي أدخلته إلى التطبيق.\n"
+"انقر على \"موافق\" لإرسال اسم المستخدم الخاص بك إلى تطبيق تابع لجهة خارجية.\n"
 "\n"
-" انقر ’إلغاء‘ للعودة إلى هذه الصفحة دون إرسال معلوماتك."
+"انقُر على \"ألغِ\" للعودة إلى هذه الصفحة دون إرسال معلوماتك."
 
 #: xmodule/js/src/lti/lti.js:28
 msgid ""
@@ -6666,9 +6667,9 @@ msgid ""
 "\n"
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"انقر ’موافق‘ لإرسال عنوان بريدك الإلكتروني إلى التطبيق.\n"
+"انقُر على \"موافق\" لإرسال عنوان بريدك الإلكتروني إلى تطبق تابع لجهة خارجية.\n"
 "\n"
-"انقر ’إلغاء‘ للعودة إلى هذه الصفحة دون إرسال معلوماتك."
+"انقُر على \"ألغِ\" للعودة إلى هذه الصفحة دون إرسال معلوماتك."
 
 #: xmodule/js/src/problem/edit.js:35 xmodule/js/src/problem/edit.js:47
 msgid "incorrect"
@@ -7387,7 +7388,7 @@ msgstr "اسم المؤسسة"
 
 #: cms/templates/js/course-instructor-details.underscore:17
 msgid "Please add the institute where the instructor is associated"
-msgstr "الرجاء إضافة المعهد الذي ينتسب له المعلم"
+msgstr "من فضلك أضِف المعهد الذي ينتسب إليه المعلم"
 
 #: cms/templates/js/course-instructor-details.underscore:21
 msgid "Biography"
@@ -7535,7 +7536,7 @@ msgstr "أدِر الوُسوم"
 
 #: cms/templates/js/course-outline.underscore:220
 msgid "Copy to Clipboard"
-msgstr "انسَخ إلى الحافظة"
+msgstr "انسخ إلى الحافظة"
 
 #: cms/templates/js/course-outline.underscore:225
 #: cms/templates/js/course-outline.underscore:248
@@ -7790,7 +7791,7 @@ msgid ""
 "The number of {type} assignments defined here does not match the current "
 "number of {type} assignments in the course:"
 msgstr ""
-"عدد مهام {type} المُعرّفة هنا لا يتطابق مع العدد الحالي لمهام {type} في "
+"عدد مهام {type} المعرّفة هنا لا يتطابق مع العدد الحالي لمهام {type} في "
 "المساق:"
 
 #: cms/templates/js/course_grade_policy.underscore:47
@@ -7831,7 +7832,7 @@ msgstr "التاريخ"
 
 #: cms/templates/js/course_info_update.underscore:14
 msgid "Post"
-msgstr "انشُر"
+msgstr "انشر"
 
 #: cms/templates/js/discussion-editor.underscore:3
 #: common/static/common/templates/discussion/templates.underscore:727
@@ -7953,8 +7954,8 @@ msgid ""
 "Embed your subsection content directly on a page using an iframe, and view "
 "it without the LMS header and footer."
 msgstr ""
-"ضَمِّن محتوى القِسم الفرعي في الصفحة مباشرة باستخدام iframe، واعرِضه بدون "
-"رأس وتذييل نظام إدارة التعلّم (LMS)."
+"ضَمِّن محتوى القِسم الفرعي في الصفحة مباشرة باستخدام iframe، واعرضه بدون رأس"
+" وتذييل نظام إدارة التعلّم (LMS)."
 
 #: cms/templates/js/embed-link-share-link-editor.underscore:11
 #: cms/templates/js/full-page-share-link-editor.underscore:11
@@ -7964,7 +7965,7 @@ msgstr "انقُر لنسخ الرابط إلى الحافظة"
 #: cms/templates/js/embed-link-share-link-editor.underscore:15
 #: cms/templates/js/full-page-share-link-editor.underscore:15
 msgid "Copy link"
-msgstr "انسَخ الرابط"
+msgstr "انسخ الرابط"
 
 #: cms/templates/js/full-page-share-link-editor.underscore:5
 msgid ""
@@ -8488,7 +8489,7 @@ msgstr "المؤسّسة التي ينتمي إليها هذا الموقِّع�
 
 #: cms/templates/js/signatory-editor.underscore:43
 msgid "Path to Signature Image"
-msgstr "مسار موقع صورة التوقيع"
+msgstr "مسار صورة التوقيع"
 
 #: cms/templates/js/signatory-editor.underscore:44
 msgid "Image must be in PNG format"
@@ -8496,7 +8497,7 @@ msgstr "يجب أن تكون الصورة بصيغة PNG."
 
 #: cms/templates/js/signatory-editor.underscore:46
 msgid "Upload Signature Image"
-msgstr "تحميل صورة التوقيع"
+msgstr "ارفع صورة التوقيع"
 
 #: cms/templates/js/staff-lock-editor.underscore:4
 msgid "Unit Visibility"
@@ -8676,10 +8677,10 @@ msgid ""
 "profile step prior to taking a proctored exam. Profile reviews take 2+ "
 "business days."
 msgstr ""
-"استَخدِم مرحلة الإعداد لتعريف المتعلمين بنظام بالمُراقَبة، والتحقّق من "
-"هُوِيّاتهم، وإنشاء ملف تسجيل خاص بهم. يجب على المتعلمين إكمال خُطوة ملف "
-"التسجيل قبل إجراءهم امتحاناتٍ مُراقَبة. تستغرق مراجعات ملف التسجيل يومَي عمل"
-" أو أكثر."
+"استخدِم مرحلة الإعداد لتعريف المتعلمين بنظام بالمُراقَبة، والتحقق من "
+"هوياتهم، وإنشاء ملف تسجيل خاص بهم. يجب على المتعلمين إكمال خُطوة ملف التسجيل"
+" قبل إجراءهم امتحاناتٍ مُراقَبة. تستغرق مراجعات ملف التسجيل يومَي عمل أو "
+"أكثر."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:58
 msgid "Practice Proctored"
@@ -8690,7 +8691,7 @@ msgid ""
 "Use a practice proctored exam to introduce learners to the proctoring tools "
 "and processes. Results of a practice exam do not affect a learner's grade."
 msgstr ""
-"استَخدِم امتحاناً مُراقَباً تدريبياً لتعريف المتعلمين بإجراءات المُراقَبة "
+"استخدِم امتحاناً مُراقَباً تدريبياً لتعريف المتعلمين بإجراءات المُراقَبة "
 "وأدواتها. لن تُؤثِّر نتائج الامتحان التدريبي على الدرجة النهائية الممنوحة "
 "للمتعلم."
 
@@ -9171,12 +9172,12 @@ msgstr "تحديث المنشور."
 #, python-format
 msgid "Show Comment (%(num_comments)s)"
 msgid_plural "Show Comments (%(num_comments)s)"
-msgstr[0] "لا تعرض أي تعليقات"
-msgstr[1] "اعرِض تعليقاً واحداً"
-msgstr[2] "اعرِض تعليقين"
-msgstr[3] "اعرِض %(num_comments)s تعليقات"
-msgstr[4] "اعرِض %(num_comments)s تعليقاً"
-msgstr[5] "اعرِض %(num_comments)s تعليق "
+msgstr[0] "لا تعرض أيّ تعليقات"
+msgstr[1] "اعرض تعليقاً واحداً"
+msgstr[2] "اعرض تعليقين"
+msgstr[3] "اعرض %(num_comments)s تعليقات"
+msgstr[4] "اعرض %(num_comments)s تعليقاً"
+msgstr[5] "اعرض %(num_comments)s تعليق "
 
 #: common/static/common/templates/discussion/templates.underscore:164
 #: common/static/common/templates/discussion/templates.underscore:166
@@ -9832,8 +9833,8 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
-"من أجل الحصول على نقاط في مسألة معينة عليك اختيار \"أرسِل\" لكل مسألة قبل "
-"احتيار \"أنهِ امتحاني\"."
+"من أجل الحصول على درجات في مسألة معيّنة عليك اختيار \"أرسِل\" لكل مسألة قبل "
+"اختيار \"أنهِ امتحاني\"."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"
@@ -10179,7 +10180,7 @@ msgstr "يجب أن تكون هناك شُعبة واحدة يمكن توزيع 
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:62
 msgid "Associated Content Group"
-msgstr "مجموعة المحتوى"
+msgstr "مجموعة المحتوى ذات الصِلة"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:64
 msgid "No Content Group"
@@ -10383,7 +10384,7 @@ msgstr "يُفتح باب الانضمام في"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore:56
 msgid "Not Currently Available"
-msgstr "غير متاحٍ الآن"
+msgstr "غير متاح حالياً"
 
 #: lms/templates/learner_dashboard/course_entitlement.underscore:4
 msgid "More sessions coming soon."
@@ -11348,7 +11349,7 @@ msgstr ""
 
 #: lms/templates/verify_student/reverify_success_step.underscore:2
 msgid "Identity Verification In Progress"
-msgstr "يجري الآن التحقّق من الهُوِيّة"
+msgstr "يجري الآن التحقق من الهوية"
 
 #: lms/templates/verify_student/reverify_success_step.underscore:5
 msgid ""
@@ -11450,7 +11451,7 @@ msgstr "التقاط صورة "
 
 #: openedx/features/course_bookmarks/static/course_bookmarks/templates/bookmarks-list.underscore:25
 msgid "Bookmarked on"
-msgstr "حُفِظَت في الإشارات المرجعية في"
+msgstr "حُفظت في الإشارات المرجعية في"
 
 #: openedx/features/course_bookmarks/static/course_bookmarks/templates/bookmarks-list.underscore:44
 msgid "You have not bookmarked any courseware pages yet"
