@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:14+0000\n"
-"PO-Revision-Date: 2025-09-30 03:14+1713\n"
+"POT-Creation-Date: 2025-09-29 12:06+0000\n"
+"PO-Revision-Date: 2025-09-29 18:06+6865\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -179,116 +179,116 @@ msgstr "রিভিউ পলিসি ব্যতিক্রম"
 
 msgid ""
 ""\n
-"        The result will be visible after <strong id=\"wait_deadline\"> Loading... </strong>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        The result will be visible after <strong id=\"wait_deadline\"> Loading... </strong>\"\"\"\"\"\""\n
 "    "
 msgstr "ফলাফল <strong id=\"wait_deadline\"> লোডিং... </strong> হওয়ার পরে দেখা যাবে।"
 
 msgid ""
 ""\n
-"        Hello,\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Hello,\"\"\"\"\"\""\n
 "    "
 msgstr "হ্যালো, {name}।"
 
 msgid ""
 ""\n
-"        Your proctored exam \"%(exam_name)s\" in\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(course_url)s\">%(course_name)s</a> was reviewed and you\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        met all proctoring requirements.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Your proctored exam \"%(exam_name)s\" in\"\"\"\"\"\""\n
+"        <a href=\"%(course_url)s\">%(course_name)s</a> was reviewed and you\"\"\"\"\"\""\n
+"        met all proctoring requirements.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার তত্ত্বাবধানে দেওয়া পরীক্ষা \"%exam_name%\" -এ <a href=\"%course_url%\">%course_name%</a> কোর্সটি পর্যালোচনা করা হয়েছে এবং আপনি প্রক্টরিংয়ের সকল শর্ত পূরণ করেছেন।"
 
 msgid ""
 ""\n
-"    If you have any questions about your results, you can reach out at \"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(contact_url)s\">\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            %(contact_url_text)s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        </a>.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    If you have any questions about your results, you can reach out at \"\"\"\"\"\""\n
+"        <a href=\"%(contact_url)s\">\"\"\"\"\"\""\n
+"            %(contact_url_text)s\"\"\"\"\"\""\n
+"        </a>.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার ফলাফলের ব্যাপারে কোনো প্রশ্ন থাকলে, আপনি এখানে যোগাযোগ করতে পারেন: <a href=\"%(contact_url)s\">%(contact_url_text)s</a>।"
 
 msgid ""
 ""\n
-"        Your proctored exam \"%(exam_name)s\" in\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(course_url)s\">%(course_name)s</a> was submitted\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        successfully and will now be reviewed to ensure all exam\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        rules were followed. You should receive an email with your exam\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        status within 5 business days. Final grades may take longer.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Your proctored exam \"%(exam_name)s\" in\"\"\"\"\"\""\n
+"        <a href=\"%(course_url)s\">%(course_name)s</a> was submitted\"\"\"\"\"\""\n
+"        successfully and will now be reviewed to ensure all exam\"\"\"\"\"\""\n
+"        rules were followed. You should receive an email with your exam\"\"\"\"\"\""\n
+"        status within 5 business days. Final grades may take longer.\"\"\"\"\"\""\n
 "    "
 msgstr ""
 
 msgid ""
 ""\n
-"        Your proctored exam \"%(exam_name)s\" in\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(course_url)s\">%(course_name)s</a> was reviewed and the\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        course team has identified one or more violations of the proctored exam rules. Examples\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        of issues that may result in a rules violation include browsing\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        the internet, blurry or missing photo identification, using a phone,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        or getting help from another person. As a result of the identified issue(s),\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        you did not successfully meet the proctored exam requirements.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Your proctored exam \"%(exam_name)s\" in\"\"\"\"\"\""\n
+"        <a href=\"%(course_url)s\">%(course_name)s</a> was reviewed and the\"\"\"\"\"\""\n
+"        course team has identified one or more violations of the proctored exam rules. Examples\"\"\"\"\"\""\n
+"        of issues that may result in a rules violation include browsing\"\"\"\"\"\""\n
+"        the internet, blurry or missing photo identification, using a phone,\"\"\"\"\"\""\n
+"        or getting help from another person. As a result of the identified issue(s),\"\"\"\"\"\""\n
+"        you did not successfully meet the proctored exam requirements.\"\"\"\"\"\""\n
 "    "
 msgstr ""
 
 msgid ""
 ""\n
-"        To appeal your proctored exam results, please reach out with any relevant information\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        about your exam at \"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(contact_url)s\">\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            %(contact_url_text)s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        </a>.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        To appeal your proctored exam results, please reach out with any relevant information\"\"\"\"\"\""\n
+"        about your exam at \"\"\"\"\"\""\n
+"        <a href=\"%(contact_url)s\">\"\"\"\"\"\""\n
+"            %(contact_url_text)s\"\"\"\"\"\""\n
+"        </a>.\"\"\"\"\"\""\n
 "    "
 msgstr ""
-"আপনার প্রোক্টর্ড পরীক্ষার ফলাফল আপিল করতে, পরীক্ষার বিষয়ে প্রাসঙ্গিক তথ্যসহ আমাদের সাথে যোগাযোগ করুন:\"\"\"\"\"\""\n
+"আপনার প্রোক্টর্ড পরীক্ষার ফলাফল আপিল করতে, পরীক্ষার বিষয়ে প্রাসঙ্গিক তথ্যসহ আমাদের সাথে যোগাযোগ করুন:"\n
 "<a href=\"%(contact_url)s\">%(contact_url_text)s</a>"
 
 msgid ""
 ""\n
-"    Proctoring onboarding exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    Proctoring onboarding exam\"\"\"\"\"\""\n
 "  "
 msgstr "প্রক্টরিং অনবোর্ডিং পরীক্ষা"
 
 msgid ""
 ""\n
-"      Why this is important to you:\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Why this is important to you:\"\"\"\"\"\""\n
 "    "
 msgstr "কেন এটা আপনার জন্য গুরুত্বপূর্ণ:'''''''"
 
 msgid ""
 ""\n
-"        Establish your identity with the proctoring system to take a proctored exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Establish your identity with the proctoring system to take a proctored exam\"\"\"\"\"\""\n
 "      "
 msgstr "প্রক্টরিং সিস্টেমের সাথে আপনার পরিচয় নিশ্চিত করুন এবং একটি তত্ত্বাবধানকৃত পরীক্ষায় অংশগ্রহণ করুন।"
 
 msgid ""
 ""\n
-"        Create your onboarding profile for faster access in the future\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Create your onboarding profile for faster access in the future\"\"\"\"\"\""\n
 "      "
 msgstr "দ্রুত অ্যাক্সেসের জন্য আপনার অনবোর্ডিং প্রোফাইল তৈরি করুন।"
 
 msgid ""
 ""\n
-"        Practice taking a proctored test\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Practice taking a proctored test\"\"\"\"\"\""\n
 "      "
 msgstr "একটি তত্ত্বাবধান করা পরীক্ষার প্রস্তুতি নিন"
 
 msgid ""
 ""\n
-"      Proctoring for this course is provided via %(provider_name)s.  Onboarding review, including identity verification, can take 2+ business days.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Proctoring for this course is provided via %(provider_name)s.  Onboarding review, including identity verification, can take 2+ business days.\"\"\"\"\"\""\n
 "    "
 msgstr "এই কোর্সের তত্ত্বাবধান %(provider_name)s এর মাধ্যমে করা হচ্ছে। পরিচয় যাচাইসহ অনবোর্ডিং পর্যালোচনা করতে ২+ কর্মদিবস লাগতে পারে।"
 
 msgid ""
 ""\n
-"        Once your profile has been reviewed, you will receive an email with review results. The email will come from\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"mailto:%(learner_notification_from_email)s\">%(learner_notification_from_email)s</a>.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        Make sure this email has been added to your inbox filter.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Once your profile has been reviewed, you will receive an email with review results. The email will come from\"\"\"\"\"\""\n
+"        <a href=\"mailto:%(learner_notification_from_email)s\">%(learner_notification_from_email)s</a>.\"\"\"\"\"\""\n
+"        Make sure this email has been added to your inbox filter.\"\"\"\"\"\""\n
 "      "
 msgstr ""
 
 msgid ""
 ""\n
-"        Please contact\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"mailto:%(integration_specific_email)s\">%(integration_specific_email)s</a>\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        if you have questions.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Please contact\"\"\"\"\"\""\n
+"        <a href=\"mailto:%(integration_specific_email)s\">%(integration_specific_email)s</a>\"\"\"\"\"\""\n
+"        if you have questions.\"\"\"\"\"\""\n
 "      "
 msgstr "যদি আপনার কোন প্রশ্ন থাকে তবে অনুগ্রহ করে \"><a href=\"mailto:%(integration_specific_email)s\">%(integration_specific_email)s</a>\" এর সাথে যোগাযোগ করুন।"
 
@@ -297,43 +297,43 @@ msgstr "অনার্বোর্ডিং চালিয়ে যান"
 
 msgid ""
 ""\n
-"    You will be guided through online proctoring software set up and identity verification.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    You will be guided through online proctoring software set up and identity verification.\"\"\"\"\"\""\n
 "  "
 msgstr "আপনাকে অনলাইন প্রোctorিং সফটওয়্যার সেট আপ এবং পরিচয় যাচাইকরণ প্রক্রিয়ার মাধ্যমে গাইড করা হবে।"
 
 msgid ""
 ""\n
-"    Error: There was a problem with your onboarding session\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    Error: There was a problem with your onboarding session\"\"\"\"\"\""\n
 "  "
 msgstr "এরর: আপনার অনবোর্ডিং সেশনে সমস্যা হয়েছে।"
 
 msgid ""
 ""\n
-"    Your proctoring session ended before you completed this onboarding exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"    You should retry this onboarding exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    Your proctoring session ended before you completed this onboarding exam.\"\"\"\"\"\""\n
+"    You should retry this onboarding exam.\"\"\"\"\"\""\n
 "  "
 msgstr ""
-"আপনার প্রctorিং সেশনটি এই অনবোর্ডিং পরীক্ষাটি শেষ করার আগেই শেষ হয়ে গেছে।\"\"\"\"\"\""\n
+"আপনার প্রctorিং সেশনটি এই অনবোর্ডিং পরীক্ষাটি শেষ করার আগেই শেষ হয়ে গেছে।"\n
 "আপনাকে এই অনবোর্ডিং পরীক্ষাটি আবার চেষ্টা করতে হবে।"
 
 msgid ""
 ""\n
-"      You are taking \"%(exam_display_name)s\" as an onboarding exam. You must click “Yes, end my proctored exam” and submit your proctoring session to complete onboarding.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      You are taking \"%(exam_display_name)s\" as an onboarding exam. You must click “Yes, end my proctored exam” and submit your proctoring session to complete onboarding.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনি \"%(exam_display_name)s\" নামে একটি অনboarding পরীক্ষা দিচ্ছেন। অনboarding সম্পন্ন করতে আপনাকে “হ্যাঁ, আমার তত্ত্বাবধানে পরীক্ষা শেষ করুন” এ ক্লিক করতে হবে এবং আপনার তত্ত্বাবধান সেশন জমা দিতে হবে।"
 
 msgid ""
 ""\n
-"    Your onboarding session was reviewed, but did not pass all requirements\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    Your onboarding session was reviewed, but did not pass all requirements\"\"\"\"\"\""\n
 "  "
 msgstr "আপনার অনboarding সেশনটি পর্যালোচনা করা হয়েছে, তবে এটি প্রয়োজনীয়তাগুলো পূরণ করতে পারেনি।"
 
 msgid ""
 ""\n
-"      Please contact\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      <a href=\"mailto:%(integration_specific_email)s\">\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        %(integration_specific_email)s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      </a> if you have questions. You may retake this onboarding exam by clicking \"Retry my exam\".\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Please contact\"\"\"\"\"\""\n
+"      <a href=\"mailto:%(integration_specific_email)s\">\"\"\"\"\"\""\n
+"        %(integration_specific_email)s\"\"\"\"\"\""\n
+"      </a> if you have questions. You may retake this onboarding exam by clicking \"Retry my exam\".\"\"\"\"\"\""\n
 "    "
 msgstr ""
 
@@ -345,42 +345,42 @@ msgstr "অনবোর্ডিং পরীক্ষা রিসেট কর
 
 msgid ""
 ""\n
-"    You have submitted this onboarding exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    You have submitted this onboarding exam\"\"\"\"\"\""\n
 "  "
 msgstr "আপনি এই অনবোর্ডিং পরীক্ষা জমা দিয়েছেন।"
 
 msgid ""
 ""\n
-"      If you do not have an onboarding profile with the system,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      Verificient will review your submission and create an onboarding\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      profile to grant you access to proctored exams. Onboarding\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      profile review can take 2+ business days.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      If you do not have an onboarding profile with the system,\"\"\"\"\"\""\n
+"      Verificient will review your submission and create an onboarding\"\"\"\"\"\""\n
+"      profile to grant you access to proctored exams. Onboarding\"\"\"\"\"\""\n
+"      profile review can take 2+ business days.\"\"\"\"\"\""\n
 "    "
 msgstr "যদি আপনার সিস্টেমে অনboarding প্রোফাইল না থাকে, তাহলে Verificient আপনার জমা দেওয়া লেখাটি পর্যালোচনা করবে এবং আপনাকে প্রক্টর্ড পরীক্ষায় অংশগ্রহণের অনুমতি দেওয়ার জন্য একটি অনboarding প্রোফাইল তৈরি করবে। অনboarding প্রোফাইল পর্যালোচনা করতে ২+ কার্যদিবস লাগতে পারে।"
 
 msgid ""
 ""\n
-"      Once your profile has been reviewed, you will receive an email\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      with review results. The email will come from\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      <a href=\"mailto:%(learner_notification_from_email)s\">\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        %(learner_notification_from_email)s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      </a>,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      so make sure this email has been added to your inbox filter.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Once your profile has been reviewed, you will receive an email\"\"\"\"\"\""\n
+"      with review results. The email will come from\"\"\"\"\"\""\n
+"      <a href=\"mailto:%(learner_notification_from_email)s\">\"\"\"\"\"\""\n
+"        %(learner_notification_from_email)s\"\"\"\"\"\""\n
+"      </a>,\"\"\"\"\"\""\n
+"      so make sure this email has been added to your inbox filter.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার প্রোফাইল রিভিউ হয়ে গেলে, আপনি ইমেইলের মাধ্যমে রিভিউয়ের ফলাফল জানতে পারবেন। ইমেলটি <a href=\"mailto:%(learner_notification_from_email)s\">%(learner_notification_from_email)s</a> থেকে আসবে, তাই দয়া করে নিশ্চিত করুন এই ইমেলটি আপনার ইনবক্স ফিল্টারে যোগ করা হয়েছে।"
 
 msgid ""
 ""\n
-"      If you already have an onboarding profile approved through another course,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      this submission will not be reviewed. You may retry this exam at any time\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      to validate that your setup still meets the requirements for proctoring.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      If you already have an onboarding profile approved through another course,\"\"\"\"\"\""\n
+"      this submission will not be reviewed. You may retry this exam at any time\"\"\"\"\"\""\n
+"      to validate that your setup still meets the requirements for proctoring.\"\"\"\"\"\""\n
 "    "
 msgstr "যদি অন্য কোর্সের মাধ্যমে আপনার অনবোর্ডিং প্রোফাইল আগে থেকেই অ্যাপ্রুভ করা থাকে, তাহলে এই সাবমিশনটি রিভিউ করা হবে না। আপনার সেটআপ এখনও প্রক্টরিং-এর শর্ত পূরণ করে কিনা, তা যাচাই করার জন্য আপনি যেকোনো সময় এই পরীক্ষাটি আবার দিতে পারেন।"
 
 msgid ""
 ""\n
-"      If you have made an error in this submission you may restart the onboarding process. \"\"\"\"\"\"\"\"\"\"\"\""\n
-"      Your current submission will be removed and will not receive a review.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      If you have made an error in this submission you may restart the onboarding process. \"\"\"\"\"\""\n
+"      Your current submission will be removed and will not receive a review.\"\"\"\"\"\""\n
 "    "
 msgstr "যদি এই সাবমিশনে আপনার কোনো ভুল হয়ে থাকে, তাহলে আপনি অনবোর্ডিং প্রক্রিয়াটি পুনরায় শুরু করতে পারেন। আপনার বর্তমান সাবমিশনটি মুছে ফেলা হবে এবং এটি কোনো রিভিউ পাবেনা।"
 
@@ -389,37 +389,37 @@ msgstr "আমি বুঝতে পারছি এবং এই অনবো�
 
 msgid ""
 ""\n
-"      Please contact\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      <a href=\"mailto:%(integration_specific_email)s\">\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        %(integration_specific_email)s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      </a> if you have questions.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Please contact\"\"\"\"\"\""\n
+"      <a href=\"mailto:%(integration_specific_email)s\">\"\"\"\"\"\""\n
+"        %(integration_specific_email)s\"\"\"\"\"\""\n
+"      </a> if you have questions.\"\"\"\"\"\""\n
 "    "
 msgstr ""
-"যদি আপনার কোন প্রশ্ন থাকে তবে অনুগ্রহ করে এখানে যোগাযোগ করুন: \"\"\"\"\"\""\n
+"যদি আপনার কোন প্রশ্ন থাকে তবে অনুগ্রহ করে এখানে যোগাযোগ করুন: "\n
 " <a href=\"mailto:%(integration_specific_email)s\">%(integration_specific_email)s</a>"
 
 msgid ""
 ""\n
-"    Your onboarding profile was reviewed successfully\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    Your onboarding profile was reviewed successfully\"\"\"\"\"\""\n
 "  "
 msgstr "আপনার অনবোর্ডিং প্রোফাইলটি সফলভাবে পর্যালোচনা করা হয়েছে।"
 
 msgid ""
 ""\n
-"      Your profile has been established, and you're ready to take proctored exams in this course.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Your profile has been established, and you're ready to take proctored exams in this course.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার প্রোফাইল তৈরি করা হয়েছে, এবং আপনি এখন এই কোর্সে তত্ত্বাবধানে পরীক্ষা দিতে প্রস্তুত।"
 
 msgid ""
 ""\n
-"        Try a proctored exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Try a proctored exam\"\"\"\"\"\""\n
 "      "
 msgstr "একটি তত্ত্বাবধানে পরীক্ষা দিন"
 
 msgid ""
 ""\n
-"        Get familiar with proctoring for real exams later in the course. This practice exam has no impact\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        on your grade in the course.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Get familiar with proctoring for real exams later in the course. This practice exam has no impact\"\"\"\"\"\""\n
+"        on your grade in the course.\"\"\"\"\"\""\n
 "      "
 msgstr "এই কোর্স-এ পরে যে রিয়েল এক্সামগুলোতে প্রক্টরিং হবে, সেগুলোর সাথে পরিচিত হওয়ার জন্য এটা একটা অনুশীলন পরীক্ষা। এই প্র্যাকটিস পরীক্ষার ফলাফলের কোনো প্রভাব আপনার কোর্সের গ্রেডে পড়বে না।"
 
@@ -428,53 +428,53 @@ msgstr "আমার প্র্যাকটিস এক্সামে যা
 
 msgid ""
 ""\n
-"          You will be guided through steps to set up online proctoring software and verify your identity.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          You will be guided through steps to set up online proctoring software and verify your identity.\"\"\"\"\"\""\n
 "        "
 msgstr "আপনাকে অনলাইন প্রক্টরিং সফটওয়্যার সেট আপ করার ধাপগুলো এবং আপনার পরিচয় যাচাই করার বিষয়ে নির্দেশনা দেওয়া হবে।"
 
 msgid ""
 ""\n
-"        There was a problem with your practice proctoring session\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        There was a problem with your practice proctoring session\"\"\"\"\"\""\n
 "      "
 msgstr "আপনার প্র্যাকটিস প্রক্টরিং সেশনে সমস্যা হয়েছে।"
 
 msgid ""
 ""\n
-"      Your practice proctoring results: <b class=\"failure\"> Unsatisfactory </b>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Your practice proctoring results: <b class=\"failure\"> Unsatisfactory </b>\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার প্র্যাকটিস প্রোক্টরিংয়ের ফলাফল: <b class=\"failure\">অ unsatisfactory</b>"
 
 msgid ""
 ""\n
-"        Your proctoring session ended before you completed this practice exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        You can retry this practice exam if you had problems setting up the online proctoring software.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Your proctoring session ended before you completed this practice exam.\"\"\"\"\"\""\n
+"        You can retry this practice exam if you had problems setting up the online proctoring software.\"\"\"\"\"\""\n
 "      "
 msgstr "আপনার প্রোctorিং সেশনটি এই অনুশীলন পরীক্ষাটি শেষ করার আগেই শেষ হয়ে গেছে। অনলাইন প্রোctorিং সফ্টওয়্যার সেটআপ করতে সমস্যা হলে আপনি এই অনুশীলন পরীক্ষাটি পুনরায় চেষ্টা করতে পারেন।"
 
 msgid ""
 ""\n
-"        You have submitted this practice proctored exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        You have submitted this practice proctored exam\"\"\"\"\"\""\n
 "      "
 msgstr "আপনি এই প্র্যাকটিস প্রোক্টার্ড পরীক্ষাটি জমা দিয়েছেন।"
 
 msgid ""
 ""\n
-"        Practice exams do not affect your grade.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        You have completed this practice exam and can continue with your course work.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Practice exams do not affect your grade.\"\"\"\"\"\""\n
+"        You have completed this practice exam and can continue with your course work.\"\"\"\"\"\""\n
 "      "
 msgstr ""
-"অনুশীলন পরীক্ষাগুলো আপনার গ্রেডে কোনো প্রভাব ফেলবে না।\"\"\"\"\"\""\n
+"অনুশীলন পরীক্ষাগুলো আপনার গ্রেডে কোনো প্রভাব ফেলবে না।"\n
 "আপনি এই অনুশীলন পরীক্ষাটি সম্পন্ন করেছেন এবং আপনার কোর্সের কাজ চালিয়ে যেতে পারেন।"
 
 msgid ""
 ""\n
-"        Are you sure you want to take this exam without proctoring?\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Are you sure you want to take this exam without proctoring?\"\"\"\"\"\""\n
 "      "
 msgstr "আপনি কি নিশ্চিত যে আপনি কোনো পর্যবেক্ষক ছাড়া এই পরীক্ষা দিতে চান?"
 
 msgid ""
 ""\n
-"        If you take this exam without proctoring, you will not be eligible for course credit or the MicroMasters credential if either applies to this course.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        If you take this exam without proctoring, you will not be eligible for course credit or the MicroMasters credential if either applies to this course.\"\"\"\"\"\""\n
 "      "
 msgstr "যদি আপনি এই পরীক্ষাটি প্রক্টরিং ছাড়া দেন, তাহলে এই কোর্সের জন্য প্রযোজ্য হলে কোর্স ক্রেডিট বা মাইক্রোমাস্টার্স ক্রেডেনশিয়াল পাওয়ার যোগ্য হবেন না।"
 
@@ -486,13 +486,13 @@ msgstr "ফিরে যান"
 
 msgid ""
 ""\n
-"      This exam is proctored\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      This exam is proctored\"\"\"\"\"\""\n
 "    "
 msgstr "এই পরীক্ষাটি তত্ত্বাবধান করা হবে।"
 
 msgid ""
 ""\n
-"      To be eligible for credit or the program credential associated with this course, you must pass the proctoring review for this exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      To be eligible for credit or the program credential associated with this course, you must pass the proctoring review for this exam.\"\"\"\"\"\""\n
 ""\n
 "    "
 msgstr "এই কোর্সের সাথে যুক্ত ক্রেডিট বা প্রোগ্রামের স্বীকৃতি পাওয়ার জন্য, আপনাকে অবশ্যই এই পরীক্ষার তত্ত্বাবধান পর্যালোচনাটি পাশ করতে হবে।"
@@ -502,29 +502,29 @@ msgstr "আমার তত্ত্বাবধানে পরীক্ষা�
 
 msgid ""
 ""\n
-"        You will be guided through steps to set up online proctoring software and verify your identity.</br>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        You will be guided through steps to set up online proctoring software and verify your identity.</br>\"\"\"\"\"\""\n
 "      "
 msgstr "আপনাকে অনলাইন প্রোctorিং সফটওয়্যার সেট আপ এবং আপনার পরিচয় যাচাই করার জন্য ধাপে ধাপে গাইড করা হবে।"
 
 msgid ""
 ""\n
-"      Error with proctored exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Error with proctored exam\"\"\"\"\"\""\n
 "    "
 msgstr "প্রক্টর্ড পরীক্ষায় সমস্যা হয়েছে"
 
 msgid ""
 ""\n
-"        A system error has occurred with your proctored exam. Please reach out to your course \"\"\"\"\"\"\"\"\"\"\"\""\n
-"        team at <a href=\"mailto:%(proctoring_escalation_email)s\">%(proctoring_escalation_email)s</a> \"\"\"\"\"\"\"\"\"\"\"\""\n
-"        for assistance, and return to the exam once you receive further instructions.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        A system error has occurred with your proctored exam. Please reach out to your course \"\"\"\"\"\""\n
+"        team at <a href=\"mailto:%(proctoring_escalation_email)s\">%(proctoring_escalation_email)s</a> \"\"\"\"\"\""\n
+"        for assistance, and return to the exam once you receive further instructions.\"\"\"\"\"\""\n
 "      "
 msgstr "আপনার প্রোক্টর্ড পরীক্ষায় একটি সিস্টেম ত্রুটি ঘটেছে। সহায়তার জন্য আপনার কোর্সের টিমের সাথে <a href=\"mailto:%(proctoring_escalation_email)s\">%(proctoring_escalation_email)s</a>-এ যোগাযোগ করুন এবং আরও নির্দেশাবলী পাওয়ার পরে পরীক্ষায় ফিরে যান।"
 
 msgid ""
 ""\n
-"        A system error has occurred with your proctored exam. Please reach out to \"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(link_urls.contact_us)s\" target=\"_blank\">%(platform_name)s Support</a> for \"\"\"\"\"\"\"\"\"\"\"\""\n
-"        assistance, and return to the exam once you receive further instructions.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        A system error has occurred with your proctored exam. Please reach out to \"\"\"\"\"\""\n
+"        <a href=\"%(link_urls.contact_us)s\" target=\"_blank\">%(platform_name)s Support</a> for \"\"\"\"\"\""\n
+"        assistance, and return to the exam once you receive further instructions.\"\"\"\"\"\""\n
 "      "
 msgstr "আপনার প্রক্টর্ড পরীক্ষায় একটি সিস্টেম এরর হয়েছে। অনুগ্রহ করে <a href=\"%(link_urls.contact_us)s\" target=\"_blank\">%(platform_name)s সাপোর্ট</a > এর সাথে যোগাযোগ করুন এবং আরও নির্দেশনার জন্য অপেক্ষা করার পরে পরীক্ষায় ফিরে যান।"
 
@@ -533,15 +533,15 @@ msgstr "বন্ধ করুন"
 
 msgid ""
 ""\n
-"      The content of this exam can only be viewed through the RPNow\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      application. If you have yet to complete your exam, please\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      return to the RPNow application to proceed.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      The content of this exam can only be viewed through the RPNow\"\"\"\"\"\""\n
+"      application. If you have yet to complete your exam, please\"\"\"\"\"\""\n
+"      return to the RPNow application to proceed.\"\"\"\"\"\""\n
 "    "
 msgstr "এই পরীক্ষার কন্টেন্ট শুধুমাত্র RPNow অ্যাপ্লিকেশনের মাধ্যমে দেখা যাবে। যদি আপনি এখনও আপনার পরীক্ষা সম্পন্ন না করে থাকেন, তাহলে অনুগ্রহ করে RPNow অ্যাপ্লিকেশনে ফিরে গিয়ে পরীক্ষাটি সম্পন্ন করুন।"
 
 msgid ""
 ""\n
-"      Alternatively, you can end your exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Alternatively, you can end your exam.\"\"\"\"\"\""\n
 "    "
 msgstr "অন্যথায়, আপনি আপনার পরীক্ষা শেষ করতে পারেন।"
 
@@ -550,107 +550,107 @@ msgstr "পরীক্ষা শেষ করুন"
 
 msgid ""
 ""\n
-"      The due date for this exam has passed\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      The due date for this exam has passed\"\"\"\"\"\""\n
 "    "
 msgstr "এই পরীক্ষার সময়সীমা পার হয়ে গেছে।"
 
 msgid ""
 ""\n
-"      Because the due date has passed, you are no longer able to take this exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Because the due date has passed, you are no longer able to take this exam.\"\"\"\"\"\""\n
 "    "
 msgstr "যেহেতু শেষ তারিখ পেরিয়ে গেছে, তাই আপনি আর এই পরীক্ষাটি দিতে পারবেন না।"
 
 msgid ""
 ""\n
-"    You did not satisfy the requirements for taking this exam with proctoring.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    You did not satisfy the requirements for taking this exam with proctoring.\"\"\"\"\"\""\n
 "    "
 msgstr "প্রোctorিং সহ এই পরীক্ষা দেওয়ার জন্য আপনি শর্ত পূরণ করেননি।"
 
 msgid ""
 ""\n
-"    You did not satisfy the following prerequisites:\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    You did not satisfy the following prerequisites:\"\"\"\"\"\""\n
 "    "
 msgstr "আপনি নিচের পূর্বশর্তগুলো পূরণ করতে পারেননি:"
 
 msgid ""
 ""\n
-"        Due to unsatisfied prerequisites, you can only take this exam without proctoring.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Due to unsatisfied prerequisites, you can only take this exam without proctoring.\"\"\"\"\"\""\n
 "      "
 msgstr "অপূর্ণ পূর্বশর্তের কারণে, আপনি এই পরীক্ষাটি তত্ত্বাবধান ছাড়া দিতে পারবেন।"
 
 msgid ""
 ""\n
-"      If you have questions about the status of your requirements, contact %(platform_name)s Support.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      If you have questions about the status of your requirements, contact %(platform_name)s Support.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার রিকোয়ারমেন্টের স্ট্যাটাস সম্পর্কে কোনো প্রশ্ন থাকলে, %(platform_name)s সাপোর্ট টিমের সাথে যোগাযোগ করুন।"
 
 msgid ""
 ""\n
-"        About Proctored Exams\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        About Proctored Exams\"\"\"\"\"\""\n
 "        "
 msgstr "প্রক্টর্ড পরীক্ষা সম্পর্কে"
 
 msgid ""
 ""\n
-"      You have not activated your account.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      You have not activated your account.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনি এখনো আপনার অ্যাকাউন্ট সক্রিয় করেননি।"
 
 msgid ""
 ""\n
-"      Your %(platform_name)s account has not yet been activated. To take the proctored exam,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      you are required to activate your account.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Your %(platform_name)s account has not yet been activated. To take the proctored exam,\"\"\"\"\"\""\n
+"      you are required to activate your account.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার %(platform_name)s অ্যাকাউন্টটি এখনও সক্রিয় করা হয়নি। প্রক্টর্ড পরীক্ষা দেওয়ার জন্য, আপনাকে আপনার অ্যাকাউন্টটি সক্রিয় করতে হবে।"
 
 msgid ""
 ""\n
-"      Please check your registered email's Inbox and Spam folders for an activation email from\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      %(platform_name)s.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Please check your registered email's Inbox and Spam folders for an activation email from\"\"\"\"\"\""\n
+"      %(platform_name)s.\"\"\"\"\"\""\n
 "    "
 msgstr ""
-"দয়া করে আপনার রেজিস্টার্ড ইমেইলের ইনবক্স এবং স্প্যাম ফোল্ডার চেক করুন \"\"\"\"\" থেকে একটি অ্যাক্টিভেশন ইমেইল এর জন্য।\"\"\"\"\"\""\n
-"%(platform_name)s।\"\"\"\"\\"
+"দয়া করে আপনার রেজিস্টার্ড ইমেইলের ইনবক্স এবং স্প্যাম ফোল্ডার চেক করুন \"\"\"\"\" থেকে একটি অ্যাক্টিভেশন ইমেইল এর জন্য।"\n
+"%(platform_name)s।\"\"\"\"\""
 
 msgid ""
 ""\n
-"        If you cannot find this email, you can <a href=\"%(reset_link)s\" target=\"_blank\">reset your password</a> to\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        activate your account.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        If you cannot find this email, you can <a href=\"%(reset_link)s\" target=\"_blank\">reset your password</a> to\"\"\"\"\"\""\n
+"        activate your account.\"\"\"\"\"\""\n
 "      "
 msgstr "যদি আপনি এই ইমেলটি খুঁজে না পান, তাহলে আপনি আপনার <a href=\"%(reset_link)s\" target=\"_blank\">পাসওয়ার্ড রিসেট</a> করে আপনার অ্যাকাউন্ট সক্রিয় করতে পারেন।"
 
 msgid ""
 ""\n
-"        If you cannot find this email, you can reset your password to activate your account.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        If you cannot find this email, you can reset your password to activate your account.\"\"\"\"\"\""\n
 "      "
 msgstr "যদি আপনি এই ইমেলটি খুঁজে না পান, তাহলে আপনার অ্যাকাউন্ট সক্রিয় করতে আপনার পাসওয়ার্ড রিসেট করতে পারেন।"
 
 msgid ""
 ""\n
-"      If you continue to have trouble please contact <a href=\"%(link_urls.contact_us)s\" target=\"_blank\">\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      %(platform_name)s Support</a>.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      If you continue to have trouble please contact <a href=\"%(link_urls.contact_us)s\" target=\"_blank\">\"\"\"\"\"\""\n
+"      %(platform_name)s Support</a>.\"\"\"\"\"\""\n
 "    "
 msgstr "যদি আপনার সমস্যা weiterhin থাকে, তাহলে <a href=\"%(link_urls.contact_us)s\" target=\"_blank\">%(platform_name)s সাপোর্ট</a>-এর সাথে যোগাযোগ করুন।"
 
 msgid ""
 ""\n
-"      Set up and start your proctored exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Set up and start your proctored exam\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার পরীক্ষা সেট আপ করুন এবং শুরু করুন"
 
 msgid ""
 ""\n
-"          Note: As part of the proctored exam setup, you will be asked\"\"\"\"\"\"\"\"\"\"\"\""\n
-"          to verify your identity. Before you begin, make sure you are\"\"\"\"\"\"\"\"\"\"\"\""\n
-"          on a computer with a webcam, and that you have a valid form\"\"\"\"\"\"\"\"\"\"\"\""\n
-"          of photo identification such as a driver’s license or\"\"\"\"\"\"\"\"\"\"\"\""\n
-"          passport.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          Note: As part of the proctored exam setup, you will be asked\"\"\"\"\"\""\n
+"          to verify your identity. Before you begin, make sure you are\"\"\"\"\"\""\n
+"          on a computer with a webcam, and that you have a valid form\"\"\"\"\"\""\n
+"          of photo identification such as a driver’s license or\"\"\"\"\"\""\n
+"          passport.\"\"\"\"\"\""\n
 "        "
 msgstr "অনুগ্রহ করে মনে রাখুন: প্রক্টর্ড পরীক্ষার অংশ হিসেবে, আপনাকে আপনার পরিচয় নিশ্চিত করতে বলা হবে। শুরু করার আগে, নিশ্চিত করুন যে আপনি একটি ওয়েবক্যামযুক্ত কম্পিউটারে আছেন, এবং আপনার কাছে ড্রাইভিং লাইসেন্স অথবা পাসপোর্ট-এর মতো বৈধ ফটো আইডি আছে।"
 
 msgid ""
 ""\n
-"            If you have issues relating to proctoring, you can contact %(provider_name)s technical support by emailing %(provider_tech_support_email)s  or by calling %(provider_tech_support_phone)s.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            If you have issues relating to proctoring, you can contact %(provider_name)s technical support by emailing %(provider_tech_support_email)s  or by calling %(provider_tech_support_phone)s.\"\"\"\"\"\""\n
 "          "
 msgstr "প্রক্টরিং সংক্রান্ত সমস্যা হলে, আপনি %(provider_name)s এর টেকনিক্যাল সাপোর্টে %(provider_tech_support_email)s এই ইমেইলে অথবা %(provider_tech_support_phone)s নম্বরে ফোন করে যোগাযোগ করতে পারেন।"
 
@@ -662,13 +662,13 @@ msgstr "পরীক্ষা শুরু করুন"
 
 msgid ""
 ""\n
-"          Step 1\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          Step 1\"\"\"\"\"\""\n
 "        "
 msgstr "ধাপ ১"
 
 msgid ""
 ""\n
-"          Copy this unique exam code. You will be prompted to paste this code later before you start the exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          Copy this unique exam code. You will be prompted to paste this code later before you start the exam.\"\"\"\"\"\""\n
 "        "
 msgstr "এই বিশেষ পরীক্ষার কোডটি কপি করুন। পরীক্ষা শুরু করার আগে এটি পেস্ট করতে বলা হবে।"
 
@@ -677,25 +677,25 @@ msgstr "পরীক্ষার কোড কপি করুন"
 
 msgid ""
 ""\n
-"        Select the exam code, then copy it using Control + C (Windows) or Command + C (Mac).\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Select the exam code, then copy it using Control + C (Windows) or Command + C (Mac).\"\"\"\"\"\""\n
 "      "
 msgstr "পরীক্ষার কোডটি নির্বাচন করুন, তারপর Control + C (Windows) অথবা Command + C (Mac) ব্যবহার করে কপি করুন।"
 
 msgid ""
 ""\n
-"          Step 2\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          Step 2\"\"\"\"\"\""\n
 "        "
 msgstr "ধাপ ২"
 
 msgid ""
 ""\n
-"        Start your system check now. A new window will open for this step and you will verify your identity.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Start your system check now. A new window will open for this step and you will verify your identity.\"\"\"\"\"\""\n
 "      "
 msgstr "এখনই আপনার সিস্টেম চেক শুরু করুন। এই ধাপের জন্য একটি নতুন উইন্ডো খুলবে এবং আপনি আপনার পরিচয় যাচাই করবেন।"
 
 msgid ""
 ""\n
-"        Make sure you:\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Make sure you:\"\"\"\"\"\""\n
 "      "
 msgstr "নিশ্চিত করুন আপনি:''''''"
 
@@ -707,13 +707,13 @@ msgstr "আপনার বৈধ ফটো আইডি (যেমন ড্র
 
 msgid ""
 ""\n
-"          Step 3\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          Step 3\"\"\"\"\"\""\n
 "        "
 msgstr "ধাপ ৩"
 
 msgid ""
 ""\n
-"          For security and exam integrity reasons, we ask you to sign in to your edX account. Then we will direct you to the RPNow proctoring experience.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          For security and exam integrity reasons, we ask you to sign in to your edX account. Then we will direct you to the RPNow proctoring experience.\"\"\"\"\"\""\n
 "        "
 msgstr "নিরাপত্তা এবং পরীক্ষার নির্ভরযোগ্যতা রক্ষার জন্য, আমরা আপনাকে আপনার edX অ্যাকাউন্টে সাইন ইন করতে অনুরোধ করছি। এরপর আপনাকে RPNow প্রোক্টরিং অভিজ্ঞতায় নিয়ে যাওয়া হবে।"
 
@@ -722,13 +722,13 @@ msgstr "প্রক্টরিং ছাড়া এই পরীক্ষাট
 
 msgid ""
 ""\n
-"      You must complete an onboarding exam before taking this proctored exam\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      You must complete an onboarding exam before taking this proctored exam\"\"\"\"\"\""\n
 "    "
 msgstr "এই প্রোক্টর্ড পরীক্ষায় অংশগ্রহণের আগে আপনাকে একটি অনboarding পরীক্ষা দিতে হবে।"
 
 msgid ""
 ""\n
-"      Please complete an onboarding exam before attempting this exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Please complete an onboarding exam before attempting this exam.\"\"\"\"\"\""\n
 "    "
 msgstr "এই পরীক্ষাটি দেওয়ার আগে অনুগ্রহ করে একটি অনবোর্ডিং পরীক্ষা সম্পন্ন করুন।"
 
@@ -737,39 +737,39 @@ msgstr "অনboarding পরীক্ষাটিতে যান"
 
 msgid ""
 ""\n
-"    Your onboarding exam is being reviewed. Before attempting this exam, please allow 2+ business days for your onboarding exam to be reviewed.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    Your onboarding exam is being reviewed. Before attempting this exam, please allow 2+ business days for your onboarding exam to be reviewed.\"\"\"\"\"\""\n
 "  "
 msgstr "আপনার অনবোর্ডিং পরীক্ষাটি পর্যালোচনা করা হচ্ছে। এই পরীক্ষাটি দেওয়ার আগে, অনুগ্রহ করে আপনার অনবোর্ডিং পরীক্ষাটি পর্যালোচনার জন্য ২+ কর্মদিবস দিন।"
 
 msgid ""
 ""\n
-"      Your onboarding exam failed to pass all requirements.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Your onboarding exam failed to pass all requirements.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার অনবোর্ডিং পরীক্ষাটি প্রয়োজনীয়তা পূরণ করতে পারেনি।"
 
 msgid ""
 ""\n
-"      Proctoring for your exam is provided via %(provider_name)s.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      If you have questions about the status of your onboarding exam, contact\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      <a href=\"mailto:%(integration_specific_email)s\">%(integration_specific_email)s</a>.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Proctoring for your exam is provided via %(provider_name)s.\"\"\"\"\"\""\n
+"      If you have questions about the status of your onboarding exam, contact\"\"\"\"\"\""\n
+"      <a href=\"mailto:%(integration_specific_email)s\">%(integration_specific_email)s</a>.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার পরীক্ষার তত্ত্বাবধানের জন্য %(provider_name)s এর মাধ্যমে সুবিধা দেওয়া হচ্ছে। আপনার অনboarding পরীক্ষার স্ট্যাটাস নিয়ে কোনো প্রশ্ন থাকলে, %(integration_specific_email)s-এ যোগাযোগ করুন।"
 
 msgid ""
 ""\n
-"    You have not completed the prerequisites for this exam. All requirements must be satisfied before you can take this proctored exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    You have not completed the prerequisites for this exam. All requirements must be satisfied before you can take this proctored exam.\"\"\"\"\"\""\n
 "    "
 msgstr "এই পরীক্ষা দেওয়ার জন্য আপনার পূর্বশর্তগুলো পূরণ হয়নি। এই তত্ত্বাবধানে পরীক্ষা দেওয়ার আগে সমস্ত শর্ত পূরণ করা আবশ্যক।"
 
 msgid ""
 ""\n
-"    The following prerequisites are in a <strong>pending</strong> state and must be successfully completed before you can proceed:\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    The following prerequisites are in a <strong>pending</strong> state and must be successfully completed before you can proceed:\"\"\"\"\"\""\n
 "    "
 msgstr "নিম্নলিখিত প্রয়োজনীয়তাগুলো <strong>অপেক্ষমান</strong> অবস্থায় আছে এবং আপনি आगे बढ़ने के लिए এগুলো সফলভাবে সম্পন্ন করতে হবে:"
 
 msgid ""
 ""\n
-"    You can take this exam with proctoring only when all prerequisites have been successfully completed.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    You can take this exam with proctoring only when all prerequisites have been successfully completed.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনি শুধুমাত্র তখনই এই পরীক্ষাটি প্রক্টরিং-এর সাথে নিতে পারবেন যখন সমস্ত পূর্বশর্ত সফলভাবে সম্পন্ন করা হবে।"
 
@@ -781,90 +781,90 @@ msgstr "এখন থেকে, আপনার পরীক্ষার প্�
 
 msgid ""
 ""\n
-"            Do not close this window before you finish your exam. if you close this window, your proctoring session ends, and you will not successfully complete the proctored exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            Do not close this window before you finish your exam. if you close this window, your proctoring session ends, and you will not successfully complete the proctored exam.\"\"\"\"\"\""\n
 "          "
 msgstr "পরীক্ষা শেষ করার আগে এই উইন্ডোটি বন্ধ করবেন না। যদি আপনি এই উইন্ডোটি বন্ধ করেন, তাহলে আপনার প্রক্টরিং সেশন শেষ হয়ে যাবে, এবং আপনি প্রক্টর্ড পরীক্ষাটি সফলভাবে সম্পন্ন করতে পারবেন না।"
 
 msgid ""
 ""\n
-"            Return to the %(platform_name)s course window to start your exam. When you have finished your exam and\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            have marked it as complete, you can close this window to end the proctoring session\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            and upload your proctoring session data for review.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            Return to the %(platform_name)s course window to start your exam. When you have finished your exam and\"\"\"\"\"\""\n
+"            have marked it as complete, you can close this window to end the proctoring session\"\"\"\"\"\""\n
+"            and upload your proctoring session data for review.\"\"\"\"\"\""\n
 "          "
 msgstr "আপনার পরীক্ষা শুরু করার জন্য %(platform_name)s কোর্সের উইন্ডোতে ফিরে যান। পরীক্ষা শেষ করে সম্পন্ন হিসেবে চিহ্নিত করার পরে, আপনি প্রোctorিং সেশনটি শেষ করতে এই উইন্ডোটি বন্ধ করতে পারবেন এবং পর্যালোচনার জন্য আপনার প্রোctorিং সেশন ডেটা আপলোড করতে পারবেন।"
 
 msgid ""
 ""\n
-"      Your exam is ready to be resumed.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Your exam is ready to be resumed.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার পরীক্ষাটি আবার শুরু করার জন্য প্রস্তুত।"
 
 msgid ""
 ""\n
-"        You will have %(total_time)s to complete your exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        You will have %(total_time)s to complete your exam.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার পরীক্ষাটি সম্পূর্ণ করার জন্য আপনার কাছে %(total_time)s সময় থাকবে।"
 
 msgid ""
 ""\n
-"        To be eligible for credit or the program credential associated with this course, you must pass the proctoring review for this exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        To be eligible for credit or the program credential associated with this course, you must pass the proctoring review for this exam.\"\"\"\"\"\""\n
 "    "
 msgstr "এই কোর্সের সাথে যুক্ত ক্রেডিট বা প্রোগ্রাম ক্রেডেনশিয়াল পাওয়ার জন্য, আপনাকে অবশ্যই এই পরীক্ষার Proctoring রিভিউ পাশ করতে হবে।"
 
 msgid ""
 ""\n
-"      Important\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Important\"\"\"\"\"\""\n
 "    "
 msgstr "গুরুত্বপূর্ণ"
 
 msgid ""
 ""\n
-"        &#8226; You have %(total_time)s to complete this exam. </br>\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        &#8226; Once you start the exam, you cannot stop the timer. </br>\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        &#8226; For all question types, you must click \"submit\" to complete your answer. </br>\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        &#8226; If time expires before you click \"End My Exam\", only your submitted answers will be graded.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        &#8226; You have %(total_time)s to complete this exam. </br>\"\"\"\"\"\""\n
+"        &#8226; Once you start the exam, you cannot stop the timer. </br>\"\"\"\"\"\""\n
+"        &#8226; For all question types, you must click \"submit\" to complete your answer. </br>\"\"\"\"\"\""\n
+"        &#8226; If time expires before you click \"End My Exam\", only your submitted answers will be graded.\"\"\"\"\"\""\n
 "      "
 msgstr ""
 
 msgid ""
 ""\n
-"      Proctored Exam Rules\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Proctored Exam Rules\"\"\"\"\"\""\n
 "    "
 msgstr "পরীক্ষার নিয়মাবলী"
 
 msgid ""
 ""\n
-"         You must adhere to the following rules while you complete this exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"         <strong>If you violate these rules, you will receive a score of 0 on the exam, and you will not be eligible for academic course credit.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"         </strong></br>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"         You must adhere to the following rules while you complete this exam.\"\"\"\"\"\""\n
+"         <strong>If you violate these rules, you will receive a score of 0 on the exam, and you will not be eligible for academic course credit.\"\"\"\"\"\""\n
+"         </strong></br>\"\"\"\"\"\""\n
 "      "
 msgstr ""
-"এই পরীক্ষা সম্পন্ন করার সময় আপনাকে নিম্নলিখিত নিয়মগুলি মেনে চলতে হবে।\"\"\"\"\"\""\n
+"এই পরীক্ষা সম্পন্ন করার সময় আপনাকে নিম্নলিখিত নিয়মগুলি মেনে চলতে হবে।"\n
 ""\n
 "<strong>যদি আপনি এই নিয়মগুলি লঙ্ঘন করেন, তাহলে আপনি পরীক্ষায় ০ স্কোর পাবেন এবং একাডেমিক কোর্সের ক্রেডিট পাওয়ার যোগ্য হবেন না।</strong>"
 
 msgid ""
 ""\n
-"          %(platform_name)s Rules for Online Proctored Exams\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          %(platform_name)s Rules for Online Proctored Exams\"\"\"\"\"\""\n
 "      "
 msgstr "অনলাইন প্রোক্টারড পরীক্ষার জন্য %(platform_name)s-এর নিয়মাবলী"
 
 msgid ""
 ""\n
-"      Additional Exam Rules\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Additional Exam Rules\"\"\"\"\"\""\n
 "    "
 msgstr "অতিরিক্ত পরীক্ষার নিয়মাবলী"
 
 msgid ""
 ""\n
-"        The following additional rules apply to this exam. These rules take precedence over the Rules for Online Proctored Exams.</br> </br>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        The following additional rules apply to this exam. These rules take precedence over the Rules for Online Proctored Exams.</br> </br>\"\"\"\"\"\""\n
 ""\n
-"        %(exam_review_policy)s </br>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        %(exam_review_policy)s </br>\"\"\"\"\"\""\n
 "      "
 msgstr ""
-"এই পরীক্ষার জন্য অতিরিক্ত কিছু নিয়ম প্রযোজ্য হবে। অনলাইন প্রক্টরড পরীক্ষার নিয়মাবলীর চেয়ে এই নিয়মগুলোই বেশি গুরুত্বপূর্ণ।</br></br>\"\"\"\"\"\"\""\n
+"এই পরীক্ষার জন্য অতিরিক্ত কিছু নিয়ম প্রযোজ্য হবে। অনলাইন প্রক্টরড পরীক্ষার নিয়মাবলীর চেয়ে এই নিয়মগুলোই বেশি গুরুত্বপূর্ণ।</br></br>\""\n
 ""\n
-"%(exam_review_policy)s </br>\\"
+"%(exam_review_policy)s </br>\""
 
 msgid "Start my exam"
 msgstr "আমার পরীক্ষা শুরু করুন"
@@ -874,7 +874,7 @@ msgstr "পরীক্ষা শুরু হচ্ছে"
 
 msgid ""
 ""\n
-"      Are you sure you want to end your proctored exam?\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Are you sure you want to end your proctored exam?\"\"\"\"\"\""\n
 "    "
 msgstr "আপনি কি নিশ্চিত যে আপনি আপনার তত্ত্বাবধানে চলা পরীক্ষাটি শেষ করতে চান?"
 
@@ -892,31 +892,31 @@ msgstr "পরীক্ষা শেষ"
 
 msgid ""
 ""\n
-"        No, I'd like to continue working\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        No, I'd like to continue working\"\"\"\"\"\""\n
 "      "
 msgstr "না, আমি কাজ চালিয়ে যেতে চাই।"
 
 msgid ""
 ""\n
-"        Your proctoring session was reviewed, but did not pass all requirements\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Your proctoring session was reviewed, but did not pass all requirements\"\"\"\"\"\""\n
 "      "
 msgstr "আপনার প্রোক্টরিং সেশনটি পর্যালোচনা করা হয়েছে, কিন্তু এটি প্রয়োজনীয়তা পূরণ করতে পারেনি।"
 
 msgid ""
 ""\n
-"        If you have questions about the status of your proctoring session results, contact %(platform_name)s Support.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        If you have questions about the status of your proctoring session results, contact %(platform_name)s Support.\"\"\"\"\"\""\n
 "      "
 msgstr "আপনার প্রোctorিং সেশন রেজাল্ট এর স্ট্যাটাস নিয়ে কোনো প্রশ্ন থাকলে, {platform_name} সাপোর্ট এর সাথে যোগাযোগ করুন।"
 
 msgid ""
 ""\n
-"        If you have concerns about your proctoring session results, contact your course team.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        If you have concerns about your proctoring session results, contact your course team.\"\"\"\"\"\""\n
 "      "
 msgstr "আপনার প্রোctorিং সেশনের ফলাফলে কোনো সমস্যা থাকলে, আপনার কোর্সের টিমের সাথে যোগাযোগ করুন।"
 
 msgid ""
 ""\n
-"      You have submitted this proctored exam for review\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      You have submitted this proctored exam for review\"\"\"\"\"\""\n
 "    "
 msgstr "আপনি এই তত্ত্বাবধানে দেওয়া পরীক্ষাটি পর্যালোচনার জন্য জমা দিয়েছেন।"
 
@@ -931,19 +931,19 @@ msgstr "পরীক্ষার পরে সাধারণত ৫ কার�
 
 msgid ""
 ""\n
-"      If you have questions about the status of your proctored exam results, contact %(platform_name)s Support.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      If you have questions about the status of your proctored exam results, contact %(platform_name)s Support.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার প্রোক্টার্ড পরীক্ষার ফলাফলের বিষয়ে কোনো প্রশ্ন থাকলে, %(platform_name)s সাপোর্ট-এর সাথে যোগাযোগ করুন।"
 
 msgid ""
 ""\n
-"                Your proctoring session was reviewed successfully. Go to your progress page to view your exam grade.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                Your proctoring session was reviewed successfully. Go to your progress page to view your exam grade.\"\"\"\"\"\""\n
 "            "
 msgstr "আপনার প্রোctorিং সেশনটি সফলভাবে পর্যালোচনা করা হয়েছে। আপনার পরীক্ষার গ্রেড দেখতে আপনার অগ্রগতি পৃষ্ঠায় যান।"
 
 msgid ""
 ""\n
-"      To view your exam questions and responses, select <strong>View my exam</strong>. The exam's review status is shown in the left navigation pane.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      To view your exam questions and responses, select <strong>View my exam</strong>. The exam's review status is shown in the left navigation pane.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার পরীক্ষার প্রশ্ন এবং উত্তরগুলো দেখার জন্য <strong>আমার পরীক্ষা দেখুন</strong> নির্বাচন করুন। পরীক্ষার পর্যালোচনার অবস্থা বাম দিকের নেভিগেশন প্যানেলে দেখানো হয়েছে।"
 
@@ -952,7 +952,7 @@ msgstr "আমার পরীক্ষা দেখুন"
 
 msgid ""
 ""\n
-"    %(exam_name)s is a Timed Exam (%(total_time)s)\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    %(exam_name)s is a Timed Exam (%(total_time)s)\"\"\"\"\"\""\n
 "    "
 msgstr "%(exam_name)s একটি সময়সীমাযুক্ত পরীক্ষা (%(total_time)s)"
 
@@ -976,7 +976,7 @@ msgstr "পরীক্ষাটি সম্পন্ন করে জমা �
 
 msgid ""
 ""\n
-"        I am ready to start this timed exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        I am ready to start this timed exam.\"\"\"\"\"\""\n
 "      "
 msgstr "আমি এই সময়সীমার মধ্যে পরীক্ষা শুরু করার জন্য প্রস্তুত।"
 
@@ -985,58 +985,58 @@ msgstr "আমি কি পরীক্ষা শেষ করার জন্�
 
 msgid ""
 ""\n
-"      If you have disabilities,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      you might be eligible for an additional time allowance on timed exams.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"      Ask your course team for information about additional time allowances.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      If you have disabilities,\"\"\"\"\"\""\n
+"      you might be eligible for an additional time allowance on timed exams.\"\"\"\"\"\""\n
+"      Ask your course team for information about additional time allowances.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার যদি কোনো শারীরিক অক্ষমতা থাকে, তাহলে আপনি সময়সীমাযুক্ত পরীক্ষায় অতিরিক্ত সময় পাওয়ার যোগ্য হতে পারেন। অতিরিক্ত সময় পাওয়ার বিষয়ে আপনার কোর্স টিমের সাথে যোগাযোগ করুন।"
 
 msgid ""
 ""\n
-"      Are you sure that you want to submit your timed exam?\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Are you sure that you want to submit your timed exam?\"\"\"\"\"\""\n
 "    "
 msgstr "আপনি কি নিশ্চিত যে আপনি আপনার সময়সীমার পরীক্ষা জমা দিতে চান?"
 
 msgid ""
 ""\n
-"      Make sure that you have selected \"Submit\" for each problem before you submit your exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Make sure that you have selected \"Submit\" for each problem before you submit your exam.\"\"\"\"\"\""\n
 "    "
 msgstr "পরীক্ষা জমা দেওয়ার আগে নিশ্চিত হয়ে নিন যে আপনি প্রতিটি সমস্যার জন্য \"জমা দিন\" নির্বাচন করেছেন।"
 
 msgid ""
 ""\n
-"      After you submit your exam, your exam will be graded.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      After you submit your exam, your exam will be graded.\"\"\"\"\"\""\n
 "    "
 msgstr "আপনার পরীক্ষা জমা দেওয়ার পরে, আপনার পরীক্ষা মূল্যায়ন করা হবে।"
 
 msgid ""
 ""\n
-"      Yes, submit my timed exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"      Yes, submit my timed exam.\"\"\"\"\"\""\n
 "    "
 msgstr "হ্যাঁ, আমার টাইমার করা পরীক্ষা জমা দিন।"
 
 msgid ""
 ""\n
-"        No, I want to continue working.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        No, I want to continue working.\"\"\"\"\"\""\n
 "      "
 msgstr "না, আমি কাজ চালিয়ে যেতে চাই।"
 
 msgid ""
 ""\n
-"                The time allotted for this exam has expired. Your exam has been submitted and any work you completed\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                will be graded.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                The time allotted for this exam has expired. Your exam has been submitted and any work you completed\"\"\"\"\"\""\n
+"                will be graded.\"\"\"\"\"\""\n
 "            "
 msgstr "এই পরীক্ষার জন্য নির্ধারিত সময় শেষ হয়ে গেছে। আপনার পরীক্ষা জমা দেওয়া হয়েছে এবং আপনি যে কাজগুলো সম্পন্ন করেছেন সেগুলো মূল্যায়ন করা হবে।"
 
 msgid ""
 ""\n
-"                You have submitted your timed exam.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                You have submitted your timed exam.\"\"\"\"\"\""\n
 "            "
 msgstr "আপনি আপনার টাইমিড পরীক্ষা জমা দিয়েছেন।"
 
 msgid ""
 ""\n
-"                After the due date has passed, you can review the exam, but you cannot change your answers.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                After the due date has passed, you can review the exam, but you cannot change your answers.\"\"\"\"\"\""\n
 "            "
 msgstr "সময়সীমা পার হওয়ার পরে, আপনি পরীক্ষাটি দেখতে পারবেন, কিন্তু আপনার উত্তর পরিবর্তন করতে পারবেন না।"
 

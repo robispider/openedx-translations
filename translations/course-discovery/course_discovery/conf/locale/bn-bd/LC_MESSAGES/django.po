@@ -1,1594 +1,2409 @@
-﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
-# edX translation file.
-# Copyright (C) 2025 EdX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2025.
-#
-# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# #-#-#-#-#  django.po (course-discovery)  #-#-#-#-#
 # edX translation file
-# Copyright (C) 2025 edX
+# Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2025.
-#
-# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
-# edX translation file
-# Copyright (C) 2025 edX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2025.
-#
-# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
-# Translations template for PROJECT.
-# Copyright (C) 2025 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 # Translators:
-# Gabriel D'Amours <gabriel@opencraft.com>, 2024
-# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
-# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# Brian Smith, 2025
-#
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:27+0000\n"
-"PO-Revision-Date: 2025-09-30 03:27+1514\n"
-"Last-Translator: Brian Smith, 2025\n"
-"Language-Team: \n"
-"Language: bn_BD\n"
+"Project-Id-Version: edx-platform\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-22 00:36+0000\n"
+"PO-Revision-Date: 2016-05-25 15:41+0000\n"
+"Last-Translator: Muhammad Ayub khan <ayubkhan@edx.org>\n"
+"Language-Team: English (http://www.transifex.com/open-edx/edx-platform/"
+"language/en/)\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
-"Generated-By: Babel 2.17.0\n"
-"X-Generator: Poedit 3.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: apps/api/filters.py:48
+#, python-brace-format
 msgid "No user with the username [{username}] exists."
-msgstr "এই ইউজারনেম [{username}] নামে কোনো ব্যবহারকারী নেই।"
+msgstr ""
 
-msgid "Only staff users are permitted to filter by username. Remove the username parameter."
-msgstr "শুধুমাত্র স্টাফ ব্যবহারকারীরা ইউজারনেম দিয়ে ফিল্টার করার অনুমতিপ্রাপ্ত। ইউজারনেম প্যারামিটারটি সরিয়ে দিন।"
+#: apps/api/filters.py:51
+msgid ""
+"Only staff users are permitted to filter by username. Remove the username "
+"parameter."
+msgstr ""
 
+#: apps/api/serializers.py:850
 msgid "Number of courses contained in this catalog"
-msgstr "এই ক্যাটালগে কতগুলো কোর্স আছে"
+msgstr ""
 
+#: apps/api/serializers.py:853
 msgid "Usernames of users with explicit access to view this catalog"
-msgstr "এই ক্যাটালগ দেখার জন্য সরাসরি অনুমতি আছে এমন ব্যবহারকারীদের নাম"
+msgstr ""
 
+#: apps/api/serializers.py:1023
 msgid "Start date cannot be after the End date"
-msgstr "শুরুর তারিখ শেষ তারিখের পরে হতে পারবে না।"
+msgstr ""
 
+#: apps/api/serializers.py:1028
 msgid "Term cannot be changed"
-msgstr "মেয়াদ পরিবর্তন করা যাবে না"
+msgstr ""
 
+#: apps/api/serializers.py:1048
 msgid "Language in which the course is administered"
-msgstr "যে ভাষায় কোর্সটি পরিচালিত হবে"
+msgstr ""
 
+#: apps/api/serializers.py:1152
 msgid "Course cannot be changed for an existing course run"
-msgstr "একটি চলমান কোর্সের জন্য কোর্স পরিবর্তন করা যাবে না।"
+msgstr ""
 
+#: apps/api/serializers.py:1157
 msgid "Minimum effort cannot be greater than Maximum effort"
-msgstr "ন্যূনতম চেষ্টা সর্বোচ্চ চেষ্টার চেয়ে বেশি হতে পারে না।"
+msgstr ""
 
+#: apps/api/serializers.py:1159
 msgid "Minimum effort and Maximum effort cannot be the same"
-msgstr "ন্যূনতম চেষ্টা আর সর্বোচ্চ চেষ্টা তো একরকম হতে পারে না।"
+msgstr ""
 
+#: apps/api/serializers.py:1205
 msgid "Dictionary mapping course run IDs to boolean values"
-msgstr "কোর্স রান আইডিগুলোর সাথে বুলিয়ান মানের ডিকশনারি"
+msgstr ""
 
+#: apps/api/serializers.py:1309
 msgid "Restriction Type cannot be empty"
-msgstr "Restriction Type খালি রাখা যাবে না"
+msgstr ""
 
+#: apps/api/serializers.py:1775
 msgid "Dictionary mapping course IDs to boolean values"
-msgstr "কোর্স আইডি-গুলোর সাথে বুলিয়ান ভ্যালুর ডিকশনারি"
+msgstr ""
 
+#: apps/api/serializers.py:2242
 msgid "Languages that course runs in this program are offered in."
-msgstr "এই প্রোগ্রামের কোর্সগুলো {name} এ প্রদান করা হয়।"
+msgstr ""
 
-msgid "Languages that course runs in this program have available transcripts in."
-msgstr "এই প্রোগ্রামের কোর্সগুলো যে ভাষায় চলে, সেগুলোর ট্রান্সক্রিপ্ট এখানে পাওয়া যাবে।"
+#: apps/api/serializers.py:2246
+msgid ""
+"Languages that course runs in this program have available transcripts in."
+msgstr ""
 
-msgid "An error occurred while setting the course run image for [{key}] in studio. All other fields were successfully saved in Studio."
-msgstr "স্টুডিওতে [{key}] এর জন্য কোর্স রান ইমেজ সেট করার সময় একটি ত্রুটি ঘটেছে। স্টুডিওতে অন্যান্য ক্ষেত্রগুলি সফলভাবে সংরক্ষণ করা হয়েছে।"
+#: apps/api/utils.py:346
+#, python-brace-format
+msgid ""
+"An error occurred while setting the course run image for [{key}] in studio. "
+"All other fields were successfully saved in Studio."
+msgstr ""
 
+#: apps/api/v1/exceptions.py:13
 msgid "Specifying both editable=1 and a q parameter is not supported."
-msgstr "এডিটেবল=১ এবং একই সাথে একটি প্রশ্ন প্যারামিটার নির্দিষ্ট করা সমর্থন করা হয় না।"
+msgstr ""
 
+#: apps/api/v1/views/comments.py:34
 msgid "You must include a course_uuid in your query parameters."
-msgstr "আপনার ক্যোয়ারী প্যারামিটারে একটি course_uuid অন্তর্ভুক্ত করতে হবে।"
+msgstr ""
 
+#: apps/api/v1/views/comments.py:58 apps/api/v1/views/courses.py:204
+#, python-brace-format
 msgid "Missing value for: [{name}]. "
-msgstr "{name}-এর জন্য মান অনুপস্থিত।"
+msgstr ""
 
+#: apps/api/v1/views/comments.py:60 apps/api/v1/views/courses.py:215
 msgid "Incorrect data sent. "
-msgstr "ভুল ডেটা পাঠানো হয়েছে।"
+msgstr ""
 
+#: apps/api/v1/views/course_runs.py:49
 msgid "Failed to set course run data: {}"
-msgstr "কোর্স রান ডেটা সেট করতে সমস্যা হয়েছে: {}"
+msgstr ""
 
+#: apps/api/v1/views/course_runs.py:328
 msgid "Can only update status, ofac restrictions, and ofac comment"
-msgstr "শুধু স্ট্যাটাস, ওফ্যাক বিধিনিষেধ, এবং ওফ্যাক কমেন্ট আপডেট করা যাবে।"
+msgstr ""
 
-msgid "The course run type '{course_run_type}' is not valid for this course type '{course_type}'."
-msgstr "এই কোর্সের ধরণের জন্য '{course_run_type}' কোর্স রান টাইপটি বৈধ নয়। '{course_type}'।"
+#: apps/api/v1/views/course_runs.py:363
+#, python-brace-format
+msgid ""
+"The course run type '{course_run_type}' is not valid for this course type "
+"'{course_type}'."
+msgstr ""
 
+#: apps/api/v1/views/course_runs.py:381
 msgid "Course run is in review. Editing disabled."
-msgstr "কোর্সটি পর্যালোচনা করা হচ্ছে। সম্পাদনা বন্ধ করা হয়েছে।"
+msgstr ""
 
+#: apps/api/v1/views/course_runs.py:388
 msgid "Invalid parameter"
-msgstr "অবৈধ প্যারামিটার"
+msgstr ""
 
+#: apps/api/v1/views/courses.py:61
 msgid "Failed to set data: {}"
-msgstr "ডাটা সেট করা যায়নি: {}"
+msgstr ""
 
+#: apps/api/v1/views/courses.py:206
+#, python-brace-format
 msgid "Organization [{org}] does not exist. "
-msgstr "অর্গানাইজেশন [{org}] টি খুঁজে পাওয়া যায়নি।"
+msgstr ""
 
+#: apps/api/v1/views/courses.py:208
+#, python-brace-format
 msgid "Course Type [{course_type}] does not exist. "
-msgstr "কোর্সের ধরন [{course_type}] টি পাওয়া যাচ্ছে না।"
+msgstr ""
 
+#: apps/api/v1/views/courses.py:211
+#, python-brace-format
 msgid "Product Source [{product_source}] does not exist. "
-msgstr "প্রোডাক্ট সোর্স [{product_source}] খুঁজে পাওয়া যায়নি।"
+msgstr ""
 
+#: apps/api/v1/views/courses.py:229
+#, python-brace-format
 msgid "A course with key [{key}] already exists."
-msgstr "এই নামে ஏற்கனவே একটি কোর্স আছে যেখানে মূল [{key}] বিদ্যমান।"
+msgstr ""
 
-msgid "Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is already in use. Please update this field and try again."
-msgstr "কোর্স তৈরি করা সম্ভব হয়নি। '{url_slug}' URL slug টি ইতিমধ্যে ব্যবহার করা হয়েছে। অনুগ্রহ করে এই ফিল্ডটি পরিবর্তন করে আবার চেষ্টা করুন।"
+#: apps/api/v1/views/courses.py:237
+#, python-brace-format
+msgid ""
+"Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is "
+"already in use. Please update this field and try again."
+msgstr ""
 
-msgid "Switching entitlement types after being reviewed is not supported. Please reach out to your project coordinator for additional help if necessary."
-msgstr "পর্যালোচনা করার পরে entitlement-এর ধরণ পরিবর্তন করা সমর্থন করা হয় না। প্রয়োজনে অতিরিক্ত সহায়তার জন্য আপনার প্রোজেক্ট কো-অর্ডিনেটরের সাথে যোগাযোগ করুন।"
+#: apps/api/v1/views/courses.py:296
+msgid ""
+"Switching entitlement types after being reviewed is not supported. Please "
+"reach out to your project coordinator for additional help if necessary."
+msgstr ""
 
-msgid "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already in use. Please update this field and try again."
-msgstr "কোর্সটি সম্পাদনা করা যায়নি। '{url_slug}' এই কোর্স URL স্লাগটি অন্য কোর্সে ব্যবহার করা হয়েছে। অনুগ্রহ করে এই ক্ষেত্রটি পরিবর্তন করে আবার চেষ্টা করুন।"
+#: apps/api/v1/views/courses.py:406
+#, python-brace-format
+msgid ""
+"Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already "
+"in use. Please update this field and try again."
+msgstr ""
 
+#: apps/api/views.py:58
 msgid "You are not permitted to access the API documentation."
-msgstr "আপনাকে API ডকুমেন্টেশন দেখার অনুমতি নেই।"
+msgstr ""
 
+#: apps/catalogs/models.py:17
 msgid "Catalog name"
-msgstr "ক্যাটালগের নাম"
+msgstr ""
 
+#: apps/catalogs/models.py:18
 msgid "Query to retrieve Course Run catalog contents"
-msgstr "কোর্স রান ক্যাটালগ কন্টেন্ট পুনরুদ্ধার করার জন্য প্রশ্ন"
+msgstr ""
 
+#: apps/catalogs/models.py:22
 msgid "Query to retrieve Program catalog contents"
-msgstr "প্রোগ্রাম ক্যাটালগের বিষয়বস্তু পাওয়ার জন্য জিজ্ঞাসা"
+msgstr ""
 
+#: apps/catalogs/models.py:25
 msgid "Include archived courses"
-msgstr "আর্কাইভ করা কোর্সগুলো অন্তর্ভুক্ত করুন"
+msgstr ""
 
+#: apps/core/admin.py:17
 msgid "Personal info"
-msgstr "ব্যক্তিগত তথ্য"
+msgstr ""
 
+#: apps/core/admin.py:18
 msgid "Permissions"
-msgstr "অনুমতি"
+msgstr ""
 
+#: apps/core/admin.py:19
 msgid "Important dates"
-msgstr "গুরুত্বপূর্ণ তারিখসমূহ"
+msgstr ""
 
+#: apps/core/admin.py:45
 msgid "API Configuration"
-msgstr "API কনফিগারেশন"
+msgstr ""
 
+#: apps/core/admin.py:46
 msgid "Configure the APIs that will be used to retrieve data."
-msgstr "ডাটা পাওয়ার জন্য যে APIগুলো ব্যবহার করা হবে সেগুলো কনফিগার করুন।"
+msgstr ""
 
+#: apps/core/admin.py:53
 msgid "Marketing Site Configuration"
-msgstr "মার্কেটিং সাইট কনফিগারেশন"
+msgstr ""
 
-msgid "Configure the marketing site URLs that will be used to retrieve data and create URLs."
-msgstr "মার্কেটিং সাইটের URL কনফিগার করুন যা ডেটা পুনরুদ্ধার এবং URL তৈরি করতে ব্যবহৃত হবে।"
+#: apps/core/admin.py:54
+msgid ""
+"Configure the marketing site URLs that will be used to retrieve data and "
+"create URLs."
+msgstr ""
 
+#: apps/core/admin.py:58
 msgid "Analytics Configuration"
-msgstr "অ্যানালিটিক্স কনফিগারেশন"
+msgstr ""
 
-msgid "Configure the analytics API that will be used to retrieve enrollment data"
-msgstr "এন enrollment ডেটা পাওয়ার জন্য যে analytics API ব্যবহার করা হবে, সেটা কনফিগার করুন।"
+#: apps/core/admin.py:59
+msgid ""
+"Configure the analytics API that will be used to retrieve enrollment data"
+msgstr ""
 
+#. Translators: 'period_choices' is a list of possible values, like ('second', 'minute', 'hour')
+#: apps/core/forms.py:23
+#, python-brace-format
 msgid "period must be one of {period_choices}."
-msgstr "সময়কাল অবশ্যই {period_choices} এর মধ্যে একটি হতে হবে।"
+msgstr ""
 
+#: apps/core/forms.py:26
 msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
-msgstr "'rate' অবশ্যই DRF দ্বারা সংজ্ঞায়িত বিন্যাসে থাকতে হবে, যেমন '100/ঘণ্টা'।"
+msgstr ""
 
+#: apps/core/models.py:17
 msgid "Full Name"
-msgstr "নাম"
+msgstr ""
 
+#: apps/core/models.py:18
 msgid "Referral Tracking ID"
-msgstr "রেফারেল ট্র্যাকিং আইডি"
+msgstr ""
 
-msgid "The rate of requests to limit this user to. The format is specified by Django Rest Framework (see http://www.django-rest-framework.org/api-guide/throttling/)."
-msgstr "এই ব্যবহারকারীর জন্য রিকোয়েস্টের হার নির্ধারণ করুন। ফরম্যাটটি Django Rest Framework দ্বারা নির্দিষ্ট করা হয়েছে (দেখুন http://www.django-rest-framework.org/api-guide/throttling/)।"
+#: apps/core/models.py:34
+msgid ""
+"The rate of requests to limit this user to. The format is specified by "
+"Django Rest Framework (see http://www.django-rest-framework.org/api-guide/"
+"throttling/)."
+msgstr ""
 
+#: apps/core/models.py:54
 msgid "Short Code"
-msgstr "শর্ট কোড"
+msgstr ""
 
-msgid "Convenient code/slug used to identify this Partner (e.g. for management commands.)"
-msgstr "এই পার্টনারকে সনাক্ত করার জন্য সুবিধাজনক কোড/স্লাগ (যেমন: ম্যানেজমেন্ট কমান্ডের জন্য)।"
+#: apps/core/models.py:55
+msgid ""
+"Convenient code/slug used to identify this Partner (e.g. for management "
+"commands.)"
+msgstr ""
 
+#: apps/core/models.py:56
 msgid "Courses API URL"
-msgstr "কোর্স API URL"
+msgstr ""
 
+#: apps/core/models.py:59
 msgid "Course Mode API URL"
-msgstr "কোর্স মোড API URL"
+msgstr ""
 
+#: apps/core/models.py:60
 msgid "E-Commerce API URL"
-msgstr "ই-কমার্স এপিআই ইউআরএল"
+msgstr ""
 
+#: apps/core/models.py:62
 msgid "Organizations API URL"
-msgstr "সংস্থা API URL"
+msgstr ""
 
+#: apps/core/models.py:63
 msgid "Programs API URL"
-msgstr "প্রোগ্রাম API URL"
+msgstr ""
 
+#: apps/core/models.py:65
 msgid "Marketing Site API URL"
-msgstr "মার্কেটিং সাইট এপিআই ইউআরএল"
+msgstr ""
 
+#: apps/core/models.py:67
 msgid "Marketing Site URL"
-msgstr "মার্কেটিং সাইটের ঠিকানা"
+msgstr ""
 
+#: apps/core/models.py:69
 msgid "Marketing Site API Username"
-msgstr "মার্কেটিং সাইট এপিআই ইউজারনেম"
+msgstr ""
 
+#: apps/core/models.py:71
 msgid "Marketing Site API Password"
-msgstr "মার্কেটিং সাইট এপিআই পাসওয়ার্ড"
+msgstr ""
 
+#: apps/core/models.py:73
 msgid "Studio URL"
-msgstr "স্টুডিও ইউআরএল"
+msgstr ""
 
+#: apps/core/models.py:75
 msgid "Publisher URL"
-msgstr "প্রকাশকের URL"
+msgstr ""
 
-msgid "The base URL of your publisher service, if used. Example: https://publisher.example.com/"
-msgstr "যদি ব্যবহার করা হয়, তাহলে আপনার পাবলিশার সার্ভিসের বেস URL। উদাহরণ: https://publisher.example.com/"
+#: apps/core/models.py:76
+msgid ""
+"The base URL of your publisher service, if used. Example: https://publisher."
+"example.com/"
+msgstr ""
 
+#: apps/core/models.py:79
 msgid "LMS URL"
-msgstr "এলএমএস ইউআরএল"
+msgstr ""
 
+#: apps/core/models.py:81
 msgid "LMS Admin URL"
-msgstr "LMS অ্যাডমিন ইউআরএল"
+msgstr ""
 
-msgid "The public URL of your LMS Django admin. Example: https://lms-internal.example.com/admin"
-msgstr "আপনার এলএমএস Django অ্যাডমিনের পাবলিক ইউআরএল। উদাহরণ: https://lms-internal.example.com/admin"
+#: apps/core/models.py:82
+msgid ""
+"The public URL of your LMS Django admin. Example: https://lms-internal."
+"example.com/admin"
+msgstr ""
 
+#: apps/core/models.py:84
 msgid "Analytics API URL"
-msgstr "অ্যানালিটিক্স API URL"
+msgstr ""
 
+#: apps/core/models.py:85
 msgid "Analytics Access Token"
-msgstr "অ্যানালিটিক্স অ্যাক্সেস টোকেন"
+msgstr ""
 
+#: apps/core/models.py:94
 msgid "Partner"
-msgstr "পার্টনার"
+msgstr ""
 
+#: apps/core/models.py:95
 msgid "Partners"
-msgstr "অংশীদার"
+msgstr ""
 
+#: apps/core/models.py:130
 msgid "Salesforce Username"
-msgstr "Salesforce ইউজারনেম"
+msgstr ""
 
+#: apps/core/models.py:134
 msgid "Salesforce Password"
-msgstr "Salesforce পাসওয়ার্ড"
+msgstr ""
 
+#: apps/core/models.py:139
 msgid "Salesforce Organization Id"
-msgstr "Salesforce Organization ID"
+msgstr ""
 
+#: apps/core/models.py:145
 msgid "Salesforce Security Token"
-msgstr "Salesforce সিকিউরিটি টোকেন"
+msgstr ""
 
+#: apps/core/models.py:149
 msgid "Is a Salesforce Sandbox?"
-msgstr "এটা কি সেলসফোর্স স্যান্ডবক্স?"
+msgstr ""
 
+#: apps/core/models.py:155
 msgid "Case Record Type Id"
-msgstr "কেস রেকর্ড টাইপ আইডি"
+msgstr ""
 
-msgid "An error occurred while publishing the {model} to the marketing site. Please try again. If the error persists, please contact the Engineering Team."
-msgstr "মার্কেটিং সাইটে {model} পাবলিশ করার সময় একটি ত্রুটি ঘটেছে। অনুগ্রহ করে আবার চেষ্টা করুন। সমস্যাটি চললে, অনুগ্রহ করে ইঞ্জিনিয়ারিং টিমের সাথে যোগাযোগ করুন।"
+#: apps/course_metadata/admin.py:38
+#, python-brace-format
+msgid ""
+"An error occurred while publishing the {model} to the marketing site. Please "
+"try again. If the error persists, please contact the Engineering Team."
+msgstr ""
 
+#: apps/course_metadata/admin.py:65
 msgid "eligible for one-click purchase"
-msgstr "এক-ক্লিকেই কেনার যোগ্য"
+msgstr ""
 
+#: apps/course_metadata/admin.py:70
 msgid "Yes"
-msgstr "হ্যাঁ"
+msgstr ""
 
+#: apps/course_metadata/admin.py:71
 msgid "No"
-msgstr "না"
+msgstr ""
 
+#: apps/course_metadata/admin.py:538 apps/course_metadata/admin.py:883
 msgid "Included course runs"
-msgstr "অন্তর্ভুক্ত কোর্স রান"
+msgstr ""
 
+#: apps/course_metadata/admin.py:889
 msgid "Edit link"
-msgstr "লিঙ্কটি সম্পাদনা করুন"
+msgstr ""
 
+#: apps/course_metadata/admin.py:897
 msgid "Edit course run exclusions"
-msgstr "কোর্স রানের ব্যতিক্রমগুলো পরিবর্তন করুন"
+msgstr ""
 
+#: apps/course_metadata/admin.py:899
 msgid "(save and continue editing to create a link)"
-msgstr "সংরক্ষণ করুন এবং সম্পাদনা চালিয়ে যান একটি লিঙ্ক তৈরি করতে।"
+msgstr ""
 
+#: apps/course_metadata/admin.py:1037
+#, python-format
 msgid "Successfully %(status)s %(count)d %(items)s."
-msgstr "সফলভাবে %(status)s %(count)d টি %(items)s।"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:54
 msgid "Certificates"
-msgstr "সার্টিফিকেটসমূহ"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:55
 msgid "Pathways to Degrees"
-msgstr "ডিগ্রি পাওয়ার পথ"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:58
 msgid "Boot Camps"
-msgstr "বুট ক্যাম্প"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:65
 msgid "Bachelor’s"
-msgstr "ব্যাচেলর"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:66
 msgid "Master’s"
-msgstr "মাস্টার্স"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:116
+#: apps/course_metadata/algolia_models.py:667
 msgid "Available now"
-msgstr "এখনই পাওয়া যাচ্ছে"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:118
+#: apps/course_metadata/models.py:2757
 msgid "Upcoming"
-msgstr "আগামী"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:120
+#: apps/course_metadata/choices.py:100 apps/course_metadata/models.py:2751
+#: apps/course_metadata/models.py:2767
 msgid "Archived"
-msgstr "আর্কাইভ করা হয়েছে"
+msgstr ""
 
+#: apps/course_metadata/algolia_models.py:678
 msgid "Available by subscription"
-msgstr "সাবস্ক্রিপশনের মাধ্যমে পাওয়া যাবে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:6 apps/course_metadata/choices.py:22
+#: apps/course_metadata/choices.py:36
 msgid "Unpublished"
-msgstr "প্রকাশিত নয়"
+msgstr ""
 
+#: apps/course_metadata/choices.py:7
 msgid "Awaiting Review from Legal"
-msgstr "লিগ্যাল থেকে পর্যালোচনার জন্য অপেক্ষা করা হচ্ছে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:8
 msgid "Awaiting Internal Review"
-msgstr "অভ্যন্তরীণ পর্যালোচনার জন্য অপেক্ষমান"
+msgstr ""
 
+#: apps/course_metadata/choices.py:9
 msgid "Reviewed"
-msgstr "পর্যালোচনা করা হয়েছে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:10 apps/course_metadata/choices.py:23
+#: apps/course_metadata/choices.py:101
 msgid "Published"
-msgstr "প্রকাশিত"
+msgstr ""
 
+#: apps/course_metadata/choices.py:24 apps/course_metadata/choices.py:38
 msgid "Retired"
-msgstr "অবসরপ্রাপ্ত"
+msgstr ""
 
+#. Translators: Instructor-paced refers to course runs that operate on a schedule set by the instructor,
+#. similar to a normal university course.
+#: apps/course_metadata/choices.py:30
 msgid "Instructor-paced"
-msgstr "শিক্ষক-নিয়ন্ত্রিত"
+msgstr ""
 
+#. Translators: Self-paced refers to course runs that operate on the student's schedule.
+#: apps/course_metadata/choices.py:32
 msgid "Self-paced"
-msgstr "নিজের গতিতে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:37 apps/learner_pathway/choices.py:6
 msgid "Active"
-msgstr "সক্রিয়"
+msgstr ""
 
+#: apps/course_metadata/choices.py:39
 msgid "Deleted"
-msgstr "মুছে ফেলা হয়েছে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:43
 msgid "mooc"
-msgstr "মুক"
+msgstr ""
 
+#: apps/course_metadata/choices.py:44
 msgid "spoc"
-msgstr "স্পোক"
+msgstr ""
 
+#: apps/course_metadata/choices.py:45
 msgid "test"
-msgstr "টেস্ট"
+msgstr ""
 
+#: apps/course_metadata/choices.py:46
 msgid "demo"
-msgstr "ডেমো"
+msgstr ""
 
+#: apps/course_metadata/choices.py:47
 msgid "other"
-msgstr "অন্যান্য"
+msgstr ""
 
+#: apps/course_metadata/choices.py:54
 msgid "Course Create"
-msgstr "কোর্স তৈরি করুন"
+msgstr ""
 
+#: apps/course_metadata/choices.py:55
 msgid "Partial Update"
-msgstr "আংশিক হালনাগাদ"
+msgstr ""
 
+#: apps/course_metadata/choices.py:56
 msgid "Course Rerun"
-msgstr "কোর্সটি পুনরায় শুরু করুন"
+msgstr ""
 
+#: apps/course_metadata/choices.py:57
 msgid "Course Editor Update"
-msgstr "কোর্স এডিটর আপডেট"
+msgstr ""
 
+#: apps/course_metadata/choices.py:64
 msgid "Pending"
-msgstr "অপেক্ষমান"
+msgstr ""
 
+#: apps/course_metadata/choices.py:65 apps/course_metadata/choices.py:76
 msgid "Verified"
-msgstr "যাচাইকৃত"
+msgstr ""
 
+#: apps/course_metadata/choices.py:66
 msgid "Processing"
-msgstr "প্রক্রিয়াকরণ করা হচ্ছে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:67
 msgid "Completed"
-msgstr "সম্পন্ন"
+msgstr ""
 
+#: apps/course_metadata/choices.py:68
 msgid "Failed"
-msgstr "ব্যর্থ হয়েছে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:69
 msgid "Partially Completed"
-msgstr "আংশিকভাবে সম্পন্ন হয়েছে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:70
 msgid "Errored"
-msgstr "এরর হয়েছে"
+msgstr ""
 
+#: apps/course_metadata/choices.py:74
 msgid "Honor"
-msgstr "সম্মান"
+msgstr ""
 
+#: apps/course_metadata/choices.py:75
 msgid "Credit"
-msgstr "ক্রেডিট"
+msgstr ""
 
+#: apps/course_metadata/choices.py:77
 msgid "Professional"
-msgstr "পেশাদার"
+msgstr ""
 
+#: apps/course_metadata/choices.py:78
 msgid "Executive Education"
-msgstr "এক্সিকিউটিভ এডুকেশন"
+msgstr ""
 
+#: apps/course_metadata/choices.py:79
 msgid "Paid Executive Education"
-msgstr "পেইড এক্সিকিউটিভ এডুকেশন"
+msgstr ""
 
+#: apps/course_metadata/choices.py:80
 msgid "Unpaid Executive Education"
-msgstr "অপরিশোধিত এক্সিকিউটিভ এডুকেশন"
+msgstr ""
 
+#: apps/course_metadata/choices.py:81
 msgid "Paid Bootcamp"
-msgstr "পেইড বুটক্যাম্প"
+msgstr ""
 
+#: apps/course_metadata/choices.py:82
 msgid "Unpaid Bootcamp"
-msgstr "বকেয়া বুটক্যাম্প"
+msgstr ""
 
+#: apps/course_metadata/choices.py:86
 msgid "Platform"
-msgstr "প্ল্যাটফর্ম"
+msgstr ""
 
+#: apps/course_metadata/choices.py:87
 msgid "Organization"
-msgstr "সংস্থা"
+msgstr ""
 
+#: apps/course_metadata/choices.py:91
 msgid "Short"
-msgstr "সংক্ষিপ্ত"
+msgstr ""
 
+#: apps/course_metadata/choices.py:92
 msgid "Medium"
-msgstr "মাঝারি"
+msgstr ""
 
+#: apps/course_metadata/choices.py:93
 msgid "Long"
-msgstr "দীর্ঘ"
+msgstr ""
 
+#: apps/course_metadata/choices.py:108
 msgid "Short Course"
-msgstr "সংক্ষিপ্ত কোর্স"
+msgstr ""
 
+#: apps/course_metadata/choices.py:109
 msgid "Sprint"
-msgstr "স্প্রিন্ট"
+msgstr ""
 
+#: apps/course_metadata/choices.py:110
 msgid "Course Stack"
-msgstr "কোর্স স্ট্যাক"
+msgstr ""
 
+#: apps/course_metadata/choices.py:114
 msgid "Custom B2B Enterprise"
-msgstr "কাস্টম বিটুবি এন্টারপ্রাইজ"
+msgstr ""
 
+#: apps/course_metadata/choices.py:115
 msgid "Custom B2C"
-msgstr "কাস্টম বিটুসি"
+msgstr ""
 
-msgid "Existing course type {type} for {key} ({id}) doesn't match its own entitlements."
-msgstr " বিদ্যমান কোর্স টাইপ {type} এর জন্য {key} ({id}) এর নিজস্ব অধিকারের সাথে মিলছে না।"
+#: apps/course_metadata/data_loaders/course_type.py:27
+#, python-brace-format
+msgid ""
+"Existing course type {type} for {key} ({id}) doesn't match its own "
+"entitlements."
+msgstr ""
 
-msgid "Existing run type {run_type} for {key} ({id}) doesn't match course type {type}.Skipping type."
-msgstr "现有 রান টাইপ {run_type} {key} ({id})-এর সাথে কোর্সের টাইপ {type} মিলছে না। টাইপটি বাদ দেওয়া হচ্ছে।"
+#: apps/course_metadata/data_loaders/course_type.py:61
+#, python-brace-format
+msgid ""
+"Existing run type {run_type} for {key} ({id}) doesn't match course type "
+"{type}.Skipping type."
+msgstr ""
 
-msgid "Existing run type {run_type} for {key} ({id}) doesn't match its own seats."
-msgstr "বিদ্যমান রান টাইপ {run_type} এর {key} ({id}) এর সিটের সাথে মিলছে না।"
+#: apps/course_metadata/data_loaders/course_type.py:75
+#, python-brace-format
+msgid ""
+"Existing run type {run_type} for {key} ({id}) doesn't match its own seats."
+msgstr ""
 
+#: apps/course_metadata/data_loaders/course_type.py:91
+#, python-brace-format
 msgid "Course {key} ({id}) matched type {type}"
-msgstr "কোর্স {key} ({id}) {type} এর সাথে মিলেছে"
+msgstr ""
 
+#: apps/course_metadata/data_loaders/course_type.py:101
+#, python-brace-format
 msgid "Could not convert course {key} ({id}) to type {type}"
-msgstr "কোর্স {key} ({id}) কে {type} টাইপে পরিবর্তন করা যায়নি।"
+msgstr ""
 
-msgid "Not sending notification email for template {template} because no organization is defined for course {course}"
-msgstr "কোর্স {course}-এর জন্য কোনো সংস্থা নির্দিষ্ট করা নেই তাই টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেল পাঠানো হচ্ছে না।"
+#: apps/course_metadata/emails.py:37
+#, python-brace-format
+msgid ""
+"Not sending notification email for template {template} because no "
+"organization is defined for course {course}"
+msgstr ""
 
-msgid "Not sending notification email for template {template} because no project coordinator is defined for organization {org}"
-msgstr "অর্গানাইজেশন {org}-এর জন্য কোনো প্রজেক্ট কোঅর্ডিনেটর নির্দিষ্ট করা নেই তাই টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেল পাঠানো হচ্ছে না।"
+#: apps/course_metadata/emails.py:42
+#, python-brace-format
+msgid ""
+"Not sending notification email for template {template} because no project "
+"coordinator is defined for organization {org}"
+msgstr ""
 
-msgid "Not sending notification email for template {template} because no publisher URL is defined for partner {partner}"
-msgstr "পার্টনার {partner}-এর জন্য কোনো পাবলিশার ইউআরএল দেওয়া হয়নি তাই টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেইল পাঠানো হচ্ছে না।"
+#: apps/course_metadata/emails.py:96
+#, python-brace-format
+msgid ""
+"Not sending notification email for template {template} because no publisher "
+"URL is defined for partner {partner}"
+msgstr ""
 
-msgid "Not sending notification email for template {template} because no studio URL is defined for partner {partner}"
-msgstr "টেমপ্লেট {template}-এর জন্য নোটিফিকেশন ইমেল পাঠানো হচ্ছে না, কারণ পার্টনার {partner}-এর জন্য স্টুডিও URL সংজ্ঞায়িত করা নেই।"
+#: apps/course_metadata/emails.py:104
+#, python-brace-format
+msgid ""
+"Not sending notification email for template {template} because no studio URL "
+"is defined for partner {partner}"
+msgstr ""
 
+#: apps/course_metadata/emails.py:170
 msgid "legal team"
-msgstr "আইন বিষয়ক দল"
+msgstr ""
 
+#: apps/course_metadata/emails.py:188
 msgid "Project Coordinator team"
-msgstr "প্রজেক্ট কোঅর্ডিনেটর টিম"
+msgstr ""
 
+#: apps/course_metadata/emails.py:212
 msgid "course team"
-msgstr "কোর্স টিম"
+msgstr ""
 
+#: apps/course_metadata/emails.py:221
+#, python-brace-format
 msgid "Legal review requested: {title}"
-msgstr "আইনগত পর্যালোচনার জন্য অনুরোধ করা হয়েছে: {title}"
+msgstr ""
 
+#: apps/course_metadata/emails.py:234
+#, python-brace-format
 msgid "Course URL for {title}"
-msgstr "{title} কোর্সের URL"
+msgstr ""
 
+#: apps/course_metadata/emails.py:280
+#, python-brace-format
 msgid "Review requested: {key} - {title}"
-msgstr "রিভিউয়ের জন্য অনুরোধ করা হয়েছে: {key} - {title}"
+msgstr ""
 
+#: apps/course_metadata/emails.py:292
+#, python-brace-format
 msgid "Review complete: {title}"
-msgstr "রিভিউ সম্পন্ন হয়েছে: {title}"
+msgstr ""
 
+#: apps/course_metadata/emails.py:308
+#, python-brace-format
 msgid "Published: {title}"
-msgstr "প্রকাশিত: {title}"
+msgstr ""
 
+#: apps/course_metadata/emails.py:312
+#, python-brace-format
 msgid "Published: {key} - {title}"
-msgstr "প্রকাশিত: {key} - {title}"
+msgstr ""
 
+#: apps/course_metadata/emails.py:327
+#, python-brace-format
 msgid "Comment added: {title}"
-msgstr "মন্তব্য করা হয়েছে: {title}"
+msgstr ""
 
-msgid "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or hyphens."
-msgstr "একটি বৈধ \"slug\" লিখুন যাতে অক্ষর, সংখ্যা, স্লাশ, আন্ডারস্কোর অথবা হাইফেন থাকতে পারে।"
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: apps/course_metadata/fields.py:33
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, slashes, underscores or "
+"hyphens."
+msgstr ""
 
+#: apps/course_metadata/forms.py:102
 msgid "Programs can only be activated if they have a banner image."
-msgstr "প্রোগ্রামগুলো সক্রিয় করার জন্য একটি ব্যানার ইমেজ থাকতে হবে।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/add_tag_to_courses.py:15
 msgid "Tag to add to courses"
-msgstr "কোর্সগুলোতে যোগ করার ট্যাগ"
+msgstr ""
 
+#: apps/course_metadata/management/commands/add_tag_to_courses.py:16
 msgid "UUIDs of courses to tag"
-msgstr "কোর্স ট্যাগ করার জন্য UUID"
+msgstr ""
 
-msgid "Use arguments from the TagCourseUUIDsConfig model instead of the command line."
-msgstr "কমান্ড লাইনের বদলে TagCourseUUIDsConfig মডেল থেকে আর্গুমেন্ট ব্যবহার করুন।"
+#: apps/course_metadata/management/commands/add_tag_to_courses.py:18
+msgid ""
+"Use arguments from the TagCourseUUIDsConfig model instead of the command "
+"line."
+msgstr ""
 
+#: apps/course_metadata/management/commands/add_tag_to_courses.py:27
 msgid "Missing required arguments"
-msgstr "প্রয়োজনীয় আর্গুমেন্ট অনুপস্থিত"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:10
 msgid "Backpopulate new-style CourseType and CourseRunType where possible."
-msgstr "সম্ভব হলে নতুন স্টাইলের CourseType এবং CourseRunType রিpopulate করুন।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:15
 msgid "CODE"
-msgstr "কোড"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:16
+#: apps/course_metadata/management/commands/delete_person_dups.py:33
 msgid "Short code for a partner."
-msgstr "একটি পার্টনারের শর্ট কোড।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:20
+#: apps/course_metadata/models.py:238 apps/course_metadata/models.py:493
+#: apps/course_metadata/models.py:641 apps/course_metadata/models.py:674
+#: apps/course_metadata/models.py:698 apps/course_metadata/models.py:737
+#: apps/course_metadata/models.py:1054 apps/course_metadata/models.py:1275
+#: apps/course_metadata/models.py:1452 apps/course_metadata/models.py:2288
+#: apps/course_metadata/models.py:3371 apps/course_metadata/models.py:4421
+#: apps/course_metadata/models.py:4562 apps/learner_pathway/models.py:34
+#: apps/learner_pathway/models.py:83 apps/learner_pathway/models.py:158
 msgid "UUID"
-msgstr "ইউইউআইডি"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:22
 msgid "Course to backpopulate."
-msgstr "কোর্সটি ব্যাকপপুলেট করার জন্য।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:27
 msgid "KEY"
-msgstr "কী"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:29
 msgid "Organization to backpopulate."
-msgstr "ব্যাক populate করার জন্য সংস্থা।"
+msgstr ""
 
-msgid "CourseType/CourseRunType mismatches to allow. Specify like course-type-slug:run-type-slug."
-msgstr "কোর্স টাইপ/কোর্স রান টাইপ মেলানোর ক্ষেত্রে সমস্যা হয়েছে। কোর্স-টাইপ-স্লাগ:রান-টাইপ-স্লাগ এভাবে উল্লেখ করুন।"
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:35
+msgid ""
+"CourseType/CourseRunType mismatches to allow. Specify like course-type-slug:"
+"run-type-slug."
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:41
+#: apps/course_metadata/management/commands/delete_person_dups.py:38
 msgid "Actually commit the changes to the database."
-msgstr "আসলে ডাটাবেসে পরিবর্তনগুলো নিশ্চিত করুন।"
+msgstr ""
 
-msgid "Use arguments from the BackpopulateCourseTypeConfig model instead of the command line."
-msgstr "ব্যাকপপুলেটকোর্সটাইপকনফিগ মডেল থেকে আর্গুমেন্ট ব্যবহার করুন কমান্ড লাইনের পরিবর্তে।"
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:46
+msgid ""
+"Use arguments from the BackpopulateCourseTypeConfig model instead of the "
+"command line."
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:64
 msgid "You must specify --partner"
-msgstr "আপনাকে --partner উল্লেখ করতে হবে।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:71
+#, python-brace-format
 msgid "Supplied Course Run Type slug [{rt_slug}] does not exist."
-msgstr "সরবরাহকৃত কোর্স রান টাইপ স্লাগ [{rt_slug}] অস্তিত্বহীন।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:78
+#, python-brace-format
 msgid "Supplied Course Type slug [{ct_slug}] does not exist."
-msgstr "সরবরাহকৃত কোর্স টাইপ স্লাগ [{ct_slug}] টি বিদ্যমান নেই।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:89
 msgid "No courses found. Did you specify an argument?"
-msgstr "কোনো কোর্স খুঁজে পাওয়া যায়নি। আপনি কোনো শর্ত উল্লেখ করেছেন কি?"
+msgstr ""
 
-msgid "Could not backpopulate a course type for the following courses: {course_keys}"
-msgstr "নিম্নলিখিত কোর্সগুলোর জন্য কোর্স টাইপ পুনরুদ্ধার করা যায়নি: {course_keys}"
+#: apps/course_metadata/management/commands/backpopulate_course_type.py:101
+#, python-brace-format
+msgid ""
+"Could not backpopulate a course type for the following courses: {course_keys}"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:21
 msgid "Delete duplicate persons in course_metadata."
-msgstr "course_metadata-তে ডুপ্লিকেট পার্সনদের ডিলিট করুন।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:26
 msgid "PERSON"
-msgstr "ব্যক্তি"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:28
 msgid "People to delete, in UUID:TARGET_UUID form."
-msgstr "UUID:TARGET_UUID ফর্মে ডিলিট করার জন্য লোকগুলো।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:32
 msgid "PARTNER"
-msgstr "পার্টনার"
+msgstr ""
 
-msgid "Use arguments from the DeletePersonDupsConfig model instead of the command line."
-msgstr "কমান্ড লাইনের বদলে DeletePersonDupsConfig মডেলের আর্গুমেন্টগুলো ব্যবহার করুন।"
+#: apps/course_metadata/management/commands/delete_person_dups.py:43
+msgid ""
+"Use arguments from the DeletePersonDupsConfig model instead of the command "
+"line."
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
-msgstr "ভুল আর্গুমেন্ট \"{}\", এটা UUID:TARGET_UUID এই ফরম্যাটে হওয়া উচিত।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "ভুল আর্গুমেন্ট \"{}\", UUID গুলো সমান হতে পারবে না।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
-msgstr "পোস্টগুলো ডিলিট করা হচ্ছে..."
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Would delete"
-msgstr "ডিলিট করবেন?"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:86
 msgid "Name"
-msgstr "নাম"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:87
 msgid "Endorsements"
-msgstr "সুপারিশ"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:88
 msgid "Programs"
-msgstr "প্রোগ্রাম"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:89
 msgid "Course Runs"
-msgstr "কোর্স চালান"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:90
 msgid "Target"
-msgstr "লক্ষ্য"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:129
 msgid "You must specify --partner-code"
-msgstr "আপনাকে --partner-code উল্লেখ করতে হবে।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/delete_person_dups.py:132
 msgid "You must specify at least one person"
-msgstr "আপনাকে কমপক্ষে একজন ব্যক্তি উল্লেখ করতে হবে।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/publish_live_course_runs.py:23
+#, python-brace-format
 msgid "Publishing course run {key}"
-msgstr "Publishing কোর্স {key} চলছে"
+msgstr ""
 
+#: apps/course_metadata/management/commands/publish_live_course_runs.py:28
+#, python-brace-format
 msgid "Failed to publish {key}"
-msgstr "{key} পাবলিশ করা যায়নি।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/publish_live_course_runs.py:31
+#, python-brace-format
 msgid "Successfully published {key}"
-msgstr "সফলভাবে {key} পাবলিশ করা হয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/publish_live_course_runs.py:34
 msgid "One or more course runs failed to publish."
-msgstr "এক বা একাধিক কোর্সের রান পাবলিশ করা যায়নি।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/remove_redirects_from_courses.py:22
 msgid "Remove all redirects to all courses"
-msgstr "সমস্ত কোর্সের রিডাইরেক্টগুলো সরিয়ে ফেলুন"
+msgstr ""
 
+#: apps/course_metadata/management/commands/remove_redirects_from_courses.py:23
 msgid "Redirects to remove"
-msgstr "সরানোর জন্য রিডাইরেক্ট করা হচ্ছে"
+msgstr ""
 
-msgid "Use arguments from the RemoveRedirectsConfig model instead of the command line."
-msgstr "কমান্ড লাইনের পরিবর্তে RemoveRedirectsConfig মডেল থেকে আর্গুমেন্ট ব্যবহার করুন।"
+#: apps/course_metadata/management/commands/remove_redirects_from_courses.py:25
+msgid ""
+"Use arguments from the RemoveRedirectsConfig model instead of the command "
+"line."
+msgstr ""
 
+#: apps/course_metadata/management/commands/remove_redirects_from_courses.py:32
 msgid "Invalid arguments"
-msgstr "ভুল আর্গুমেন্ট"
+msgstr ""
 
+#: apps/course_metadata/management/commands/remove_redirects_from_courses.py:56
+#, python-brace-format
 msgid "Cannot remove active url_slug {url_slug}"
-msgstr "সক্রিয় url_slug {url_slug} সরানো যাচ্ছে না।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/remove_redirects_from_courses.py:60
+#, python-brace-format
 msgid "Path /course/{url_slug} not in use, nothing to delete"
-msgstr "Path /course/{url_slug} ব্যবহার করা হচ্ছে না, ডিলিট করার কিছু নেই।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/remove_redirects_from_courses.py:65
+#, python-brace-format
 msgid "Path {url_path} not in use, nothing to delete"
-msgstr "পাথ {url_path} ব্যবহার করা হচ্ছে না, ডিলিট করার কিছু নেই।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/unpublish_inactive_runs.py:44
 msgid "One or more courses failed to unpublish."
-msgstr "একটি বা একাধিক কোর্স আনপাবলিশ করা যায়নি।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/unpublish_inactive_runs.py:50
+#, python-brace-format
 msgid "Successfully unpublished runs in course {key}"
-msgstr "কোর্স {key}-এর রানগুলো সফলভাবে আনপাবলিশ করা হয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/management/commands/unpublish_inactive_runs.py:53
+#, python-brace-format
 msgid "Failed to unpublish runs in course {key}"
-msgstr "কোর্স {key}-এর রান আনপাবলিশ করতে সমস্যা হয়েছে।"
+msgstr ""
 
-msgid "Please do not use any spaces or special characters other than period, underscore or hyphen. This key will be used in the course's course key."
-msgstr "দয়া করে কোনো স্পেস বা বিশেষ অক্ষর ব্যবহার করবেন না শুধুমাত্র পিরিয়ড_আন্ডারস্কোর অথবা হাইফেন ব্যবহার করুন।এই কীটি কোর্সের কোর্স কী-তে ব্যবহৃত হবে।"
+#: apps/course_metadata/models.py:239
+msgid ""
+"Please do not use any spaces or special characters other than period, "
+"underscore or hyphen. This key will be used in the course's course key."
+msgstr ""
 
+#: apps/course_metadata/models.py:244
 msgid "If populated, this field will overwrite name in platform."
-msgstr "যদি এই ঘর পূরণ করা হয়, তাহলে এটি প্ল্যাটফর্মে {name} এর পরিবর্তে এই মানটি ব্যবহার করবে।"
+msgstr ""
 
+#: apps/course_metadata/models.py:249
 msgid "Spanish Description"
-msgstr "স্প্যানিশ বর্ণনা"
+msgstr ""
 
-msgid "For seo, this field allows for alternate spanish description to be manually inputted"
-msgstr "এসইও-এর জন্য, এই ফিল্ডটি স্প্যানিশ ভাষায় বিকল্প বর্ণনা হাতেকলমে লেখার সুযোগ দেয়।"
+#: apps/course_metadata/models.py:250
+msgid ""
+"For seo, this field allows for alternate spanish description to be manually "
+"inputted"
+msgstr ""
 
-msgid "Pick a tag from the suggestions. To make a new tag, add a comma after the tag name."
-msgstr "সাজেশন থেকে একটা ট্যাগ বেছে নিন। নতুন ট্যাগ বানানোর জন্য, ট্যাগের নামের পরে কমা দিন।"
+#: apps/course_metadata/models.py:275 apps/course_metadata/models.py:1529
+#: apps/course_metadata/models.py:2372
+msgid ""
+"Pick a tag from the suggestions. To make a new tag, add a comma after the "
+"tag name."
+msgstr ""
 
+#: apps/course_metadata/models.py:279
 msgid "Automatically generate course run keys"
-msgstr "স্বয়ংক্রিয়ভাবে কোর্সের রান কী তৈরি করা"
+msgstr ""
 
-msgid "When this flag is enabled, the key of a new course run will be auto generated.  When this flag is disabled, the key can be manually set."
-msgstr "এই ফ্ল্যাগটি চালু থাকলে নতুন কোর্সের রান-এর কী স্বয়ংক্রিয়ভাবে তৈরি হবে। এই ফ্ল্যাগটি বন্ধ থাকলে কী manualmente সেট করা যাবে।"
-
-msgid "This field signifies if any of this org's courses are in the enterprise subscription catalog"
-msgstr "এই ক্ষেত্রটি নির্দেশ করে এই প্রতিষ্ঠানের কোনো কোর্স এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে আছে কিনা।"
-
+#: apps/course_metadata/models.py:281
 msgid ""
-"The 6 character-hex-value of the orgnization theme color,\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            all related course under same organization will use this color as theme color.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
-msgstr "সংস্থার থিম রঙের ৬ অক্ষরের হেক্স মান। এই রঙের থিম কালারটি একই সংস্থার অধীনে থাকা সকল কোর্সে ব্যবহৃত হবে। (যেমন: \"ff0000\" মানে লাল)। # দেওয়ার দরকার নেই।"
+"When this flag is enabled, the key of a new course run will be auto "
+"generated.  When this flag is disabled, the key can be manually set."
+msgstr ""
 
+#: apps/course_metadata/models.py:287
+msgid ""
+"This field signifies if any of this org's courses are in the enterprise "
+"subscription catalog"
+msgstr ""
+
+#: apps/course_metadata/models.py:290
+msgid ""
+"The 6 character-hex-value of the orgnization theme color,\n"
+"            all related course under same organization will use this color "
+"as theme color.\n"
+"            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
+msgstr ""
+
+#: apps/course_metadata/models.py:306
 msgid "The timestamp of the last time the organization data was modified."
-msgstr "সংস্থা ডেটা শেষ কবে পরিবর্তন করা হয়েছিল তার সময়সীমা।"
+msgstr ""
 
-msgid "Please do not use any spaces or special characters other than period, underscore or hyphen in the key field."
-msgstr "অনুগ্রহ করে {name}, কোনো স্পেস বা বিশেষ অক্ষর ব্যবহার করবেন না কী ফিল্ডে, শুধুমাত্র পিরিয়ড, আন্ডারস্কোর অথবা হাইফেন ব্যবহার করতে পারবেন।"
+#: apps/course_metadata/models.py:322
+msgid ""
+"Please do not use any spaces or special characters other than period, "
+"underscore or hyphen in the key field."
+msgstr ""
 
+#: apps/course_metadata/models.py:393
 msgid "Corresponding organization code in an external product source"
-msgstr "বাহ্যিক পণ্যের উৎসে সংশ্লিষ্ট প্রতিষ্ঠানের কোড"
+msgstr ""
 
+#: apps/course_metadata/models.py:450
 msgid "LevelType model translations"
-msgstr "LevelType মডেলের অনুবাদ"
+msgstr ""
 
-msgid "Seat types that qualify for completion of programs of this type. Learners completing associated courses, but enrolled in other seat types, will NOT have their completion of the course counted toward the completion of the program."
-msgstr "এই ধরণের প্রোগ্রামের সমাপ্তির জন্য যোগ্য আসন ধরণগুলো। সংশ্লিষ্ট কোর্স সম্পন্ন করা শিক্ষার্থীরা, কিন্তু অন্য আসন ধরনে নথিভুক্ত থাকলে, তাদের কোর্সের সমাপ্তি এই প্রোগ্রামের সমাপ্তির দিকে গণনা করা হবে না।"
+#: apps/course_metadata/models.py:475
+msgid ""
+"Seat types that qualify for completion of programs of this type. Learners "
+"completing associated courses, but enrolled in other seat types, will NOT "
+"have their completion of the course counted toward the completion of the "
+"program."
+msgstr ""
 
+#: apps/course_metadata/models.py:489
 msgid "Please provide an image file with transparent background"
-msgstr "দয়া করে স্বচ্ছ ব্যাকগ্রাউন্ডযুক্ত একটি ইমেজ ফাইল দিন।"
+msgstr ""
 
+#: apps/course_metadata/models.py:492 apps/course_metadata/models.py:536
+#: apps/course_metadata/models.py:702 apps/course_metadata/models.py:740
+#: apps/course_metadata/models.py:1464 apps/course_metadata/models.py:3385
 msgid "Leave this field blank to have the value generated automatically."
-msgstr "এই ঘরটি খালি রাখলে স্বয়ংক্রিয়ভাবে মান তৈরি হবে।"
+msgstr ""
 
+#: apps/course_metadata/models.py:533
 msgid "Name of the external source."
-msgstr "বাহ্যিক উৎসের নাম।"
+msgstr ""
 
+#: apps/course_metadata/models.py:538
 msgid "Description of the external source."
-msgstr "বাহ্যিক উৎসের বর্ণনা।"
+msgstr ""
 
+#: apps/course_metadata/models.py:543
 msgid "Programs of these types will be OFAC restricted"
-msgstr "এই ধরনের প্রোগ্রামগুলি OFAC দ্বারা নিয়ন্ত্রিত হবে"
+msgstr ""
 
+#: apps/course_metadata/models.py:557
 msgid "ProgramType model translations"
-msgstr "ProgramType মডেল অনুবাদ"
+msgstr ""
 
+#: apps/course_metadata/models.py:571
 msgid "This mode requires ID verification."
-msgstr "এই মোডে আইডি যাচাইকরণ প্রয়োজন।"
+msgstr ""
 
+#: apps/course_metadata/models.py:574
 msgid "Completion can grant credit toward an organization’s degree."
-msgstr "কোর্সটি সম্পন্ন করলে কোনো প্রতিষ্ঠানের ডিগ্রির দিকে ক্রেডিট যোগ হতে পারে।"
+msgstr ""
 
-msgid "Certificate type granted if this mode is eligible for a certificate, or blank if not."
-msgstr "যদি এই মোডটি সার্টিফিকেটের জন্য যোগ্য হয় তবে প্রদত্ত সার্টিফিকেটের ধরণ, অন্যথায় খালি রাখুন।"
+#: apps/course_metadata/models.py:578
+msgid ""
+"Certificate type granted if this mode is eligible for a certificate, or "
+"blank if not."
+msgstr ""
 
-msgid "Who gets paid for the course? Platform is the site owner, Organization is the school."
-msgstr "এই কোর্সের পেমেন্টটা কে পাবে? প্ল্যাটফর্ম মানে হল সাইটের মালিক, আর অর্গানাইজেশন মানে হল স্কুল।"
+#: apps/course_metadata/models.py:582
+msgid ""
+"Who gets paid for the course? Platform is the site owner, Organization is "
+"the school."
+msgstr ""
 
+#: apps/course_metadata/models.py:679
 msgid "Sets the order for displaying Course Run Types."
-msgstr "কোর্স রান টাইপগুলো দেখানোর ক্রম সেট করুন।"
+msgstr ""
 
-msgid "Leave this blank to allow all orgs. Otherwise, specifies which orgs can see this course type in Publisher."
-msgstr "এটা খালি রাখলে সব অর্গ দেখতে পারবে। অন্যথায়, কোন অর্গগুলো পাবলিশারে এই কোর্স টাইপ দেখতে পারবে, তা উল্লেখ করুন।"
+#: apps/course_metadata/models.py:682
+msgid ""
+"Leave this blank to allow all orgs. Otherwise, specifies which orgs can see "
+"this course type in Publisher."
+msgstr ""
 
+#: apps/course_metadata/models.py:732
 msgid "Subject model translations"
-msgstr "বিষয় মডেল অনুবাদ"
+msgstr ""
 
+#: apps/course_metadata/models.py:779
 msgid "Topic model translations"
-msgstr "বিষয় মডেলের অনুবাদ"
+msgstr ""
 
+#: apps/course_metadata/models.py:846
 msgid "SEO Meta tags for Products"
-msgstr "পণ্যগুলির জন্য এসইও মেটা ট্যাগ"
+msgstr ""
 
-msgid "The ID of the Taxi Form (by 2U) that would be rendered in place of the hubspot capture form"
-msgstr "2U কর্তৃক রেন্ডার করা ট্যাক্সি ফর্মের আইডি (যা হাবস্পট ক্যাপচার ফর্মের স্থানে প্রদর্শিত হবে)"
+#: apps/course_metadata/models.py:881
+msgid ""
+"The ID of the Taxi Form (by 2U) that would be rendered in place of the "
+"hubspot capture form"
+msgstr ""
 
-msgid "The grouping of the Taxi Form (by 2U) that would be rendered instead of the hubspot capture form"
-msgstr "২ইউ-এর ট্যাক্সি ফর্মের গ্রুপিং যা হাবস্পট ক্যাপচার ফর্মের পরিবর্তে রেন্ডার করা হবে"
+#: apps/course_metadata/models.py:887
+msgid ""
+"The grouping of the Taxi Form (by 2U) that would be rendered instead of the "
+"hubspot capture form"
+msgstr ""
 
+#: apps/course_metadata/models.py:933
 msgid "The URL of the paid landing page on external site"
-msgstr "বাহ্যিক সাইটে পেইড ল্যান্ডিং পেজের URL"
+msgstr ""
 
+#: apps/course_metadata/models.py:939
 msgid "The URL of the organic landing page on external site"
-msgstr "বাহ্যিক সাইটে অর্গানিক ল্যান্ডিং পেজের URL"
+msgstr ""
 
+#: apps/course_metadata/models.py:950
 msgid "The start date of the external course offering for marketing purpose"
-msgstr "মার্কেটিং এর উদ্দেশ্যে বাহ্যিক কোর্স অফারের শুরু হওয়ার তারিখ"
+msgstr ""
 
+#: apps/course_metadata/models.py:954
 msgid "The ends date of the external course offering for marketing purpose"
-msgstr "মার্কেটিং এর উদ্দেশ্যে বহিরাগত কোর্স অফারের শেষ তারিখ"
+msgstr ""
 
+#: apps/course_metadata/models.py:958
 msgid "The suggested deadline for enrollment for marketing purpose"
-msgstr "মার্কেটিং এর জন্য ভর্তির প্রস্তাবিত শেষ তারিখ"
+msgstr ""
 
+#: apps/course_metadata/models.py:962
 msgid "The identifier for a product variant."
-msgstr "একটি পণ্যের ভিন্নতার পরিচিতি নম্বর।"
+msgstr ""
 
+#: apps/course_metadata/models.py:966
 msgid "Course override"
-msgstr "কোর্স ওভাররাইড"
+msgstr ""
 
+#: apps/course_metadata/models.py:967
 msgid "This field allows for override the default course term"
-msgstr "এই ক্ষেত্রটি ডিফল্ট কোর্স টার্ম পরিবর্তন করার সুযোগ দেয়।"
+msgstr ""
 
-msgid "This field contain external course marketing type specific to product lines"
-msgstr "এই ফিল্ডে পণ্য লাইনের জন্য বিশেষভাবে বাহ্যিক কোর্স মার্কেটিংয়ের ধরন উল্লেখ করা হবে।"
+#: apps/course_metadata/models.py:993
+msgid ""
+"This field contain external course marketing type specific to product lines"
+msgstr ""
 
-msgid "Determines weather the course should be displayed on the owning organization's page"
-msgstr "এই কোর্সটি মালিকানা সংস্থা/প্রতিষ্ঠানের পেজে দেখানো হবে কিনা তা নির্ধারণ করে।"
+#: apps/course_metadata/models.py:1002
+msgid ""
+"Determines weather the course should be displayed on the owning "
+"organization's page"
+msgstr ""
 
+#: apps/course_metadata/models.py:1073
 msgid "A list of major works by this person. Must be valid HTML."
-msgstr "এই ব্যক্তির প্রধান কাজগুলোর তালিকা। অবশ্যই বৈধ HTML হতে হবে।"
+msgstr ""
 
+#: apps/course_metadata/models.py:1081
 msgid "People"
-msgstr "লোকেরা"
+msgstr ""
 
-msgid "Add the collaborator image, please make sure its dimensions are 200x100px"
-msgstr "সহকর্মীর ছবি যোগ করুন, দয়া করে নিশ্চিত করুন ছবির মাপ যেন 200x100 পিক্সেল হয়।"
+#: apps/course_metadata/models.py:1272
+msgid ""
+"Add the collaborator image, please make sure its dimensions are 200x100px"
+msgstr ""
 
+#: apps/course_metadata/models.py:1296
 msgid "U.S. Value Per Lead"
-msgstr "মার্কিন যুক্তরাষ্ট্রের প্রতি লিডের মূল্য"
+msgstr ""
 
+#: apps/course_metadata/models.py:1297
 msgid "U.S. value per lead in U.S. dollars."
-msgstr "মার্কিন ডলারে ইউ.এস.-এর প্রতি লিডের মূল্য।"
+msgstr ""
 
+#: apps/course_metadata/models.py:1302
 msgid "International Value Per Lead"
-msgstr "আন্তর্জাতিক লিড প্রতি মূল্য"
+msgstr ""
 
+#: apps/course_metadata/models.py:1303
 msgid "International value per lead in U.S. dollars."
-msgstr "মার্কিন ডলারে প্রতি লিডের আন্তর্জাতিক মূল্য।"
+msgstr ""
 
+#: apps/course_metadata/models.py:1308
 msgid "U.S. Value Per Click"
-msgstr "মার্কিন যুক্তরাষ্ট্রের প্রতি ক্লিকের মূল্য"
+msgstr ""
 
+#: apps/course_metadata/models.py:1309
 msgid "U.S. value per click in U.S. dollars."
-msgstr "মার্কিন যুক্তরাষ্ট্রে প্রতি ক্লিকের মূল্য (মার্কিন ডলারে)।"
+msgstr ""
 
+#: apps/course_metadata/models.py:1314
 msgid "International Value Per Click"
-msgstr "আন্তর্জাতিক প্রতি ক্লিকের মূল্য"
+msgstr ""
 
+#: apps/course_metadata/models.py:1315
 msgid "International value per click in U.S. dollars."
-msgstr "মার্কিন ডলারে আন্তর্জাতিকভাবে প্রতি ক্লিকের মূল্য।"
+msgstr ""
 
+#: apps/course_metadata/models.py:1359
 msgid "Latitude"
-msgstr "অক্ষাংশ"
+msgstr ""
 
+#: apps/course_metadata/models.py:1366
 msgid "Longitude"
-msgstr "দৈর্ঘ্যরেখা"
+msgstr ""
 
+#: apps/course_metadata/models.py:1409
 msgid "Allowlist"
-msgstr "অনুমোদিত তালিকা"
+msgstr ""
 
+#: apps/course_metadata/models.py:1410
 msgid "Blocklist"
-msgstr "ব্লকলিস্ট"
+msgstr ""
 
-msgid "When making reruns for this course, they will use this key instead of the course key."
-msgstr "এই কোর্সের জন্য রিরান করার সময়, তারা কোর্স কী-এর পরিবর্তে এই কী ব্যবহার করবে।"
+#: apps/course_metadata/models.py:1460
+msgid ""
+"When making reruns for this course, they will use this key instead of the "
+"course key."
+msgstr ""
 
-msgid "The actual duration of this course as experienced by learners who complete it."
-msgstr "যারা কোর্সটি সম্পন্ন করেছেন তাদের অভিজ্ঞতায় এই কোর্সের প্রকৃত সময়কাল।"
+#: apps/course_metadata/models.py:1477
+msgid ""
+"The actual duration of this course as experienced by learners who complete "
+"it."
+msgstr ""
 
+#: apps/course_metadata/models.py:1498
 msgid "Add the course image"
-msgstr "কোর্স এর ছবি যোগ করুন"
+msgstr ""
 
+#: apps/course_metadata/models.py:1501 apps/course_metadata/models.py:3357
 msgid "FAQ"
-msgstr "সাধারণ জিজ্ঞাসা"
+msgstr ""
 
+#: apps/course_metadata/models.py:1504
 msgid "Total number of learners who have enrolled in this course"
-msgstr "এই কোর্সে মোট কতজন শিক্ষার্থী ভর্তি হয়েছেন"
+msgstr ""
 
-msgid "Total number of learners who have enrolled in this course in the last 6 months"
-msgstr "গত ৬ মাসে এই কোর্সে মোট {name} জন শিক্ষার্থী ভর্তি হয়েছেন।"
+#: apps/course_metadata/models.py:1509
+msgid ""
+"Total number of learners who have enrolled in this course in the last 6 "
+"months"
+msgstr ""
 
+#: apps/course_metadata/models.py:1523
 msgid "Course number format e.g CS002x, BIO1.1x, BIO1.2x"
-msgstr "কোর্স নম্বর ফরম্যাট যেমন: CS002x, BIO1.1x, BIO1.2x"
+msgstr ""
 
+#: apps/course_metadata/models.py:1537
 msgid "Additional Information"
-msgstr "অতিরিক্ত তথ্য"
+msgstr ""
 
+#: apps/course_metadata/models.py:1559
 msgid "The last time this course was modified in the database."
-msgstr "এই কোর্সটি ডাটাবেসে শেষ কবে পরিবর্তন করা হয়েছিল।"
+msgstr ""
 
-msgid "This field signifies if this course is in the enterprise subscription catalog"
-msgstr "এই ক্ষেত্রটি নির্দেশ করে যে এই কোর্সটি এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে আছে কিনা।"
+#: apps/course_metadata/models.py:1564
+msgid ""
+"This field signifies if this course is in the enterprise subscription catalog"
+msgstr ""
 
-msgid "If checked, this item will not be indexed in Algolia and will not show up in search results."
-msgstr "যদি এই অপশনটি নির্বাচন করা হয়, তাহলে এই আইটেমটি অ্যালগোলিয়াতে ইনডেক্স করা হবে না এবং সার্চ রেজাল্টে দেখা যাবে না।"
+#: apps/course_metadata/models.py:1572 apps/course_metadata/models.py:3516
+msgid ""
+"If checked, this item will not be indexed in Algolia and will not show up in "
+"search results."
+msgstr ""
 
+#: apps/course_metadata/models.py:1580 apps/course_metadata/models.py:3524
 msgid "If checked, the About Page will have a meta tag with noindex value"
-msgstr "যদি চেক করা হয়, তাহলে অ্যাবাউট পেজে নোইনডেক্স ভ্যালুসহ একটি মেটা ট্যাগ থাকবে।"
+msgstr ""
 
+#: apps/course_metadata/models.py:1585
 msgid "Watchers"
-msgstr "অনুসারী"
+msgstr ""
 
-msgid "The list of email addresses that will be notified if any of the course runs is published or scheduled."
-msgstr "যদি কোনো কোর্সের রান পাবলিশ বা শিডিউল করা হয়, তাহলে এই ইমেইল ঠিকানাগুলোতে নোটিফিকেশন পাঠানো হবে।"
+#: apps/course_metadata/models.py:1587
+msgid ""
+"The list of email addresses that will be notified if any of the course runs "
+"is published or scheduled."
+msgstr ""
 
+#: apps/course_metadata/models.py:1832
 msgid "Future"
-msgstr "ভবিষ্যৎ"
+msgstr ""
 
+#: apps/course_metadata/models.py:1834
 msgid "Past"
-msgstr "অতীতে"
+msgstr ""
 
+#: apps/course_metadata/models.py:2276 apps/course_metadata/models.py:3368
 msgid "Blocked"
-msgstr "ব্লক করা"
+msgstr ""
 
+#: apps/course_metadata/models.py:2277 apps/course_metadata/models.py:3369
 msgid "Unrestricted"
-msgstr "সীমাহীন"
+msgstr ""
 
-msgid "Title specific for this run of a course. Leave this value blank to default to the parent course's title."
-msgstr "এই কোর্সের এই সংস্করণের জন্য নির্দিষ্ট শিরোনাম। প্যারেন্ট কোর্সের শিরোনামে ডিফল্ট করার জন্য এই মানটি খালি রাখুন।"
+#: apps/course_metadata/models.py:2298
+msgid ""
+"Title specific for this run of a course. Leave this value blank to default "
+"to the parent course's title."
+msgstr ""
 
-msgid "Short description specific for this run of a course. Leave this value blank to default to the parent course's short_description attribute."
-msgstr "এই কোর্সের এই বিশেষ সেশনের জন্য সংক্ষিপ্ত বর্ণনা। এই মানটি খালি রাখলে, এটি প্যারেন্ট কোর্সের short_description বৈশিষ্ট্যটির ডিফল্ট মান ব্যবহার করবে।"
+#: apps/course_metadata/models.py:2307
+msgid ""
+"Short description specific for this run of a course. Leave this value blank "
+"to default to the parent course's short_description attribute."
+msgstr ""
 
-msgid "Full description specific for this run of a course. Leave this value blank to default to the parent course's full_description attribute."
-msgstr "এই কোর্সের এই সেশনের জন্য বিস্তারিত বর্ণনা। প্যারেন্ট কোর্সের `full_description` অ্যাট্রিবিউটের ডিফল্ট মান ব্যবহার করতে এই ফিল্ডটি খালি রাখুন।"
+#: apps/course_metadata/models.py:2311
+msgid ""
+"Full description specific for this run of a course. Leave this value blank "
+"to default to the parent course's full_description attribute."
+msgstr ""
 
-msgid "Estimated minimum number of hours per week needed to complete a course run."
-msgstr "একটি কোর্স সম্পন্ন করতে প্রতি সপ্তাহে আনুমানিক সর্বনিম্ন কত ঘণ্টা সময় লাগতে পারে।"
+#: apps/course_metadata/models.py:2316
+msgid ""
+"Estimated minimum number of hours per week needed to complete a course run."
+msgstr ""
 
-msgid "Estimated maximum number of hours per week needed to complete a course run."
-msgstr "একটি কোর্স সম্পন্ন করতে প্রতি সপ্তাহে আনুমানিক সর্বোচ্চ কত ঘণ্টা লাগতে পারে।"
+#: apps/course_metadata/models.py:2319
+msgid ""
+"Estimated maximum number of hours per week needed to complete a course run."
+msgstr ""
 
+#: apps/course_metadata/models.py:2322
 msgid "Estimated number of weeks needed to complete this course run."
-msgstr "এই কোর্সটি শেষ করতে আনুমানিক কত সপ্তাহ লাগতে পারে।"
+msgstr ""
 
-msgid "A JSON dict detailing the available translations and transcriptions for this run. The dict has two keys: translation_languages and transcription_languages."
-msgstr "এই রানটির জন্য উপলব্ধ অনুবাদ এবং প্রতিলিপিগুলোর বিবরণ দেওয়া একটি JSON ডিকশনারি। ডিকশনারিটিতে দুটি কী আছে: translation_languages এবং transcription_languages।"
+#: apps/course_metadata/models.py:2329
+msgid ""
+"A JSON dict detailing the available translations and transcriptions for this "
+"run. The dict has two keys: translation_languages and "
+"transcription_languages."
+msgstr ""
 
+#: apps/course_metadata/models.py:2336
 msgid "Total number of learners who have enrolled in this course run"
-msgstr "এই কোর্সে মোট {name} জন শিক্ষার্থী ভর্তি হয়েছে।"
+msgstr ""
 
-msgid "Total number of learners who have enrolled in this course run in the last 6 months"
-msgstr "গত ৬ মাসে এই কোর্সে মোট কতজন শিক্ষার্থী ভর্তি হয়েছে"
+#: apps/course_metadata/models.py:2340
+msgid ""
+"Total number of learners who have enrolled in this course run in the last 6 "
+"months"
+msgstr ""
 
-msgid "Whether this run should be hidden from API responses.  Do not edit here - this value will be overwritten by the \"Course Visibility In Catalog\" field in Studio via Refresh Course Metadata."
-msgstr "এই রানটি API রেসপন্স থেকে লুকানো হবে কিনা। এখানে সম্পাদনা করবেন না - স্টুডিওর \"কোর্স ভিজিবিলিটি ইন ক্যাটালগ\" ফিল্ডের মাধ্যমে রিফ্রেশ কোর্স মেটাডেটার সময় এই মান পরিবর্তন করা হবে।"
+#: apps/course_metadata/models.py:2353
+msgid ""
+"Whether this run should be hidden from API responses.  Do not edit here - "
+"this value will be overwritten by the \"Course Visibility In Catalog\" field "
+"in Studio via Refresh Course Metadata."
+msgstr ""
 
+#: apps/course_metadata/models.py:2359
 msgid "Indicates whether the course relation has been manually overridden."
-msgstr "এই কোর্স রিলেশনটি ম্যানুয়ালি ওভাররাইড করা হয়েছে কিনা তা নির্দেশ করে।"
+msgstr ""
 
-msgid "'What You Will Learn' description for this particular course run. Leave this value blank to default to the parent course's Outcome attribute."
-msgstr "এই কোর্সের মাধ্যমে আপনি যা শিখবেন (এই বিশেষ কোর্সের জন্য)। এই মানটি খালি রাখলে, এটি মূল কোর্সের Outcome অ্যাট্রিবিউটের সাথে ডিফল্ট হবে।"
+#: apps/course_metadata/models.py:2366
+msgid ""
+"'What You Will Learn' description for this particular course run. Leave this "
+"value blank to default to the parent course's Outcome attribute."
+msgstr ""
 
+#: apps/course_metadata/models.py:2379 apps/course_metadata/models.py:3552
 msgid "Add OFAC restriction text to the FAQ section of the Marketing site"
-msgstr "মার্কেটিং সাইটের প্রায়শই জিজ্ঞাসিত প্রশ্ন (FAQ) বিভাগে OFAC বিধিনিষেধ সংক্রান্ত লেখা যোগ করুন"
+msgstr ""
 
-msgid "This calculated field signifies if this course run is in the enterprise subscription catalog"
-msgstr "এই ক্যালকুলেটেড ফিল্ডটি নির্দেশ করে যে এই কোর্স রানটি এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে আছে কিনা।"
+#: apps/course_metadata/models.py:2399
+msgid ""
+"This calculated field signifies if this course run is in the enterprise "
+"subscription catalog"
+msgstr ""
 
-msgid "The identifier for a product variant. This is used to link a course run to a product variant for external LOBs (i.e; ExecEd & Bootcamps)."
-msgstr "একটি পণ্যের ভিন্নতার পরিচিতি নম্বর। এটি কোর্স রানকে বাহ্যিক ব্যবসার ক্ষেত্রগুলির (যেমন: ExecEd ও বুটক্যাম্প) সাথে যুক্ত করতে ব্যবহৃত হয়।"
+#: apps/course_metadata/models.py:2405
+msgid ""
+"The identifier for a product variant. This is used to link a course run to a "
+"product variant for external LOBs (i.e; ExecEd & Bootcamps)."
+msgstr ""
 
+#: apps/course_metadata/models.py:2753 apps/course_metadata/models.py:2766
 msgid "Current"
-msgstr "বর্তমান"
+msgstr ""
 
+#: apps/course_metadata/models.py:2755
 msgid "Starting Soon"
-msgstr "শীঘ্রই শুরু হচ্ছে"
+msgstr ""
 
-msgid "Switching seat types after being reviewed is not supported. Please reach out to your project coordinator for additional help if necessary."
-msgstr "পর্যালোচনা করার পরে সিটের ধরন পরিবর্তন করা সমর্থন করা হয় না। প্রয়োজনে অতিরিক্ত সহায়তার জন্য আপনার প্রকল্প সমন্বয়কের সাথে যোগাযোগ করুন।"
+#: apps/course_metadata/models.py:2805
+msgid ""
+"Switching seat types after being reviewed is not supported. Please reach out "
+"to your project coordinator for additional help if necessary."
+msgstr ""
 
+#: apps/course_metadata/models.py:3158
 msgid "Change careers"
-msgstr "কেরিয়ার পরিবর্তন করুন"
+msgstr ""
 
+#: apps/course_metadata/models.py:3159
 msgid "Job advancement"
-msgstr "চাকরির উন্নতি"
+msgstr ""
 
+#: apps/course_metadata/models.py:3160
 msgid "Learn valuable skills"
-msgstr "মূল্যবান দক্ষতা শিখুন"
+msgstr ""
 
+#: apps/course_metadata/models.py:3161
 msgid "Learn for fun"
-msgstr "আনন্দ করে শিখুন"
+msgstr ""
 
+#: apps/course_metadata/models.py:3358
 msgid "FAQs"
-msgstr "FAQ"
+msgstr ""
 
+#: apps/course_metadata/models.py:3373
 msgid "The user-facing display title for this Program."
-msgstr "এই প্রোগ্রামের ব্যবহারকারীর জন্য প্রদর্শিত শিরোনাম।"
+msgstr ""
 
+#: apps/course_metadata/models.py:3375
 msgid "A brief, descriptive subtitle for the Program."
-msgstr "প্রোগ্রামটির একটি সংক্ষিপ্ত, বর্ণনাকারী উপশিরোনাম।"
+msgstr ""
 
+#: apps/course_metadata/models.py:3377
 msgid "A brief hook for the marketing website"
-msgstr "মার্কেটিং ওয়েবসাইটের জন্য একটি সংক্ষিপ্ত পরিচিতি"
+msgstr ""
 
+#: apps/course_metadata/models.py:3380
 msgid "The lifecycle status of this Program."
-msgstr "এই প্রোগ্রামের লাইফসাইকেল স্ট্যাটাস।"
+msgstr ""
 
-msgid "If this box is not checked, courses will be ordered as in the courses select box above."
-msgstr "যদি এই বাক্সটি টিক দেওয়া না হয়, তাহলে কোর্সগুলো উপরের কোর্স নির্বাচন বক্সের মতো করেই সাজানো হবে।"
+#: apps/course_metadata/models.py:3392
+msgid ""
+"If this box is not checked, courses will be ordered as in the courses select "
+"box above."
+msgstr ""
 
-msgid "This field is now deprecated (ECOM-6021).Estimated number of weeks needed to complete a course run belonging to this program."
-msgstr "এই ফিল্ডটি এখন বাতিল করা হয়েছে (ECOM-6021)। এই প্রোগ্রামের অধীনে একটি কোর্স সম্পন্ন করতে আনুমানিক কত সপ্তাহ লাগতে পারে।"
+#: apps/course_metadata/models.py:3407
+msgid ""
+"This field is now deprecated (ECOM-6021).Estimated number of weeks needed to "
+"complete a course run belonging to this program."
+msgstr ""
 
+#: apps/course_metadata/models.py:3433
 msgid "DEPRECATED: Use the card image field"
-msgstr "ব্যবহার করা হচ্ছে না: কার্ডের ইমেজ ক্ষেত্রটি ব্যবহার করুন"
+msgstr ""
 
-msgid "This field can be used by API clients to determine the order in which instructors will be displayed on program pages. Instructors in this list should appear before all others associated with this programs courses runs."
-msgstr "এই ক্ষেত্রটি API ক্লায়েন্টদের প্রোগ্রামের পেজে প্রশিক্ষকদের প্রদর্শনের ক্রম নির্ধারণ করতে ব্যবহার করা যেতে পারে। এই তালিকার প্রশিক্ষকদের এই প্রোগ্রামের কোর্স রানের সাথে যুক্ত অন্য সকলের আগে প্রদর্শিত হওয়া উচিত।"
+#: apps/course_metadata/models.py:3440
+msgid ""
+"This field can be used by API clients to determine the order in which "
+"instructors will be displayed on program pages. Instructors in this list "
+"should appear before all others associated with this programs courses runs."
+msgstr ""
 
+#: apps/course_metadata/models.py:3451
 msgid "The description of credit redemption for courses in program"
-msgstr "প্রোগ্রাম-এর কোর্সগুলির জন্য ক্রেডিট রিডেম্পশনের বিবরণ"
+msgstr ""
 
+#: apps/course_metadata/models.py:3456
 msgid "Allow courses in this program to be purchased in a single transaction"
-msgstr "এই প্রোগ্রামের কোর্সগুলো একসাথে কেনার সুযোগ দিন।"
+msgstr ""
 
-msgid "Hide program on marketing site landing and search pages. This program MAY have a detail page."
-msgstr "মার্কেটিং সাইটের ল্যান্ডিং এবং সার্চ পেজ থেকে প্রোগ্রামটি লুকিয়ে রাখুন। এই প্রোগ্রামের ডিটেইল পেজ থাকতেও পারে।"
+#: apps/course_metadata/models.py:3460
+msgid ""
+"Hide program on marketing site landing and search pages. This program MAY "
+"have a detail page."
+msgstr ""
 
+#: apps/course_metadata/models.py:3463
 msgid "Total number of learners who have enrolled in courses this program"
-msgstr "এই প্রোগ্রামে এই পর্যন্ত মোট {name} জন শিক্ষার্থী নথিভুক্ত হয়েছে।"
+msgstr ""
 
-msgid "Total number of learners who have enrolled in courses in this program in the last 6 months"
-msgstr "গত ৬ মাসে এই প্রোগ্রামে কোর্সে নথিভুক্ত শিক্ষার্থীর মোট সংখ্যা"
+#: apps/course_metadata/models.py:3468
+msgid ""
+"Total number of learners who have enrolled in courses in this program in the "
+"last 6 months"
+msgstr ""
 
-msgid "Number of credits a learner will earn upon successful completion of the program"
-msgstr "সফলভাবে প্রোগ্রামটি সম্পন্ন করার পরে একজন শিক্ষার্থী কত ক্রেডিট পাবে"
+#: apps/course_metadata/models.py:3473
+msgid ""
+"Number of credits a learner will earn upon successful completion of the "
+"program"
+msgstr ""
 
-msgid "This calculated field signifies if all the courses in this program are included in the enterprise subscription catalog "
-msgstr "এই ক্যালকুলেটেড ফিল্ডটি নির্দেশ করে যে এই প্রোগ্রামের সমস্ত কোর্স এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে অন্তর্ভুক্ত আছে কিনা।"
+#: apps/course_metadata/models.py:3477
+msgid ""
+"This calculated field signifies if all the courses in this program are "
+"included in the enterprise subscription catalog "
+msgstr ""
 
-msgid "A field to override Organization short code alias specific for this program."
-msgstr "এই প্রোগ্রামটির জন্য নির্দিষ্ট করে অর্গানাইজেশন শর্ট কোড উপনাম পরিবর্তন করার ক্ষেত্র।"
+#: apps/course_metadata/models.py:3481
+msgid ""
+"A field to override Organization short code alias specific for this program."
+msgstr ""
 
+#: apps/course_metadata/models.py:3488
 msgid "A field to override Organization logo specific for this program."
-msgstr "এই প্রোগ্রামটির জন্য নির্দিষ্ট করে অর্গানাইজেশন লোগো পরিবর্তন করার ক্ষেত্র।"
+msgstr ""
 
-msgid "Primary subject field specific for this program. Useful field in case there are no courses associated with this program."
-msgstr "এই প্রোগ্রামের জন্য নির্দিষ্ট প্রাথমিক বিষয় ক্ষেত্র। এই প্রোগ্রাম এর সাথে কোনো কোর্স যুক্ত না থাকলে এই ক্ষেত্রটি কাজে লাগবে।"
+#: apps/course_metadata/models.py:3492
+msgid ""
+"Primary subject field specific for this program. Useful field in case there "
+"are no courses associated with this program."
+msgstr ""
 
-msgid "Level type specific for this program. Useful field in case there are no courses associated with this program."
-msgstr "এই প্রোগ্রামের জন্য নির্দিষ্ট লেভেল টাইপ। এই প্রোগ্রামের সাথে কোনো কোর্স যুক্ত না থাকলে এই ফিল্ডটি কাজে লাগবে।"
+#: apps/course_metadata/models.py:3497
+msgid ""
+"Level type specific for this program. Useful field in case there are no "
+"courses associated with this program."
+msgstr ""
 
-msgid "Language code specific for this program. Useful field in case there are no courses associated with this program."
-msgstr "এই প্রোগ্রামের জন্য নির্দিষ্ট ভাষা কোড। যদি এই প্রোগ্রামের সাথে কোনো কোর্স যুক্ত না থাকে তাহলে এই ক্ষেত্রটি কাজে লাগবে।"
+#: apps/course_metadata/models.py:3502
+msgid ""
+"Language code specific for this program. Useful field in case there are no "
+"courses associated with this program."
+msgstr ""
 
-msgid "Useful field to overwrite the duration of a program. It can be a text describing a period of time, Ex: 6-9 months."
-msgstr "একটি প্রোগ্রামের সময়সীমা পরিবর্তন করার জন্য দরকারি ক্ষেত্র। এখানে সময়ের একটি বর্ণনা লেখা যেতে পারে, যেমন: ৬-৯ মাস।"
+#: apps/course_metadata/models.py:3536
+msgid ""
+"Useful field to overwrite the duration of a program. It can be a text "
+"describing a period of time, Ex: 6-9 months."
+msgstr ""
 
-msgid "Pick a tag/label from the suggestions. To make a new tag, add a comma after the tag name."
-msgstr "সুপারিশগুলো থেকে একটা ট্যাগ/লেবেল পছন্দ করুন। নতুন ট্যাগ তৈরি করতে, ট্যাগের নামের পরে কমা দিন।"
+#: apps/course_metadata/models.py:3545
+msgid ""
+"Pick a tag/label from the suggestions. To make a new tag, add a comma after "
+"the tag name."
+msgstr ""
 
+#: apps/course_metadata/models.py:3556
 msgid "The last time this program was modified."
-msgstr "এই প্রোগ্রামটি শেষ কবে পরিবর্তন করা হয়েছিল।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4008 apps/course_metadata/models.py:4025
 msgid "ID"
-msgstr "আইডি"
+msgstr ""
 
+#: apps/course_metadata/models.py:4044
 msgid "The actual rank number"
-msgstr "প্রকৃত র‍্যাঙ্ক নম্বর"
+msgstr ""
 
+#: apps/course_metadata/models.py:4045
 msgid "What does the rank number mean"
-msgstr "র‍্যাঙ্ক নম্বরটা কী মানে?"
+msgstr ""
 
+#: apps/course_metadata/models.py:4046
 msgid "From where the rank is obtained"
-msgstr "র‍্যাঙ্কটা কোথা থেকে পাওয়া গেছে"
+msgstr ""
 
+#: apps/course_metadata/models.py:4093
 msgid "Callback URL to partner application flow"
-msgstr "পার্টনার অ্যাপ্লিকেশনের ফ্লো-এর জন্য কলব্যাক ইউআরএল"
+msgstr ""
 
+#: apps/course_metadata/models.py:4096
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
-msgstr "সামগ্রিক প্রোগ্রামের র‍্যাঙ্কিং (যেমন: \"#1 ইউ.এস.-এ\")"
+msgstr ""
 
+#: apps/course_metadata/models.py:4101
 msgid ""
-"The 6 character hex value of the color to make the banner borders\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"The 6 character hex value of the color to make the banner borders\n"
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
-msgstr " ব্যানারের বর্ডারের জন্য ৬ অক্ষরের হেক্স কোড দিন (যেমন: \"ff0000\" মানে লাল)। `#` দেওয়ার দরকার নেই।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4110
 msgid "Provide a campus image for the header of the degree"
-msgstr "ডিগ্রীর হেডার অংশের জন্য একটি ক্যাম্পাস ইমেজ দিন।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4116
 msgid "Provide a background image for the title section of the degree"
-msgstr "ডিগ্রীর টাইটেল সেকশনের জন্য একটি ব্যাকগ্রাউন্ড ইমেজ দিন।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4121
 msgid "The fine print that displays at the Tuition section's bottom"
-msgstr "Tuition সেকশনের নিচে প্রদর্শিত শর্তাবলী"
+msgstr ""
 
+#: apps/course_metadata/models.py:4126
 msgid "The fine print that displays at the Deadline section's bottom"
-msgstr "ডেডলাইনের নিচে প্রদর্শিত শর্তাবলী"
+msgstr ""
 
+#: apps/course_metadata/models.py:4133
 msgid "The sailthru email list name to capture leads"
-msgstr "লিড ক্যাপচার করার জন্য সেইলথ্রু ইমেল লিস্টের নাম"
+msgstr ""
 
+#: apps/course_metadata/models.py:4147
 msgid "Please provide an image file for the lead capture banner."
-msgstr "লিড ক্যাপচার ব্যানারের জন্য একটি ছবি ফাইল দিন।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4150
 msgid "The Hubspot form ID for the lead capture form"
-msgstr "লিড ক্যাপচার ফর্মের জন্য হাবস্পট ফর্ম আইডি"
+msgstr ""
 
+#: apps/course_metadata/models.py:4156
 msgid "URL to micromasters landing page"
-msgstr "মাইক্রোমাস্টার্স ল্যান্ডিং পেজের URL"
+msgstr ""
 
+#: apps/course_metadata/models.py:4162
 msgid "Micromasters verbose title"
-msgstr "মাইক্রোমাস্টার্স বিস্তারিত শিরোনাম"
+msgstr ""
 
+#: apps/course_metadata/models.py:4168
 msgid "Micromasters descriptive paragraph"
-msgstr "মাইক্রোমাস্টার্স প্রোগ্রামটি সম্পর্কে সংক্ষিপ্ত বর্ণনা।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4181
 msgid "Customized background image for the MicroMasters section."
-msgstr "মাইক্রোমাস্টার্স সেকশনের জন্য কাস্টমাইজড ব্যাকগ্রাউন্ড ইমেজ।"
+msgstr ""
 
-msgid "Override org name if micromasters program comes from different organization than Masters program"
-msgstr "যদি মাইক্রোমাস্টার্স প্রোগ্রামটি মাস্টার্স প্রোগ্রামের চেয়ে ভিন্ন সংস্থা থেকে আসে, তাহলে সংস্থার নাম পরিবর্তন করুন।"
+#: apps/course_metadata/models.py:4185
+msgid ""
+"Override org name if micromasters program comes from different organization "
+"than Masters program"
+msgstr ""
 
-msgid "Ranking display for search card (e.g. \"#1 in the U.S.\\"
-msgstr "সার্চ কার্ডের র‍্যাঙ্কিং প্রদর্শন (যেমন: \"যুক্তরাষ্ট্রে #১\")"
+#: apps/course_metadata/models.py:4192
+msgid "Ranking display for search card (e.g. \"#1 in the U.S.\""
+msgstr ""
 
-msgid "Cost display for search card (e.g. \"$9,999\\"
-msgstr "সার্চ কার্ডের দাম (যেমন: $9,999)"
+#: apps/course_metadata/models.py:4198
+msgid "Cost display for search card (e.g. \"$9,999\""
+msgstr ""
 
-msgid "Number of courses for search card (e.g. \"11 Courses\\"
-msgstr "অনুসন্ধান কার্ডের জন্য কোর্সের সংখ্যা (যেমন \"১১টি কোর্স\")"
+#: apps/course_metadata/models.py:4204
+msgid "Number of courses for search card (e.g. \"11 Courses\""
+msgstr ""
 
-msgid "Designates whether the degree should be displayed on the owning organization's page"
-msgstr "এই ডিগ্রিটি মালিকানাধীন প্রতিষ্ঠানের পেজে দেখানো হবে কিনা তা নির্দিষ্ট করে।"
+#: apps/course_metadata/models.py:4212
+msgid ""
+"Designates whether the degree should be displayed on the owning "
+"organization's page"
+msgstr ""
 
+#: apps/course_metadata/models.py:4231
 msgid "The redirect URL of the degree on external site"
-msgstr "বাহ্যিক সাইটে ডিগ্রির রিডাইরেক্ট ইউআরএল"
+msgstr ""
 
+#: apps/course_metadata/models.py:4236
 msgid "The URL of the landing page on external site"
-msgstr "বাহ্যিক সাইটে ল্যান্ডিং পেজের URL"
+msgstr ""
 
+#: apps/course_metadata/models.py:4287
 msgid "Bell"
-msgstr "বেল"
+msgstr ""
 
+#: apps/course_metadata/models.py:4288
 msgid "Certificate"
-msgstr "সার্টিফিকেট"
+msgstr ""
 
+#: apps/course_metadata/models.py:4289
 msgid "Checkmark"
-msgstr "টিক চিহ্ন"
+msgstr ""
 
+#: apps/course_metadata/models.py:4290
 msgid "Clock"
-msgstr "ঘড়ি"
+msgstr ""
 
+#: apps/course_metadata/models.py:4291
 msgid "Desktop"
-msgstr "ডেস্কটপ"
+msgstr ""
 
+#: apps/course_metadata/models.py:4292
 msgid "Info"
-msgstr "তথ্য"
+msgstr ""
 
+#: apps/course_metadata/models.py:4293
 msgid "Sitemap"
-msgstr "সাইটম্যাপ"
+msgstr ""
 
+#: apps/course_metadata/models.py:4294
 msgid "User"
-msgstr "ব্যবহারকারী"
+msgstr ""
 
+#: apps/course_metadata/models.py:4295
 msgid "Dollar"
-msgstr "ডলার"
+msgstr ""
 
+#: apps/course_metadata/models.py:4296
 msgid "Book"
-msgstr "বই"
+msgstr ""
 
+#: apps/course_metadata/models.py:4297
 msgid "Mortar Board"
-msgstr "মর্টার বোর্ড"
+msgstr ""
 
+#: apps/course_metadata/models.py:4298
 msgid "Star"
-msgstr "তারা"
+msgstr ""
 
+#: apps/course_metadata/models.py:4299
 msgid "Trophy"
-msgstr "ট্রফি"
+msgstr ""
 
+#: apps/course_metadata/models.py:4303
 msgid "Icon FA class"
-msgstr "আইকন এফএ ক্লাস"
+msgstr ""
 
+#: apps/course_metadata/models.py:4304
 msgid "Paired text"
-msgstr "যুগল টেক্সট"
+msgstr ""
 
+#: apps/course_metadata/models.py:4339
 msgid "Deadline applies for this semester (e.g. Spring 2019"
-msgstr "এই সেমিস্টারের জন্য সময়সীমা প্রযোজ্য (যেমন: বসন্ত ২০১৯)"
+msgstr ""
 
+#: apps/course_metadata/models.py:4343
 msgid "Describes the deadline (e.g. Early Admission Deadline)"
-msgstr "সময়সীমা বর্ণনা করুন (যেমন: প্রাথমিক ভর্তির শেষ তারিখ)"
+msgstr ""
 
+#: apps/course_metadata/models.py:4347
 msgid "The date after which the deadline expires (e.g. January 1, 2019)"
-msgstr "সময়সীমা যে তারিখের পর শেষ হবে (যেমন: ১ জানুয়ারি, ২০১৯)"
+msgstr ""
 
+#: apps/course_metadata/models.py:4351
 msgid "The time after which the deadline expires (e.g. 11:59 PM EST)."
-msgstr "সময়সীমা শেষ হওয়ার সময় (যেমন: রাত ১১:৫৯ পূর্ব সময়)।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4387
 msgid "Describes what the cost is for (e.g. Tuition)"
-msgstr "খরচটা কিসের জন্য (যেমন: টিউশন)"
+msgstr ""
 
+#: apps/course_metadata/models.py:4391
 msgid "String-based field stating how much the cost is (e.g. $1000)."
-msgstr "স্ট্রিং-ভিত্তিক ক্ষেত্র যেখানে খরচ কত তা উল্লেখ করা হবে (যেমন: $১০০০)।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4434
 msgid ""
-"A high-level overview of the degree's courseware. The \"brief\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            text is the first 750 characters of \"marketing_text\" and must be\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"A high-level overview of the degree's courseware. The \"brief\"\n"
+"            text is the first 750 characters of \"marketing_text\" and must "
+"be\n"
 "            valid HTML."
-msgstr "ডিগ্রিটির কোর্সওয়ার্কের একটি সারসংক্ষেপ। \"সংক্ষিপ্ত\" লেখাটি \"marketing_text\" এর প্রথম ৭৫০টি অক্ষর এবং এটি অবশ্যই একটি বৈধ HTML হতে হবে।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4442
 msgid "A high-level overview of the degree's courseware."
-msgstr "ডিগ্রিটির কোর্সওয়্যার এর একটি সংক্ষিপ্ত বিবরণ।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4567
 msgid "Organization name"
-msgstr "সংস্থার নাম"
+msgstr ""
 
+#: apps/course_metadata/models.py:4594
 msgid "These programs are for a different partner than the pathway itself: {}"
-msgstr "এই প্রোগ্রামগুলো পাথেওয়ের (pathway) থেকে আলাদা একটি পার্টনারের জন্য: {name} "
+msgstr ""
 
+#: apps/course_metadata/models.py:4621
 msgid "Facebook"
-msgstr "ফেসবুক"
+msgstr ""
 
+#: apps/course_metadata/models.py:4622
 msgid "Twitter"
-msgstr "টুইটার"
+msgstr ""
 
+#: apps/course_metadata/models.py:4623
 msgid "Blog"
-msgstr "ব্লগ"
+msgstr ""
 
+#: apps/course_metadata/models.py:4624
 msgid "Others"
-msgstr "অন্যান্য"
+msgstr ""
 
-msgid "Partner {partner_key} and course partner {course_partner_key} do not match when attempting to save url slug {url_slug}"
-msgstr "পার্টনার {partner_key} এবং কোর্স পার্টনার {course_partner_key}, url slug {url_slug} সেভ করার সময় মিলছে না।"
+#: apps/course_metadata/models.py:4684
+#, python-brace-format
+msgid ""
+"Partner {partner_key} and course partner {course_partner_key} do not match "
+"when attempting to save url slug {url_slug}"
+msgstr ""
 
-msgid "Partner {partner_key} and course partner {course_partner_key} do not match when attempting to save url redirect {url_path}"
-msgstr "URL রিডাইরেক্ট {url_path} সেভ করার সময় পার্টনার {partner_key} এবং কোর্স পার্টনার {course_partner_key} মিলছে না।"
+#: apps/course_metadata/models.py:4704
+#, python-brace-format
+msgid ""
+"Partner {partner_key} and course partner {course_partner_key} do not match "
+"when attempting to save url redirect {url_path}"
+msgstr ""
 
+#: apps/course_metadata/models.py:4725
 msgid "It expects the data will be provided in a csv file format "
-msgstr "এটি আশা করে ডেটা একটি CSV ফাইল ফরম্যাটে দেওয়া হবে।"
+msgstr ""
 
+#: apps/course_metadata/models.py:4737
 msgid "A csv file containing uuid of the courses to be archived"
-msgstr "আর্কাইভ করার জন্য কোর্সের UUID সম্বলিত একটি CSV ফাইল"
+msgstr ""
 
-msgid "It expects the data will be provided in a csv file format with first row containing all the headers."
-msgstr "এটি আশা করে ডেটা একটি CSV ফাইল ফরম্যাটে দেওয়া হবে, যেখানে প্রথম সারিতে সমস্ত হেডার থাকবে।"
+#: apps/course_metadata/models.py:4751 apps/course_metadata/models.py:4764
+#: apps/course_metadata/models.py:4777 apps/course_metadata/models.py:4812
+#: apps/course_metadata/models.py:4825 apps/course_metadata/models.py:4844
+#: apps/course_metadata/models.py:4864 apps/course_metadata/models.py:4879
+#: apps/course_metadata/models.py:5032
+msgid ""
+"It expects the data will be provided in a csv file format with first row "
+"containing all the headers."
+msgstr ""
 
+#: apps/course_metadata/models.py:4836
 msgid "Open Courses"
-msgstr "ওপেন কোর্স"
+msgstr ""
 
+#: apps/course_metadata/models.py:4837
 msgid "2U Executive Education Courses"
-msgstr "2U এক্সিকিউটিভ এডুকেশন কোর্স"
+msgstr ""
 
+#: apps/course_metadata/models.py:4838
 msgid "Bootcamps"
-msgstr "বুটক্যাম্প"
+msgstr ""
 
+#: apps/course_metadata/models.py:4849 apps/course_metadata/models.py:4953
 msgid "Course UUIDs"
-msgstr "কোর্স UUID"
+msgstr ""
 
+#: apps/course_metadata/models.py:4929
 msgid "Course Run IDs"
-msgstr "কোর্স রান আইডি"
+msgstr ""
 
+#: apps/course_metadata/models.py:4945
 msgid "Profile Image UUIDs"
-msgstr "প্রোফাইল ছবির UUID"
+msgstr ""
 
+#: apps/course_metadata/models.py:4952
 msgid "Tag"
-msgstr "ট্যাগ"
+msgstr ""
 
+#: apps/course_metadata/models.py:4968
 msgid "Remove All Redirects"
-msgstr "সব রিডাইরেক্ট বাতিল করুন"
+msgstr ""
 
+#: apps/course_metadata/models.py:4969
 msgid "Url Paths"
-msgstr "ইউআরএল পাথ"
+msgstr ""
 
+#: apps/course_metadata/models.py:4977
 msgid "Add redirects from all published course url slugs"
-msgstr "প্রকাশিত কোর্সগুলোর URL স্ল্যাগ থেকে রিডাইরেক্ট যোগ করুন"
+msgstr ""
 
+#: apps/course_metadata/models.py:4978 apps/taxonomy_support/models.py:55
 msgid "Course uuids"
-msgstr "কোর্স UUID"
+msgstr ""
 
+#: apps/course_metadata/models.py:5043
 msgid "User who uploaded the file"
-msgstr "যে ব্যবহারকারী ফাইলটি আপলোড করেছেন"
+msgstr ""
 
+#: apps/course_metadata/models.py:5048
 msgid "Summary of the task"
-msgstr "টাস্কের সারসংক্ষেপ"
+msgstr ""
 
+#: apps/course_metadata/models.py:5051
 msgid "Task Type"
-msgstr "কাজের ধরণ"
+msgstr ""
 
+#: apps/course_metadata/models.py:5054
 msgid "Type of Bulk Task to be performed"
-msgstr "যে ধরনের বাল্ক টাস্ক করতে হবে"
+msgstr ""
 
+#: apps/course_metadata/models.py:5057
 msgid "Status"
-msgstr "স্ট্যাটাস"
+msgstr ""
 
+#: apps/course_metadata/models.py:5060
 msgid "Status of the Bulk Task"
-msgstr "বাল্ক টাস্কের অবস্থা"
+msgstr ""
 
+#: apps/course_metadata/models.py:5068
 msgid "Identifier of the celery task associated with this bulk task"
-msgstr "এই বাল্ক টাস্কের সাথে সম্পর্কিত সেলেরি টাস্কের আইডি"
+msgstr ""
 
+#: apps/course_metadata/salesforce.py:78
 msgid "Attempted to query Salesforce with no client for partner={}"
-msgstr "কোনো ক্লায়েন্ট ছাড়াই পার্টনার {partner}-এর জন্য সেলসফোর্স কোয়েরি করার চেষ্টা করা হয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/salesforce.py:237
 msgid "Unable to associate a case for comments for {}"
-msgstr "{} এর জন্য কমেন্টগুলির সাথে কোনো কেস যুক্ত করা যায়নি।"
+msgstr ""
 
+#: apps/course_metadata/templates/admin/course_metadata/course_run.html:24
 msgid "Cancel"
-msgstr "বাতিল করুন"
+msgstr ""
 
+#: apps/course_metadata/templates/admin/course_metadata/course_run.html:27
 msgid "Back to Program"
-msgstr "প্রোগ্রামে ফিরে যান"
+msgstr ""
 
+#: apps/course_metadata/templates/admin/course_metadata/course_run.html:29
 msgid "Save Course Run"
-msgstr "কোর্স রান সেভ করুন"
+msgstr ""
 
+#: apps/course_metadata/templates/admin/course_metadata/course_skills.html:11
+#: apps/course_metadata/templates/admin/course_metadata/refresh_course_skills.html:7
+#: apps/course_metadata/templates/admin/course_metadata/refresh_program_skills.html:7
 msgid "Home"
-msgstr "হোম"
+msgstr ""
 
+#: apps/course_metadata/templates/admin/course_metadata/course_skills.html:26
 msgid "Course Skills"
-msgstr "কোর্সের দক্ষতা"
+msgstr ""
 
+#: apps/course_metadata/templates/admin/course_metadata/refresh_course_skills.html:22
+#: apps/course_metadata/templates/admin/course_metadata/refresh_course_skills.html:32
 msgid "Refresh Course Skills"
-msgstr "কোর্স স্কিলস রিফ্রেশ করুন"
+msgstr ""
 
+#: apps/course_metadata/templates/admin/course_metadata/refresh_program_skills.html:22
+#: apps/course_metadata/templates/admin/course_metadata/refresh_program_skills.html:32
 msgid "Refresh Program Skills"
-msgstr "প্রোগ্রাম দক্ষতা রিফ্রেশ করুন"
+msgstr ""
 
-msgid "%(user_name)s made the following comment on %(course_name)s on %(date)s at %(time)s"
-msgstr "{user_name} এই কোর্সে {date} তারিখে {time}-এ নিচের মন্তব্যটি করেছেন: {course_name}"
+#: apps/course_metadata/templates/course_metadata/email/comment.html:7
+#, python-format
+msgid ""
+"%(user_name)s made the following comment on %(course_name)s on %(date)s at "
+"%(time)s"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/comment.html:19
+#: apps/course_metadata/templates/course_metadata/email/comment.txt:9
 msgid "View comment in Publisher"
-msgstr "প্রকাশকের কমেন্ট দেখুন"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/comment.html:21
+#: apps/course_metadata/templates/course_metadata/email/comment.txt:11
 msgid "The edX team"
-msgstr "edX টিম"
+msgstr ""
 
-msgid "%(user_name)s made the following comment on %(course_name)s %(date)s at %(time)s"
-msgstr "{user_name} এই কোর্সে {course_name} তে {date} তারিখে {time} এ কমেন্ট করেছেন।"
+#: apps/course_metadata/templates/course_metadata/email/comment.txt:3
+#, python-format
+msgid ""
+"%(user_name)s made the following comment on %(course_name)s %(date)s at "
+"%(time)s"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:7
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:3
+#: apps/course_metadata/templates/course_metadata/email/go_live.html:9
+#: apps/course_metadata/templates/course_metadata/email/go_live.txt:3
 msgid "Hi Course Team,"
-msgstr "হাই কোর্স টিম, "
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:12
+#, python-format
 msgid ""
-""\n
-"        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"\n"
+"        This is an automated reminder that the course "
+"\"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in "
+"%(days)s on %(course_end_date)s.\n"
 "        "
-msgstr "আপনাকে জানানো হচ্ছে যে, \"%({course_name}s)\" কোর্সটি (কোর্স কী: %({course_key}s)) {days} দিনে, {course_end_date} তারিখে শেষ হবে।"
+msgstr ""
 
-msgid "To ensure uninterrupted learner access and enrollment, please take one of the following actions:"
-msgstr "শিক্ষার্থীদের বাধাহীনভাবে শেখার সুযোগ এবং ভর্তি প্রক্রিয়া অব্যাহত রাখার জন্য, অনুগ্রহ করে নিচের যেকোনো একটি পদক্ষেপ নিন:"
-
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:16
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:16
 msgid ""
-""\n
-"        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"To ensure uninterrupted learner access and enrollment, please take one of "
+"the following actions:"
+msgstr ""
+
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:19
+#, python-format
+msgid ""
+"\n"
+"        This is an automated reminder that the course "
+"\"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of "
+"%(course_end_date)s.\n"
 "        "
-msgstr "আপনাকে জানানো যাচ্ছে যে, কোর্স \"%s\" (কোর্স কী: %s) %s তারিখে আনুষ্ঠানিকভাবে শেষ হয়েছে।"
+msgstr ""
 
-msgid "If this was intentional, no action is needed. However, if this course was meant to remain available, you have two options to restore access:"
-msgstr "যদি এটা ইচ্ছাকৃতভাবে করা হয়ে থাকে, তাহলে কিছু করার দরকার নেই। তবে, যদি এই কোর্সটি সবসময় সহজলভ্য রাখার কথা থাকতো, তাহলে আপনার কাছে অ্যাক্সেস ফিরিয়ে আনার দুটো উপায় আছে:"
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:23
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:18
+msgid ""
+"If this was intentional, no action is needed. However, if this course was "
+"meant to remain available, you have two options to restore access:"
+msgstr ""
 
-msgid "Extend the current course run’s end date if the same course is meant to remain available."
-msgstr "যদি একই কোর্সটি引き続き উপলব্ধ রাখার প্রয়োজন হয়, তাহলে বর্তমান কোর্সের সময়সীমা বাড়িয়ে দিন।"
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:29
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:21
+msgid ""
+"Extend the current course run’s end date if the same course is meant to "
+"remain available."
+msgstr ""
 
-msgid "Create a new course run if you are planning to offer this course again with updated content, pacing, or a new cohort of learners."
-msgstr "যদি আপনি এই কোর্সটি আবার আপডেটেড কন্টেন্ট, গতি অথবা নতুন শিক্ষার্থীদের সাথে অফার করার পরিকল্পনা করেন, তাহলে একটি নতুন কোর্স রান তৈরি করুন।"
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:31
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:22
+msgid ""
+"Create a new course run if you are planning to offer this course again with "
+"updated content, pacing, or a new cohort of learners."
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:32
 msgid "Visit the Course in Publisher"
-msgstr "Publisher-এ কোর্সটি দেখুন"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:37
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:25
 msgid "You can review and modify the course end settings here:"
-msgstr "আপনি এখানে কোর্সের শেষ হওয়ার সেটিংস দেখে পরিবর্তন করতে পারবেন:"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:41
+#, python-format
 msgid ""
-""\n
-"        If no action is taken, the course will no longer be available for enrollment or access by learners on \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a> after the end date.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"\n"
+"        If no action is taken, the course will no longer be available for "
+"enrollment or access by learners on \n"
+"        <a "
+"href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a> "
+"after the end date.\n"
 "        "
-msgstr "কোনো পদক্ষেপ না নিলে, কোর্সটি আর শিক্ষার্থীদের জন্য তালিকাভুক্ত বা অ্যাক্সেসযোগ্য থাকবে না। শেষ তারিখের পরে <a href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a>-এ তালিকাভুক্তি বন্ধ হয়ে যাবে।"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:47
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:34
 msgid "Thanks"
-msgstr "ধন্যবাদ"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:6
+#, python-format
 msgid ""
-""\n
-"This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-""
-msgstr "আপনাকে জানানো হচ্ছে যে, %(course_name)s কোর্সটি (কোর্স কী: %(course_key)s) %(days)s দিনের মধ্যে %(course_end_date)s তারিখে শেষ হতে যাচ্ছে।"
+"\n"
+"This is an automated reminder that the course \"%(course_name)s\" (Course "
+"Key: %(course_key)s) is scheduled to end in %(days)s on "
+"%(course_end_date)s.\n"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:10
+#, python-format
 msgid ""
-""\n
-"This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-""
-msgstr "আপনাকে জানানো যাচ্ছে যে, %(course_name)s (কোর্স কী: %(course_key)s) কোর্সটি %(course_end_date)s তারিখে আনুষ্ঠানিকভাবে শেষ হয়েছে।"
+"\n"
+"This is an automated reminder that the course \"%(course_name)s\" (Course "
+"Key: %(course_key)s) has officially ended as of %(course_end_date)s.\n"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:23
 msgid "Visit the Course in Publisher:"
-msgstr "Publisher-এ কোর্সটি দেখুন:"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:29
+#, python-format
 msgid ""
-""\n
-"If no action is taken, the course will no longer be available for enrollment or access by learners on %(partner_marketing_site_url)s after the end date.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-""
-msgstr "যদি কোনো পদক্ষেপ নেওয়া না হয়, তাহলে %(partner_marketing_site_url)s-এ কোর্সটি শেষ তারিখের পরে শিক্ষার্থীদের জন্য তালিকাভুক্তি বা অ্যাক্সেসের জন্য আর উপলব্ধ থাকবে না।"
+"\n"
+"If no action is taken, the course will no longer be available for enrollment "
+"or access by learners on %(partner_marketing_site_url)s after the end date.\n"
+msgstr ""
 
-msgid "The About page for the %(course_run_number)s course run of %(course_name)s has been submitted for publishing. The new session will appear on the edX website following the next couple of deployments—typically within 24 to 48 business hours."
-msgstr "{course_name} কোর্সের {course_run_number} নম্বর সেশনের অ্যাবাউট পেজটি পাবলিশ করার জন্য জমা দেওয়া হয়েছে। সাধারণত ২৪ থেকে ৪৮ ঘণ্টার মধ্যে edX ওয়েবসাইটে নতুন সেশনটি দেখা যাবে।"
+#: apps/course_metadata/templates/course_metadata/email/go_live.html:17
+#: apps/course_metadata/templates/course_metadata/email/go_live.txt:7
+#, python-format
+msgid ""
+"The About page for the %(course_run_number)s course run of %(course_name)s "
+"has been submitted for publishing. The new session will appear on the edX "
+"website following the next couple of deployments—typically within 24 to 48 "
+"business hours."
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/go_live.html:26
+#: apps/course_metadata/templates/course_metadata/email/legal_review.html:23
+#: apps/course_metadata/templates/course_metadata/email/reviewed.html:38
+#, python-brace-format
 msgid "{link_start}{contact_us_email}{link_middle}{contact_us_email}{link_end}"
-msgstr "{link_start}যোগাযোগের জন্য ইমেইল করুন: {contact_us_email}{link_middle}{contact_us_email}{link_end}"
+msgstr ""
 
-msgid "Note: This is a no-reply email. For any questions or comments, please contact your Project Coordinator at"
-msgstr "নোট: এটি একটি স্বয়ংক্রিয় ইমেল, যেখানে উত্তর দেওয়া যাবে না। কোনো প্রশ্ন বা মন্তব্যের জন্য, অনুগ্রহ করে আপনার প্রোজেক্ট কোঅর্ডিনেটরের সাথে যোগাযোগ করুন।"
+#: apps/course_metadata/templates/course_metadata/email/go_live.txt:11
+msgid ""
+"Note: This is a no-reply email. For any questions or comments, please "
+"contact your Project Coordinator at"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/internal_review.html:9
+#: apps/course_metadata/templates/course_metadata/email/internal_review.txt:3
+#: apps/course_metadata/templates/course_metadata/email/legal_review.html:9
+#: apps/course_metadata/templates/course_metadata/email/legal_review.txt:3
+#: apps/course_metadata/templates/course_metadata/email/reviewed.html:9
+#: apps/course_metadata/templates/course_metadata/email/reviewed.txt:3
+#, python-format
 msgid "Dear %(recipient_name)s,"
-msgstr "প্রিয় {recipient_name},"
+msgstr ""
 
-msgid "{org_name} has submitted {course_key} for review. {link_start}{course_page_url}{link_middle}View this course run in Publisher{link_end} to review the changes and mark it as reviewed."
-msgstr "{org_name} {course_key} পর্যালোচনার জন্য জমা দিয়েছে। {link_start}{course_page_url}{link_middle}Publisher-এ এই কোর্স রানটি দেখুন{link_end} এবং পরিবর্তনগুলো পর্যালোচনা করে এটি রিভিউ করা হয়েছে হিসেবে চিহ্নিত করুন।"
+#: apps/course_metadata/templates/course_metadata/email/internal_review.html:14
+#, python-brace-format
+msgid ""
+"{org_name} has submitted {course_key} for review. {link_start}"
+"{course_page_url}{link_middle}View this course run in Publisher{link_end} to "
+"review the changes and mark it as reviewed."
+msgstr ""
 
-msgid "This is a good time to {link_start}{studio_url}{link_middle}review this course run in Studio{link_end}."
-msgstr "স্টুডিওতে এই কোর্স রানটি পর্যালোচনা করার জন্য এটা একটা ভালো সময়। {link_start}{studio_url}{link_middle}স্টুডিওতে কোর্স রান পর্যালোচনা করুন{link_end}।"
+#: apps/course_metadata/templates/course_metadata/email/internal_review.html:20
+#, python-brace-format
+msgid ""
+"This is a good time to {link_start}{studio_url}{link_middle}review this "
+"course run in Studio{link_end}."
+msgstr ""
 
-msgid "Visit the {link_start}{restricted_admin_url}{link_middle}restricted course admin page{link_end} to set embargo rules for this course, as needed."
-msgstr "এই কোর্সের জন্য প্রয়োজন অনুযায়ী এমবারগো রুল সেট করার জন্য {link_start}{restricted_admin_url}{link_middle}রেস্ট্রিক্টেড কোর্স অ্যাডমিন পেজ{link_end} ভিজিট করুন।"
+#: apps/course_metadata/templates/course_metadata/email/internal_review.html:27
+#, python-brace-format
+msgid ""
+"Visit the {link_start}{restricted_admin_url}{link_middle}restricted course "
+"admin page{link_end} to set embargo rules for this course, as needed."
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/internal_review.txt:6
+#, python-format
 msgid "%(org_name)s has submitted %(course_key)s for review."
-msgstr "%(org_name)s %(course_key)s পর্যালোচনার জন্য জমা দিয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/internal_review.txt:10
+#, python-format
 msgid "Publisher page: %(course_page_url)s"
-msgstr "প্রকাশকের পেজ: %(course_page_url)s"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/internal_review.txt:14
+#, python-format
 msgid "Studio page: %(studio_url)s"
-msgstr "স্টুডিও পেজ: %(studio_url)s"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/internal_review.txt:19
+#, python-format
 msgid "Restricted Course admin: %(restricted_admin_url)s"
-msgstr "নিষেধিত কোর্স অ্যাডমিন: %(restricted_admin_url)s"
+msgstr ""
 
-msgid "{org_name} has submitted {course_name} for review. {link_start}{course_page_url}{link_middle}View this course run in Publisher{link_end} to determine OFAC status."
-msgstr "{org_name} {course_name} পর্যালোচনার জন্য জমা দিয়েছে। {link_start}{course_page_url}{link_middle} পাবলিশারে এই কোর্সের রান দেখুন{link_end} এবং OFAC স্ট্যাটাস নির্ধারণ করুন।"
+#: apps/course_metadata/templates/course_metadata/email/legal_review.html:15
+#, python-brace-format
+msgid ""
+"{org_name} has submitted {course_name} for review. {link_start}"
+"{course_page_url}{link_middle}View this course run in Publisher{link_end} to "
+"determine OFAC status."
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/legal_review.txt:6
+#, python-format
 msgid "%(org_name)s has submitted %(course_name)s for review."
-msgstr "%(org_name)s, %(course_name)s পর্যালোচনার জন্য জমা দিয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/legal_review.txt:11
 msgid "View this course run in Publisher above to determine OFAC status."
-msgstr "Publisher-এ এই কোর্স রানটি দেখে OFAC স্ট্যাটাস নির্ধারণ করুন।"
+msgstr ""
 
-msgid "Note: This email address is unable to receive replies. For questions or comments, please contact your Project Coordinator(s):"
-msgstr "নোট: এই ইমেল ঠিকানায় উত্তর দেওয়া সম্ভব নয়। কোনো প্রশ্ন বা মন্তব্যের জন্য, অনুগ্রহ করে আপনার প্রোজেক্ট কো-অর্ডিনেটর(দের) সাথে যোগাযোগ করুন:"
+#: apps/course_metadata/templates/course_metadata/email/legal_review.txt:15
+#: apps/course_metadata/templates/course_metadata/email/reviewed.txt:25
+msgid ""
+"Note: This email address is unable to receive replies. For questions or "
+"comments, please contact your Project Coordinator(s):"
+msgstr ""
 
-msgid "The {link_start}{course_page_url}{link_middle}{course_run_number} course run{link_end} of {course_name} has been reviewed and approved by {platform_name}."
-msgstr "{link_start}{course_page_url}{link_middle}{course_run_number} নম্বর {course_name} কোর্সটি {platform_name} কর্তৃক নিরীক্ষণ ও অনুমোদন করা হয়েছে।{link_end}"
+#: apps/course_metadata/templates/course_metadata/email/reviewed.html:15
+#, python-brace-format
+msgid ""
+"The {link_start}{course_page_url}{link_middle}{course_run_number} course "
+"run{link_end} of {course_name} has been reviewed and approved by "
+"{platform_name}."
+msgstr ""
 
-msgid "The course run about page will be published on %(go_live_date)s, pending no further edits."
-msgstr "কোর্স রান অ্যাবাউট পেজটি %(go_live_date)s তারিখে পাবলিশ করা হবে, যদি আর কোনো এডিট করার প্রয়োজন না হয়।"
+#: apps/course_metadata/templates/course_metadata/email/reviewed.html:22
+#: apps/course_metadata/templates/course_metadata/email/reviewed.txt:12
+#, python-format
+msgid ""
+"The course run about page will be published on %(go_live_date)s, pending no "
+"further edits."
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/reviewed.html:28
+#: apps/course_metadata/templates/course_metadata/email/reviewed.txt:16
 msgid "The course run about page is now published."
-msgstr "কোর্স রান অ্যাবাউট পেজটি এখন পাবলিশ করা হয়েছে।"
+msgstr ""
 
-msgid "The %(course_run_number)s course run of %(course_name)s has been reviewed and approved by %(platform_name)s."
-msgstr "%(platform_name)s কর্তৃক %(course_name)s এর %(course_run_number)তম কোর্স রানটি পর্যালোচনা করা হয়েছে এবং অনুমোদিত হয়েছে।"
+#: apps/course_metadata/templates/course_metadata/email/reviewed.txt:6
+#, python-format
+msgid ""
+"The %(course_run_number)s course run of %(course_name)s has been reviewed "
+"and approved by %(platform_name)s."
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/reviewed.txt:21
+#, python-format
 msgid "View the course run in Publisher: %(course_page_url)s"
-msgstr "Publisher-এ কোর্সটি দেখুন: %(course_page_url)s"
+msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:8
+#, python-format
 msgid ""
-""\n
-"        Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"    "
-msgstr "Course '%(course_name)s' সফলভাবে edX কর্তৃক রিভিউ করা হয়েছে এবং %(course_publish_date)s তারিখে পাবলিশ করা হয়েছে। লাইভ কোর্সটি দেখতে এখানে যান: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
-
-msgid ""
-""\n
-"        Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        To see a preview of the Course About Page, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"\n"
+"        Course '%(course_name)s' has been successfully reviewed by edX and "
+"is now published on %(course_publish_date)s. To see live course, go here: <a "
+"href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 msgstr ""
 
+#: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
+#, python-format
 msgid ""
-""\n
-"    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-""
-msgstr "edX কর্তৃক '%(course_name)s' কোর্সটি সফলভাবে রিভিউ করা হয়েছে এবং এটি এখন %(course_publish_date)s তারিখে প্রকাশিত হয়েছে। লাইভ কোর্সটি দেখতে এখানে যান: %(course_marketing_url)s"
-
-msgid ""
-""\n
-"   Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"    To see a preview of the Course About Page, go here: %(course_preview_url)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-""
+"\n"
+"        Course '%(course_name)s' has been successfully reviewed by edX and "
+"is now ready for publication. The course will be published on "
+"%(course_publish_date)s.\n"
+"        To see a preview of the Course About Page, go here: <a "
+"href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"    "
 msgstr ""
-"edX কর্তৃক '%(course_name)s' কোর্সটি সফলভাবে রিভিউ করা হয়েছে এবং এটি এখন প্রকাশের জন্য প্রস্তুত। কোর্সটি %(course_publish_date)s তারিখে প্রকাশিত হবে। \"\"\"\"\"\"\""\n
-""\n
-"কোর্স অ্যাবাউট পেজের প্রিভিউ দেখতে এখানে যান: %(course_preview_url)s"
 
+#: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:4
+#, python-format
+msgid ""
+"\n"
+"    Course '%(course_name)s' has been successfully reviewed by edX and is "
+"now published on %(course_publish_date)s. To see live course, go here: "
+"%(course_marketing_url)s\n"
+msgstr ""
+
+#: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
+#, python-format
+msgid ""
+"\n"
+"   Course '%(course_name)s' has been successfully reviewed by edX and is now "
+"ready for publication. The course will be published on "
+"%(course_publish_date)s.\n"
+"    To see a preview of the Course About Page, go here: "
+"%(course_preview_url)s\n"
+msgstr ""
+
+#: apps/course_metadata/utils.py:390
 msgid "Special characters not allowed in Course Number."
-msgstr "কোর্স নম্বরে বিশেষ অক্ষর ব্যবহার করা যাবে না।"
+msgstr ""
 
+#: apps/course_metadata/validators.py:30
+#, python-brace-format
 msgid "Invalid HTML received: {0}"
-msgstr "অবৈধ HTML পাওয়া গেছে: {0}"
+msgstr ""
 
+#: apps/course_metadata/validators.py:31
 msgid "Invalid HTML received"
-msgstr "অবৈধ HTML পাওয়া গেছে"
+msgstr ""
 
+#: apps/course_metadata/validators.py:35 apps/course_metadata/validators.py:46
+#, python-brace-format
 msgid "{0} tag is not allowed"
-msgstr "{0} ট্যাগটি অনুমোদিত নয়"
+msgstr ""
 
+#: apps/course_metadata/validators.py:42
+#, python-brace-format
 msgid "{0} attribute is not allowed on the {1} tag"
-msgstr "{0} অ্যাট্রিবিউটটি {1} ট্যাগে ব্যবহারের অনুমতি নেই।"
+msgstr ""
 
+#: apps/course_metadata/views.py:38
 msgid "Update excluded course runs"
-msgstr "বাদ দেওয়া কোর্স রান আপডেট করুন"
+msgstr ""
 
+#: apps/course_metadata/views.py:45
 msgid "The program was changed successfully."
-msgstr "প্রোগ্রামটি সফলভাবে পরিবর্তন করা হয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/views.py:127
 msgid "The refresh program skills task triggered successfully."
-msgstr "রিফ্রেশ প্রোগ্রাম স্কিলস টাস্কটি সফলভাবে শুরু হয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/views.py:206
 msgid "The refresh course skills task triggered successfully."
-msgstr "রিফ্রেশ কোর্স স্কিলস টাস্কটি সফলভাবে ট্রিগার হয়েছে।"
+msgstr ""
 
+#: apps/course_metadata/views.py:306
 msgid "The course skills were updated successfully."
-msgstr "কোর্সটির দক্ষতা সফলভাবে আপডেট করা হয়েছে।"
+msgstr ""
 
-msgid "Request could not be completed due to an incorrect ElasticSearch query parameters"
-msgstr "ইলাস্টিকসার্চ কোয়েরি প্যারামিটার ভুল থাকার কারণে রিকোয়েস্টটি সম্পন্ন করা যায়নি।"
+#: apps/edx_elasticsearch_dsl_extensions/exceptions.py:17
+msgid ""
+"Request could not be completed due to an incorrect ElasticSearch query "
+"parameters"
+msgstr ""
 
+#: apps/ietf_language_tags/models.py:34
 msgid "Name for translation"
-msgstr "অনুবাদ করার জন্য নাম"
+msgstr ""
 
+#: apps/ietf_language_tags/models.py:38
 msgid "LanguageTag model translations"
-msgstr "ভাষা ট্যাগ মডেলের অনুবাদ"
+msgstr ""
 
+#: apps/learner_pathway/choices.py:7
 msgid "Inactive"
-msgstr "নিষ্ক্রিয়"
+msgstr ""
 
+#: apps/learner_pathway/models.py:84
 msgid "Title of the learner pathway."
-msgstr "শিক্ষার্থীর পথনির্দেশিকার শিরোনাম।"
+msgstr ""
 
+#: apps/learner_pathway/models.py:87
 msgid "Course/Program associated pathways also appear in search results"
-msgstr "কোর্স/প্রোগ্রামের সাথে যুক্ত পাথওয়েগুলো সার্চ রেজাল্টে দেখা যায়।"
+msgstr ""
 
+#: apps/learner_pathway/models.py:90
 msgid "The active/inactive status of this Pathway."
-msgstr "এই পাথওয়ের সক্রিয়/নিষ্ক্রিয় অবস্থা।"
+msgstr ""
 
+#: apps/learner_pathway/models.py:118
 msgid "Learner Pathway"
-msgstr "শিক্ষার্থীর পথ"
+msgstr ""
 
+#: apps/learner_pathway/models.py:119
 msgid "Learner Pathways"
-msgstr "শিক্ষার্থীর পথ"
+msgstr ""
 
+#: apps/learner_pathway/models.py:165
 msgid "Minimum number of nodes to complete this step of the pathway"
-msgstr "এই পথটির এই ধাপটি সম্পূর্ণ করার জন্য সর্বনিম্ন কতগুলি নোড প্রয়োজন।"
+msgstr ""
 
+#: apps/learner_pathway/models.py:169
 msgid "Learner Pathway Step"
-msgstr "লার্নার পাথওয়ে ধাপ"
+msgstr ""
 
+#: apps/learner_pathway/models.py:170
 msgid "Learner Pathway Steps"
-msgstr "শিক্ষার্থীর পথচলার ধাপগুলো"
+msgstr ""
 
+#: apps/learner_pathway/models.py:237
 msgid "Learner Pathway Course"
-msgstr "শিক্ষার্থীর পথচলার কোর্স"
+msgstr ""
 
+#: apps/learner_pathway/models.py:238
 msgid "Learner Pathway Courses"
-msgstr "শিক্ষার্থীর পথচলার কোর্স"
+msgstr ""
 
+#: apps/learner_pathway/models.py:275
 msgid "Learner Pathway Program"
-msgstr "শিক্ষার্থীর পথচলা প্রোগ্রাম"
+msgstr ""
 
+#: apps/learner_pathway/models.py:276
 msgid "Learner Pathway Programs"
-msgstr "শিক্ষার্থীর জন্য কোর্স প্রোগ্রাম"
+msgstr ""
 
+#: apps/publisher/models.py:34
 msgid "Organization Role"
-msgstr "সংস্থার ভূমিকা"
+msgstr ""
 
+#: apps/taxonomy_support/management/commands/update_course_recommendations.py:19
 msgid "Update the course recommendations based on skills."
-msgstr "দক্ষতার ভিত্তিতে কোর্সগুলোর প্রস্তাবনা আপডেট করুন।"
+msgstr ""
 
-msgid "Use arguments from the UpdateCourseRecommendationsConfig model instead of the command line."
-msgstr "কমান্ড লাইনের বদলে UpdateCourseRecommendationsConfig মডেল থেকে আর্গুমেন্ট ব্যবহার করুন।"
+#: apps/taxonomy_support/management/commands/update_course_recommendations.py:41
+msgid ""
+"Use arguments from the UpdateCourseRecommendationsConfig model instead of "
+"the command line."
+msgstr ""
 
+#: apps/taxonomy_support/models.py:24
 msgid "The original course, whose recommendation is stored here."
-msgstr "অরিজিনাল কোর্সটি, যার রেকমেন্ডেশন এখানে স্টোর করা আছে।"
+msgstr ""
 
-msgid "This is the course recommended after learner completes the original course."
-msgstr "শিক্ষার্থী মূল কোর্সটি শেষ করার পর এই কোর্সটি করার পরামর্শ দেওয়া হচ্ছে।"
+#: apps/taxonomy_support/models.py:29
+msgid ""
+"This is the course recommended after learner completes the original course."
+msgstr ""
 
+#: apps/taxonomy_support/models.py:32
 msgid "Ratio of number of common skills and total skill count."
-msgstr "কমন স্কিলের সংখ্যা এবং মোট স্কিলের সংখ্যার অনুপাত।"
+msgstr ""
 
-msgid "Count of common skills between the original course and recommended course."
-msgstr "অরিজিনাল কোর্স এবং প্রস্তাবিত কোর্সের মধ্যে সাধারণ দক্ষতার সংখ্যা।"
+#: apps/taxonomy_support/models.py:35
+msgid ""
+"Count of common skills between the original course and recommended course."
+msgstr ""
 
+#: apps/taxonomy_support/models.py:38
 msgid "Ratio of number of common subjects and total subject count."
-msgstr "মোট বিষয়ের সাপেক্ষে সাধারণ বিষয়ের অনুপাত।"
+msgstr ""
 
-msgid "Count of common subjects between the original course and recommended course."
-msgstr "অরিজিনাল কোর্স এবং রেকমেন্ডেড কোর্সের মধ্যে সাধারণ বিষয়ের সংখ্যা।"
+#: apps/taxonomy_support/models.py:41
+msgid ""
+"Count of common subjects between the original course and recommended course."
+msgstr ""
 
+#: apps/taxonomy_support/models.py:46
 msgid "Course Recommendation"
-msgstr "কোর্স প্রস্তাবনা"
+msgstr ""
 
+#: apps/taxonomy_support/models.py:47
 msgid "Course Recommendations"
-msgstr "কোর্সের প্রস্তাবনা"
+msgstr ""
 
+#: apps/taxonomy_support/models.py:54
 msgid "Adds recommendations for all published courses"
-msgstr "প্রকাশিত সকল কোর্সের জন্য প্রস্তাবনা যোগ করা হয়েছে"
+msgstr ""
 
-msgid "Adds recommendations for courses created or modified in the past num days"
-msgstr "গত {num} দিনে তৈরি অথবা পরিবর্তন করা কোর্সগুলোর জন্য সুপারিশ যোগ করা হয়েছে"
+#: apps/taxonomy_support/models.py:58
+msgid ""
+"Adds recommendations for courses created or modified in the past num days"
+msgstr ""
 
+#: apps/taxonomy_support/providers.py:198
 msgid "No partner object found!"
-msgstr "কোনো পার্টনার অবজেক্ট খুঁজে পাওয়া যায়নি!"
+msgstr ""
 
+#: urls.py:32
 msgid "Discovery Service Administration"
-msgstr "ডিসকভারি সার্ভিস অ্যাডমিনিস্ট্রেশন"
-
+msgstr ""

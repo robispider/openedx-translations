@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:14+0000\n"
-"PO-Revision-Date: 2025-09-30 03:14+2162\n"
+"POT-Creation-Date: 2025-09-29 12:06+0000\n"
+"PO-Revision-Date: 2025-09-29 18:06+8515\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -103,9 +103,9 @@ msgid "Filters"
 msgstr "ফিল্টার"
 
 msgid ""
-"List of SQL filters to apply to the\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"               dashboard. E.g: [\"org='edX'\", \"country in ('us', 'co')\"]\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"               The fields used here must be available on every dataset used by the dashboard.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"List of SQL filters to apply to the\"\"\"\"\"\"\"\"\""\n
+"               dashboard. E.g: [\"org='edX'\", \"country in ('us', 'co')\"]\"\"\"\"\"\"\"\"\""\n
+"               The fields used here must be available on every dataset used by the dashboard.\"\"\"\"\"\"\"\"\""\n
 "               "
 msgstr "ড্যাশবোর্ডে প্রয়োগ করার জন্য SQL ফিল্টারগুলির তালিকা। যেমন: [\"org='edX'"
 

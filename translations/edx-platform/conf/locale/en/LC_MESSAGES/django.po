@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:14+0000\n"
-"PO-Revision-Date: 2025-09-30 03:14+8496\n"
+"POT-Creation-Date: 2025-09-28 18:44+0000\n"
+"PO-Revision-Date: 2025-09-29 00:44+4303\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -193,7 +193,7 @@ msgid "Problem Bank"
 msgstr "সমস্যা ব্যাংক"
 
 msgid ""
-"Take the specified course and attempt to export it to a git repository\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Take the specified course and attempt to export it to a git repository\"\"\"\"\"\"\"\"\"\""\n
 ". Course directory must already be a git repository. Usage:  git_export <course_loc> <git_url>"
 msgstr "নির্দিষ্ট কোর্সটি নিন এবং এটিকে একটি গিট রিপোজিটরিতে এক্সপোর্ট করার চেষ্টা করুন। কোর্স ডিরেক্টরিটি অবশ্যই আগে থেকেই একটি গিট রিপোজিটরি হতে হবে। ব্যবহারবিধি: git_export <course_loc> <git_url>"
 
@@ -489,7 +489,7 @@ msgid "Please change either the organization or course number so that it is uniq
 msgstr "অনুগ্রহ করে সংস্থা অথবা কোর্স নম্বর পরিবর্তন করুন যাতে এটি অনন্য হয়।"
 
 msgid ""
-"Unable to create course '{name}'.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Unable to create course '{name}'.\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 "{err}"
 msgstr "কোর্স '{name}' তৈরি করা যায়নি।"
@@ -540,7 +540,7 @@ msgid "Unable to create library - missing required field '{field}'"
 msgstr "লাইব্রেরি তৈরি করা যায়নি - '{field}' ক্ষেত্রটি পূরণ করা হয়নি।"
 
 msgid ""
-"Unable to create library '{name}'.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Unable to create library '{name}'.\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 "{err}"
 msgstr "{name} নামের লাইব্রেরি তৈরি করা যায়নি।"
@@ -1483,37 +1483,37 @@ msgstr "আমরা পুরনো ইমেইলগুলোর একটা
 
 msgid ""
 ""\n
-"                    Proctoring requirements for %(course_name)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    Proctoring requirements for %(course_name)s\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "%(course_name)s কোর্সের তত্ত্বাবধানের নিয়মাবলী"
 
 msgid ""
 ""\n
-"                    Hello %(full_name)s,\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    Hello %(full_name)s,\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "হ্যালো {full_name} जी, "
 
 msgid ""
 ""\n
-"                    You are enrolled in %(course_name)s at %(platform_name)s. This course contains proctored exams.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    You are enrolled in %(course_name)s at %(platform_name)s. This course contains proctored exams.\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "আপনি {platform_name}-এ {course_name}-এ ভর্তি হয়েছেন। এই কোর্সে তত্ত্বাবধানে পরীক্ষা আছে।"
 
 msgid ""
 ""\n
-"                    Proctored exams are timed exams that you take while proctoring software monitors your computer's desktop, webcam video, and audio. Your course uses %(proctoring_provider)s software for proctoring.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    Proctored exams are timed exams that you take while proctoring software monitors your computer's desktop, webcam video, and audio. Your course uses %(proctoring_provider)s software for proctoring.\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "প্রক্টর্ড পরীক্ষাগুলো হলো সময়সীমার মধ্যে সম্পন্ন করার মতো পরীক্ষা, যেখানে প্রক্টরিং সফটওয়্যার আপনার কম্পিউটারের ডেস্কটপ, ওয়েবক্যাম ভিডিও এবং অডিও পর্যবেক্ষণ করে। আপনার কোর্সে %(proctoring_provider)s সফটওয়্যার ব্যবহার করা হচ্ছে প্রক্টরিংয়ের জন্য।"
 
 msgid ""
 ""\n
-"                    Carefully review the system requirements as well as the steps to take a proctored exam in order to ensure that you are prepared.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    Carefully review the system requirements as well as the steps to take a proctored exam in order to ensure that you are prepared.\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "সিস্টেমের প্রয়োজনীয়তা এবং একটি তত্ত্বাবধানে পরীক্ষা দেওয়ার ধাপগুলো মনোযোগ দিয়ে দেখে নিন, যাতে আপনি পরীক্ষার জন্য ভালোভাবে প্রস্তুত থাকতে পারেন।"
 
 msgid ""
 ""\n
-"                Proctoring Instructions and Requirements\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                Proctoring Instructions and Requirements\"\"\"\"\"\"\"\"\"\""\n
 "            "
 msgstr "পরীক্ষার তত্ত্বাবধানের নিয়মাবলী ও প্রয়োজনীয়তা"
 
@@ -1912,19 +1912,19 @@ msgstr "আপনার লক্ষ্য পূরণ করার এখন�
 
 msgid ""
 ""\n
-"            You’re almost there, %(user_name)s!\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            You’re almost there, %(user_name)s!\"\"\"\"\"\"\"\"\"\""\n
 "        "
 msgstr "প্রায় হয়েই গেল, {user_name}! "
 
 msgid ""
 ""\n
-"                    You set a goal of learning {start_bold}%(days_per_week)s time a week in %(course_name)s{end_bold}. Now it’s up to you to make those goals a reality.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    You set a goal of learning {start_bold}%(days_per_week)s time a week in %(course_name)s{end_bold}. Now it’s up to you to make those goals a reality.\"\"\"\"\"\"\"\"\"\""\n
 "                    "
 msgstr "আপনি সপ্তাহে %(course_name)s -এ {start_bold}%(days_per_week)s সময় শেখার লক্ষ্য নির্ধারণ করেছেন{end_bold}। এখন এই লক্ষ্যগুলো সত্যি করার দায়িত্ব আপনার।"
 
 msgid ""
 ""\n
-"                        Jump back in\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        Jump back in\"\"\"\"\"\"\"\"\"\""\n
 "                    "
 msgstr "ফিরে যান"
 
@@ -1939,13 +1939,13 @@ msgstr "যদি আপনার প্রয়োজন হয়।"
 
 msgid ""
 ""\n
-"                            Unsubscribe from goal reminder emails for this course\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            Unsubscribe from goal reminder emails for this course\"\"\"\"\"\"\"\"\"\""\n
 "                        "
 msgstr "এই কোর্সের জন্য গোল রিমাইন্ডার ইমেইল থেকে আনসাবস্ক্রাইব করুন"
 
 msgid ""
 ""\n
-"                                Unsubscribe from goal reminder emails for this course\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                Unsubscribe from goal reminder emails for this course\"\"\"\"\"\"\"\"\"\""\n
 "                                "
 msgstr "এই কোর্সের জন্য গোল রিমাইন্ডার ইমেল থেকে আনসাবস্ক্রাইব করুন"
 
@@ -2334,11 +2334,11 @@ msgid "Certificate is being created."
 msgstr "সার্টিফিকেট তৈরি করা হচ্ছে।"
 
 msgid ""
-"We plan to use this information to evaluate your application for financial assistance and to further develop our financial assistance program. \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"Please note that while assistance is available in most courses that offer verified certificates, a few courses and programs are not eligible. You must complete a separate application for each course you take. You may be approved for financial assistance five (5) times each year (based on 12-month period from you first approval). \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"To apply for financial assistance: \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"1. Enroll in the audit track for an eligible course that offers Verified Certificates. \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"2. Complete this application. \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"We plan to use this information to evaluate your application for financial assistance and to further develop our financial assistance program. \"\"\"\"\"\"\"\"\"\""\n
+"Please note that while assistance is available in most courses that offer verified certificates, a few courses and programs are not eligible. You must complete a separate application for each course you take. You may be approved for financial assistance five (5) times each year (based on 12-month period from you first approval). \"\"\"\"\"\"\"\"\"\""\n
+"To apply for financial assistance: \"\"\"\"\"\"\"\"\"\""\n
+"1. Enroll in the audit track for an eligible course that offers Verified Certificates. \"\"\"\"\"\"\"\"\"\""\n
+"2. Complete this application. \"\"\"\"\"\"\"\"\"\""\n
 "3. Check your email, please allow 4 weeks for your application to be processed."
 msgstr ""
 
@@ -2389,7 +2389,7 @@ msgstr "%(thread_title)s-এ মন্তব্য করুন"
 
 msgid ""
 ""\n
-"                        %(course_name)s: Reported content awaits review\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        %(course_name)s: Reported content awaits review\"\"\"\"\"\"\"\"\"\""\n
 "                    "
 msgstr "%(course_name)s: রিপোর্ট করা কন্টেন্ট পর্যালোচনার জন্য অপেক্ষমান"
 
@@ -2445,10 +2445,10 @@ msgid "Proctored Exam Review: {review_status}"
 msgstr "প্রোctorড পরীক্ষা পর্যালোচনা: {review_status}"
 
 msgid ""
-"A proctored exam attempt for {exam_name} in {course_name} by username: {student_username} was reviewed as {review_status} by the proctored exam review provider.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"A proctored exam attempt for {exam_name} in {course_name} by username: {student_username} was reviewed as {review_status} by the proctored exam review provider.\"\"\"\"\"\"\"\"\"\""\n
 "Review link: {review_url}"
 msgstr ""
-"{course_name} কোর্সের {exam_name} পরীক্ষার তত্ত্বাবধান করা একটি প্রচেষ্টা, যার ইউজারনেম {student_username}, সেটি তত্ত্বাবধানকারী প্রদানকারীর দ্বারা {review_status} হিসাবে পর্যালোচনা করা হয়েছে।\"\"\"\"\"\""\n
+"{course_name} কোর্সের {exam_name} পরীক্ষার তত্ত্বাবধান করা একটি প্রচেষ্টা, যার ইউজারনেম {student_username}, সেটি তত্ত্বাবধানকারী প্রদানকারীর দ্বারা {review_status} হিসাবে পর্যালোচনা করা হয়েছে।"\n
 "পর্যালোচনা লিঙ্ক: {review_url}"
 
 msgid "Your Platform Insights"
@@ -3109,10 +3109,10 @@ msgid "Course Chrome"
 msgstr "কোর্স ক্রোম"
 
 msgid ""
-"Enter the chrome, or navigation tools, to use for the XBlock in the LMS. Valid values are: \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"\"chromeless\" -- to not use tabs or the accordion; \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"\"tabs\" -- to use tabs only; \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"\"accordion\" -- to use the accordion only; or \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Enter the chrome, or navigation tools, to use for the XBlock in the LMS. Valid values are: \"\"\"\"\"\"\"\"\"\""\n
+"\"chromeless\" -- to not use tabs or the accordion; \"\"\"\"\"\"\"\"\"\""\n
+"\"tabs\" -- to use tabs only; \"\"\"\"\"\"\"\"\"\""\n
+"\"accordion\" -- to use the accordion only; or \"\"\"\"\"\"\"\"\"\""\n
 "\"tabs,accordion\" -- to use tabs and the accordion."
 msgstr ""
 
@@ -3355,19 +3355,19 @@ msgstr "জমা দিন"
 
 msgid ""
 ""\n
-"            This email was automatically sent from %(platform_name)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            This email was automatically sent from %(platform_name)s.\"\"\"\"\"\"\"\"\"\""\n
 "          "
 msgstr "এই ইমেইলটি স্বয়ংক্রিয়ভাবে {platform_name} থেকে পাঠানো হয়েছে।"
 
 msgid ""
 ""\n
-"            You are receiving this email at address %(email)s because you are enrolled in\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            You are receiving this email at address %(email)s because you are enrolled in\"\"\"\"\"\"\"\"\"\""\n
 "          "
 msgstr ""
 
 msgid ""
 ""\n
-"            To stop receiving email like this, update your course email settings\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            To stop receiving email like this, update your course email settings\"\"\"\"\"\"\"\"\"\""\n
 "          "
 msgstr "এই ধরনের ইমেল আসা বন্ধ করতে, আপনার কোর্সের ইমেল সেটিংস আপডেট করুন।"
 
@@ -3426,7 +3426,7 @@ msgstr "আপনাকে %(course_name)s কোর্সে ভর্তি �
 
 msgid ""
 ""\n
-"                    You have been invited to be a beta tester for %(course_name)s at %(site_name)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    You have been invited to be a beta tester for %(course_name)s at %(site_name)s\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "আপনাকে {site_name}-এ {course_name}-এর বিটা টেস্টার হওয়ার জন্য আমন্ত্রণ জানানো হয়েছে।"
 
@@ -3443,7 +3443,7 @@ msgid "Visit %(course_name)s"
 msgstr "ভিজিট করুন %(course_name)s"
 
 msgid ""
-"Visit %(site_name)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Visit %(site_name)s\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "ভিজিট করুন {site_name}।"
 
@@ -3542,7 +3542,7 @@ msgstr "আপনি %(course_name)s কোর্সটি থেকে আন�
 
 msgid ""
 ""\n
-"                    You have been unenrolled from %(course_name)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    You have been unenrolled from %(course_name)s\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "আপনাকে %(course_name)s কোর্স থেকে আনএনরোল করা হয়েছে।"
 
@@ -3560,7 +3560,7 @@ msgstr "আপনি %(site_name)-এ %(course_name) কোর্সটি থ�
 
 msgid ""
 ""\n
-"                    You have been enrolled in %(course_name)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    You have been enrolled in %(course_name)s\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "আপনাকে %(course_name)s-এ ভর্তি করা হয়েছে।"
 
@@ -3608,7 +3608,7 @@ msgstr "আপনাকে সাইন ইন করা হচ্ছে।"
 
 msgid ""
 ""\n
-"                  This may take a minute. If you are not redirected, go to the home page.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                  This may take a minute. If you are not redirected, go to the home page.\"\"\"\"\"\"\"\"\"\""\n
 "                "
 msgstr "এটা কয়েক মিনিট সময় নিতে পারে। যদি আপনা‌কে রিডাইরেক্ট করা না হয়, তাহলে হোম পেজে যান।"
 
@@ -4265,9 +4265,9 @@ msgstr "স্টেজ করা কন্টেন্ট"
 
 msgid ""
 ""\n
-"            What type of content is staged. Only OLX content is supported, and\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            this field must be the same as the root tag of the OLX.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            e.g. \"video\" if a video is staged, or \"vertical\" for a unit.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            What type of content is staged. Only OLX content is supported, and\"\"\"\"\"\"\"\"\"\""\n
+"            this field must be the same as the root tag of the OLX.\"\"\"\"\"\"\"\"\"\""\n
+"            e.g. \"video\" if a video is staged, or \"vertical\" for a unit.\"\"\"\"\"\"\"\"\"\""\n
 "        "
 msgstr "কী ধরনের কন্টেন্ট স্টেজ করা হয়েছে। শুধুমাত্র OLX কন্টেন্ট সাপোর্ট করা হয়, এবং এই ফিল্ডটি অবশ্যই OLX-এর রুট ট্যাগের সাথে একই হতে হবে। যেমন: যদি ভিডিও স্টেজ করা হয় তবে \"video\", অথবা ইউনিটের জন্য \"vertical\"।"
 
@@ -4554,12 +4554,12 @@ msgid "Notification Type"
 msgstr "নোটিফিকেশন ধরণ"
 
 msgid ""
-"Search by username, course_id. Specify fields with username: or course_id: prefixes. If no prefix is specified, search will be done on username. \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"Examples: \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-" - testuser (default username search) \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-" - username:testuser (username keyword search) \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-" - course_id:course-v1:edX+DemoX+Demo_Course (course_id keyword search) \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-" - username:testuser, course_id:course-v1:edX+DemoX+Demo_Course (combined keyword search) \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Search by username, course_id. Specify fields with username: or course_id: prefixes. If no prefix is specified, search will be done on username. \"\"\"\"\"\"\"\"\"\""\n
+"Examples: \"\"\"\"\"\"\"\"\"\""\n
+" - testuser (default username search) \"\"\"\"\"\"\"\"\"\""\n
+" - username:testuser (username keyword search) \"\"\"\"\"\"\"\"\"\""\n
+" - course_id:course-v1:edX+DemoX+Demo_Course (course_id keyword search) \"\"\"\"\"\"\"\"\"\""\n
+" - username:testuser, course_id:course-v1:edX+DemoX+Demo_Course (combined keyword search) \"\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr ""
 
@@ -7132,9 +7132,9 @@ msgstr "বাহ্যিক আলোচনা"
 
 msgid ""
 ""\n
-"                Learners will see the selected component:\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                Learners will see the selected component:\"\"\"\"\"\"\"\"\"\""\n
 "                "
-msgstr "শিক্ষার্থীরা নির্বাচিত কম্পোনেন্টটি দেখতে পাবে: \"\"\"\"\"\"\"\\"
+msgstr "শিক্ষার্থীরা নির্বাচিত কম্পোনেন্টটি দেখতে পাবে: \"\"\"\"\"\"\"\""
 
 msgid "Press {link_start}View{link_end} to preview, sync/update, and/or remove the selected components."
 msgstr "নির্বাচিত কম্পোনেন্টগুলো প্রিভিউ, সিঙ্ক/আপডেট এবং/অথবা সরানোর জন্য {link_start}দেখুন{link_end} চাপুন।"
@@ -7155,25 +7155,25 @@ msgid "Add discussion for the Unit."
 msgstr "ইউনিটের জন্য আলোচনা যোগ করুন।"
 
 msgid ""
-"Here's a fun clip from a class I'm taking on {social_account_handle} from {organization_name}.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Here's a fun clip from a class I'm taking on {social_account_handle} from {organization_name}.\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 ""
 msgstr "আমি {organization_name}-এর {social_account_handle} থেকে একটা মজার ক্লিপ শেয়ার করছি।"
 
 msgid ""
-"Here's a fun clip from a class I'm taking on {social_account_handle}.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Here's a fun clip from a class I'm taking on {social_account_handle}.\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 ""
 msgstr "আমি {social_account_handle} নিয়ে একটা ক্লাসের যে ক্লাসটা নিচ্ছি, সেই ক্লাস থেকে একটা মজার ক্লিপ দিচ্ছি।"
 
 msgid ""
-"Here's a fun clip from a class I'm taking from {organization_name}.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Here's a fun clip from a class I'm taking from {organization_name}.\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 ""
 msgstr "আমি {organization_name} থেকে নেওয়া একটা ক্লাসের মজার ক্লিপ শেয়ার করছি।"
 
 msgid ""
-"Here's a fun clip from a class I'm taking on {platform_name}.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Here's a fun clip from a class I'm taking on {platform_name}.\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 ""
 msgstr "আমি {platform_name} এ একটা ক্লাসের মজার একটা ক্লিপ শেয়ার করছি!"
@@ -7620,8 +7620,8 @@ msgid "There is already a root node on %s"
 msgstr "ইতিমধ্যে %s-এ একটি রুট নোড আছে।"
 
 msgid ""
-"Articles who lost their parents\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"===============================\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Articles who lost their parents\"\"\"\"\"\"\"\"\"\""\n
+"===============================\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 "The children of this article have had their parents deleted. You should probably find a new home for them."
 msgstr "এই নিবন্ধের যাদের বাবা-মা নেই। সম্ভবত তাদের জন্য নতুন ঠিকানা খুঁজে বের করা উচিত।"
@@ -9985,11 +9985,11 @@ msgid "Your request for course creation rights to {studio_name} have been denied
 msgstr "আপনার {studio_name}-এ কোর্স তৈরির অধিকারের অনুরোধটি বাতিল করা হয়েছে। যদি আপনি মনে করেন এটা ভুল করে হয়েছে, তাহলে {email}-এ যোগাযোগ করুন।"
 
 msgid ""
-"Your request for course creation rights to {studio_name} have been granted. To create your first course, visit\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Your request for course creation rights to {studio_name} have been granted. To create your first course, visit\"\"\"\"\"\"\"\"\"\""\n
 ""\n
 "{url}"
 msgstr ""
-"আপনার {studio_name} স্টুডিওতে কোর্স তৈরি করার অনুমতি দেওয়া হয়েছে। আপনার প্রথম কোর্সটি তৈরি করার জন্য, এই লিঙ্কে যান: \"\"\"\"\"\""\n
+"আপনার {studio_name} স্টুডিওতে কোর্স তৈরি করার অনুমতি দেওয়া হয়েছে। আপনার প্রথম কোর্সটি তৈরি করার জন্য, এই লিঙ্কে যান: "\n
 ""\n
 "{url}"
 
@@ -13396,14 +13396,14 @@ msgstr "বিশ্বব্যাপী"
 
 msgid ""
 ""\n
-"{p_tag}You currently do not have any peer grading to do.  In order to have peer grading to do:\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"{ul_tag}\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"{li_tag}You need to have submitted a response to a peer grading problem.{end_li_tag}\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"{li_tag}The course team needs to score the essays that are used to help you better understand the grading\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"criteria.{end_li_tag}\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"{li_tag}There must be submissions that are waiting for grading.{end_li_tag}\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"{end_ul_tag}\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"{end_p_tag}\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"{p_tag}You currently do not have any peer grading to do.  In order to have peer grading to do:\"\"\"\"\"\"\"\"\"\""\n
+"{ul_tag}\"\"\"\"\"\"\"\"\"\""\n
+"{li_tag}You need to have submitted a response to a peer grading problem.{end_li_tag}\"\"\"\"\"\"\"\"\"\""\n
+"{li_tag}The course team needs to score the essays that are used to help you better understand the grading\"\"\"\"\"\"\"\"\"\""\n
+"criteria.{end_li_tag}\"\"\"\"\"\"\"\"\"\""\n
+"{li_tag}There must be submissions that are waiting for grading.{end_li_tag}\"\"\"\"\"\"\"\"\"\""\n
+"{end_ul_tag}\"\"\"\"\"\"\"\"\"\""\n
+"{end_p_tag}\"\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr ""
 

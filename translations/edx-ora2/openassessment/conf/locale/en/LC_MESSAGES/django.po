@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:14+0000\n"
-"PO-Revision-Date: 2025-09-30 03:14+1411\n"
+"POT-Creation-Date: 2025-09-29 09:59+0000\n"
+"PO-Revision-Date: 2025-09-29 15:59+3401\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -524,13 +524,13 @@ msgstr "পয়েন্ট"
 
 msgid ""
 ""\n
-"                %(start_tag)s%(title)s%(end_tag)s%(start_grade_tag)s - %(grade)s%(end_tag)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                %(start_tag)s%(title)s%(end_tag)s%(start_grade_tag)s - %(grade)s%(end_tag)s\"\"\"\"\"\""\n
 "              "
 msgstr "%(start_tag)s%(title)s%(end_tag)s%(start_grade_tag)s - %(grade)s%(end_tag)s"
 
 msgid ""
 ""\n
-"                      %(assessment_title)s - %(points)s point\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                      %(assessment_title)s - %(points)s point\"\"\"\"\"\""\n
 "                  "
 msgstr "%(assessment_title)s - %(points)s পয়েন্ট"
 
@@ -542,7 +542,7 @@ msgstr "আপনার গ্রেড"
 
 msgid ""
 ""\n
-"                                        %(points_earned)s out of %(points_possible)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                        %(points_earned)s out of %(points_possible)s\"\"\"\"\"\""\n
 "                                    "
 msgstr "%(points_earned)s / %(points_possible)s"
 
@@ -551,7 +551,7 @@ msgstr "আপনার জমা দেওয়া বাতিল করা হ�
 
 msgid ""
 ""\n
-"                                            %(points_earned)s out of %(points_possible)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                            %(points_earned)s out of %(points_possible)s\"\"\"\"\"\""\n
 "                                        "
 msgstr "{points_earned} এর মধ্যে {points_possible} পয়েন্ট"
 
@@ -686,37 +686,37 @@ msgstr "এই অ্যাসাইনমেন্টটি চলছে। অ
 
 msgid ""
 ""\n
-"                                    %(start_strong)sThis assignment is in progress. The self assessment step will close soon.%(end_strong)s You still need to complete the %(start_link)sself assessment%(end_link)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                    %(start_strong)sThis assignment is in progress. The self assessment step will close soon.%(end_strong)s You still need to complete the %(start_link)sself assessment%(end_link)s step.\"\"\"\"\"\""\n
 "                                "
 msgstr "%(start_strong)sএই অ্যাসাইনমেন্টটি চলছে। স্ব-মূল্যায়ন করার সময়সীমা শীঘ্রই শেষ হয়ে যাবে।%(end_strong)s আপনাকে %(start_link)sself assessment%(end_link)s ধাপটি সম্পন্ন করতে হবে।"
 
 msgid ""
 ""\n
-"                                    This assignment is in progress. You still need to complete the %(start_link)sself assessment%(end_link)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                    This assignment is in progress. You still need to complete the %(start_link)sself assessment%(end_link)s step.\"\"\"\"\"\""\n
 "                                "
 msgstr "এই অ্যাসাইনমেন্টটি চলছে। আপনাকে এখনো %(start_link)sসেলফ অ্যাসেসমেন্ট%(end_link)s ধাপটি সম্পূর্ণ করতে হবে।"
 
 msgid ""
 ""\n
-"                                    This assignment is in progress.%(start_strong)sThe peer assessment step will close soon.%(end_strong)s All submitted peer responses have been assessed. Check back later to see if more learners have submitted responses. You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                    This assignment is in progress.%(start_strong)sThe peer assessment step will close soon.%(end_strong)s All submitted peer responses have been assessed. Check back later to see if more learners have submitted responses. You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\""\n
 "                                "
 msgstr "এই অ্যাসাইনমেন্টটি চলছে।%(start_strong)sপিয়ার অ্যাসেসমেন্ট ধাপটি শীঘ্রই বন্ধ হয়ে যাবে।%(end_strong)s জমা দেওয়া সমস্ত পিয়ার রেসপন্স মূল্যায়ন করা হয়েছে। পরে আবার দেখুন, অন্য শিক্ষার্থীরা রেসপন্স জমা দিয়েছে কিনা। আপনাকে এখনও %(start_link)speer assessment%(end_link)s ধাপটি সম্পন্ন করতে হবে।"
 
 msgid ""
 ""\n
-"                                    This assignment is in progress. All submitted peer responses have been assessed. Check back later to see if more learners have submitted responses. You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                    This assignment is in progress. All submitted peer responses have been assessed. Check back later to see if more learners have submitted responses. You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\""\n
 "                                "
 msgstr "এই অ্যাসাইনমেন্টটি চলছে। আপনি যে পিয়ার রেসপন্সগুলো জমা দিয়েছেন, সেগুলো মূল্যায়ন করা হয়েছে। পরে আবার দেখুন, আরো শিক্ষার্থীরা রেসপন্স জমা দিয়েছে কিনা। আপনাকে এখনো %(start_link)পিয়ার অ্যাসেসমেন্ট%(end_link) ধাপটি সম্পন্ন করতে হবে।"
 
 msgid ""
 ""\n
-"                                    This assignment is in progress. %(start_strong)sThe peer assessment step will close soon.%(end_strong)s You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                    This assignment is in progress. %(start_strong)sThe peer assessment step will close soon.%(end_strong)s You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\""\n
 "                                "
 msgstr "এই অ্যাসাইনমেন্টটি চলছে। %(start_strong)sপর্যালোচনা করার ধাপটি শীঘ্রই বন্ধ হয়ে যাবে।%(end_strong)s আপনাকে এখনও %(start_link)speer assessment%(end_link)s ধাপটি সম্পন্ন করতে হবে।"
 
 msgid ""
 ""\n
-"                                    This assignment is in progress. You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                    This assignment is in progress. You still need to complete the %(start_link)speer assessment%(end_link)s step.\"\"\"\"\"\""\n
 "                                "
 msgstr "এই অ্যাসাইনমেন্টটি চলছে। আপনাকে এখনও %(start_link)স্পিয়ার অ্যাসেসমেন্ট%(end_link) এর ধাপগুলো সম্পন্ন করতে হবে।"
 
@@ -725,21 +725,21 @@ msgstr "এই অ্যাসাইনমেন্টটি দেখতে হ
 
 msgid ""
 ""\n
-"            This is a team assignment for team-set \"%(teamset_name)s\".\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            You are currently not on a team in team-set \"%(teamset_name)s\".\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            You must be on a team in team-set \"%(teamset_name)s\" to access this team assignment.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            This is a team assignment for team-set \"%(teamset_name)s\".\"\"\"\"\"\""\n
+"            You are currently not on a team in team-set \"%(teamset_name)s\".\"\"\"\"\"\""\n
+"            You must be on a team in team-set \"%(teamset_name)s\" to access this team assignment.\"\"\"\"\"\""\n
 "            "
 msgstr ""
 
 msgid ""
 ""\n
-"                    Assignment submissions will close soon. To receive a grade, first provide a response to the prompt, then complete the steps below the %(start_tag)sYour Response%(end_tag)s field.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    Assignment submissions will close soon. To receive a grade, first provide a response to the prompt, then complete the steps below the %(start_tag)sYour Response%(end_tag)s field.\"\"\"\"\"\""\n
 "                "
 msgstr "অ্যাসাইনমেন্ট জমা দেওয়ার সময় প্রায় শেষ। গ্রেড পেতে, প্রথমে প্রম্পটের উত্তর দিন, তারপর %(start_tag)sআপনার উত্তর%(end_tag)s ফিল্ডের নিচের ধাপগুলো সম্পন্ন করুন।"
 
 msgid ""
 ""\n
-"                    This assignment has several steps. In the first step, you'll provide a response to the prompt. The other steps appear below the %(start_tag)sYour Response%(end_tag)s field.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    This assignment has several steps. In the first step, you'll provide a response to the prompt. The other steps appear below the %(start_tag)sYour Response%(end_tag)s field.\"\"\"\"\"\""\n
 "                "
 msgstr "এই অ্যাসাইনমেন্টে বেশ কয়েকটি ধাপ আছে। প্রথম ধাপে, আপনি প্রম্পটের উত্তর দেবেন। অন্যান্য ধাপগুলো %(start_tag)sআপনার উত্তর%(end_tag)s ফিল্ডের নিচে দেওয়া আছে।"
 
@@ -790,19 +790,19 @@ msgstr "সহকর্মীদের মূল্যায়ন করুন"
 
 msgid ""
 ""\n
-"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "            "
 msgstr "<span>উপलब्ध {date} (%(time_until)s এর মধ্যে)</span>"
 
 msgid ""
 ""\n
-"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "            "
 msgstr "<span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"%{name} এর শেষ তারিখ: {date} (আর %(time_until)s এর মধ্যে)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>"
 
 msgid ""
 ""\n
-"                    In Progress (%(review_number)s of %(num_must_grade)s)\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    In Progress (%(review_number)s of %(num_must_grade)s)\"\"\"\"\"\""\n
 "                "
 msgstr "চলছে (%(review_number)s / %(num_must_grade)s)"
 
@@ -820,7 +820,7 @@ msgstr "বাতিল করা হয়েছে"
 
 msgid ""
 ""\n
-"            Incomplete (%(num_graded)s of %(num_must_grade)s)\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            Incomplete (%(num_graded)s of %(num_must_grade)s)\"\"\"\"\"\""\n
 "        "
 msgstr "অসম্পূর্ণ ({num_graded}টি / {num_must_grade}টি)"
 
@@ -841,7 +841,7 @@ msgstr "সহকর্মীদের মূল্যায়ন চালি�
 
 msgid ""
 ""\n
-"        Complete (%(num_graded)s)\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Complete (%(num_graded)s)\"\"\"\"\"\""\n
 "      "
 msgstr "সম্পূর্ণ ({num_graded}টি)"
 
@@ -853,7 +853,7 @@ msgstr "ಲಭ್ಯ নাই"
 
 msgid ""
 ""\n
-"          In Progress (%(review_number)s of %(num_must_grade)s)\"\"\"\"\"\"\"\"\"\"\"\""\n
+"          In Progress (%(review_number)s of %(num_must_grade)s)\"\"\"\"\"\""\n
 "        "
 msgstr "চলছে (%(review_number)sটি / %(num_must_grade)sটি)"
 
@@ -865,13 +865,13 @@ msgstr "আপনার টিমের উত্তর"
 
 msgid ""
 ""\n
-"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "            "
 msgstr "<span>%{start_date} তারিখে পাওয়া যাবে (%{time_until} এর মধ্যে)</span>"
 
 msgid ""
 ""\n
-"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "            "
 msgstr "<span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"%{name} তারিখের মধ্যে\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\">"
 
@@ -883,13 +883,13 @@ msgstr "প্রম্পটের উত্তরে আপনার দলে
 
 msgid ""
 ""\n
-"                        Your work will save automatically and you can return to complete your team's response at any time before the due date\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        Your work will save automatically and you can return to complete your team's response at any time before the due date\"\"\"\"\"\""\n
 "                      "
 msgstr "আপনার কাজ স্বয়ংক্রিয়ভাবে সংরক্ষিত হবে এবং আপনি নির্ধারিত সময়সীমা শেষ হওয়ার আগে যেকোনো সময় আপনার টিমের উত্তর সম্পন্ন করতে ফিরে আসতে পারবেন।"
 
 msgid ""
 ""\n
-"                        Your work will save automatically and you can return to complete your team's response at any time.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        Your work will save automatically and you can return to complete your team's response at any time.\"\"\"\"\"\""\n
 "                      "
 msgstr "আপনার কাজ স্বয়ংক্রিয়ভাবে সেভ হবে এবং আপনি যেকোনো সময় আপনার টিমের উত্তর সম্পন্ন করার জন্য ফিরে আসতে পারবেন।"
 
@@ -928,9 +928,9 @@ msgstr "টিম সদস্য: "
 
 msgid ""
 ""\n
-"                                              %(team_members_with_external_submissions)s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                              have/has already submitted a response to this assignment with another team,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                              and will not be a part of your team's submission or assignment grade.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                              %(team_members_with_external_submissions)s\"\"\"\"\"\""\n
+"                                              have/has already submitted a response to this assignment with another team,\"\"\"\"\"\""\n
+"                                              and will not be a part of your team's submission or assignment grade.\"\"\"\"\"\""\n
 "                                          "
 msgstr "আপনার টিমের সদস্য %(team_members_with_external_submissions)s অন্য একটি টিমের সাথে এই অ্যাসাইনমেন্টের উত্তর জমা দিয়েছেন। তাই, তারা আপনার টিমের জমা দেওয়া উত্তরে অন্তর্ভুক্ত হবে না এবং আপনার টিমের অ্যাসাইনমেন্ট গ্রেডেও গণনা করা হবে না।"
 
@@ -948,11 +948,11 @@ msgstr "(ঐচ্ছিক)"
 
 msgid ""
 ""\n
-"                                              Teams should designate one team member to submit a response on behalf of the\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                              entire team.  All team members can use this space to work on draft responses,\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                              but you will not be able to see your teammates' drafts made in this space, so\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                              please coordinate with them to decide on the final response the designated team\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                              member should submit.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                              Teams should designate one team member to submit a response on behalf of the\"\"\"\"\"\""\n
+"                                              entire team.  All team members can use this space to work on draft responses,\"\"\"\"\"\""\n
+"                                              but you will not be able to see your teammates' drafts made in this space, so\"\"\"\"\"\""\n
+"                                              please coordinate with them to decide on the final response the designated team\"\"\"\"\"\""\n
+"                                              member should submit.\"\"\"\"\"\""\n
 "                                          "
 msgstr "দলগুলোর একজন সদস্যকে দলের পক্ষ থেকে উত্তর জমা দেওয়ার জন্য নির্দিষ্ট করতে হবে। দলের সকল সদস্য এই স্থানে খসড়া উত্তর তৈরি করতে পারবে, তবে এই স্থানে অন্য সদস্যদের খসড়াগুলো দেখা যাবে না। তাই, দলের পক্ষ থেকে কোন উত্তর জমা দেওয়া হবে, তা ঠিক করার জন্য দলের সদস্যদের মধ্যে সমন্বয় করে নিতে হবে।"
 
@@ -961,11 +961,11 @@ msgstr "প্রম্পটের উপরে আপনার উত্তর
 
 msgid ""
 ""\n
-"                                      You are currently on Team %(team_name)s. Since you were on Team %(previous_team_name)s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                      when they submitted a response to this assignment, you are seeing Team %(previous_team_name)s’s\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                      response and will receive the same grade for this assignment as your former teammates.\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                      You will not be part of Team %(team_name)s’s submission for this assignment and will not\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                      receive a grade for their submission.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                      You are currently on Team %(team_name)s. Since you were on Team %(previous_team_name)s\"\"\"\"\"\""\n
+"                                      when they submitted a response to this assignment, you are seeing Team %(previous_team_name)s’s\"\"\"\"\"\""\n
+"                                      response and will receive the same grade for this assignment as your former teammates.\"\"\"\"\"\""\n
+"                                      You will not be part of Team %(team_name)s’s submission for this assignment and will not\"\"\"\"\"\""\n
+"                                      receive a grade for their submission.\"\"\"\"\"\""\n
 "                                  "
 msgstr ""
 
@@ -980,8 +980,8 @@ msgstr "ফাইল আপলোড"
 
 msgid ""
 ""\n
-"                                  Upload files and review files uploaded by you and your teammates below. Be sure to add\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                                  descriptions to your files to help your teammates identify them.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                  Upload files and review files uploaded by you and your teammates below. Be sure to add\"\"\"\"\"\""\n
+"                                  descriptions to your files to help your teammates identify them.\"\"\"\"\"\""\n
 "                              "
 msgstr "নিচে ফাইল আপলোড করুন এবং আপনি ও আপনার সহকর্মীরা আপলোড করা ফাইলগুলো দেখে নিন। আপনার সহকর্মীদের ফাইলগুলো চিনতে সাহায্য করার জন্য ফাইলের সাথে বিবরণ যোগ করতে ভুলবেন না।"
 
@@ -1023,7 +1023,7 @@ msgstr "পুরো দলের পক্ষ থেকে একজন টি�
 
 msgid ""
 ""\n
-"                  Learn more about team assignments here: (<a target=\"_blank\" href=\"https://support.edx.org/hc/en-us/articles/360000191067-Submit-your-response#h_01FVD8SXM9E5H2DNAG87X25ZHR\">link</a>)\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                  Learn more about team assignments here: (<a target=\"_blank\" href=\"https://support.edx.org/hc/en-us/articles/360000191067-Submit-your-response#h_01FVD8SXM9E5H2DNAG87X25ZHR\">link</a>)\"\"\"\"\"\""\n
 "                  "
 msgstr ""
 
@@ -1038,19 +1038,19 @@ msgstr "আপনার জমা দেওয়া বাতিল করা হ�
 
 msgid ""
 ""\n
-"                                Your submission has been cancelled by %(removed_by_username)s on %(removed_datetime)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                Your submission has been cancelled by %(removed_by_username)s on %(removed_datetime)s\"\"\"\"\"\""\n
 "                            "
 msgstr "আপনার জমা %(removed_by_username)s কর্তৃক %(removed_datetime) তারিখে বাতিল করা হয়েছে।"
 
 msgid ""
 ""\n
-"                               Your submission was cancelled on %(removed_datetime)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                               Your submission was cancelled on %(removed_datetime)s\"\"\"\"\"\""\n
 "                            "
 msgstr "আপনার সাবমিশনটি %(removed_datetime)s তারিখে বাতিল করা হয়েছে।"
 
 msgid ""
 ""\n
-"                            Comments: %(comments)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            Comments: %(comments)s\"\"\"\"\"\""\n
 "                        "
 msgstr "মন্তব্য: %(comments)s"
 
@@ -1074,19 +1074,19 @@ msgstr "আপনার উত্তর জমা দেওয়া হয়েছ�
 
 msgid ""
 ""\n
-"                        You still need to complete the %(peer_start_tag)speer assessment%(end_tag)s and %(self_start_tag)sself assessment%(end_tag)s steps.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        You still need to complete the %(peer_start_tag)speer assessment%(end_tag)s and %(self_start_tag)sself assessment%(end_tag)s steps.\"\"\"\"\"\""\n
 "                    "
 msgstr "আপনাকে এখনও %(peer_start_tag)সহকর্মীদের মূল্যায়ন%(end_tag)s এবং %(self_start_tag)নিজের মূল্যায়ন%(end_tag)s ধাপগুলো সম্পন্ন করতে হবে।"
 
 msgid ""
 ""\n
-"                        You still need to complete the %(start_tag)speer assessment%(end_tag)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        You still need to complete the %(start_tag)speer assessment%(end_tag)s step.\"\"\"\"\"\""\n
 "                    "
 msgstr "আপনাকে এখনো %(start_tag)স্পীর অ্যাসেসমেন্ট%(end_tag)s ধাপটি সম্পন্ন করতে হবে।"
 
 msgid ""
 ""\n
-"                        You still need to complete the %(start_tag)sself assessment%(end_tag)s step.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        You still need to complete the %(start_tag)sself assessment%(end_tag)s step.\"\"\"\"\"\""\n
 "                    "
 msgstr "আপনাকে এখনো %(start_tag)sস্ব-মূল্যায়ন%(end_tag)s ধাপটি সম্পন্ন করতে হবে।"
 
@@ -1101,10 +1101,10 @@ msgstr "ত্রুটি"
 
 msgid ""
 ""\n
-"                            You joined Team %(team_name)s after they submitted a response for this assignment\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                            and you will not receive a grade for their response. You have also not previously submitted\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                            a response to this assignment with another team. Please contact course staff to discuss your\"\"\"\"\"\"\"\"\"\"\"\""\n
-"                            options for this assignment.\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            You joined Team %(team_name)s after they submitted a response for this assignment\"\"\"\"\"\""\n
+"                            and you will not receive a grade for their response. You have also not previously submitted\"\"\"\"\"\""\n
+"                            a response to this assignment with another team. Please contact course staff to discuss your\"\"\"\"\"\""\n
+"                            options for this assignment.\"\"\"\"\"\""\n
 "                        "
 msgstr ""
 
@@ -1113,13 +1113,13 @@ msgstr "আপনার প্রতিক্রিয়া মূল্যা�
 
 msgid ""
 ""\n
-"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "           "
 msgstr "<span>উপলব্ধ {date} (%(time_until)s এর মধ্যে)</span>"
 
 msgid ""
 ""\n
-"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "           "
 msgstr "<span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"{date} তারিখের মধ্যে (%(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\">"
 
@@ -1197,13 +1197,13 @@ msgstr "এই শিক্ষার্থীর সমস্যাটির র
 
 msgid ""
 ""\n
-"                                        Response for: %(team_name)s with %(team_usernames)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                        Response for: %(team_name)s with %(team_usernames)s\"\"\"\"\"\""\n
 "                                    "
 msgstr "Response for: %(team_name)s টিমের %(team_usernames)s এর জন্য"
 
 msgid ""
 ""\n
-"                                        Response for: %(student_username)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                        Response for: %(student_username)s\"\"\"\"\"\""\n
 "                                    "
 msgstr "Response for: %(student_username)s"
 
@@ -1224,7 +1224,7 @@ msgstr "অ্যাসেসমেন্ট জমা দিন এবং গ�
 
 msgid ""
 ""\n
-"                %(ungraded)s Available and %(in_progress)s Checked Out\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                %(ungraded)s Available and %(in_progress)s Checked Out\"\"\"\"\"\""\n
 "            "
 msgstr "%(ungraded)s টি এখনো যাচাই করা হয়নি এবং %(in_progress)s টি বর্তমানে পরীক্ষা করা হচ্ছে।"
 
@@ -1242,13 +1242,13 @@ msgstr "উপরের প্রম্পটের উত্তরে টিম
 
 msgid ""
 ""\n
-"                    Viewing learner: %(learner)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    Viewing learner: %(learner)s\"\"\"\"\"\""\n
 "                "
 msgstr "শিক্ষার্থী দেখা হচ্ছে: {learner}"
 
 msgid ""
 ""\n
-"                    Viewing team: %(team)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                    Viewing team: %(team)s\"\"\"\"\"\""\n
 "                "
 msgstr "টিম দেখা হচ্ছে: %(team)s"
 
@@ -1260,19 +1260,19 @@ msgstr "টিমের প্রতিক্রিয়া"
 
 msgid ""
 ""\n
-"                            Learner submission removed by %(removed_by_username)s on %(removed_datetime)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            Learner submission removed by %(removed_by_username)s on %(removed_datetime)s\"\"\"\"\"\""\n
 "                        "
 msgstr " %(removed_by_username)s কর্তৃক %(removed_datetime)s তারিখে শিক্ষার্থীর জমা দেওয়া উত্তরটি সরিয়ে ফেলা হয়েছে।"
 
 msgid ""
 ""\n
-"                            Learner submission removed on %(removed_datetime)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            Learner submission removed on %(removed_datetime)s\"\"\"\"\"\""\n
 "                        "
 msgstr "শিক্ষার্থীর জমা দেওয়া কাজ %(removed_datetime)s তারিখে সরিয়ে দেওয়া হয়েছে।"
 
 msgid ""
 ""\n
-"                        Comments: %(comments)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                        Comments: %(comments)s\"\"\"\"\"\""\n
 "                    "
 msgstr "মন্তব্য: %(comments)s"
 
@@ -1299,7 +1299,7 @@ msgstr "টিমের চূড়ান্ত গ্রেড"
 
 msgid ""
 ""\n
-"                            Final grade: %(points_earned)s out of %(points_possible)s\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            Final grade: %(points_earned)s out of %(points_possible)s\"\"\"\"\"\""\n
 "                        "
 msgstr "চূড়ান্ত গ্রেড: %(points_earned)s এর মধ্যে %(points_possible)s"
 
@@ -1308,7 +1308,7 @@ msgstr "চূড়ান্ত গ্রেডের বিবরণ"
 
 msgid ""
 ""\n
-"                                        %(assessment_label)s - %(points)s point\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                                        %(assessment_label)s - %(points)s point\"\"\"\"\"\""\n
 "                                    "
 msgstr "%(assessment_label)s - %(points)s পয়েন্ট"
 
@@ -1371,9 +1371,9 @@ msgstr "এই শিক্ষার্থীর জন্য কোনো উ�
 
 msgid ""
 ""\n
-"                            Assessment %(assessment_num)s:\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                            Assessment %(assessment_num)s:\"\"\"\"\"\""\n
 "                        "
-msgstr "মূল্যায়ন %(assessment_num)s: \"\"\"\"\\"
+msgstr "মূল্যায়ন %(assessment_num)s: \"\"\"\"\""
 
 msgid "Assessment Details"
 msgstr "মূল্যায়ন বিবরণ"
@@ -1392,19 +1392,19 @@ msgstr "রেসপন্স অ্যাসেস করা শিখুন"
 
 msgid ""
 ""\n
-"                      In Progress (%(current_progress_num)s of %(training_available_num)s)\"\"\"\"\"\"\"\"\"\"\"\""\n
+"                      In Progress (%(current_progress_num)s of %(training_available_num)s)\"\"\"\"\"\""\n
 "                  "
 msgstr "চলছে (%(current_progress_num)s / %(training_available_num)s)"
 
 msgid ""
 ""\n
-"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "            "
 msgstr "<span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"{date}-এ পাওয়া যাবে (%(time_until)s-এর মধ্যে)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>"
 
 msgid ""
 ""\n
-"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\"\"\"\"\"\"\""\n
+"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\"\"\"\"\"\""\n
 "            "
 msgstr "<span>ao_step_deadline</span> তারিখ: {date} (আর {time_until} এর মধ্যে)"
 

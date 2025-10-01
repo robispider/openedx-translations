@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:14+0000\n"
-"PO-Revision-Date: 2025-09-30 03:14+9441\n"
+"POT-Creation-Date: 2025-09-29 02:46+0000\n"
+"PO-Revision-Date: 2025-09-29 08:46+1684\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -352,11 +352,11 @@ msgid "Delete File Confirmation"
 msgstr "আপনি কি {name} ফাইলটি মুছতে চান?"
 
 msgid ""
-"Are you sure you wish to delete this item. It cannot be reversed!\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Are you sure you wish to delete this item. It cannot be reversed!\"\"\"\"\"\"\"\"\""\n
 ""\n
 "Also any content that links/refers to this item will no longer work (e.g. broken images and/or links)"
 msgstr ""
-"আপনি কি নিশ্চিতভাবে এই আইটেমটি ডিলিট করতে চান? এটা আর আগের অবস্থায় ফিরিয়ে আনা যাবে না!\"\"\"\"\"\""\n
+"আপনি কি নিশ্চিতভাবে এই আইটেমটি ডিলিট করতে চান? এটা আর আগের অবস্থায় ফিরিয়ে আনা যাবে না!"\n
 ""\n
 "এই আইটেমটির সাথে যুক্ত যেকোনো কিছু (যেমন: ছবি অথবা লিঙ্ক) কাজ করা বন্ধ করে দেবে।"
 
@@ -3634,24 +3634,24 @@ msgid "Insert/Edit Image"
 msgstr "ছবি যোগ করুন/পরিবর্তন করুন"
 
 msgid ""
-"Click OK to have your username and e-mail address sent to a 3rd party application.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Click OK to have your username and e-mail address sent to a 3rd party application.\"\"\"\"\"\"\"\"\""\n
 ""\n
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"ওকে ক্লিক করে আপনার ইউজারনেম ও ইমেইল ঠিকানা একটি তৃতীয় পক্ষের অ্যাপ্লিকেশনে পাঠানো হবে।\"\"\"\"\"\""\n
+"ওকে ক্লিক করে আপনার ইউজারনেম ও ইমেইল ঠিকানা একটি তৃতীয় পক্ষের অ্যাপ্লিকেশনে পাঠানো হবে।"\n
 "বাতিল ক্লিক করে এই পেজে ফিরে যান এবং আপনার তথ্য পাঠানো হবে না।"
 
 msgid ""
-"Click OK to have your username sent to a 3rd party application.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Click OK to have your username sent to a 3rd party application.\"\"\"\"\"\"\"\"\""\n
 ""\n
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"ওকে ক্লিক করে আপনার ইউজারনেম একটি তৃতীয় পক্ষের অ্যাপ্লিকেশনে পাঠানো হবে।\"\"\"\"\"\""\n
+"ওকে ক্লিক করে আপনার ইউজারনেম একটি তৃতীয় পক্ষের অ্যাপ্লিকেশনে পাঠানো হবে।"\n
 ""\n
 "বাতিল ক্লিক করে এই পেজে ফিরে যান এবং আপনার তথ্য পাঠানো হবে না।"
 
 msgid ""
-"Click OK to have your e-mail address sent to a 3rd party application.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"Click OK to have your e-mail address sent to a 3rd party application.\"\"\"\"\"\"\"\"\""\n
 ""\n
 "Click Cancel to return to this page without sending your information."
 msgstr "ঠিক আছে ক্লিক করে আপনার ইমেইল ঠিকানা একটি তৃতীয় পক্ষের অ্যাপ্লিকেশনে পাঠান। বাতিল ক্লিক করে এই পেজে ফিরে যান।"
@@ -3669,11 +3669,11 @@ msgid "Short explanation"
 msgstr "সংক্ষিপ্ত ব্যাখ্যা"
 
 msgid ""
-"If you use the Advanced Editor, this problem will be converted to XML and you will not be able to return to the Simple Editor Interface.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"If you use the Advanced Editor, this problem will be converted to XML and you will not be able to return to the Simple Editor Interface.\"\"\"\"\"\"\"\"\""\n
 ""\n
 "Proceed to the Advanced Editor and convert this problem to XML?"
 msgstr ""
-"আপনি যদি অ্যাডভান্সড এডিটর ব্যবহার করেন, তাহলে এই সমস্যাটি XML-এ রূপান্তরিত হবে এবং আপনি সিম্পল এডিটর ইন্টারফেসে ফিরে যেতে পারবেন না।\"\"\"\"\"\""\n
+"আপনি যদি অ্যাডভান্সড এডিটর ব্যবহার করেন, তাহলে এই সমস্যাটি XML-এ রূপান্তরিত হবে এবং আপনি সিম্পল এডিটর ইন্টারফেসে ফিরে যেতে পারবেন না।"\n
 ""\n
 "অ্যাডভান্সড এডিটরে যান এবং এই সমস্যাটি XML-এ রূপান্তর করুন?"
 

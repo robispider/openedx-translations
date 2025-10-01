@@ -1,164 +1,200 @@
-﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
 #
-# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
-# edX translation file
-# Copyright (C) 2025 edX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2025.
-#
-# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
-# edX translation file
-# Copyright (C) 2025 edX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2025.
-#
-# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
-# Translations template for PROJECT.
-# Copyright (C) 2025 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-#
-# Translators:
-# Gabriel D'Amours <gabriel@opencraft.com>, 2024
-# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
-# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# Brian Smith, 2025
-#
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:19+0000\n"
-"PO-Revision-Date: 2025-09-30 03:19+0467\n"
-"Last-Translator: Brian Smith, 2025\n"
-"Language-Team: \n"
-"Language: bn_BD\n"
+"Project-Id-Version: 0.1a\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2023-06-13 08:00+0000\n"
+"PO-Revision-Date: 2023-06-13 09:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
-"Generated-By: Babel 2.17.0\n"
-"X-Generator: Poedit 3.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: models.py:39
 msgid "Display Correctness?"
-msgstr "সঠিকতা প্রদর্শন করুন?"
+msgstr ""
 
-msgid "This is a flag that indicates if the indicator icon should be displayed after a student enters their response"
-msgstr "এটা একটা ফ্ল্যাগ, যেটা নির্দেশ করে একজন ছাত্র/ছাত্রী উত্তর দেওয়ার পরে ইন্ডিকেটর আইকনটা দেখানো হবে কিনা।"
+#: models.py:41
+msgid ""
+"This is a flag that indicates if the indicator icon should be displayed "
+"after a student enters their response"
+msgstr ""
 
+#: models.py:49
 msgid "Display Other Student Responses"
-msgstr "অন্যান্য শিক্ষার্থীর উত্তর দেখুন"
+msgstr ""
 
-msgid "This will display other student responses to the student after they submit their response."
-msgstr "সাবমিট করার পরে এই অপশনটি অন্য শিক্ষার্থীদের উত্তরগুলো {name}-কে দেখাবে।"
+#: models.py:51
+msgid ""
+"This will display other student responses to the student after they submit "
+"their response."
+msgstr ""
 
+#: models.py:60
 msgid "System selected answers to give to students"
-msgstr "শিক্ষার্থীদের জন্য সিস্টেম কর্তৃক নির্বাচিত উত্তর"
+msgstr ""
 
+#: models.py:63
 msgid "Display Name"
-msgstr "ডিসপ্লে নাম"
+msgstr ""
 
+#: models.py:65
 msgid "This is the title for this question type"
-msgstr "এই প্রশ্ন ধরনের শিরোনাম"
+msgstr ""
 
+#: models.py:71
 msgid "Full-Credit Key Phrases"
-msgstr "পূর্ণ ক্রেডিট পাওয়ার জন্য গুরুত্বপূর্ণ শব্দগুচ্ছ"
+msgstr ""
 
-msgid "This is a list of words or phrases, one of which must be present in order for the student's answer to receive full credit"
-msgstr "এটা শব্দ অথবা বাক্যের একটা তালিকা, যার মধ্যে যেকোনো একটা শব্দ শিক্ষার্থীর উত্তরে থাকতেই হবে, নাহলে সে পুরো নম্বর পাবে না।"
+#: models.py:73
+msgid ""
+"This is a list of words or phrases, one of which must be present in order "
+"for the student's answer to receive full credit"
+msgstr ""
 
+#: models.py:81
 msgid "Half-Credit Key Phrases"
-msgstr "আধা ক্রেডিট পাওয়ার জন্য গুরুত্বপূর্ণ শব্দগুচ্ছ"
+msgstr ""
 
-msgid "This is a list of words or phrases, one of which must be present in order for the student's answer to receive half credit"
-msgstr "এটা শব্দ অথবা বাক্যাংশের একটা তালিকা, যার মধ্যে অন্তত একটা শব্দ অবশ্যই শিক্ষার্থীর উত্তরে থাকতে হবে, না হলে সে অর্ধেক নম্বর পাবে না।"
+#: models.py:83
+msgid ""
+"This is a list of words or phrases, one of which must be present in order "
+"for the student's answer to receive half credit"
+msgstr ""
 
+#: models.py:91
 msgid "Maximum Number of Attempts"
-msgstr "সর্বোচ্চ চেষ্টার সংখ্যা"
+msgstr ""
 
-msgid "This is the maximum number of times a student is allowed to attempt the problem"
-msgstr "একজন ছাত্র একটি সমস্যা কতবার চেষ্টা করতে পারবে তার সর্বোচ্চ সংখ্যা এটি।"
+#: models.py:93
+msgid ""
+"This is the maximum number of times a student is allowed to attempt the "
+"problem"
+msgstr ""
 
+#: models.py:101
 msgid "Maximum Word Count"
-msgstr "সর্বোচ্চ শব্দ সংখ্যা"
+msgstr ""
 
+#: models.py:103
 msgid "This is the maximum number of words allowed for this question"
-msgstr "এই প্রশ্নের জন্য সর্বোচ্চ শব্দসংখ্যা হল।"
+msgstr ""
 
+#: models.py:111
 msgid "Minimum Word Count"
-msgstr "ন্যূনতম শব্দ সংখ্যা"
+msgstr ""
 
+#: models.py:113
 msgid "This is the minimum number of words required for this question"
-msgstr "এই প্রশ্নের জন্য সর্বনিম্ন শব্দসংখ্যা হলো।"
+msgstr ""
 
+#: models.py:121
 msgid "Prompt"
-msgstr "প্রম্পট"
+msgstr ""
 
-msgid "This is the prompt students will see when asked to enter their response"
-msgstr "শিক্ষার্থীরা যখন তাদের উত্তর দিতে বলা হবে, তখন তারা এই প্রম্পটটি দেখবে।"
+#: models.py:123
+msgid ""
+"This is the prompt students will see when asked to enter their response"
+msgstr ""
 
+#: models.py:131
 msgid "Submission Received Message"
-msgstr "আপনার জমা দেওয়া হয়েছে। {name}, ধন্যবাদ!"
+msgstr ""
 
+#: models.py:133
 msgid "This is the message students will see upon submitting their response"
-msgstr "ফর্ম জমা দেওয়ার পরে শিক্ষার্থীরা এই বার্তাটি দেখবে।"
+msgstr ""
 
+#: models.py:140
 msgid "Weight"
-msgstr "ওজন"
+msgstr ""
 
+#: models.py:142
 msgid "This assigns an integer value representing the weight of this problem"
-msgstr "এটা এই সমস্যাটির গুরুত্ব বোঝানোর জন্য একটি পূর্ণসংখ্যা মান নির্ধারণ করে।"
+msgstr ""
 
+#: models.py:150
 msgid "Draft Received Message"
-msgstr "ড্রাফট মেসেজ গ্রহণ করা হয়েছে"
+msgstr ""
 
+#: models.py:152
 msgid "This is the message students will see upon submitting a draft response"
-msgstr "শিক্ষার্থীরা খসড়া জমা দেওয়ার পরে এই বার্তাটি দেখতে পাবে।"
+msgstr ""
 
-msgid "Allow my response to possibly be visible by other learners after submitting their response"
-msgstr "সাবমিট করার পরে অন্যান্য শিক্ষার্থীদের জন্য আমার উত্তর দৃশ্যমান হতে পারে।"
+#: templates/view.html:15
+msgid ""
+"Allow my response to possibly be visible by other learners after submitting "
+"their response"
+msgstr ""
 
+#: templates/view.html:21 templates/view.html:24
 msgid "Checking..."
-msgstr "যাচাই করা হচ্ছে..."
+msgstr ""
 
+#: templates/view.html:21 templates/view.html:22
 msgid "Submit"
-msgstr "জমা দিন"
+msgstr ""
 
+#: templates/view.html:24 templates/view.html:25
 msgid "Save"
-msgstr "সংরক্ষণ করুন"
+msgstr ""
 
+#: templates/view.html:34
 msgid "Hide"
-msgstr "লুকানো"
+msgstr ""
 
+#: templates/view.html:35
 msgid "Show"
-msgstr "দেখাও"
+msgstr ""
 
+#: templates/view.html:36
 msgid "peer responses"
-msgstr "অন্যান্য ব্যবহারকারীর প্রতিক্রিয়া"
+msgstr ""
 
+#: templates/view.html:38
 msgid "Submissions by others"
-msgstr "অন্যদের জমা দেওয়া"
+msgstr ""
 
+#: templates/view.html:39 templates/view.html:43
 msgid "No responses to show at this time"
-msgstr "এই মুহূর্তে দেখানোর মতো কোনো উত্তর নেই।"
+msgstr ""
 
+#: views.py:126
+#, python-brace-format
 msgid "{weight} point possible"
-msgstr "{weight} পয়েন্ট সম্ভাব্য"
+msgid_plural "{weight} points possible"
+msgstr[0] ""
+msgstr[1] ""
 
+#: views.py:134
+#, python-brace-format
 msgid "{score_string}/{weight} point"
-msgstr "{score_string}/{weight} পয়েন্ট"
+msgid_plural "{score_string}/{weight} points"
+msgstr[0] ""
+msgstr[1] ""
 
+#: views.py:147
+#, python-brace-format
 msgid "You have used {count_attempts} of {max_attempts} submission"
-msgstr "আপনি {max_attempts} বার জমা দেওয়ার মধ্যে {count_attempts} বার জমা দিয়েছেন।"
+msgid_plural "You have used {count_attempts} of {max_attempts} submissions"
+msgstr[0] ""
+msgstr[1] ""
 
+#: views.py:171
+#, python-brace-format
 msgid "Your response must be between {min} and {max} word."
-msgstr "আপনার উত্তরটি {min} থেকে {max} শব্দের মধ্যে হতে হবে।"
+msgid_plural "Your response must be between {min} and {max} words."
+msgstr[0] ""
+msgstr[1] ""
 
+#: views.py:267
+#, python-brace-format
 msgid "Invalid Word Count. {word_count_message}"
-msgstr "অকার্যকর শব্দ সংখ্যা। {word_count_message}"
-
+msgstr ""

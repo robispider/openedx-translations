@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-29 21:14+0000\n"
-"PO-Revision-Date: 2025-09-30 03:14+9909\n"
+"POT-Creation-Date: 2025-09-29 04:37+0000\n"
+"PO-Revision-Date: 2025-09-29 10:37+3842\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -703,8 +703,8 @@ msgid "This field signifies if any of this org's courses are in the enterprise s
 msgstr "এই ক্ষেত্রটি নির্দেশ করে এই প্রতিষ্ঠানের কোনো কোর্স এন্টারপ্রাইজ সাবস্ক্রিপশন ক্যাটালগে আছে কিনা।"
 
 msgid ""
-"The 6 character-hex-value of the orgnization theme color,\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            all related course under same organization will use this color as theme color.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"The 6 character-hex-value of the orgnization theme color,\"\"\"\"\"\"\"\"\""\n
+"            all related course under same organization will use this color as theme color.\"\"\"\"\"\"\"\"\""\n
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr "সংস্থার থিম রঙের ৬ অক্ষরের হেক্স মান। এই রঙের থিম কালারটি একই সংস্থার অধীনে থাকা সকল কোর্সে ব্যবহৃত হবে। (যেমন: \"ff0000\" মানে লাল)। # দেওয়ার দরকার নেই।"
 
@@ -1060,7 +1060,7 @@ msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
 msgstr "সামগ্রিক প্রোগ্রামের র‍্যাঙ্কিং (যেমন: \"#1 ইউ.এস.-এ\")"
 
 msgid ""
-"The 6 character hex value of the color to make the banner borders\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"The 6 character hex value of the color to make the banner borders\"\"\"\"\"\"\"\"\""\n
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr " ব্যানারের বর্ডারের জন্য ৬ অক্ষরের হেক্স কোড দিন (যেমন: \"ff0000\" মানে লাল)। `#` দেওয়ার দরকার নেই।"
 
@@ -1182,8 +1182,8 @@ msgid "String-based field stating how much the cost is (e.g. $1000)."
 msgstr "স্ট্রিং-ভিত্তিক ক্ষেত্র যেখানে খরচ কত তা উল্লেখ করা হবে (যেমন: $১০০০)।"
 
 msgid ""
-"A high-level overview of the degree's courseware. The \"brief\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"            text is the first 750 characters of \"marketing_text\" and must be\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"A high-level overview of the degree's courseware. The \"brief\"\"\"\"\"\"\"\"\"\""\n
+"            text is the first 750 characters of \"marketing_text\" and must be\"\"\"\"\"\"\"\"\""\n
 "            valid HTML."
 msgstr "ডিগ্রিটির কোর্সওয়ার্কের একটি সারসংক্ষেপ। \"সংক্ষিপ্ত\" লেখাটি \"marketing_text\" এর প্রথম ৭৫০টি অক্ষর এবং এটি অবশ্যই একটি বৈধ HTML হতে হবে।"
 
@@ -1321,7 +1321,7 @@ msgstr "হাই কোর্স টিম, "
 
 msgid ""
 ""\n
-"        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 "        "
 msgstr "আপনাকে জানানো হচ্ছে যে, \"%({course_name}s)\" কোর্সটি (কোর্স কী: %({course_key}s)) {days} দিনে, {course_end_date} তারিখে শেষ হবে।"
 
@@ -1330,7 +1330,7 @@ msgstr "শিক্ষার্থীদের বাধাহীনভাব�
 
 msgid ""
 ""\n
-"        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 "        "
 msgstr "আপনাকে জানানো যাচ্ছে যে, কোর্স \"%s\" (কোর্স কী: %s) %s তারিখে আনুষ্ঠানিকভাবে শেষ হয়েছে।"
 
@@ -1351,8 +1351,8 @@ msgstr "আপনি এখানে কোর্সের শেষ হওয�
 
 msgid ""
 ""\n
-"        If no action is taken, the course will no longer be available for enrollment or access by learners on \"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        <a href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a> after the end date.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        If no action is taken, the course will no longer be available for enrollment or access by learners on \"\"\"\"\"\"\"\"\""\n
+"        <a href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a> after the end date.\"\"\"\"\"\"\"\"\""\n
 "        "
 msgstr "কোনো পদক্ষেপ না নিলে, কোর্সটি আর শিক্ষার্থীদের জন্য তালিকাভুক্ত বা অ্যাক্সেসযোগ্য থাকবে না। শেষ তারিখের পরে <a href=\"%(partner_marketing_site_url)s\">%(partner_marketing_site_url)s</a>-এ তালিকাভুক্তি বন্ধ হয়ে যাবে।"
 
@@ -1361,13 +1361,13 @@ msgstr "ধন্যবাদ"
 
 msgid ""
 ""\n
-"This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) is scheduled to end in %(days)s on %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr "আপনাকে জানানো হচ্ছে যে, %(course_name)s কোর্সটি (কোর্স কী: %(course_key)s) %(days)s দিনের মধ্যে %(course_end_date)s তারিখে শেষ হতে যাচ্ছে।"
 
 msgid ""
 ""\n
-"This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"This is an automated reminder that the course \"%(course_name)s\" (Course Key: %(course_key)s) has officially ended as of %(course_end_date)s.\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr "আপনাকে জানানো যাচ্ছে যে, %(course_name)s (কোর্স কী: %(course_key)s) কোর্সটি %(course_end_date)s তারিখে আনুষ্ঠানিকভাবে শেষ হয়েছে।"
 
@@ -1376,7 +1376,7 @@ msgstr "Publisher-এ কোর্সটি দেখুন:"
 
 msgid ""
 ""\n
-"If no action is taken, the course will no longer be available for enrollment or access by learners on %(partner_marketing_site_url)s after the end date.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"If no action is taken, the course will no longer be available for enrollment or access by learners on %(partner_marketing_site_url)s after the end date.\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr "যদি কোনো পদক্ষেপ নেওয়া না হয়, তাহলে %(partner_marketing_site_url)s-এ কোর্সটি শেষ তারিখের পরে শিক্ষার্থীদের জন্য তালিকাভুক্তি বা অ্যাক্সেসের জন্য আর উপলব্ধ থাকবে না।"
 
@@ -1442,30 +1442,30 @@ msgstr "Publisher-এ কোর্সটি দেখুন: %(course_page_url)s
 
 msgid ""
 ""\n
-"        Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr "Course '%(course_name)s' সফলভাবে edX কর্তৃক রিভিউ করা হয়েছে এবং %(course_publish_date)s তারিখে পাবলিশ করা হয়েছে। লাইভ কোর্সটি দেখতে এখানে যান: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
 
 msgid ""
 ""\n
-"        Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"        To see a preview of the Course About Page, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"        Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\"\"\"\"\"\"\"\"\""\n
+"        To see a preview of the Course About Page, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\"\"\"\"\"\"\"\"\""\n
 "    "
 msgstr ""
 
 msgid ""
 ""\n
-"    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr "edX কর্তৃক '%(course_name)s' কোর্সটি সফলভাবে রিভিউ করা হয়েছে এবং এটি এখন %(course_publish_date)s তারিখে প্রকাশিত হয়েছে। লাইভ কোর্সটি দেখতে এখানে যান: %(course_marketing_url)s"
 
 msgid ""
 ""\n
-"   Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
-"    To see a preview of the Course About Page, go here: %(course_preview_url)s\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""\n
+"   Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\"\"\"\"\"\"\"\"\""\n
+"    To see a preview of the Course About Page, go here: %(course_preview_url)s\"\"\"\"\"\"\"\"\""\n
 ""
 msgstr ""
-"edX কর্তৃক '%(course_name)s' কোর্সটি সফলভাবে রিভিউ করা হয়েছে এবং এটি এখন প্রকাশের জন্য প্রস্তুত। কোর্সটি %(course_publish_date)s তারিখে প্রকাশিত হবে। \"\"\"\"\"\""\n
+"edX কর্তৃক '%(course_name)s' কোর্সটি সফলভাবে রিভিউ করা হয়েছে এবং এটি এখন প্রকাশের জন্য প্রস্তুত। কোর্সটি %(course_publish_date)s তারিখে প্রকাশিত হবে। "\n
 ""\n
 "কোর্স অ্যাবাউট পেজের প্রিভিউ দেখতে এখানে যান: %(course_preview_url)s"
 
