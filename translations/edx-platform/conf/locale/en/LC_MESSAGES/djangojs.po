@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-27 18:19+0000\n"
-"PO-Revision-Date: 2025-09-28 00:19+0249\n"
+"POT-Creation-Date: 2025-09-27 12:23+0000\n"
+"PO-Revision-Date: 2025-09-27 18:23+0807\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -55,7 +55,7 @@ msgid "OpenAssessment Save Error"
 msgstr ""
 
 msgid "Saving"
-msgstr "সংরক্ষণ করা হচ্ছে"
+msgstr ""
 
 msgid "This link will open in a new browser window/tab"
 msgstr ""
@@ -367,7 +367,7 @@ msgid "Date Added"
 msgstr ""
 
 msgid "Type"
-msgstr "ধরন"
+msgstr ""
 
 msgid "File {filename} exceeds maximum size of {maxFileSizeInMBs} MB"
 msgstr ""
@@ -433,7 +433,7 @@ msgid "View files"
 msgstr ""
 
 msgid "Dismiss"
-msgstr "বাতিল করুন"
+msgstr ""
 
 msgid "Create Re-run"
 msgstr ""
@@ -469,7 +469,7 @@ msgid "Last updated"
 msgstr ""
 
 msgid "Required"
-msgstr "প্রয়োজনীয়"
+msgstr ""
 
 msgid "Automatic transcripts are disabled."
 msgstr ""
@@ -538,13 +538,13 @@ msgid "Files must be in JPEG or PNG format."
 msgstr ""
 
 msgid "All Rights Reserved"
-msgstr "সর্বস্ব স্বত্ব সংরক্ষিত"
+msgstr ""
 
 msgid "You reserve all rights for your work"
 msgstr ""
 
 msgid "Creative Commons"
-msgstr "ক্রিয়েটিভ কমন্স"
+msgstr ""
 
 msgid "You waive some rights for your work, such that others can use it too"
 msgstr ""
@@ -553,25 +553,25 @@ msgid "Version"
 msgstr ""
 
 msgid "Attribution"
-msgstr "স্বত্ত্বাধিকারীর স্বীকৃতি"
+msgstr ""
 
 msgid "Allow others to copy, distribute, display and perform your copyrighted work but only if they give credit the way you request. Currently, this option is required."
 msgstr "অন্যদের আপনার কপিরাইটেড কাজ কপি, বিতরণ, প্রদর্শন এবং পরিবেশন করার অনুমতি দিন, তবে শর্ত থাকে যে তারা আপনার চাওয়া মতো স্বীকৃতি দিতে হবে। বর্তমানে, এই অপশনটি বাধ্যতামূলক।"
 
 msgid "Noncommercial"
-msgstr "অবাণিজ্যিক"
+msgstr ""
 
 msgid "Allow others to copy, distribute, display and perform your work - and derivative works based upon it - but for noncommercial purposes only."
 msgstr "অন্যদের আপনার কাজ এবং এর উপর ভিত্তি করে তৈরি কাজ অনুলিপি, বিতরণ, প্রদর্শন এবং পরিবেশন করার অনুমতি দিন - কিন্তু শুধুমাত্র অ-বাণিজ্যিক উদ্দেশ্যে।"
 
 msgid "No Derivatives"
-msgstr "কোনো প্রকার পরিবর্তন বা পরিমার্জন করা যাবে না"
+msgstr ""
 
 msgid "Allow others to copy, distribute, display and perform only verbatim copies of your work, not derivative works based upon it. This option is incompatible with \"Share Alike\"."
 msgstr "অন্যদের আপনার কাজের হুবহু অনুলিপি, বিতরণ, প্রদর্শন এবং পরিবেশন করার অনুমতি দিন, তবে এর উপর ভিত্তি করে নতুন কাজ তৈরি করার অনুমতি দেবেন না। এই অপশনটি \"Share Alike\"-এর সাথে সঙ্গতিপূর্ণ নয়।"
 
 msgid "Share Alike"
-msgstr "পুনরায় বিতরণ করুন"
+msgstr ""
 
 msgid "Allow others to distribute derivative works only under a license identical to the license that governs your work. This option is incompatible with \"No Derivatives\"."
 msgstr "অন্যদের আপনার কাজের ওপর ভিত্তি করে নতুন কাজ তৈরি ও বিতরণ করার অনুমতি দিন, তবে শুধুমাত্র আপনার কাজের লাইসেন্সের সাথে একই লাইসেন্সের অধীনে। এই অপশনটি \"কোনো ডেরিভেটিভ নয়\" অপশনের সাথে সঙ্গতিপূর্ণ নয়।"
@@ -625,7 +625,7 @@ msgid "Upload File"
 msgstr ""
 
 msgid "Save"
-msgstr "সংরক্ষণ করুন"
+msgstr ""
 
 msgid "{display_name} Settings"
 msgstr ""
@@ -637,7 +637,7 @@ msgid "Publish all unpublished changes for this {item}?"
 msgstr ""
 
 msgid "Publish"
-msgstr "প্রকাশ করুন"
+msgstr ""
 
 msgid "Highlights for {display_name}"
 msgstr ""
@@ -1081,7 +1081,7 @@ msgid "Editor"
 msgstr ""
 
 msgid "Settings"
-msgstr "সেটিংস"
+msgstr ""
 
 msgid "New {component_type}"
 msgstr ""
@@ -1438,7 +1438,7 @@ msgid "Proctoring"
 msgstr ""
 
 msgid "Other"
-msgstr "অন্যান্য"
+msgstr ""
 
 msgid "Course Discussion Forum"
 msgstr ""
@@ -1492,7 +1492,7 @@ msgid "Teams"
 msgstr ""
 
 msgid "Create"
-msgstr "তৈরি করুন"
+msgstr ""
 
 msgid "Update"
 msgstr ""
@@ -1615,7 +1615,7 @@ msgid "Teams Pagination"
 msgstr ""
 
 msgid "Topics"
-msgstr "বিষয়গুলো"
+msgstr ""
 
 msgid "My Teams"
 msgstr ""
@@ -1933,10 +1933,10 @@ msgid "HTML preview of post"
 msgstr ""
 
 msgid "Preview"
-msgstr "প্রিভিউ"
+msgstr ""
 
 msgid "Your question or idea (required)"
-msgstr "আপনার প্রশ্ন অথবা আইডিয়া লিখুন (আবশ্যিক)"
+msgstr ""
 
 msgid "Please enter a valid donation amount."
 msgstr ""
@@ -1990,7 +1990,7 @@ msgid "Use enrollment tracks as the basis for dividing discussions. All learners
 msgstr ""
 
 msgid "Cohorts"
-msgstr "ক cohort"
+msgstr ""
 
 msgid "Use cohorts as the basis for dividing discussions. All learners, regardless of cohort, see the same discussion topics, but within divided topics, only members of the same cohort see and respond to each others’ posts. "
 msgstr ""
@@ -2083,7 +2083,7 @@ msgid "{numPresent} learner was already in the cohort"
 msgstr ""
 
 msgid "{email}"
-msgstr "{email}"
+msgstr ""
 
 msgid "{numPreassigned} learner was pre-assigned for this cohort. This learner will automatically be added to the cohort when they enroll in the course."
 msgstr ""
@@ -2185,7 +2185,7 @@ msgid "Error generating student profile information. Please try again."
 msgstr ""
 
 msgid "Loading"
-msgstr "লোড হচ্ছে..."
+msgstr ""
 
 msgid "Error getting student list."
 msgstr ""
@@ -2224,7 +2224,7 @@ msgid "Mark enrollment code as unused"
 msgstr ""
 
 msgid "Username"
-msgstr "ব্যবহারকারীর নাম"
+msgstr ""
 
 msgid "Email"
 msgstr "ইমেইল"
@@ -2563,7 +2563,7 @@ msgid "To access the courses available to you through {enterpriseName}, visit th
 msgstr ""
 
 msgid "Go to dashboard"
-msgstr "ড্যাশবোর্ডে যান"
+msgstr ""
 
 msgid "(Self-paced) Starts {start}"
 msgstr ""
@@ -2623,10 +2623,10 @@ msgid "{type} Progress"
 msgstr ""
 
 msgid "Earned Certificates"
-msgstr "অর্জন করা সার্টিফিকেট"
+msgstr ""
 
 msgid "Enrolled"
-msgstr "এনরোল্ড করা হয়েছে"
+msgstr ""
 
 msgid "Successfully reset the attempts for user {user}"
 msgstr ""
@@ -2956,10 +2956,10 @@ msgid "Overall Score"
 msgstr ""
 
 msgid "Bookmark this page"
-msgstr "এই পেজটি বুকমার্ক করুন"
+msgstr ""
 
 msgid "Bookmarked"
-msgstr "বুকমার্ক করা আছে"
+msgstr ""
 
 msgid "{total_results} result found for \"{search_term}\\"
 msgstr ""
@@ -3172,7 +3172,7 @@ msgid "Copy row"
 msgstr ""
 
 msgid "Copy"
-msgstr "কপি করুন"
+msgstr ""
 
 msgid "Could not find the specified string."
 msgstr ""
@@ -3607,7 +3607,7 @@ msgid "Vertical space"
 msgstr ""
 
 msgid "View"
-msgstr "দেখুন"
+msgstr ""
 
 msgid "Visual aids"
 msgstr ""
@@ -4075,7 +4075,7 @@ msgid "Please add the instructor's title"
 msgstr ""
 
 msgid "Organization"
-msgstr "সংস্থা"
+msgstr ""
 
 msgid "Organization Name"
 msgstr ""
@@ -4111,7 +4111,7 @@ msgid "Course tags"
 msgstr ""
 
 msgid "Manage tags"
-msgstr "ট্যাগগুলো পরিচালনা করুন"
+msgstr ""
 
 msgid "Prerequisite: %(prereq_display_name)s"
 msgstr ""
@@ -4123,7 +4123,7 @@ msgid "Hidden in the course outline, but sections are accessible for your learne
 msgstr ""
 
 msgid "Subsections are not navigable between each other, they can only be accessed through their link."
-msgstr "সাবসেকশনগুলো একে অপরের সাথে নেভিগেট করা যায় না, এগুলো শুধুমাত্র এদের লিঙ্কের মাধ্যমে অ্যাক্সেস করা যাবে।"
+msgstr ""
 
 msgid "Unpublished changes to live content"
 msgstr ""
@@ -4261,7 +4261,7 @@ msgid "Video Sharing"
 msgstr ""
 
 msgid "Learn more"
-msgstr "আরও জানুন"
+msgstr ""
 
 msgid "Transcript Turnaround"
 msgstr ""
@@ -4339,7 +4339,7 @@ msgid "The number of {type} assignments in the course matches the number defined
 msgstr ""
 
 msgid "Course Handouts"
-msgstr "কোর্স হ্যান্ডআউটস"
+msgstr ""
 
 msgid "You have no handouts defined"
 msgstr ""
@@ -4348,13 +4348,13 @@ msgid "There is invalid code in your content. Please check to make sure it is va
 msgstr ""
 
 msgid "Date"
-msgstr "তারিখ"
+msgstr ""
 
 msgid "Post"
 msgstr ""
 
 msgid "Discussion"
-msgstr "আলোচনা"
+msgstr ""
 
 msgid "Enable discussion"
 msgstr ""
@@ -4528,7 +4528,7 @@ msgid "Creative Commons licensed content, with terms as follow:"
 msgstr ""
 
 msgid "Some Rights Reserved"
-msgstr "কিছু অধিকার স্বত্বাধিকারীর কাছে সংরক্ষিত।"
+msgstr ""
 
 msgid "%(new_item_message)s"
 msgstr ""
@@ -4618,7 +4618,7 @@ msgid "Published (not yet released)"
 msgstr ""
 
 msgid "Draft (Unpublished changes)"
-msgstr "খসড়া (প্রকাশিত হয়নি এমন পরিবর্তন)"
+msgstr ""
 
 msgid "Release:"
 msgstr ""
@@ -5041,10 +5041,10 @@ msgid "Sorted by"
 msgstr ""
 
 msgid "Clear search"
-msgstr "অনুসন্ধান পরিষ্কার করুন"
+msgstr ""
 
 msgid "Search"
-msgstr "অনুসন্ধান করুন"
+msgstr ""
 
 msgid "Add a Response"
 msgstr ""
@@ -5068,7 +5068,7 @@ msgid "Pinned"
 msgstr ""
 
 msgid "Reported"
-msgstr "রিপোর্ট করা হয়েছে"
+msgstr ""
 
 msgid "Closed"
 msgstr ""
@@ -5137,7 +5137,7 @@ msgid "unanswered question"
 msgstr ""
 
 msgid "Following"
-msgstr "ফলোইং"
+msgstr ""
 
 msgid "Community TA"
 msgstr ""
@@ -5179,7 +5179,7 @@ msgid "This post will be visible to everyone."
 msgstr ""
 
 msgid "Topic area"
-msgstr "বিষয় লিখুন"
+msgstr ""
 
 msgid "Add your post to a relevant topic to help others find it. (Required)"
 msgstr ""
@@ -5203,13 +5203,13 @@ msgid "Load more"
 msgstr "আরও লোড করুন"
 
 msgid "Post type"
-msgstr "পোস্টের ধরন"
+msgstr ""
 
 msgid "Questions raise issues that need answers. Discussions share ideas and start conversations. (Required)"
 msgstr ""
 
 msgid "Question"
-msgstr "প্রশ্ন"
+msgstr ""
 
 msgid "Endorse"
 msgstr "সমর্থন করুন"
@@ -5224,10 +5224,10 @@ msgid "Unmark as Answer"
 msgstr ""
 
 msgid "Follow"
-msgstr "ফলো করুন"
+msgstr ""
 
 msgid "Unfollow"
-msgstr "আনফলো করুন"
+msgstr ""
 
 msgid "Vote for this post,"
 msgstr ""
@@ -5248,7 +5248,7 @@ msgid "Unpin"
 msgstr "আনপিন করুন"
 
 msgid "Open"
-msgstr "খোলুন"
+msgstr ""
 
 msgid "Discussion Home"
 msgstr ""
@@ -5263,7 +5263,7 @@ msgid "Use the All Topics menu to find specific topics."
 msgstr ""
 
 msgid "Search all posts"
-msgstr "সব পোস্টগুলোতে খুঁজুন"
+msgstr ""
 
 msgid "Filter and sort topics"
 msgstr ""
@@ -5305,7 +5305,7 @@ msgid "Status"
 msgstr "স্ট্যাটাস"
 
 msgid "Grade"
-msgstr "গ্রেড"
+msgstr ""
 
 msgid "Last Updated"
 msgstr ""
@@ -5374,7 +5374,7 @@ msgid "Last modified by"
 msgstr ""
 
 msgid "Active"
-msgstr "সক্রিয়"
+msgstr ""
 
 msgid "N/A"
 msgstr ""
@@ -5494,7 +5494,7 @@ msgid "toggle chapter %(displayName)s"
 msgstr ""
 
 msgid "Section"
-msgstr "ধারা"
+msgstr ""
 
 msgid "Remove chapter %(chapterDisplayName)s"
 msgstr ""
@@ -5539,10 +5539,10 @@ msgid "To receive credit for problems, you must select \"Submit\" for each probl
 msgstr ""
 
 msgid "Show More"
-msgstr "আরো দেখুন"
+msgstr ""
 
 msgid "Show Less"
-msgstr "কম দেখান"
+msgstr ""
 
 msgid "LEARN MORE"
 msgstr ""
@@ -5692,7 +5692,7 @@ msgid "Invalidate Certificate"
 msgstr ""
 
 msgid "Student"
-msgstr "ছাত্র/ছাত্রী"
+msgstr ""
 
 msgid "Invalidated By"
 msgstr ""
@@ -5845,10 +5845,10 @@ msgid "Valid"
 msgstr ""
 
 msgid "Certificate Status:"
-msgstr "সার্টিফিকেট স্ট্যাটাস:"
+msgstr ""
 
 msgid "Certificate Purchased"
-msgstr "সার্টিফিকেট কেনা হয়েছে"
+msgstr ""
 
 msgid "Change or Leave Session"
 msgstr ""
@@ -5863,10 +5863,10 @@ msgid "You can change sessions until {expiration_date}."
 msgstr ""
 
 msgid "View Archived Course"
-msgstr "আর্কাইভ করা কোর্স দেখুন"
+msgstr ""
 
 msgid "View Course"
-msgstr "কোর্সটি দেখুন"
+msgstr ""
 
 msgid "Select a session:"
 msgstr ""
@@ -5881,7 +5881,7 @@ msgid "Enrollment Opens on"
 msgstr ""
 
 msgid "Not Currently Available"
-msgstr "আপাতত উপলব্ধ নেই"
+msgstr ""
 
 msgid "More sessions coming soon."
 msgstr ""
@@ -5923,10 +5923,10 @@ msgid "Course"
 msgstr "কোর্স"
 
 msgid "Completed"
-msgstr "সম্পন্ন"
+msgstr ""
 
 msgid "Remaining"
-msgstr "অবশিষ্ট"
+msgstr ""
 
 msgid "%(programName)s Home Page."
 msgstr ""
@@ -5938,31 +5938,31 @@ msgid "Open the certificate you earned for the %(title)s program."
 msgstr ""
 
 msgid "Program Record"
-msgstr "প্রোগ্রাম রেকর্ড"
+msgstr ""
 
 msgid "Once you complete one of the program requirements you have a program record. This record is marked complete once you meet all program requirements. A program record can be used to continue your learning journey and demonstrate your learning to others."
-msgstr "একটি প্রোগ্রামের শর্ত পূরণ করার পরে আপনার একটি প্রোগ্রামের রেকর্ড তৈরি হবে। আপনি প্রোগ্রামের সব শর্ত পূরণ করলে এই রেকর্ডটি সম্পূর্ণ হিসেবে চিহ্নিত করা হবে। এই প্রোগ্রাম রেকর্ডটি আপনার শেখার পথ চালিয়ে যেতে এবং অন্যদের কাছে আপনার অর্জন দেখাতে ব্যবহার করা যেতে পারে।"
+msgstr ""
 
 msgid "View Program Record"
-msgstr "প্রোগ্রাম রেকর্ড দেখুন"
+msgstr ""
 
 msgid "Additional Credit Opportunities"
-msgstr "অতিরিক্ত ক্রেডিট সুযোগ"
+msgstr ""
 
 msgid "Learn More"
-msgstr "আরও জানুন"
+msgstr ""
 
 msgid "Additional Professional Opportunities"
-msgstr "অতিরিক্ত পেশাদার সুযোগ"
+msgstr ""
 
 msgid "Congratulations!"
-msgstr "অভিনন্দন!"
+msgstr ""
 
 msgid "You have successfully completed all the requirements for the %(title)s %(type)s."
 msgstr ""
 
 msgid "Your Program Journey"
-msgstr "আপনার প্রোগ্রাম যাত্রা"
+msgstr ""
 
 msgid "Track and plan your progress through the %(count)s course(s) in this program. To complete the program, you must earn a verified certificate for each course."
 msgstr ""
@@ -5977,10 +5977,10 @@ msgid " ${price} {currency} )"
 msgstr ""
 
 msgid "COURSES IN PROGRESS"
-msgstr "চলমান কোর্স"
+msgstr ""
 
 msgid "REMAINING COURSES"
-msgstr "অবশিষ্ট কোর্স"
+msgstr ""
 
 msgid "COMPLETED COURSES"
 msgstr ""
@@ -6010,7 +6010,7 @@ msgid "Needs verified certificate "
 msgstr ""
 
 msgid "Upgrade to Verified"
-msgstr "ভেরিফায়েড-এ আপগ্রেড করুন"
+msgstr ""
 
 msgid "New Address"
 msgstr ""
