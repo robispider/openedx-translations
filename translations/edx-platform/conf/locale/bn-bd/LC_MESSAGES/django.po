@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-09-30 13:22+0000\n"
-"PO-Revision-Date: 2025-09-30 19:22+6277\n"
+"POT-Creation-Date: 2025-10-01 06:24+0000\n"
+"PO-Revision-Date: 2025-10-01 12:24+9308\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -3412,7 +3412,7 @@ msgstr "আপনি আপনার কোর্সটি অ্যাক্স
 
 msgid "Sincerely yours, The %(course_name)s Team"
 msgstr ""
-"আন্তরিকভাবে,"\n
+"আন্তরিকভাবে,\""\n
 "{course_name} টিম"
 
 msgid "To get started, please visit https://%(site_name)s. The login information for your account follows."
@@ -5474,7 +5474,7 @@ msgstr "এই শিক্ষার্থীর এই কোর্সে প�
 
 msgid "{strong_open}Audit Access Expires {expiration_date}{strong_close}{line_break}You lose all access to this course, including your progress, on {expiration_date}."
 msgstr ""
-"⚠️ অডিট অ্যাক্সেস {expiration_date} তারিখে শেষ হবে ⚠️"\n
+"⚠️ অডিট অ্যাক্সেস {expiration_date} তারিখে শেষ হবে ⚠️\""\n
 "এই তারিখের পর, আপনার কোর্সের সমস্ত অ্যাক্সেস বন্ধ হয়ে যাবে, যার মধ্যে আপনার অগ্রগতিও অন্তর্ভুক্ত।"
 
 msgid "{line_break}Upgrade by {upgrade_deadline} to get unlimited access to the course as long as it exists on the site. {a_open}Upgrade now{sronly_span_open} to retain access past {expiration_date}{span_close}{a_close}"
@@ -12431,7 +12431,7 @@ msgstr "এডএক্স প্রতিশ্রুতিবদ্ধ যে 
 
 msgid "Sincerely,"
 msgstr ""
-"আন্তরিকভাবে,"\n
+"আন্তরিকভাবে,\""\n
 "{name}"
 
 msgid "Anant"
