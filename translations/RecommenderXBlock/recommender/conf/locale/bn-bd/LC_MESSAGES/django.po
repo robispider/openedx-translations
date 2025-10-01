@@ -1,4 +1,3 @@
-﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
@@ -34,7 +33,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-09-29 21:52+0000\n"
-"PO-Revision-Date: 2025-09-30 03:52+5260\n"
+"PO-Revision-Date: 2025-10-01 17:31+0600\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -100,7 +99,7 @@ msgid "mode"
 msgstr "মোড"
 
 msgid "This is a list of resources your fellow students thought might be helpful. If you find another useful resource, either on edx.org or elsewhere, please add it. If you can improve the description or preview of a resource, please do so as well. If you find a resource helpful, upvote it. If it&rsquo;s not so helpful, downvote it. If it has issues (illegal material, incorrect, etc.), please flag it and let us know the reason."
-msgstr ""
+msgstr "আপনার সহপাঠীরা মনে করছেন এই রিসোর্সগুলো কাজে লাগতে পারে। যদি আপনি এডএক্স (edx.org) অথবা অন্য কোথাও আরও কোনো দরকারি রিসোর্স খুঁজে পান, তাহলে এখানে যোগ করে দিন। রিসোর্সগুলোর বর্ণনা বা প্রিভিউ আরও ভালো করার সুযোগ থাকলে, সেটাও করতে পারেন। কোনো রিসোর্স আপনার কাজে আসলে আপভোট (upvote) দিন। আর যদি তেমন কাজে না লাগে, তাহলে ডাউনভোট (downvote) করে দিন। যদি কোনো রিসোর্সে সমস্যা থাকে (যেমন: অবৈধ কিছু, ভুল তথ্য ইত্যাদি), তাহলে ফ্ল্যাগ (flag) করে আমাদের জানান, আর কী সমস্যা সেটাও বুঝিয়ে বলুন।"
 
 msgid "cancel and go back to resource list"
 msgstr "বাতিল করুন এবং রিসোর্স লিস্টে ফিরে যান"
@@ -353,4 +352,3 @@ msgstr "একটি রিসোর্স ক্লিক করা হয়ে�
 
 msgid "Back to resource list mode"
 msgstr "রিসোর্স লিস্ট মোডে ফিরে যান"
-
