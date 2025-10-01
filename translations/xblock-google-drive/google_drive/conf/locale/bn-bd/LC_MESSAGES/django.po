@@ -1,0 +1,104 @@
+﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# edX translation file.
+# Copyright (C) 2025 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+# Translators:
+# Gabriel D'Amours <gabriel@opencraft.com>, 2024
+# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
+# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
+# Brian Smith, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-29 21:52+0000\n"
+"PO-Revision-Date: 2025-09-30 03:52+5673\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Display Name"
+msgstr "ডিসপ্লে নাম"
+
+msgid "This name appears in the horizontal navigation at the top of the page."
+msgstr "এই নামটি পেজের উপরের দিকে থাকা অনুভূমিক নেভিগেশনে দেখা যাবে।"
+
+msgid "Public Calendar ID"
+msgstr "পাবলিক ক্যালেন্ডার আইডি"
+
+msgid "Google provides an ID for publicly available calendars. In the Google Calendar, open Settings and copy the ID from the Calendar Address section into this field."
+msgstr "Google পাবলিক ক্যালেন্ডারের জন্য একটি আইডি প্রদান করে। Google Calendar-এ Settings খুলুন এবং Calendar Address সেকশন থেকে আইডিটি কপি করে এই ফিল্ডে পেস্ট করুন।"
+
+msgid "Default View"
+msgstr "ডিফল্ট দৃশ্য"
+
+msgid "The calendar view that students see by default. A student can change this view."
+msgstr "শিক্ষার্থীরা ডিফল্টভাবে এই ক্যালেন্ডার ভিউটি দেখে। শিক্ষার্থীরা এই ভিউ পরিবর্তন করতে পারবে।"
+
+msgid "Embed Code"
+msgstr "এম্বেড কোড"
+
+msgid "Google provides an embed code for Drive documents. In the Google Drive document, from the File menu, select Publish to the Web. Modify settings as needed, click Publish, and copy the embed code into this field."
+msgstr "Google Drive ডকুমেন্টের জন্য এম্বেড কোড দেয়। Google Drive ডকুমেন্ট থেকে, File মেনু থেকে Publish to the Web অপশনটি নির্বাচন করুন। প্রয়োজন অনুযায়ী সেটিংস পরিবর্তন করুন, Publish এ ক্লিক করুন এবং এই ফিল্ডে এম্বেড কোডটি পেস্ট করুন।"
+
+msgid "Alternative Text"
+msgstr "বিকল্প টেক্সট"
+
+msgid "Alternative text describes an image and appears if the image is unavailable."
+msgstr "ইমেজটি লোড না হলে এই বিকল্প টেক্সটটি দেখা যাবে।"
+
+msgid "Invalid Google Calendar"
+msgstr "বৈধ Google Calendar নয়"
+
+msgid "Please correct the outlined fields."
+msgstr "অনুগ্রহ করে চিহ্নিত ক্ষেত্রগুলো সংশোধন করুন।"
+
+msgid "Clear Value"
+msgstr "মান পরিষ্কার করুন"
+
+msgid "Google provides an ID for publicly available calendars. In the Google Calendar, open Settings and copy the ID from the Calendar Address section into this field. You can "
+msgstr "Google ক্যালেন্ডারের জন্য একটি আইডি প্রদান করে। Google Calendar-এ Settings খুলুন এবং Calendar Address সেকশন থেকে আইডিটি কপি করে এই ফিল্ডে পেস্ট করুন। আপনি "
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Invalid Google Document"
+msgstr "অবৈধ গুগল ডকুমেন্ট"
+
+msgid "Alternative text"
+msgstr "বিকল্প টেক্সট"
+
+msgid "Saving"
+msgstr "সংরক্ষণ করা হচ্ছে"
+

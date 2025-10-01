@@ -1,0 +1,89 @@
+﻿# #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
+# edX translation file.
+# Copyright (C) 2025 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2025 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2025.
+#
+# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+# Translators:
+# Gabriel D'Amours <gabriel@opencraft.com>, 2024
+# Pierre Mailhot <pierre.mailhot@gmail.com>, 2024
+# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
+# Brian Smith, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-29 21:52+0000\n"
+"PO-Revision-Date: 2025-09-30 03:52+3442\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Is the student done?"
+msgstr "শিক্ষার্থী কাজ শেষ করেছে কি?"
+
+msgid "Align left/right/center"
+msgstr "বাম/ডান/মাঝারি প্রান্তিককরণ"
+
+msgid "Display name"
+msgstr "প্রদর্শন নাম"
+
+msgid "ISO-8601 formatted string representing the start date of this assignment. We ignore this."
+msgstr "এই অ্যাসাইনমেন্টের শুরুর তারিখ ISO-8601 ফরম্যাটে দেওয়া আছে। আমরা এটা অগ্রাহ্য করি।"
+
+msgid "ISO-8601 formatted string representing the due date of this assignment. We ignore this."
+msgstr "এই অ্যাসাইনমেন্টের ডিউ ডেট ISO-8601 ফরম্যাটে দেওয়া হয়েছে। আমরা এটা দেখিনা।"
+
+msgid "Problem Weight"
+msgstr "সমস্যার ওজন"
+
+msgid "Defines the number of points each problem is worth. If the value is not set, the problem is worth the sum of the option point values."
+msgstr "প্রতিটি সমস্যার জন্য কত পয়েন্ট নির্ধারিত হবে তা উল্লেখ করে। যদি এই মান সেট করা না থাকে, তাহলে সমস্যাটির পয়েন্ট হবে অপশনগুলোর পয়েন্টের যোগফলের সমান।"
+
+msgid "X"
+msgstr "X"
+
+msgid "I have completed this"
+msgstr "আমি এটা সম্পন্ন করেছি।"
+
+msgid "Unmark"
+msgstr "চিহ্ন বাতিল করুন"
+
+msgid "Mark as complete"
+msgstr "সম্পন্ন হিসেবে চিহ্নিত করুন"
+
+msgid "This is a very simple component with no configuration options. It is used for helping student keep track of what portion of a course they've completed. For example, you might place this underneath each text and video component, and students can see in their progress page which portions are completed and  which still need to be watched or read."
+msgstr ""
+
+msgid "It is also helpful to give students a way to sign off on having completed something. They are less likely to skip material that way."
+msgstr "শিক্ষার্থীদের কোনো কাজ শেষ করার পরে নিশ্চিত করার জন্য স্বাক্ষর করার সুযোগ দেওয়াটাও সহায়ক। এতে তাদের কাজগুলো এড়িয়ে যাওয়ার প্রবণতা কমবে।"
+
+msgid "(If you're a real power-user, in OLX, we do allow you to add an align tag, which can left-, center-, or right-justify the XBlock)"
+msgstr "যদি আপনি একজন পাওয়ার-ইউজার হন, তাহলে OLX-এ আপনাকে অ্যালাইন ট্যাগ যোগ করার অনুমতি দেওয়া হয়, যা XBlock-কে বাম, মাঝখান, অথবা ডানে সারিবদ্ধ করতে পারে।"
+
