@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 21:03+0000\n"
-"PO-Revision-Date: 2025-10-02 03:03+0000\n"
+"POT-Creation-Date: 2025-10-02 01:21+0000\n"
+"PO-Revision-Date: 2025-10-02 07:21+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -161,7 +161,7 @@ msgstr ""আপনি {organization_name} থেকে আপনার XSeries �
 #. the learner's name and followed by a program title
 #: templates/edx.org/credentials/programs/xseries/certificate.html:16
 msgid ""has successfully completed all courses and received passing grades for an XSeries Program certificate in""
-msgstr ""has successfully completed all courses and received passing grades for an XSeries Program certificate in""
+msgstr ""{name} সফলভাবে সকল কোর্স সম্পন্ন করেছে এবং {program_title}-এ একটি XSeries প্রোগ্রামের সার্টিফিকেট অর্জন করেছে।""
 
 #. Translators: XSeries should not be translated
 #: templates/edx.org/credentials/programs/xseries/certificate.html:21

@@ -331,7 +331,7 @@
   "courseCelebration.certificateBody.available": "আজই LinkedIn অথবা আপনার resume-তে আপনার এই কৃতিত্ব তুলে ধরুন। আপনি এখন আপনার সার্টিফিকেট ডাউনলোড করতে পারবেন এবং যেকোনো সময় আপনার {dashboardLink} এবং {profileLink} থেকে এটি অ্যাক্সেস করতে পারবেন।",
   "courseCelebration.certificateBody.notAvailable.endDate.v2": "এই কোর্সটি {endDate} তারিখে শেষ হবে। ফাইনাল গ্রেড এবং সার্টিফিকেটগুলো {certAvailableDate} এর পরে পাওয়া যাবে।",
   "courseCelebration.certificateBody.unverified": "একটি সার্টিফিকেট তৈরি করার জন্য, আপনাকে আইডি যাচাইকরণ সম্পন্ন করতে হবে। এখনই {idVerificationSupportLink} -এ গিয়ে আইডি যাচাই করুন।",
-  "courseCelebration.certificateBody.upgradable": "It’s not too late to upgrade. For {price} you will unlock access to all graded assignments in this course. Upon completion, you will receive a verified certificate which is a valuable credential to improve your job prospects and advance your career, or highlight your certificate in school applications.",
+  "courseCelebration.certificateBody.upgradable": "আপগ্রেড করতে এখনো দেরি হয়নি। মাত্র {price} দিয়ে এই কোর্সের সব গ্রেডেড অ্যাসাইনমেন্টের অ্যাক্সেস আনলক করুন। কোর্সটি শেষ করার পর, আপনি একটি ভেরিফায়েড সার্টিফিকেট পাবেন যা আপনার চাকরির সম্ভাবনা বাড়াতে এবং কর্মজীবনকে এগিয়ে নিয়ে যেতে মূল্যবান একটি প্রমাণপত্র, অথবা আপনার স্কুলের অ্যাপ্লিকেশনে আপনার সার্টিফিকেটটি তুলে ধরতে পারবেন।",
   "courseCelebration.upgradeDiscountCodePrompt": "চেকআউটে {code} কোডটি ব্যবহার করে {percent}% ডিসকাউন্ট পান!",
   "courseCelebration.recommendations.heading": "আপনার দক্ষতা বাড়াতে থাকুন এই কোর্সগুলো দিয়ে!",
   "courseCelebration.recommendations.label": "কোর্স",

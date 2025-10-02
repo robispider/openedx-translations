@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 21:07+0000\n"
-"PO-Revision-Date: 2025-10-02 03:07+0000\n"
+"POT-Creation-Date: 2025-10-02 01:48+0000\n"
+"PO-Revision-Date: 2025-10-02 07:48+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -272,7 +272,7 @@ msgid ""
 ""        rules were followed. You should receive an email with your exam""
 ""        status within 5 business days. Final grades may take longer.""
 ""    ""
-msgstr """"
+msgstr ""আপনার প্রোক্টর্ড পরীক্ষা \"%s\" (<a href=\"%s\">%s</a>) সফলভাবে জমা দেওয়া হয়েছে এবং সমস্ত পরীক্ষার নিয়ম অনুসরণ করা হয়েছে কিনা তা নিশ্চিত করার জন্য এটি এখন পর্যালোচনা করা হবে। আপনার পরীক্ষার স্ট্যাটাস সম্পর্কে ৫ কার্যদিবসের মধ্যে একটি ইমেল পাবেন। চূড়ান্ত গ্রেড পেতে বেশি সময় লাগতে পারে।""
 
 #: templates/emails/proctoring_attempt_unsatisfactory_email.html:12
 #, python-format
@@ -286,7 +286,7 @@ msgid ""
 ""        or getting help from another person. As a result of the identified issue(s),""
 ""        you did not successfully meet the proctored exam requirements.""
 ""    ""
-msgstr """"
+msgstr ""আপনার প্রোক্টর্ড পরীক্ষা \"%exam_name%\" টি <a href=\"%course_url%\">%course_name%</a> কোর্সে পর্যালোচনা করা হয়েছে এবং কোর্স টিম প্রোক্টর্ড পরীক্ষার নিয়মাবলীর একটি বা একাধিক লঙ্ঘন সনাক্ত করেছে। ব্রাউজিং করা, অস্পষ্ট অথবা অনুপস্থিত ফটো আইডি, ফোন ব্যবহার করা অথবা অন্য কারো কাছ থেকে সাহায্য নেয়া - এই ধরনের সমস্যাগুলোর কারণে নিয়ম লঙ্ঘন হতে পারে। সনাক্ত করা সমস্যাগুলোর কারণে আপনি প্রোক্টর্ড পরীক্ষার প্রয়োজনীয়তা পূরণ করতে ব্যর্থ হয়েছেন।""
 
 #: templates/emails/proctoring_attempt_unsatisfactory_email.html:25
 #, python-format
@@ -644,7 +644,7 @@ msgid ""
 ""        team at <a href=\"mailto:%(proctoring_escalation_email)s\">%(proctoring_escalation_email)s</a> ""
 ""        for assistance, and return to the exam once you receive further instructions.""
 ""      ""
-msgstr """"
+msgstr ""আপনার প্রোক্টার্ড এক্সামে একটি সিস্টেম এরর হয়েছে। সমস্যা সমাধানে আপনার কোর্স টিমের সাথে <a href=\"mailto:%(proctoring_escalation_email)s\">%(proctoring_escalation_email)s</a> এই ইমেইলে যোগাযোগ করুন এবং পরবর্তীতে নির্দেশনা পেলে পরীক্ষায় ফিরে আসুন।""
 
 #: templates/proctored_exam/error.html:17
 #, python-format
@@ -1018,7 +1018,11 @@ msgid ""
 ""        &#8226; For all question types, you must click \"submit\" to complete your answer. </br>""
 ""        &#8226; If time expires before you click \"End My Exam\", only your submitted answers will be graded.""
 ""      ""
-msgstr """"
+msgstr ""
+""&#8226; এই পরীক্ষাটি শেষ করার জন্য আপনার কাছে %(total_time)s সময় আছে। </br>""
+""&#8226; একবার পরীক্ষা শুরু করলে, টাইমার থামানো যাবে না। </br>""
+""&#8226; সব ধরনের প্রশ্নের জন্য, উত্তর জমা দিতে অবশ্যই \"জমা দিন\" বাটনে ক্লিক করতে হবে। </br>""
+""&#8226; যদি আপনি \"পরীক্ষা শেষ করুন\" বাটনে ক্লিক করার আগে সময় শেষ হয়ে যায়, তাহলে শুধুমাত্র আপনার জমা দেওয়া উত্তরগুলো মূল্যায়ন করা হবে।""
 
 #: templates/proctored_exam/ready_to_start.html:18
 msgid ""

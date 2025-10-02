@@ -18,7 +18,7 @@
   "ora-grading.RadioCriterion.rubricSelectedError": "রু rubric নির্বাচন করা আবশ্যক।",
   "ora-grading.CriterionFeedback.criterionFeedbackError": "ফিডব্যাক দেওয়া আবশ্যক।",
   "ora-grading.ReviewModal.demoHeading": "ডেমো মোড",
-  "ora-grading.ReviewModal.demoMessage": "You are demoing the new ORA staff grading experience. You will be unable to submit grades until you activate the feature. This will become the default grading experience on May 9th (05/09/2022). To opt-in early, or opt-out, please contact Partner Support.",
+  "ora-grading.ReviewModal.demoMessage": "আপনি নতুন ORA স্টাফ গ্রেডিং অভিজ্ঞতা ডেমো করছেন। ফিচারটি সক্রিয় না করা পর্যন্ত আপনি গ্রেড জমা দিতে পারবেন না। এটি ৯ই মে (০৫/০৯/২০২২) থেকে ডিফল্ট গ্রেডিং অভিজ্ঞতা হয়ে যাবে। আগে থেকে অন্তর্ভুক্ত হতে অথবা বাদ পড়তে, অনুগ্রহ করে পার্টনার সাপোর্টের সাথে যোগাযোগ করুন।",
   "ora-grading.ListView.ListViewBreadcrumbs.backToResponses": "সব offenen উত্তরের দিকে ফিরে যান",
   "ora-grading.ListView.noResultsFoundTitle": "এখনো কিছু নেই।",
   "ora-grading.ListView.noResultsFoundBody": "শিক্ষার্থীরা যখন উত্তর জমা দেবে, সেগুলি এখানে দেখা যাবে।",

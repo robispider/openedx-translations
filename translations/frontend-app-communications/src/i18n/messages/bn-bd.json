@@ -32,7 +32,7 @@
   "bulk.email.task.alert.subject": "বিষয়: {subject} সাথে",
   "bulk.email.task.alert.to": "গ্রহীতাদের কাছে:",
   "bulk.email.task.alert.warning": "এটা নতুন কোনো ইমেইল টাস্ক তৈরি করবে না, বরং বর্তমানে নির্বাচিত টাস্কটি পরিবর্তন করে দেবে। আপনি কি এই নির্ধারিত ইমেইলটি পরিবর্তন করতে চান?",
-  "bulk.email.pending.tasks.description.one": "To view all pending tasks, including email, visit\u0026nbsp;",
+  "bulk.email.pending.tasks.description.one": "ইমেইল সহ আপনার অপেক্ষমান কাজগুলো দেখতে এখানে যান\u0026nbsp;",
   "bulk.email.pending.tasks.link": "কোর্স তথ্য",
   "bulk.email.pending.tasks.description.two": "ইনস্ট্রাক্টর ড্যাশবোর্ডে।",
   "bulk.email.tool.close.modalDialog.button": "বন্ধ করুন",

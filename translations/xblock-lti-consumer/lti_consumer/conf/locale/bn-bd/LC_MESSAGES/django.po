@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 21:07+0000\n"
-"PO-Revision-Date: 2025-10-02 03:07+0000\n"
+"POT-Creation-Date: 2025-10-02 01:48+0000\n"
+"PO-Revision-Date: 2025-10-02 07:48+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -147,7 +147,7 @@ msgstr ""রেজিস্টার্ড রিডাইরেক্ট ইউ
 
 #: lti_xblock.py:336
 msgid ""Valid urls the Tool may request us to redirect the id token to. The redirect uris are often the same as the launch url/deep linking url so if this field is empty, it will use them as the default. If you need to use different redirect uri's, enter them here. If you use this field you must enter all valid redirect uri's the tool may request.""
-msgstr ""Valid urls the Tool may request us to redirect the id token to. The redirect uris are often the same as the launch url/deep linking url so if this field is empty, it will use them as the default. If you need to use different redirect uri's, enter them here. If you use this field you must enter all valid redirect uri's the tool may request.""
+msgstr ""টুলটি আমাদের আইডি টোকেন রিডাইরেক্ট করার জন্য যে বৈধ URLগুলি চাইতে পারে। রিডাইরেক্ট URIগুলি প্রায়শই লঞ্চ URL/ডিপ লিঙ্কিং URL-এর মতো একই হয়, তাই যদি এই ক্ষেত্রটি খালি থাকে তবে এটি ডিফল্ট হিসাবে সেগুলি ব্যবহার করবে। আপনি যদি আলাদা রিডাইরেক্ট URI ব্যবহার করতে চান তবে সেগুলি এখানে লিখুন। আপনি যদি এই ক্ষেত্রটি ব্যবহার করেন তবে আপনাকে অবশ্যই সমস্ত বৈধ রিডাইরেক্ট URI প্রবেশ করতে হবে যা টুলটি চাইতে পারে।""
 
 #: lti_xblock.py:346
 msgid ""Tool Public Key Mode""
@@ -163,7 +163,7 @@ msgstr ""টুল কীসেট URL""
 
 #: lti_xblock.py:362
 msgid ""Enter the LTI 1.3 Tool's JWK keysets URL.<br />This link should retrieve a JSON file containing public keys and signature algorithm information, so that the LMS can check if the messages and launch requests received have the signature from the tool.<br /><b>This is not required when doing LTI 1.3 Launches without LTI Advantage nor Basic Outcomes requests.</b>""
-msgstr ""Enter the LTI 1.3 Tool's JWK keysets URL.<br />This link should retrieve a JSON file containing public keys and signature algorithm information, so that the LMS can check if the messages and launch requests received have the signature from the tool.<br /><b>This is not required when doing LTI 1.3 Launches without LTI Advantage nor Basic Outcomes requests.</b>""
+msgstr ""এলটিআই ১.৩ টুলের জেডব্লিউকে কীসেটসের ইউআরএল দিন।<br />এই লিঙ্কে একটি JSON ফাইল থাকতে হবে যেখানে পাবলিক কী এবং স্বাক্ষর অ্যালগরিদম তথ্য রয়েছে, যাতে এলএমএস যাচাই করতে পারে যে টুল থেকে আসা বার্তা এবং লঞ্চ অনুরোধগুলিতে স্বাক্ষর আছে কিনা।<br /><b>এলটিআই অ্যাডভান্টেজ অথবা বেসিক আউটকামস অনুরোধ ছাড়া এলটিআই ১.৩ লঞ্চের জন্য এটা দরকার নেই।</b>""
 
 #: lti_xblock.py:372
 msgid ""Tool Public Key""
@@ -171,7 +171,7 @@ msgstr ""টুল পাবলিক কী""
 
 #: lti_xblock.py:377
 msgid ""Enter the LTI 1.3 Tool's public key.<br />This is a string that starts with '-----BEGIN PUBLIC KEY-----' and is required so that the LMS can check if the messages and launch requests received have the signature from the tool.<br /><b>This is not required when doing LTI 1.3 Launches without LTI Advantage nor Basic Outcomes requests.</b>""
-msgstr ""Enter the LTI 1.3 Tool's public key.<br />This is a string that starts with '-----BEGIN PUBLIC KEY-----' and is required so that the LMS can check if the messages and launch requests received have the signature from the tool.<br /><b>This is not required when doing LTI 1.3 Launches without LTI Advantage nor Basic Outcomes requests.</b>""
+msgstr ""এলটিআই 1.3 টুলের পাবলিক কী দিন।<br />এটি '-----BEGIN PUBLIC KEY-----' দিয়ে শুরু হওয়া একটি স্ট্রিং এবং এলএমএস-কে বার্তা এবং লঞ্চ অনুরোধগুলির স্বাক্ষর যাচাই করার জন্য এটি প্রয়োজন।<br /><b>যদি এলটিআই অ্যাডভান্টেজ বা বেসিক আউটকামস অনুরোধ ছাড়া এলটিআই 1.3 লঞ্চ করা হয়, তাহলে এটা দরকার নেই।</b>""
 
 #: lti_xblock.py:387
 msgid ""Enable LTI NRPS""
@@ -242,7 +242,7 @@ msgstr ""কাস্টম প্যারামিটার""
 #: lti_xblock.py:458
 #, python-brace-format
 msgid ""Add the key/value pair for any custom parameters, such as the page your e-book should open to or the background color for this component. Ex. [\"page=1\", \"color=white\"]<br />See the {docs_anchor_open}edX LTI documentation{anchor_close} for more details on this setting.""
-msgstr ""Add the key/value pair for any custom parameters, such as the page your e-book should open to or the background color for this component. Ex. [\"page=1\", \"color=white\"]<br />See the {docs_anchor_open}edX LTI documentation{anchor_close} for more details on this setting.""
+msgstr ""যেকোনো কাস্টম প্যারামিটারের জন্য কী/ভ্যালু পেয়ার যোগ করুন, যেমন আপনার ই-বুক কোন পেজে খুলবে অথবা এই কম্পোনেন্টের ব্যাকগ্রাউন্ড কালার কী হবে। উদাহরণ: [\"page=1\", \"color=white\"]<br />এই সেটিং সম্পর্কে আরো বিস্তারিত জানার জন্য {docs_anchor_open}edX LTI ডকুমেন্টেশন{anchor_close} দেখুন।""
 
 #: lti_xblock.py:468
 msgid ""LTI Launch Target""
@@ -250,7 +250,7 @@ msgstr ""এলটিআই লঞ্চ টার্গেট""
 
 #: lti_xblock.py:470
 msgid ""Select Inline if you want the LTI content to open in an IFrame in the current page. Select Modal if you want the LTI content to open in a modal window in the current page. Select New Window if you want the LTI content to open in a new browser window. This setting is only used when Hide External Tool is set to False.""
-msgstr ""Select Inline if you want the LTI content to open in an IFrame in the current page. Select Modal if you want the LTI content to open in a modal window in the current page. Select New Window if you want the LTI content to open in a new browser window. This setting is only used when Hide External Tool is set to False.""
+msgstr ""ইনলাইন সিলেক্ট করুন যদি আপনি কারেন্ট পেজে একটি আইফ্রেম-এ LTI কন্টেন্ট খুলতে চান। মোডাল সিলেক্ট করুন যদি আপনি কারেন্ট পেজে একটি মোডাল উইন্ডোতে LTI কন্টেন্ট খুলতে চান। নিউ উইন্ডো সিলেক্ট করুন যদি আপনি একটি নতুন ব্রাউজার উইন্ডোতে LTI কন্টেন্ট খুলতে চান। এই সেটিংসটি শুধুমাত্র তখনই ব্যবহার করা হবে যখন ‘হাইড এক্সটার্নাল টুল’ False সেট করা থাকবে।""
 
 #: lti_xblock.py:484
 msgid ""Button Text""

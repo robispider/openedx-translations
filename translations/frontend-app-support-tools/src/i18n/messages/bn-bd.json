@@ -22,7 +22,7 @@
   "no.records.found": " \u0022{name}\u0022 নামের ব্যবহারকারীর জন্য কোনো ফলাফল পাওয়া যায়নি।",
   "supportTools.accountActions.cancelRetirement": "আপনি কি নিশ্চিত যে আপনি {name}-এর অবসর বাতিল করতে চান? এই কাজটি করলে {name}-এর অবসর বাতিল হয়ে যাবে।",
   "supportTools.accountActions.resetPassword": "আমরা {email} ঠিকানায় আপনার পাসওয়ার্ড পুনরুদ্ধারের জন্য একটি বার্তা পাঠাবো। আপনি কি চালিয়ে যেতে চান?",
-  "supportTools.accountActions.retireUser": "You are about to retire {username} with the email address: {email}.{br}{br} This is a serious action that will revoke this user\u0027s access to edX and their earned certificates. Furthermore, the email address associated with the retired account will not be able to be used to create a new account.",
+  "supportTools.accountActions.retireUser": "আপনি {username} নামের ব্যবহারকারীকে (ইমেইল: {email}) নিষ্ক্রিয় করতে যাচ্ছেন।{br}{br} এটি একটি গুরুতর পদক্ষেপ, যা এই ব্যবহারকারীর edX-এ প্রবেশাধিকার এবং অর্জিত সার্টিফিকেট বাতিল করে দেবে। এছাড়াও, নিষ্ক্রিয় করা অ্যাকাউন্টের সাথে যুক্ত ইমেইল ঠিকানাটি দিয়ে নতুন অ্যাকাউন্ট তৈরি করা যাবে না।",
   "configuration.customersPage.otherSubsidiesColumn": "অন্যান্য ভর্তুকি",
   "configuration.customersPage.otherSubsidiesColumn.tooltip": "অফার ও কোড অন্তর্ভুক্ত।",
   "configuration.customersPage.viewSubsidiesColumn.tooltip": "একটি টিক চিহ্ন সক্রিয় ভর্তুকি নির্দেশ করে।",

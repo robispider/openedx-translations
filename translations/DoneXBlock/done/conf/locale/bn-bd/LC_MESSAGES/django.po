@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 21:07+0000\n"
-"PO-Revision-Date: 2025-10-02 03:07+0000\n"
+"POT-Creation-Date: 2025-10-02 01:21+0000\n"
+"PO-Revision-Date: 2025-10-02 07:21+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -91,7 +91,7 @@ msgstr ""সম্পন্ন হিসেবে চিহ্নিত কর�
 
 #: templates/studioview.html:4
 msgid ""This is a very simple component with no configuration options. It is used for helping student keep track of what portion of a course they've completed. For example, you might place this underneath each text and video component, and students can see in their progress page which portions are completed and  which still need to be watched or read.""
-msgstr ""This is a very simple component with no configuration options. It is used for helping student keep track of what portion of a course they've completed. For example, you might place this underneath each text and video component, and students can see in their progress page which portions are completed and  which still need to be watched or read.""
+msgstr ""এটা খুবই সাধারণ একটা কম্পোনেন্ট, যেখানে কনফিগার করার মতো কোনো অপশন নেই। এটা স্টুডেন্টদের একটা কোর্সের কত অংশ শেষ করেছে, সেটা ট্র্যাক করতে সাহায্য করে। যেমন, আপনি প্রত্যেকটা টেক্সট আর ভিডিও কম্পোনেন্টের নিচে এটা বসাতে পারেন, আর স্টুডেন্টরা তাদের প্রোগ্রেস পেজে দেখতে পারবে কোন অংশগুলো শেষ হয়েছে আর কোনগুলো এখনও দেখতে বা পড়তে হবে।""
 
 #: templates/studioview.html:6
 msgid ""It is also helpful to give students a way to sign off on having completed something. They are less likely to skip material that way.""

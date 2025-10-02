@@ -47,7 +47,7 @@
   "library.detail.sidebar.adding.first": "কোর্সে ব্যবহারের জন্য আপনার লাইব্রেরিতে কম্পোনেন্ট যোগ করুন।",
   "library.detail.sidebar.adding.second": "কম্পোনেন্টগুলো যোগ করার ক্রম অনুযায়ী তালিকাভুক্ত করা হয়েছে, যেখানে সবথেকে নতুন যোগ করা কম্পোনেন্টটি নিচে দেখানো হয়েছে।",
   "library.detail.sidebar.using.heading": "কোর্সে লাইব্রেরি কন্টেন্ট ব্যবহার করা হচ্ছে",
-  "library.detail.sidebar.using.first": "Use library content in courses by adding the \u0022library_content\u0022 policy key to the Advanced Module List in the course\u0027s Advanced Settings, then adding a Randomized Content Block to your courseware. In the settings for each Randomized Content Block, select this library as the source library, and specify the number of problems to be randomly selected and displayed to each student.",
+  "library.detail.sidebar.using.first": "কোর্সে লাইব্রেরি কন্টেন্ট ব্যবহার করতে, কোর্সের অ্যাডভান্সড সেটিংসে অ্যাডভান্সড মডিউল লিস্টে \u0022library_content\u0022 পলিসি কী যোগ করুন, তারপর আপনার কোর্সওয়্যারে একটি র‍্যান্ডমাইজড কন্টেন্ট ব্লক যোগ করুন। প্রতিটি র‍্যান্ডমাইজড কন্টেন্ট ব্লকের সেটিংসে, এই লাইব্রেরিটিকে সোর্স লাইব্রেরি হিসেবে নির্বাচন করুন এবং প্রতিটি শিক্ষার্থীর জন্য কতগুলো সমস্যা র‍্যান্ডমলি নির্বাচন করে দেখানো হবে, তা উল্লেখ করুন।",
   "library.detail.breadcrumbs.libraries": "লাইব্রেরি",
   "library.detail.settings.menu": "সেটিংস",
   "library.detail.settings.details": "বিস্তারিত",

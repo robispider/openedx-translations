@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 21:23+0000\n"
-"PO-Revision-Date: 2025-10-02 03:23+0000\n"
+"POT-Creation-Date: 2025-10-02 01:48+0000\n"
+"PO-Revision-Date: 2025-10-02 07:48+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -87,19 +87,19 @@ msgstr ""ডাটা শেয়ারিং সম্মতির টেক�
 
 #: consent/models.py:269
 msgid ""Fill in a text for first paragraph of page. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>platform_name: Name of platform.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
-msgstr ""Fill in a text for first paragraph of page. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>platform_name: Name of platform.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
+msgstr ""পেজের প্রথম প্যারাগ্রাফের জন্য একটি টেক্সট লিখুন। নিম্নলিখিত ভেরিয়েবলগুলি ব্যবহার করা যেতে পারে:<br /><ul><li>enterprise_customer_name: এন্টারপ্রাইজ গ্রাহকের নাম।</li><li>platform_name: প্ল্যাটফর্মের নাম।</li><li>item: এটি \"কোর্স\" অথবা \"প্রোগ্রাম\" স্ট্রিং হবে, যা সম্মতির ধরণের উপর নির্ভর করে।</li><li>course_title: কোর্সের শিরোনাম। শুধুমাত্র কোর্স সম্মতির ধরণের ক্ষেত্রে উপলব্ধ।</li><li>course_start_date: কোর্সের শুরুর তারিখ। শুধুমাত্র কোর্স সম্মতির ধরণের ক্ষেত্রে উপলব্ধ।</li></ul>""
 
 #: consent/models.py:279
 msgid ""Fill in a text for policy paragraph at the bottom of page. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>platform_name: Name of platform.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
-msgstr ""Fill in a text for policy paragraph at the bottom of page. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>platform_name: Name of platform.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
+msgstr ""পেজের নিচে পলিসি প্যারাগ্রাফের জন্য একটি টেক্সট লিখুন। নিম্নলিখিত ভেরিয়েবলগুলো ব্যবহার করা যেতে পারে:<br /><ul><li>enterprise_customer_name: এন্টারপ্রাইজ গ্রাহকের নাম।</li><li>platform_name: প্ল্যাটফর্মের নাম।</li><li>item: এটি \"কোর্স\" অথবা \"প্রোগ্রাম\" স্ট্রিং হবে, যা সম্মতির ধরণের উপর নির্ভর করে।</li><li>course_title: কোর্সের শিরোনাম। শুধুমাত্র কোর্স সম্মতির ক্ষেত্রে উপলব্ধ।</li><li>course_start_date: কোর্সের শুরু তারিখ। শুধুমাত্র কোর্স সম্মতির ক্ষেত্রে উপলব্ধ।</li></ul>""
 
 #: consent/models.py:289
 msgid ""Fill in a text for left sidebar paragraph. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>platform_name: Name of platform.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
-msgstr ""Fill in a text for left sidebar paragraph. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>platform_name: Name of platform.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
+msgstr ""বামপাশের সাইডবারের প্যারাগ্রাফের জন্য একটি টেক্সট লিখুন। নিম্নলিখিত ভেরিয়েবলগুলো ব্যবহার করা যেতে পারে:<br /><ul><li>enterprise_customer_name: এন্টারপ্রাইজ গ্রাহকের নাম।</li><li>platform_name: প্ল্যাটফর্মের নাম।</li><li>item: এটি \"কোর্স\" অথবা \"প্রোগ্রাম\" স্ট্রিং হবে, যা সম্মতির ধরনের উপর নির্ভর করে।</li><li>course_title: কোর্সের শিরোনাম। শুধুমাত্র কোর্সের সম্মতির ক্ষেত্রে উপলব্ধ।</li><li>course_start_date: কোর্সের শুরু হওয়ার তারিখ। শুধুমাত্র কোর্সের সম্মতির ক্ষেত্রে উপলব্ধ।</li></ul>""
 
 #: consent/models.py:299
 msgid ""Fill in a text for dialog which appears when user decline to provide consent. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
-msgstr ""Fill in a text for dialog which appears when user decline to provide consent. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>item: A string which is \"course\" or \"program\" depending on the type of consent.</li><li>course_title: Title of course. Available when type of consent is course.</li><li>course_start_date: Course start date. Available when type of consent is course.</li></ul>""
+msgstr ""ব্যবহারকারী সম্মতি দিতে অস্বীকার করলে যে ডায়ালগ বক্সটি আসবে, তার জন্য একটি টেক্সট লিখুন। নিম্নলিখিত ভেরিয়েবলগুলো ব্যবহার করা যেতে পারে:<br /><ul<li>enterprise_customer_name: এন্টারপ্রাইজ গ্রাহকের নাম।</li><li>item: এটি \"কোর্স\" অথবা \"প্রোগ্রাম\" স্ট্রিং হবে, সম্মতির ধরণের উপর নির্ভর করে।</li><li>course_title: কোর্সের শিরোনাম। শুধুমাত্র কোর্স সম্মতির ক্ষেত্রে উপলব্ধ।</li><li>course_start_date: কোর্সের শুরু হওয়ার তারিখ। শুধুমাত্র কোর্স সম্মতির ক্ষেত্রে উপলব্ধ।</li></ul>""
 
 #: consent/models.py:309
 msgid ""Fill in a text for title of the notification which appears on dashboard when user decline to provide consent. The following variables may be available:<br /><ul><li>enterprise_customer_name: A name of enterprise customer.</li><li>course_title: Title of course. Available when type of consent is course.</li></ul>""
@@ -247,20 +247,14 @@ msgid ""
 """"
 ""    Backfill missing audit record foreign keys for Cornerstone.""
 ""    ""
-msgstr ""
-""""
-""    Backfill missing audit record foreign keys for Cornerstone.""
-""    ""
+msgstr ""কর্ণারস্টোনের জন্য অডিট রেকর্ডের অনুপস্থিত foreign key গুলো পূরণ করুন।""
 
 #: integrated_channels/integrated_channel/management/commands/backfill_missing_foreign_keys.py:67
 msgid ""
 """"
 ""    Backfill missing audit record foreign keys.""
 ""    ""
-msgstr ""
-""""
-""    Backfill missing audit record foreign keys.""
-""    ""
+msgstr ""ব্যাকফিল মিসিং অডিট রেকর্ড ফরেন কী।""
 
 #: integrated_channels/integrated_channel/management/commands/cleanup_duplicate_assignment_records.py:25
 msgid ""
@@ -268,11 +262,7 @@ msgid ""
 ""    Verify and remove any duplicated assignments transmitted to the IntegratedChannel(s) configured for the given""
 ""     EnterpriseCustomer.""
 ""    ""
-msgstr ""
-""""
-""    Verify and remove any duplicated assignments transmitted to the IntegratedChannel(s) configured for the given""
-""     EnterpriseCustomer.""
-""    ""
+msgstr ""অনুগ্রহ করে যাচাই করুন এবং এই EnterpriseCustomer-এর জন্য কনফিগার করা IntegratedChannel(s)-এ প্রেরিত কোনো ডুপ্লিকেট অ্যাসাইনমেন্ট সরিয়ে ফেলুন।""
 
 #: integrated_channels/integrated_channel/management/commands/cleanup_duplicate_assignment_records.py:39
 #: integrated_channels/integrated_channel/management/commands/transmit_learner_data.py:37
@@ -294,30 +284,21 @@ msgid ""
 """"
 ""    Transmit Enterprise learner course completion data for the given EnterpriseCustomer.""
 ""    ""
-msgstr ""
-""""
-""    Transmit Enterprise learner course completion data for the given EnterpriseCustomer.""
-""    ""
+msgstr ""নির্দিষ্ট EnterpriseCustomer-এর জন্য ট্রান্সমিট এন্টারপ্রাইজ লার্নার কোর্সের সমাপ্তির ডেটা প্রেরণ করুন।""
 
 #: integrated_channels/integrated_channel/management/commands/remove_stale_integrated_channel_api_logs.py:22
 msgid ""
 """"
 ""    This management command deletes records from the IntegratedChannelAPIRequestLogs model that are older than one month""
 ""    ""
-msgstr ""
-""""
-""    This management command deletes records from the IntegratedChannelAPIRequestLogs model that are older than one month""
-""    ""
+msgstr ""এই ম্যানেজমেন্ট কমান্ড ইন্টিগ্রেটেড চ্যানেল এপিআই রিকোয়েস্ট লগস মডেল থেকে এক মাসের পুরোনো রেকর্ডগুলি মুছে ফেলে।""
 
 #: integrated_channels/integrated_channel/management/commands/reset_sapsf_learner_transmissions.py:19
 msgid ""
 """"
 ""    Reset SAPSF learner transmissions for the given EnterpriseCustomer and Channel between two dates.""
 ""    ""
-msgstr ""
-""""
-""    Reset SAPSF learner transmissions for the given EnterpriseCustomer and Channel between two dates.""
-""    ""
+msgstr ""निर्धारিত EnterpriseCustomer এবং Channel-এর মধ্যে নির্দিষ্ট দুটি তারিখের মধ্যে SAPSF শিক্ষার্থীর ডেটা ট্রান্সমিশন রিসেট করুন।""
 
 #: integrated_channels/integrated_channel/management/commands/reset_sapsf_learner_transmissions.py:31
 msgid ""Start date and time in YYYY-MM-DDTHH:MM:SSZ format.""
@@ -332,10 +313,7 @@ msgid ""
 """"
 ""    Transmit Enterprise learner assessment level reporting data for the given EnterpriseCustomer.""
 ""    ""
-msgstr ""
-""""
-""    Transmit Enterprise learner assessment level reporting data for the given EnterpriseCustomer.""
-""    ""
+msgstr ""দয়া করে প্রদত্ত EnterpriseCustomer-এর জন্য ট্রান্সমিট এন্টারপ্রাইজ লার্নার অ্যাসেসমেন্ট লেভেল রিপোর্টিং ডেটা প্রেরণ করুন।""
 
 #: integrated_channels/integrated_channel/models.py:115
 msgid ""A configuration nickname.""
@@ -670,9 +648,7 @@ msgstr ""নিম্নলিখিত ডুপ্লিকেট ইমেই
 msgid ""
 ""Error at line {line}: {message}""
 """"
-msgstr ""
-""Error at line {line}: {message}""
-""""
+msgstr ""{line} নম্বর লাইনে ত্রুটি: {message}""
 
 #: enterprise/admin/views.py:632
 #, python-brace-format
@@ -705,9 +681,8 @@ msgid ""
 ""Additional Notes:""
 ""{token_notes}.""
 msgstr ""
-""{token_email} from {token_enterprise_name} has requested {token_number_codes} additional codes. Please reach out to them.""
-""Additional Notes:""
-""{token_notes}.""
+""{token_email} এর তরফ থেকে {token_enterprise_name} এর জন্য {token_number_codes} টি অতিরিক্ত কোড চাওয়া হয়েছে। অনুগ্রহ করে তাদের সাথে যোগাযোগ করুন।""
+""অতিরিক্ত তথ্য: {token_notes}।""
 
 #: enterprise/api/utils.py:104
 #, python-brace-format
@@ -721,9 +696,8 @@ msgid ""
 ""Additional Notes:""
 ""{token_notes}.""
 msgstr ""
-""{token_email} from {token_enterprise_name} has requested additional codes. Please reach out to them.""
-""Additional Notes:""
-""{token_notes}.""
+""{token_email} ({token_enterprise_name}) থেকে অতিরিক্ত কোড চেয়েছেন। অনুগ্রহ করে তাদের সাথে যোগাযোগ করুন।""
+""অতিরিক্ত তথ্য: {token_notes}""
 
 #: enterprise/api/utils.py:116
 #, python-brace-format
@@ -822,7 +796,7 @@ msgstr ""স্বাগতম {platform_name} এ।""
 #: enterprise/constants.py:27
 #, python-brace-format
 msgid ""You have left the {strong_start}{enterprise_customer_name}{strong_end} website and are now on the {platform_name} site. {enterprise_customer_name} has partnered with {platform_name} to offer you high-quality, always available learning programs to help you advance your knowledge and career. {line_break}Please note that {platform_name} has a different {privacy_policy_link_start}Privacy Policy {privacy_policy_link_end} from {enterprise_customer_name}.""
-msgstr ""You have left the {strong_start}{enterprise_customer_name}{strong_end} website and are now on the {platform_name} site. {enterprise_customer_name} has partnered with {platform_name} to offer you high-quality, always available learning programs to help you advance your knowledge and career. {line_break}Please note that {platform_name} has a different {privacy_policy_link_start}Privacy Policy {privacy_policy_link_end} from {enterprise_customer_name}.""
+msgstr ""আপনি {strong_start}{enterprise_customer_name}{strong_end} ওয়েবসাইটটি ত্যাগ করেছেন এবং এখন {platform_name} সাইটে আছেন। {enterprise_customer_name} আপনাকে উচ্চ মানের, সবসময় পাওয়া যায় এমন লার্নিং প্রোগ্রাম দেওয়ার জন্য {platform_name}-এর সাথে পার্টনার হয়েছে, যা আপনার জ্ঞান এবং কর্মজীবনকে এগিয়ে নিতে সাহায্য করবে। {line_break}দয়া করে মনে রাখবেন {platform_name}-এর একটি ভিন্ন {privacy_policy_link_start}Privacy Policy {privacy_policy_link_end} রয়েছে যা {enterprise_customer_name} থেকে আলাদা।""
 
 #: enterprise/constants.py:88
 msgid ""A series of Master’s-level courses to advance your career, created by top universities and recognized by companies. MicroMasters Programs are credit-eligible, provide in-demand knowledge and may be applied to accelerate a Master’s Degree.""
@@ -873,15 +847,12 @@ msgid ""
 """"
 ""    Set error state for configurations.""
 ""    ""
-msgstr ""
-""""
-""    Set error state for configurations.""
-""    ""
+msgstr ""কনফিগারেশনগুলোর জন্য এরর স্টেট সেট করুন।""
 
 #: enterprise/messages.py:24
 #, python-brace-format
 msgid ""{strong_start}We could not enroll you in {em_start}{item}{em_end}.{strong_end} {span_start}If you have questions or concerns about sharing your data, please contact your learning manager at {enterprise_customer_name}, or contact {link_start}{platform_name} support{link_end}.{span_end}""
-msgstr ""{strong_start}We could not enroll you in {em_start}{item}{em_end}.{strong_end} {span_start}If you have questions or concerns about sharing your data, please contact your learning manager at {enterprise_customer_name}, or contact {link_start}{platform_name} support{link_end}.{span_end}""
+msgstr ""দুঃখিত, আমরা আপনাকে {em_start}{item}{em_end}-এ নথিভুক্ত করতে পারিনি। {span_start}আপনার ডেটা শেয়ার করা নিয়ে কোনো প্রশ্ন বা উদ্বেগের ক্ষেত্রে, অনুগ্রহ করে {enterprise_customer_name}-এর লার্নিং ম্যানেজার অথবা {link_start}{platform_name} সাপোর্ট-এর সাথে যোগাযোগ করুন।{span_end}""
 
 #: enterprise/messages.py:55
 #, python-brace-format
@@ -896,7 +867,7 @@ msgstr ""{strong_start}একটা সমস্যা হয়েছে।{strong
 #: enterprise/messages.py:111
 #, python-brace-format
 msgid ""{strong_start}Something happened.{strong_end} {span_start}Please reach out to your learning administrator with the following error code and they will be able to help you out.{span_end}{span_start}Error code: {error_code}{span_end}{span_start}Username: {username}{span_end}""
-msgstr ""{strong_start}Something happened.{strong_end} {span_start}Please reach out to your learning administrator with the following error code and they will be able to help you out.{span_end}{span_start}Error code: {error_code}{span_end}{span_start}Username: {username}{span_end}""
+msgstr ""{strong_start}একটা সমস্যা হয়েছে।{strong_end} {span_start}অনুগ্রহ করে নিচের এরর কোডটি নিয়ে আপনার লার্নিং অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন, তারা আপনাকে সাহায্য করতে পারবে।{span_end}{span_start}এরর কোড: {error_code}{span_end}{span_start}ইউজারনেম: {username}{span_end}""
 
 #: enterprise/models.py:147
 msgid ""Enterprise Customer Type""
@@ -956,7 +927,7 @@ msgstr ""কাস্টমার টাইপ""
 
 #: enterprise/models.py:327
 msgid ""If checked, learners and admins will not receive notifications leading up to the expiration date for learner credit plans. This includes removing the expiration date from the subsidy box for upcoming expirations. The subsidy summary box will not display for expired plans. Other notifications signaling the expiration (and loss of usability) itself will still appear.""
-msgstr ""If checked, learners and admins will not receive notifications leading up to the expiration date for learner credit plans. This includes removing the expiration date from the subsidy box for upcoming expirations. The subsidy summary box will not display for expired plans. Other notifications signaling the expiration (and loss of usability) itself will still appear.""
+msgstr ""যদি এই অপশনটি নির্বাচন করা হয়, তাহলে লার্নার এবং অ্যাডমিনরা লার্নার ক্রেডিট প্ল্যানের মেয়াদ শেষ হওয়ার তারিখের আগে কোনো নোটিফিকেশন পাবেন না। এর মধ্যে মেয়াদ শেষ হওয়ার তারিখটি আসন্ন মেয়াদ শেষ হওয়ার জন্য সাবসিডি বক্স থেকে সরিয়ে দেওয়া অন্তর্ভুক্ত। মেয়াদ শেষ হয়ে যাওয়া প্ল্যানের জন্য সাবসিডি সামারি বক্স দেখানো হবে না। মেয়াদ শেষ হওয়ার সংকেত দেওয়া অন্যান্য নোটিফিকেশন (এবং ব্যবহারযোগ্যতা হারানো) যেমন - সেগুলি আগের মতোই প্রদর্শিত হবে।""
 
 #: enterprise/models.py:341
 msgid ""Enables the scheduled reporting configurations screen on the administrator portal.""
@@ -1187,9 +1158,7 @@ msgstr ""এন্টারপ্রাইজ কাস্টমার ক্য
 msgid ""
 ""Fill in a standard Django template that, when rendered, produces the email you want sent to newly-enrolled Enterprise Customer learners. The following variables may be available:""
 ""<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>""
-msgstr ""
-""Fill in a standard Django template that, when rendered, produces the email you want sent to newly-enrolled Enterprise Customer learners. The following variables may be available:""
-""<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>""
+msgstr """"
 
 #: enterprise/models.py:3264
 #, python-brace-format
@@ -1881,7 +1850,7 @@ msgstr ""আমি প্রতিটি কোর্স বা প্রোগ�
 #: enterprise/views.py:420
 #, python-brace-format
 msgid ""My permission applies only to data from courses or programs that are sponsored by {enterprise_customer_name}, and not to data from any {platform_name} courses or programs that I take on my own. I understand that I may withdraw my permission only by fully unenrolling from any courses or programs that are sponsored by {enterprise_customer_name}.""
-msgstr ""My permission applies only to data from courses or programs that are sponsored by {enterprise_customer_name}, and not to data from any {platform_name} courses or programs that I take on my own. I understand that I may withdraw my permission only by fully unenrolling from any courses or programs that are sponsored by {enterprise_customer_name}.""
+msgstr ""আমার অনুমতি শুধুমাত্র {enterprise_customer_name} দ্বারা স্পন্সর করা কোর্স বা প্রোগ্রাম থেকে প্রাপ্ত ডেটার জন্য প্রযোজ্য, এবং আমি ব্যক্তিগতভাবে {platform_name}-এ যে কোর্স বা প্রোগ্রাম গ্রহণ করি তার ডেটার জন্য নয়। আমি বুঝতে পেরেছি যে {enterprise_customer_name} দ্বারা স্পন্সর করা কোনো কোর্স বা প্রোগ্রাম থেকে সম্পূর্ণরূপে আনএনরোল করা হলেই আমি আমার অনুমতি প্রত্যাহার করতে পারবো।""
 
 #: enterprise/views.py:428
 msgid ""Please note""
