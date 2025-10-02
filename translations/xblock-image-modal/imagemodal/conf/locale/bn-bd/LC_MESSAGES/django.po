@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 20:56+0000\n"
-"PO-Revision-Date: 2025-10-02 02:56+0000\n"
+"POT-Creation-Date: 2025-10-02 06:15+0000\n"
+"PO-Revision-Date: 2025-10-02 12:15+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,54 +46,54 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 #: models.py:25
-msgid ""Display Name""
-msgstr ""ডিসপ্লে নাম""
+msgid "Display Name"
+msgstr "ডিসপ্লে নাম"
 
 #: models.py:28
-msgid ""This is the XBlock's display name""
-msgstr ""এটি হলো XBlock-এর ডিসপ্লে নাম""
+msgid "This is the XBlock's display name"
+msgstr "এটি হলো XBlock-এর ডিসপ্লে নাম"
 
 #: models.py:32
-msgid ""Image URL""
-msgstr ""ইমেজ ইউআরএল""
+msgid "Image URL"
+msgstr "ইমেজ ইউআরএল"
 
 #: models.py:41
-msgid ""This is the location of the full-screen image to be displayed.""
-msgstr ""এটি ফুল-স্ক্রিন ইমেজটি প্রদর্শনের জন্য লোকেশন।""
+msgid "This is the location of the full-screen image to be displayed."
+msgstr "এটি ফুল-স্ক্রিন ইমেজটি প্রদর্শনের জন্য লোকেশন।"
 
 #: models.py:46
-msgid ""Thumbnail URL""
-msgstr ""থাম্বনেইল ইউআরএল""
+msgid "Thumbnail URL"
+msgstr "থাম্বনেইল ইউআরএল"
 
 #: models.py:50
-msgid ""This is the (optional) location of a thumbnail image to be displayed before the main image has been enlarged.""
-msgstr ""এটি মূল ইমেজ বড় করার আগে প্রদর্শিত হওয়ার থাম্বনেইল ইমেজের (ঐচ্ছিক) লোকেশন।""
+msgid "This is the (optional) location of a thumbnail image to be displayed before the main image has been enlarged."
+msgstr "এটি মূল ইমেজ বড় করার আগে প্রদর্শিত হওয়ার থাম্বনেইল ইমেজের (ঐচ্ছিক) লোকেশন।"
 
 #: models.py:56
-msgid ""Description""
-msgstr ""বর্ণনা""
+msgid "Description"
+msgstr "বর্ণনা"
 
 #: models.py:59
-msgid ""Description text, displayed to screen readers""
-msgstr ""স্ক্রিন রিডার ব্যবহারকারীদের জন্য বর্ণনা টেক্সট।""
+msgid "Description text, displayed to screen readers"
+msgstr "স্ক্রিন রিডার ব্যবহারকারীদের জন্য বর্ণনা টেক্সট।"
 
 #: models.py:64
-msgid ""Alt Text""
-msgstr ""Alt টেক্সট""
+msgid "Alt Text"
+msgstr "Alt টেক্সট"
 
 #: models.py:68
-msgid ""This field allows you to add alternate or descriptive text that pertains to your image.""
-msgstr ""এই ক্ষেত্রটি আপনাকে আপনার ছবির সাথে বিকল্প বা বর্ণনাকারী টেক্সট যোগ করার সুযোগ দেয়।""
+msgid "This field allows you to add alternate or descriptive text that pertains to your image."
+msgstr "এই ক্ষেত্রটি আপনাকে আপনার ছবির সাথে বিকল্প বা বর্ণনাকারী টেক্সট যোগ করার সুযোগ দেয়।"
 
 #: templates/view.html:15
-msgid ""Fullscreen""
-msgstr ""ফুলস্ক্রিন""
+msgid "Fullscreen"
+msgstr "ফুলস্ক্রিন"
 
 #: templates/view.html:25
-msgid ""Zoom In""
-msgstr ""জুম ইন""
+msgid "Zoom In"
+msgstr "জুম ইন"
 
 #: templates/view.html:29
-msgid ""Close""
-msgstr ""বন্ধ করুন""
+msgid "Close"
+msgstr "বন্ধ করুন"
 

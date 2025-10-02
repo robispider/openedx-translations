@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 20:56+0000\n"
-"PO-Revision-Date: 2025-10-02 02:56+0000\n"
+"POT-Creation-Date: 2025-10-02 06:15+0000\n"
+"PO-Revision-Date: 2025-10-02 12:15+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,38 +46,38 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 #: enterprise/static/enterprise/js/manage_learners.js:38
-msgid ""Enter a valid course ID""
-msgstr ""একটি বৈধ কোর্স আইডি লিখুন""
+msgid "Enter a valid course ID"
+msgstr "একটি বৈধ কোর্স আইডি লিখুন"
 
 #: enterprise/static/enterprise/js/manage_learners.js:82
-msgid ""Are you sure you want to unlink %(email)s?""
-msgstr ""আপনি কি নিশ্চিতভাবে %(email)s আনলিঙ্ক করতে চান?""
+msgid "Are you sure you want to unlink %(email)s?"
+msgstr "আপনি কি নিশ্চিতভাবে %(email)s আনলিঙ্ক করতে চান?"
 
 #: enterprise/static/enterprise/js/manage_learners.js:114
-msgid ""---------""
-msgstr ""আপনাকে স্বাগতম, {name}!""
+msgid "---------"
+msgstr "আপনাকে স্বাগতম, {name}!"
 
 #: enterprise/static/enterprise/js/manage_learners.js:115
-msgid ""Audit""
-msgstr ""নিরীক্ষা""
+msgid "Audit"
+msgstr "নিরীক্ষা"
 
 #: enterprise/static/enterprise/js/manage_learners.js:116
-msgid ""Verified""
-msgstr ""যাচাইকৃত""
+msgid "Verified"
+msgstr "যাচাইকৃত"
 
 #: enterprise/static/enterprise/js/manage_learners.js:117
-msgid ""Professional Education""
-msgstr ""পেশাদার শিক্ষা""
+msgid "Professional Education"
+msgstr "পেশাদার শিক্ষা"
 
 #: enterprise/static/enterprise/js/manage_learners.js:118
-msgid ""Professional Education (no ID)""
-msgstr ""পেশাদার শিক্ষা""
+msgid "Professional Education (no ID)"
+msgstr "পেশাদার শিক্ষা"
 
 #: enterprise/static/enterprise/js/manage_learners.js:119
-msgid ""Credit""
-msgstr ""ক্রেডিট""
+msgid "Credit"
+msgstr "ক্রেডিট"
 
 #: enterprise/static/enterprise/js/manage_learners.js:120
-msgid ""Honor""
-msgstr ""সম্মান""
+msgid "Honor"
+msgstr "সম্মান"
 

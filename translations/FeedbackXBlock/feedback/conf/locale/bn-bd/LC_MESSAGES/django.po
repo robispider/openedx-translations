@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 20:56+0000\n"
-"PO-Revision-Date: 2025-10-02 02:56+0000\n"
+"POT-Creation-Date: 2025-10-02 06:15+0000\n"
+"PO-Revision-Date: 2025-10-02 12:15+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,274 +46,274 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 #: feedback.py:30
-msgid ""What did you learn from this? What was missing?""
-msgstr ""এটা থেকে কী শিখলে? কী missing ছিল?""
+msgid "What did you learn from this? What was missing?"
+msgstr "এটা থেকে কী শিখলে? কী missing ছিল?"
 
 #: feedback.py:31
-msgid ""How would you rate this as a learning experience?""
-msgstr ""এই অভিজ্ঞতাটা শেখার দিক থেকে কেমন ছিল, রেটিং দেন?<br/>(১-৫ এর মধ্যে)""
+msgid "How would you rate this as a learning experience?"
+msgstr "এই অভিজ্ঞতাটা শেখার দিক থেকে কেমন ছিল, রেটিং দেন?<br/>(১-৫ এর মধ্যে)"
 
 #: feedback.py:33
-msgid ""Think about the material, and try to synthesize key lessons learned, as well as key gaps in our presentation.""
-msgstr ""উপকরণগুলো নিয়ে একটু ভাবুন, এবং আমাদের উপস্থাপনায় মূল শিক্ষা এবং দুর্বলতাগুলো চিহ্নিত করার চেষ্টা করুন।""
+msgid "Think about the material, and try to synthesize key lessons learned, as well as key gaps in our presentation."
+msgstr "উপকরণগুলো নিয়ে একটু ভাবুন, এবং আমাদের উপস্থাপনায় মূল শিক্ষা এবং দুর্বলতাগুলো চিহ্নিত করার চেষ্টা করুন।"
 
 #: feedback.py:37
-msgid ""Take a little bit of time to reflect here. Research shows that a meaningful synthesis will help you better understand and remember material from this course.""
-msgstr ""এখানে একটু সময় নিয়ে ভাবুন। গবেষণায় দেখা গেছে যে একটি অর্থপূর্ণ সারসংক্ষেপ আপনাকে এই কোর্সের উপাদানগুলি আরও ভালোভাবে বুঝতে এবং মনে রাখতে সাহায্য করবে।""
+msgid "Take a little bit of time to reflect here. Research shows that a meaningful synthesis will help you better understand and remember material from this course."
+msgstr "এখানে একটু সময় নিয়ে ভাবুন। গবেষণায় দেখা গেছে যে একটি অর্থপূর্ণ সারসংক্ষেপ আপনাকে এই কোর্সের উপাদানগুলি আরও ভালোভাবে বুঝতে এবং মনে রাখতে সাহায্য করবে।"
 
 #: feedback.py:43 feedback.py:164
-msgid ""Excellent""
-msgstr ""চমৎকার""
+msgid "Excellent"
+msgstr "চমৎকার"
 
 #: feedback.py:43 feedback.py:165
-msgid ""Good""
-msgstr ""ভাল""
+msgid "Good"
+msgstr "ভাল"
 
 #: feedback.py:43 feedback.py:166
-msgid ""Average""
-msgstr ""গড়""
+msgid "Average"
+msgstr "গড়"
 
 #: feedback.py:43 feedback.py:167
-msgid ""Fair""
-msgstr ""ন্যায্য""
+msgid "Fair"
+msgstr "ন্যায্য"
 
 #: feedback.py:43 feedback.py:168
-msgid ""Poor""
-msgstr ""দুঃখজনক""
+msgid "Poor"
+msgstr "দুঃখজনক"
 
 #: feedback.py:78
-msgid ""Freeform user prompt""
-msgstr ""ব্যবহারকারীর প্রশ্ন""
+msgid "Freeform user prompt"
+msgstr "ব্যবহারকারীর প্রশ্ন"
 
 #: feedback.py:84 feedback.py:100
-msgid ""Random number generated for p. -1 if uninitialized""
-msgstr ""p এর জন্য র‍্যান্ডম নম্বর তৈরি হয়েছে। যদি শুরু করা না হয়ে থাকে তবে -১।""
+msgid "Random number generated for p. -1 if uninitialized"
+msgstr "p এর জন্য র‍্যান্ডম নম্বর তৈরি হয়েছে। যদি শুরু করা না হয়ে থাকে তবে -১।"
 
 #: feedback.py:89
-msgid ""How user voted. -1 if didn't vote""
-msgstr ""ইউজার কিভাবে ভোট দিয়েছেন। ভোট না দিলে -1""
+msgid "How user voted. -1 if didn't vote"
+msgstr "ইউজার কিভাবে ভোট দিয়েছেন। ভোট না দিলে -1"
 
 #: feedback.py:95
-msgid ""What percent of the time should this show?""
-msgstr ""কত শতাংশ সময় ধরে এটা দেখানো উচিত?""
+msgid "What percent of the time should this show?"
+msgstr "কত শতাংশ সময় ধরে এটা দেখানো উচিত?"
 
 #: feedback.py:105
-msgid ""A list of user votes""
-msgstr ""ব্যবহারকারীদের ভোটের তালিকা""
+msgid "A list of user votes"
+msgstr "ব্যবহারকারীদের ভোটের তালিকা"
 
 #: feedback.py:109
-msgid ""Feedback""
-msgstr ""ফিডব্যাক""
+msgid "Feedback"
+msgstr "ফিডব্যাক"
 
 #: feedback.py:112
-msgid ""Display Name""
-msgstr ""ডিসপ্লে নাম""
+msgid "Display Name"
+msgstr "ডিসপ্লে নাম"
 
 #: feedback.py:113
-msgid ""Provide Feedback""
-msgstr ""ফিডব্যাক দিন""
+msgid "Provide Feedback"
+msgstr "ফিডব্যাক দিন"
 
 #: feedback.py:118 templates/html/studio_view.html:17
-msgid ""Voting message""
-msgstr ""ভোটিং মেসেজ""
+msgid "Voting message"
+msgstr "ভোটিং মেসেজ"
 
 #: feedback.py:119
-msgid ""Thank you for voting!""
-msgstr ""ভোট দেওয়ার জন্য ধন্যবাদ!""
+msgid "Thank you for voting!"
+msgstr "ভোট দেওয়ার জন্য ধন্যবাদ!"
 
 #: feedback.py:124 templates/html/studio_view.html:25
-msgid ""Feedback message""
-msgstr ""ফিডব্যাক মেসেজ""
+msgid "Feedback message"
+msgstr "ফিডব্যাক মেসেজ"
 
 #: feedback.py:125
-msgid ""Thank you for your feedback!""
-msgstr ""আপনার মতামত দেওয়ার জন্য ধন্যবাদ!""
+msgid "Thank you for your feedback!"
+msgstr "আপনার মতামত দেওয়ার জন্য ধন্যবাদ!"
 
 #: feedback.py:130
-msgid ""Show aggregate to students""
-msgstr ""শিক্ষার্থীদের কাছে অ্যাগ্রিগেট দেখান""
+msgid "Show aggregate to students"
+msgstr "শিক্ষার্থীদের কাছে অ্যাগ্রিগেট দেখান"
 
 #: feedback.py:159
-msgid ""Please reflect on this course material""
-msgstr ""অনুগ্রহ করে এই কোর্সের উপাদানগুলো নিয়ে একটু ভাবুন।""
+msgid "Please reflect on this course material"
+msgstr "অনুগ্রহ করে এই কোর্সের উপাদানগুলো নিয়ে একটু ভাবুন।"
 
 #: feedback.py:160
-msgid ""Please take time to meaningfully reflect on your experience with this course material.""
-msgstr ""দয়া করে এই কোর্সের উপাদানগুলোর সাথে আপনার অভিজ্ঞতা নিয়ে গভীরভাবে চিন্তা করুন।""
+msgid "Please take time to meaningfully reflect on your experience with this course material."
+msgstr "দয়া করে এই কোর্সের উপাদানগুলোর সাথে আপনার অভিজ্ঞতা নিয়ে গভীরভাবে চিন্তা করুন।"
 
 #: feedback.py:163
-msgid ""Please rate your overall experience""
-msgstr ""অনুগ্রহ করে আপনার সামগ্রিক অভিজ্ঞতা কেমন ছিল, অনুগ্রহ করে রেটিং দিন।""
+msgid "Please rate your overall experience"
+msgstr "অনুগ্রহ করে আপনার সামগ্রিক অভিজ্ঞতা কেমন ছিল, অনুগ্রহ করে রেটিং দিন।"
 
 #: feedback.py:170
-msgid ""Please take a moment to thoughtfully reflect.""
-msgstr ""অনুগ্রহ করে একটু ভেবে দেখুন।""
+msgid "Please take a moment to thoughtfully reflect."
+msgstr "অনুগ্রহ করে একটু ভেবে দেখুন।"
 
 #: feedback.py:387
-msgid ""Please vote!""
-msgstr ""অনুগ্রহ করে ভোট দিন!""
+msgid "Please vote!"
+msgstr "অনুগ্রহ করে ভোট দিন!"
 
 #: static/html/feedback_instructor.html:10
-msgid ""Component""
-msgstr ""কম্পোনেন্ট""
+msgid "Component"
+msgstr "কম্পোনেন্ট"
 
 #: static/html/feedback_instructor.html:13
-msgid ""Number of ratings""
-msgstr ""রেটিং সংখ্যা""
+msgid "Number of ratings"
+msgstr "রেটিং সংখ্যা"
 
 #: static/html/feedback_instructor.html:16
-msgid ""Average rating""
-msgstr ""গড় রেটিং""
+msgid "Average rating"
+msgstr "গড় রেটিং"
 
 #: static/html/feedback_instructor.html:19
-msgid ""Feedback ""
-msgstr ""ফিডব্যাক""
+msgid "Feedback "
+msgstr "ফিডব্যাক"
 
 #: static/html/feedback_instructor.html:40
-msgid ""Comment""
-msgstr ""মন্তব্য""
+msgid "Comment"
+msgstr "মন্তব্য"
 
 #: static/html/feedback_instructor.html:40
-msgid ""Vote""
-msgstr ""ভোট""
+msgid "Vote"
+msgstr "ভোট"
 
 #: static/html/feedback_instructor.html:40
-msgid ""No vote""
-msgstr ""কোনো ভোট নেই""
+msgid "No vote"
+msgstr "কোনো ভোট নেই"
 
 #: templates/html/feedback.html:17
-msgid ""Submit Feedback""
-msgstr ""ফিডব্যাক জমা দিন""
+msgid "Submit Feedback"
+msgstr "ফিডব্যাক জমা দিন"
 
 #: templates/html/studio_view.html:5
-msgid ""This XBlock allows you to collect student feedback on pieces of the course. This may be helpful either for course improvement, or to give students a chance to reflect on what they have done.""
-msgstr ""এই XBlock টি আপনাকে কোর্সের বিভিন্ন অংশের উপর শিক্ষার্থীদের মতামত সংগ্রহ করতে সাহায্য করবে। এটি কোর্সের মান উন্নয়নের জন্য অথবা শিক্ষার্থীদের তাদের কাজ নিয়ে চিন্তা করার সুযোগ দেওয়ার জন্য সহায়ক হতে পারে।""
+msgid "This XBlock allows you to collect student feedback on pieces of the course. This may be helpful either for course improvement, or to give students a chance to reflect on what they have done."
+msgstr "এই XBlock টি আপনাকে কোর্সের বিভিন্ন অংশের উপর শিক্ষার্থীদের মতামত সংগ্রহ করতে সাহায্য করবে। এটি কোর্সের মান উন্নয়নের জন্য অথবা শিক্ষার্থীদের তাদের কাজ নিয়ে চিন্তা করার সুযোগ দেওয়ার জন্য সহায়ক হতে পারে।"
 
 #: templates/html/studio_view.html:9
-msgid ""Display name""
-msgstr ""প্রদর্শন নাম""
+msgid "Display name"
+msgstr "প্রদর্শন নাম"
 
 #: templates/html/studio_view.html:12
-msgid ""The name of the component.""
-msgstr ""কম্পোনেন্টটির নাম।""
+msgid "The name of the component."
+msgstr "কম্পোনেন্টটির নাম।"
 
 #: templates/html/studio_view.html:20
-msgid ""The message to show after user vote.""
-msgstr ""ব্যবহারকারী ভোট দেওয়ার পরে দেখানোর বার্তা।""
+msgid "The message to show after user vote."
+msgstr "ব্যবহারকারী ভোট দেওয়ার পরে দেখানোর বার্তা।"
 
 #: templates/html/studio_view.html:28
-msgid ""The message to show after user feedback.""
-msgstr ""ব্যবহারকারী মতামত দেওয়ার পরে দেখানোর বার্তা।""
+msgid "The message to show after user feedback."
+msgstr "ব্যবহারকারী মতামত দেওয়ার পরে দেখানোর বার্তা।"
 
 #: templates/html/studio_view.html:33
-msgid ""Show aggregate report to students""
-msgstr ""শিক্ষার্থীদের কাছে অ্যাগ্রিগেট রিপোর্ট দেখান""
+msgid "Show aggregate report to students"
+msgstr "শিক্ষার্থীদের কাছে অ্যাগ্রিগেট রিপোর্ট দেখান"
 
 #: templates/html/studio_view.html:35
-msgid ""False""
-msgstr ""মিথ্যা""
+msgid "False"
+msgstr "মিথ্যা"
 
 #: templates/html/studio_view.html:36
-msgid ""True""
-msgstr ""সত্য""
+msgid "True"
+msgstr "সত্য"
 
 #: templates/html/studio_view.html:39
-msgid ""Whether to show the aggregate report to students.""
-msgstr ""শিক্ষার্থীদের কাছে সামগ্রিক রিপোর্ট দেখানোর অনুমতি দেওয়া হবে কিনা।""
+msgid "Whether to show the aggregate report to students."
+msgstr "শিক্ষার্থীদের কাছে সামগ্রিক রিপোর্ট দেখানোর অনুমতি দেওয়া হবে কিনা।"
 
 #: templates/html/studio_view.html:44
-msgid ""Freeform prompt""
-msgstr ""ফ্রিফর্ম প্রম্পট""
+msgid "Freeform prompt"
+msgstr "ফ্রিফর্ম প্রম্পট"
 
 #: templates/html/studio_view.html:47
-msgid ""Example: Please provide us feedback on this section.""
-msgstr ""উদাহরণ: এই অংশে আপনার মতামত দিন।""
+msgid "Example: Please provide us feedback on this section."
+msgstr "উদাহরণ: এই অংশে আপনার মতামত দিন।"
 
 #: templates/html/studio_view.html:52
-msgid ""Freeform placeholder""
-msgstr ""ফ্রিফর্ম প্লেসহোল্ডার""
+msgid "Freeform placeholder"
+msgstr "ফ্রিফর্ম প্লেসহোল্ডার"
 
 #: templates/html/studio_view.html:55
-msgid ""This is shown as grayed out text before the student has answered.""
-msgstr ""শিক্ষার্থী উত্তর দেওয়ার আগে এটি ধূসর রঙে দেখানো হবে।""
+msgid "This is shown as grayed out text before the student has answered."
+msgstr "শিক্ষার্থী উত্তর দেওয়ার আগে এটি ধূসর রঙে দেখানো হবে।"
 
 #: templates/html/studio_view.html:60
-msgid ""Likert icon set""
-msgstr ""লাইকার্ট আইকন সেট""
+msgid "Likert icon set"
+msgstr "লাইকার্ট আইকন সেট"
 
 #: templates/html/studio_view.html:62
-msgid ""Faces (happy to sad)""
-msgstr ""মুখ (খুশি থেকে দুঃখ)""
+msgid "Faces (happy to sad)"
+msgstr "মুখ (খুশি থেকে দুঃখ)"
 
 #: templates/html/studio_view.html:63
-msgid ""Faces (sad to happy)""
-msgstr ""মুখের অভিব্যক্তি (দুঃখী থেকে খুশি)""
+msgid "Faces (sad to happy)"
+msgstr "মুখের অভিব্যক্তি (দুঃখী থেকে খুশি)"
 
 #: templates/html/studio_view.html:64
-msgid ""Numeric""
-msgstr ""সংখ্যাসূচক""
+msgid "Numeric"
+msgstr "সংখ্যাসূচক"
 
 #: templates/html/studio_view.html:65
-msgid ""Stars""
-msgstr ""তারা""
+msgid "Stars"
+msgstr "তারা"
 
 #: templates/html/studio_view.html:68
-msgid ""We can either show happy/sad faces, numbers 1-5 or stars.""
-msgstr ""আমরা খুশি/দুঃখী মুখ, ১-৫ পর্যন্ত সংখ্যা অথবা তারা দেখাতে পারি।""
+msgid "We can either show happy/sad faces, numbers 1-5 or stars."
+msgstr "আমরা খুশি/দুঃখী মুখ, ১-৫ পর্যন্ত সংখ্যা অথবা তারা দেখাতে পারি।"
 
 #: templates/html/studio_view.html:73
-msgid ""Likert prompt""
-msgstr ""লিকার্ট প্রশ্ন""
+msgid "Likert prompt"
+msgstr "লিকার্ট প্রশ্ন"
 
 #: templates/html/studio_view.html:76
-msgid ""Example: Please rate your overall experience with this section.""
-msgstr ""উদাহরণস্বরূপ: এই অংশের সাথে আপনার অভিজ্ঞতা কেমন ছিল, অনুগ্রহ করে রেটিং দিন।""
+msgid "Example: Please rate your overall experience with this section."
+msgstr "উদাহরণস্বরূপ: এই অংশের সাথে আপনার অভিজ্ঞতা কেমন ছিল, অনুগ্রহ করে রেটিং দিন।"
 
 #: templates/html/studio_view.html:81
-msgid ""Likert option 1""
-msgstr ""Likert অপশন ১""
+msgid "Likert option 1"
+msgstr "Likert অপশন ১"
 
 #: templates/html/studio_view.html:84
-msgid ""Example: Excellent!""
-msgstr ""দারুণ!""
+msgid "Example: Excellent!"
+msgstr "দারুণ!"
 
 #: templates/html/studio_view.html:89
-msgid ""Likert option 2""
-msgstr ""লাইকার্ট অপশন ২""
+msgid "Likert option 2"
+msgstr "লাইকার্ট অপশন ২"
 
 #: templates/html/studio_view.html:92
-msgid ""Example: Good""
-msgstr ""উদাহরণস্বরূপ:""
+msgid "Example: Good"
+msgstr "উদাহরণস্বরূপ:"
 
 #: templates/html/studio_view.html:97
-msgid ""Likert option 3""
-msgstr ""লাইকার্ট অপশন ৩""
+msgid "Likert option 3"
+msgstr "লাইকার্ট অপশন ৩"
 
 #: templates/html/studio_view.html:100
-msgid ""Example: Average""
-msgstr ""উদাহরণ: গড়""
+msgid "Example: Average"
+msgstr "উদাহরণ: গড়"
 
 #: templates/html/studio_view.html:105
-msgid ""Likert option 4""
-msgstr ""লাইকার্ট অপশন ৪""
+msgid "Likert option 4"
+msgstr "লাইকার্ট অপশন ৪"
 
 #: templates/html/studio_view.html:108
-msgid ""Example: Fair""
-msgstr ""উদাহরণস্বরূপ: ন্যায্য""
+msgid "Example: Fair"
+msgstr "উদাহরণস্বরূপ: ন্যায্য"
 
 #: templates/html/studio_view.html:113
-msgid ""Likert option 5""
-msgstr ""লাইকার্ট অপশন ৫""
+msgid "Likert option 5"
+msgstr "লাইকার্ট অপশন ৫"
 
 #: templates/html/studio_view.html:116
-msgid ""Example: Poor""
-msgstr ""উদাহরণ: খারাপ""
+msgid "Example: Poor"
+msgstr "উদাহরণ: খারাপ"
 
 #: templates/html/studio_view.html:123
-msgid ""Save""
-msgstr ""সংরক্ষণ করুন""
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
 
 #: templates/html/studio_view.html:126
-msgid ""Cancel""
-msgstr ""বাতিল করুন""
+msgid "Cancel"
+msgstr "বাতিল করুন"
 

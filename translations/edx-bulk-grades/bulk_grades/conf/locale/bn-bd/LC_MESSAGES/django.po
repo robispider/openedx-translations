@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 20:56+0000\n"
-"PO-Revision-Date: 2025-10-02 02:56+0000\n"
+"POT-Creation-Date: 2025-10-02 06:15+0000\n"
+"PO-Revision-Date: 2025-10-02 12:15+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,38 +46,38 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 #: api.py:125
-msgid ""The CSV does not match this problem. Check that you uploaded the right CSV.""
-msgstr ""এই CSV ফাইলটি এই সমস্যার সাথে মেলে না। আপনি সঠিক CSV ফাইল আপলোড করেছেন কিনা তা নিশ্চিত করুন।""
+msgid "The CSV does not match this problem. Check that you uploaded the right CSV."
+msgstr "এই CSV ফাইলটি এই সমস্যার সাথে মেলে না। আপনি সঠিক CSV ফাইল আপলোড করেছেন কিনা তা নিশ্চিত করুন।"
 
 #: api.py:130
-msgid ""Points must be numbers.""
-msgstr ""পয়েন্ট অবশ্যই সংখ্যা হতে হবে।""
+msgid "Points must be numbers."
+msgstr "পয়েন্ট অবশ্যই সংখ্যা হতে হবে।"
 
 #: api.py:132
-msgid ""Points must not be greater than {}.""
-msgstr ""পয়েন্ট {}-এর বেশি হতে পারবে না।""
+msgid "Points must not be greater than {}."
+msgstr "পয়েন্ট {}-এর বেশি হতে পারবে না।"
 
 #: api.py:134
-msgid ""Points must be greater than 0""
-msgstr ""পয়েন্ট অবশ্যই ০-এর বেশি হতে হবে।""
+msgid "Points must be greater than 0"
+msgstr "পয়েন্ট অবশ্যই ০-এর বেশি হতে হবে।"
 
 #: api.py:347
-msgid ""Wrong course id {} != {}""
-msgstr ""ভুল কোর্স আইডি {} != {}""
+msgid "Wrong course id {} != {}"
+msgstr "ভুল কোর্স আইডি {} != {}"
 
 #: api.py:366 api.py:368
-msgid ""Repeated user_id: ""
-msgstr ""পুনরাবৃত্ত ব্যবহারকারী আইডি: {name}""
+msgid "Repeated user_id: "
+msgstr "পুনরাবৃত্ত ব্যবহারকারী আইডি: {name}"
 
 #: api.py:385
-msgid ""Grade must be a number""
-msgstr ""গ্রেড অবশ্যই একটি সংখ্যা হতে হবে।""
+msgid "Grade must be a number"
+msgstr "গ্রেড অবশ্যই একটি সংখ্যা হতে হবে।"
 
 #: api.py:388
-msgid ""Grade must not be negative""
-msgstr ""গ্রেড ঋণাত্মক হতে পারবে না।""
+msgid "Grade must not be negative"
+msgstr "গ্রেড ঋণাত্মক হতে পারবে না।"
 
 #: api.py:642
-msgid ""score must be positive""
-msgstr ""স্কোর অবশ্যই পজিটিভ হতে হবে।""
+msgid "score must be positive"
+msgstr "স্কোর অবশ্যই পজিটিভ হতে হবে।"
 

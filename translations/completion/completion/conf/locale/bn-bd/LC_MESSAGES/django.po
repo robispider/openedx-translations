@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-10-01 21:04+0000\n"
-"PO-Revision-Date: 2025-10-02 03:04+0000\n"
+"POT-Creation-Date: 2025-10-02 06:15+0000\n"
+"PO-Revision-Date: 2025-10-02 12:15+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: \n"
 "Language: bn_BD\n"
@@ -46,41 +46,41 @@ msgstr ""
 "X-Generator: Poedit 3.7\n"
 
 #: api/v1/views.py:84
-msgid ""BlockCompletion.objects.submit_batch_completion should not be called when the feature is disabled.""
-msgstr ""ফিচারটি বন্ধ থাকলে BlockCompletion.objects.submit_batch_completion কল করা উচিত নয়।""
+msgid "BlockCompletion.objects.submit_batch_completion should not be called when the feature is disabled."
+msgstr "ফিচারটি বন্ধ থাকলে BlockCompletion.objects.submit_batch_completion কল করা উচিত নয়।"
 
 #: api/v1/views.py:89
 #, python-brace-format
-msgid ""Key '{key}' not found.""
-msgstr "" '{key}' কীটি খুঁজে পাওয়া যায়নি।""
+msgid "Key '{key}' not found."
+msgstr " '{key}' কীটি খুঁজে পাওয়া যায়নি।"
 
 #: api/v1/views.py:97
-msgid ""User is not enrolled in course.""
-msgstr ""{name} এই কোর্সে নথিভুক্ত করা হয়নি।""
+msgid "User is not enrolled in course."
+msgstr "{name} এই কোর্সে নথিভুক্ত করা হয়নি।"
 
 #: api/v1/views.py:115
-msgid ""Invalid learning context key: {}""
-msgstr ""অবৈধ লার্নিং কন্টেক্সট কী: {name}""
+msgid "Invalid learning context key: {}"
+msgstr "অবৈধ লার্নিং কন্টেক্সট কী: {name}"
 
 #: api/v1/views.py:124
-msgid ""Invalid block key: {}""
-msgstr ""অবৈধ ব্লক কী: {name}""
+msgid "Invalid block key: {}"
+msgstr "অবৈধ ব্লক কী: {name}"
 
 #: api/v1/views.py:132
 #, python-brace-format
-msgid ""Block with key: '{key}' is not in context {context}""
-msgstr ""{key} কী-র ব্লকটি {context} কনটেক্সটে নেই।""
+msgid "Block with key: '{key}' is not in context {context}"
+msgstr "{key} কী-র ব্লকটি {context} কনটেক্সটে নেই।"
 
 #: api/v1/views.py:174
-msgid "" ""
-msgstr "" ""
+msgid " "
+msgstr " "
 
 #: api/v1/views.py:189
-msgid ""ok""
-msgstr ""ওকে""
+msgid "ok"
+msgstr "ওকে"
 
 #: models.py:33
 #, python-brace-format
-msgid ""{value} must be between 0.0 and 1.0""
-msgstr ""{value} এর মান 0.0 এবং 1.0 এর মধ্যে হতে হবে।""
+msgid "{value} must be between 0.0 and 1.0"
+msgstr "{value} এর মান 0.0 এবং 1.0 এর মধ্যে হতে হবে।"
 
